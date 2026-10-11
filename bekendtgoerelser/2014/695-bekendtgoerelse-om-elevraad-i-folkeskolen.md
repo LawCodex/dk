@@ -1,0 +1,71 @@
+---
+title: "Bekendtgørelse om elevråd i folkeskolen"
+identifier: "BEK nr 695 af 23/06/2014"
+eli: "https://www.retsinformation.dk/eli/lta/2014/695"
+accession_number: "B20140069505"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2014-06-23
+status: "in_force"
+ministry: "Børne- og Undervisningsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2014/695"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om elevråd i folkeskolen
+
+*BEK nr 695 af 23/06/2014*
+
+I medfør af § 46, stk. 1, i lov om folkeskolen, jf. lovbekendtgørelse nr. 665 af 20. juni 2014, fastsættes:
+
+## § 1.
+
+Elevrådet varetager gennem samarbejde med skolens leder, det undervisende personale og øvrige personalegrupper elevernes fælles interesser på skolen.
+
+*Stk. 2.* Skolens leder skal opfordre eleverne til at danne et elevråd, hvis eleverne ikke selv tager initiativ hertil.
+
+## § 2.
+
+Alle elever på skolen har valgret og er valgbare til elevrådet.
+
+*Stk. 2.* Valg afholdes hvert år inden udgangen af oktober måned.
+
+## § 3.
+
+Elevrådet udarbejder forslag til vedtægter, som vedtages på et møde, hvortil alle elever har adgang med stemmeret.
+
+*Stk. 2.* Vedtægterne skal som minimum indeholde bestemmelser om
+
+- 1\) elevrådets størrelse,
+- 2\) hvordan og hvornår elevrådets medlemmer og suppleanter vælges samt valgperiodens længde,
+- 3\) hvordan det sikres, at skolens forskellige klassetrin repræsenteres i elevrådet på en hensigtsmæssig måde,
+- 4\) elevrådets økonomi og regnskabsaflæggelse,
+- 5\) fremgangsmåden ved vedtægtsændringer,
+- 6\) hvorvidt elevrådet skal fastsætte en forretningsorden,
+- 7\) afholdelse af et årligt møde, hvortil alle elever har adgang med stemmeret, med faste dagsordenspunkter såsom aflæggelse af beretning, regnskabsgodkendelse, valg m.v., og
+- 8\) hvordan et eventuelt afdelingselevråd skal organiseres.
+
+## § 4.
+
+Elevrådet udpeger selv sin formand.
+
+## § 5.
+
+Skolens leder kan inden for kommunalbestyrelsens og skolebestyrelsens beslutninger anvende en del af skolens samlede bevilling som et årligt tilskud til elevrådsarbejdet. Skolens leder fastsætter efter forhandling med elevrådet de nærmere vilkår for ydelse af tilskud.
+
+## § 6.
+
+Skolens leder stiller et egnet lokale og adgang til kontorfaciliteter til rådighed for elevrådet herunder afdelingselevråd til brug ved kulturelle, oplysende og organisatoriske møder.
+
+## § 7.
+
+Bekendtgørelsen træder i kraft den 1. august 2014.
+
+*Stk. 2.* Bekendtgørelse nr. 26 af 15. januar 2001 om elevråd i folkeskolen og i ungdomsskolen ophæves.
+
+Undervisningsministeriet, den 23. juni 2014
+
+Christine Antorini
+
+/ Ole Hvilsom Larsen

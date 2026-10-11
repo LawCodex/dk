@@ -1,0 +1,170 @@
+---
+title: "Bekendtgørelse for Grønland om forældremyndighed m.v."
+identifier: "BEK nr 786 af 19/06/2016"
+eli: "https://www.retsinformation.dk/eli/lta/2016/786"
+accession_number: "B20160078605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2016-06-19
+status: "in_force"
+ministry: "Social- og Boligministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2016/786/Pdf"
+text_source: "Lovtidende PDF (text extracted automatically)"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse for Grønland om forældremyndighed m.v.
+
+*BEK nr 786 af 19/06/2016*
+
+I medfør af § 42 og § 45, stk. 3, i forældreansvarsloven, som sat i kraft for Grønland ved anordning nr. 680 af 6. juni 2016, fastsættes:
+
+## Kapitel 1 — Forældremyndighed
+
+Anmeldelse til Rigsombudsmanden af aftaler om forældremyndighed
+
+### § 1.
+
+Anmeldelse til Rigsombudsmanden af en aftale om fælles forældremyndighed, jf. anordningens § 9, ophør af fælles forældremyndighed, jf. anordningens § 10, eller overførsel af forældremyndighed fra den ene forælder til den anden, jf. anordningens § 13, stk. 1, skal ske på en blanket, der er godkendt af Ankestyrelsen, Familieretsafdelingen.
+
+*Stk. 2.* Hvis barnet er født i udlandet, skal der ved aftale om fælles forældremyndighed og ved aftale om overførsel af forældremyndigheden fra den ene forælder til den anden vedlægges dokumentation for, at aftalen angår et fælles barn.
+
+*Stk. 3.* Anmeldelse skal ske senest 2 måneder efter, at den første af forældrene har underskrevet blanketten. Når Rigsombudsmanden har modtaget blanketten med bilag, jf. stk. 2, i underskrevet og dateret stand, er anmeldelse sket. Rigsombudsmanden påtegner blanketten om modtagelsen og sender en kopi af den med påtegningen til forældrene.
+
+*Stk. 4.* Anmeldelse af aftale om ophør af fælles forældremyndighed eller overførsel af forældremyndigheden fra den ene forælder til en anden, som er indgået før barnets fødsel, eller anmeldelse af en tidsbegrænset eller i øvrigt betinget aftale om forældremyndighed kan ikke modtages. Rigsombudsmandens godkendelse af aftaler om forældremyndighed
+
+### § 2.
+
+Ved anmodning om godkendelse af en aftale om overførsel af forældremyndighed mellem andre end barnets forældre, jf. anordningens § 13, stk. 2, indkalder Rigsombudsmanden parterne til et møde og vejleder dem om aftalens retsvirkninger.
+
+*Stk. 2.* Hvis barnet er født i udlandet, skal der vedlægges dokumentation for forældreskabet til barnet. Skal forældremyndigheden tillægges et ægtepar i forening, skal der vedlægges dokumentation for ægteskabet.
+
+*Stk. 3.* Hvis der ydes vederlag ved overførsel af forældremyndigheden, skal der oplyses herom i anmodningen.
+
+*Stk. 4.* Det møde, som er nævnt i stk. 1, kan tidligst afholdes 3 måneder efter barnets fødsel.
+
+*Stk. 5.* Rigsombudsmanden kan anmode kommunen om en udtalelse om parterne og om barnet.
+
+### § 3.
+
+Hvis der ydes vederlag ved overførsel af forældremyndighed, afgør Rigsombudsmanden efter bemyndigelse fra Civilstyrelsen, om vederlaget skal indsættes i en godkendt forvaltningsafdeling som tilhørende barnet og underretter i så fald forvaltningsafdelingen herom.
+
+*Stk. 2.* Ydes der vederlag eller betaling for tabt arbejdsfortjeneste til indehaveren af forældremyndigheden, kan aftalen ikke godkendes.
+
+### § 4.
+
+Skal der før afgørelse efter anordningens § 13, stk. 2, indhentes erklæring fra den af forældrene, som ikke har del i forældremyndigheden, jf. anordningens § 36, stk. 1, skal Rigsombudsmanden vejlede den pågældende om muligheden for at få overført forældremyndigheden efter anordningens § 14.
+
+*Stk. 2.* Er betingelserne for at godkende en aftale om overførsel af forældremyndighed efter anordningens § 13, stk. 2, opfyldt trods en indsigelse fra den af forældrene, der ikke har del i forældremyndigheden, meddeler Rigsombudsmanden forældrene, at Rigsombudsmanden vil godkende aftalen efter udløbet af en frist, som Rigsombudsmanden har fastsat. Indbringes sagen for Ankestyrelsen, Familieretsafdelingen, inden udløbet af denne frist, må aftalen ikke godkendes, før denne sag er afgjort.
+
+### § 5.
+
+Parterne indkaldes til at møde samtidigt til det møde, der er nævnt i § 2, stk. 1. Rigsombudsmanden kan dog indkalde parterne til at møde hver for sig, hvis Rigsombudsmanden vurderer, at dette er mere hensigtsmæssigt, navnlig på grund af geografiske forhold. Mødet kan efter omstændighederne gennemføres telefonisk.
+
+*Stk. 2.* Har en af parterne eller begge parter bopæl eller ophold i Danmark, på Færøerne eller i udlandet, kan Rigsombudsmanden anmode statsforvaltningen, Rigsombudsmanden på Færøerne eller en dansk repræsentation om at afholde mødet.
+
+### § 6.
+
+Udebliver parterne fra det møde, der er nævnt i § 2, stk. 1, anses anmodningen som bortfaldet. Udebliver en af Lovtidende A 2016 Udgivet den 25. juni 2016 Social- og Indenrigsmin., j.nr. 2015-6196 parterne, indkaldes parterne til et nyt møde, medmindre det konstateres, at anmodningen er bortfaldet. Udebliver parterne eller en af dem fra det andet møde, anses anmodningen som bortfaldet. Anmeldelse til retten af aftaler om forældremyndighed
+
+### § 7.
+
+Sker anmeldelse til retten af en aftale om fælles forældremyndighed, jf. anordningens § 9, ophør af fælles forældremyndighed, jf. anordningens § 10, eller overførsel af forældremyndighed fra den ene forælder til den anden, jf. anordningens § 13, stk. 1, tilføres dette retsbogen, og udskrift af retsbogen udleveres til forældrene. § 1, stk. 4, finder tilsvarende anvendelse.
+
+## Kapitel 2 — Børnesagkyndig rådgivning og konfliktmægling
+
+### § 8.
+
+Hvis Rigsombudsmanden tilbyder børnesagkyndig rådgivning eller konfliktmægling, kan Rigsombudsmanden fastsætte en frist for accept af tilbuddet.
+
+### § 9.
+
+Forældrene og barnet skal samtidig med fremsættelse af tilbud om børnesagkyndig rådgivning orienteres om indholdet af § 11, stk. 1-4.
+
+*Stk. 2.* Rådgivning er ikke betinget af, at begge forældre deltager. Indkaldelse til rådgivning kan ske, blot en af forældrene eller barnet vil deltage. Rigsombudsmanden kan afslå rådgivning med den, der udebliver fra et møde om rådgivning. Må rådgivningen anses som formålsløs, hvis ikke begge forældre deltager, kan Rigsombudsmanden endvidere afslå rådgivning.
+
+*Stk. 3.* Rigsombudsmanden tilrettelægger rådgivningen og bestemmer dens omfang.
+
+*Stk. 4.* Rigsombudsmandens behandling af en sag sættes i bero, indtil rådgivningen er afsluttet.
+
+### § 10.
+
+Forældrene skal samtidig med fremsættelse af tilbud om konfliktmægling orienteres om indholdet af § 11, stk. 1, 2 og 6.
+
+*Stk. 2.* Konfliktmæglingen er betinget af, at begge forældre deltager.
+
+*Stk. 3.* Rigsombudsmanden tilrettelægger konfliktmæglingen og bestemmer dens omfang.
+
+*Stk. 4.* Rigsombudsmandens behandling af en sag sættes i bero, indtil konfliktmæglingen er afsluttet.
+
+### § 11.
+
+Der må ikke til brug for Rigsombudsmandens afgørelse af en sag indhentes oplysninger, som forældrene eller barnet har givet under rådgivning eller konfliktmægling. Sådanne oplysninger må heller ikke af den børnesagkyndige eller mægleren videregives til brug for afgørelsen, jf. dog stk. 2. Internt arbejdsmateriale vedrørende sådanne oplysninger må heller ikke udleveres til forældrene eller barnet, medmindre dette følger af anden lovgivning.
+
+*Stk. 2.* Når konfliktmægling eller rådgivning er afsluttet, skal mægleren eller den børnesagkyndige orientere sagsbehandleren hos Rigsombudsmanden om, hvorvidt der er opnået enighed, eller om Rigsombudsmanden skal fortsætte sagsbehandlingen.
+
+*Stk. 3.* Hvis forældrene eller barnet giver samtykke til, at oplysninger om den pågældende indhentes eller videregives fra rådgivningen, gælder stk. 1 ikke.
+
+*Stk. 4.* Forældrene kan anmode sagsbehandleren hos Rigsombudsmanden om at deltage i rådgivningen. Hvis sagsbehandleren deltager, gælder stk. 1 ikke.
+
+*Stk. 5.* Rigsombudsmanden kan vejlede forældrene om muligheden for at aftale, at der på baggrund af rådgivningen udarbejdes en sagkyndig udtalelse til brug for sagens videre behandling.
+
+*Stk. 6.* Er forældrene enige herom, kan de anmode om, at en skriftlig aftale indgået under konfliktmæglingen videregives til sagsbehandleren hos Rigsombudsmanden.
+
+## Kapitel 3 — Inddragelse af barnet ved en samtale
+
+### § 12.
+
+Hvis Rigsombudsmanden beslutter, at barnet skal inddrages i en sag, skal denne samtale så vidt muligt afholdes af en børnesagkyndig.
+
+*Stk. 2.* Barnet kan tilbydes rådgivning i forbindelse med samtalen.
+
+*Stk. 3.* Forældrene skal forud for afholdelsen af samtalen orienteres om samtalens karakter og betydning, medmindre det vurderes at være unødvendigt.
+
+## Kapitel 4 — Varslingspligt ved flytning
+
+### § 13.
+
+Varsling ved flytning efter anordningens § 18 sker mellem forældrene uden inddragelse af Rigsombudsmanden eller retten.
+
+## Kapitel 5 — Sager efter Haagerbørnebeskyttelseskonventionen
+
+Overførsel af kompetence
+
+### § 14.
+
+En anmodning fra en udenlandsk myndighed om overførsel af kompetence efter artikel 8 eller 9 i Haagerbørnebeskyttelseskonventionen i en sag, som Rigsombudsmanden efter anordningen kan behandle, indgives til Rigsombudsmanden. Attest om forældremyndighed
+
+### § 15.
+
+Efter anmodning fra en forældremyndighedsindehaver kan Rigsombudsmanden udstede en attest om forældremyndigheden over et barn, der har bopæl i Grønland, når forældremyndigheden følger af dansk ret.
+
+*Stk. 2.* Attesten udstedes på en blanket, der er godkendt af Ankestyrelsen, Familieretsafdelingen.
+
+### § 16.
+
+Rigsombudsmanden kan tilbagekalde en attest udstedt efter § 1, hvis forholdene har ændret sig, eller hvis indholdet af attesten ikke er korrekt.
+
+## Kapitel 6 — Klage m.v.
+
+### § 17.
+
+Ankestyrelsen, Familieretsafdelingen, behandler klager over Rigsombudsmandens afgørelser, der er omfattet af anordningens § 41, stk. 1, artikel 8 og 9 i Haagerbørnebeskyttelseskonventionen og § 15, stk. 1, og § 16 i denne bekendtgørelse. Klage indgives til Rigsombudsmanden, der videresender klagen og sagens akter til Ankestyrelsen, Familieretsafdelingen.
+
+### § 18.
+
+Rigsombudsmanden kan genoptage behandlingen af en påklaget afgørelse, hvis:
+
+- 1\) klagen indeholder en ansøgning, som Rigsombudsmanden ikke har taget stilling til,
+- 2\) klagen indeholder væsentlige nye oplysninger,
+- 3\) der foreligger væsentlige oplysninger, som Rigsombudsmanden ikke har taget stilling til, eller
+- 4\) der er begået sagsbehandlingsfejl, der kan have betydning for afgørelsen.
+
+*Stk. 2.* Klageren kan til Ankestyrelsen, Familieretsafdelingen, påklage Rigsombudsmandens beslutning om at genoptage sagen.
+
+## Kapitel 7 — Ikrafttrædelse
+
+### § 19.
+
+Bekendtgørelsen træder i kraft den 1. juli 2016. Social- og Indenrigsministeriet, den 19. juni 2016 KAREN ELLEMANN / Malene Vestergaard

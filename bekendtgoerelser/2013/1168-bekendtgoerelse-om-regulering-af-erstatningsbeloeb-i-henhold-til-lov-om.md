@@ -1,0 +1,42 @@
+---
+title: "Bekendtgørelse om regulering af erstatningsbeløb i henhold til lov om erstatning fra staten til ofre for forbrydelser"
+identifier: "BEK nr 1168 af 03/10/2013"
+eli: "https://www.retsinformation.dk/eli/lta/2013/1168"
+accession_number: "B20130116805"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2013-10-03
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2013/1168"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om regulering af erstatningsbeløb i henhold til lov om erstatning fra staten til ofre for forbrydelser
+
+*BEK nr 1168 af 03/10/2013*
+
+I medfør af § 9 a i lov om erstatning fra staten til ofre for forbrydelser, jf. lovbekendtgørelse nr. 688 af 28. juni 2004, jf. § 15 i lov om erstatningsansvar, jf. lovbekendtgørelse nr. 885 af 20. september 2005, fastsættes:
+
+## § 1.
+
+Efter § 9 a i lov om erstatning fra staten til ofre for forbrydelser reguleres erstatningsbeløb for tingsskade, jf. lovens §§ 3-4, efter reglerne i § 15 i lov om erstatningsansvar.
+
+*Stk. 2.* Efter § 15, stk. 1, i lov om erstatningsansvar reguleres nogle i loven nærmere angivne beløb med 2,0 pct. tillagt tilpasningsprocenten for det pågældende finansår, jf. lov om en satsreguleringsprocent. De herefter fremkomne beløb afrundes til nærmeste med 500 delelige kronebeløb.
+
+*Stk. 3.* Tilpasningsprocenten for finansåret 2014 udgør -0,2, jf. § 2 i bekendtgørelse nr. 1046 af 21. august 2013 om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2014.
+
+## § 2.
+
+Med virkning for tingsskade, som forvoldes i perioden 1. januar 2014 – 31. december 2014, udgør det i lovens § 9 a nævnte beløb 122.500 kr.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. januar 2014.
+
+Justitsministeriet, den 3. oktober 2013
+
+Morten Bødskov
+
+/ Rikke-Louise Ørum Petersen

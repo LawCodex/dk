@@ -1,0 +1,82 @@
+---
+title: "Bekendtgørelse om anmeldelse af fødsler"
+identifier: "BEK nr 1144 af 30/09/2010"
+eli: "https://www.retsinformation.dk/eli/lta/2010/1144"
+accession_number: "B20100114405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2010-09-30
+status: "in_force"
+ministry: "By-, Land- og Kirkeministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2010/1144"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om anmeldelse af fødsler
+
+*BEK nr 1144 af 30/09/2010*
+
+Kapitel 1 Anmeldelse af levendefødte
+
+Kapitel 2 Anmeldelse af dødfødte
+
+Kapitel 3 Øvrige bestemmelser
+
+I medfør af § 4 i lov nr. 225 af 31. maj 1968 om anmeldelse af fødsler og dødsfald, fastsættes:
+
+## Kapitel 1 — Anmeldelse af levendefødte
+
+### Anmeldelsespligten
+
+#### § 1.
+
+Fødsler, som finder sted her i landet eller om bord i skib eller luftfartøj, hvis første ankomststed efter fødslen er en dansk havn eller lufthavn, skal senest 14 dage efter fødslen eller efter skibets eller luftfartøjets ankomst til dansk område anmeldes til personregisterføreren i det sogn, hvor moren har bopæl, jf. dog stk. 2 og 3.
+
+*Stk. 2.* Har moderen bopæl i de sønderjyske landsdele, skal fødslen dog anmeldes til personregisterføreren i den kommune, hvor hun bor.
+
+*Stk. 3.* Har moderen bopæl på Færøerne, i Grønland eller i udlandet, skal fødslen anmeldes til personregisterføreren for det sogn, hvor fødslen har fundet sted. Finder fødslen sted under transport med skib, luftfartøj eller på vej til et sygehus, skal anmeldelsen dog ske til personregisterføreren for det sogn, hvor ankomststedet er beliggende.
+
+### Jordemoderens anmeldelse
+
+#### § 2.
+
+Jordemoderens anmeldelse kan afgives elektronisk via sundhedsvæsenets it-system ved anvendelse af den af Kirkeministeriet etablerede snitflade til CPR-systemet *eller* ved indsendelse af en blanket, der er godkendt af Kirkeministeriet.
+
+*Stk. 2.* For de børn, hvor jordemoderen ikke kan eller må tildele et personnummer, afgives anmeldelsen på en blanket, der er godkendt af Kirkeministeriet.
+
+### Andre personers anmeldelse
+
+#### § 3.
+
+Hvis anmeldelsen af fødslen skal foretages af den eller dem, der har forældremyndigheden, eller en person, der er anmeldelsespligtig efter § 2 stk. 2 eller 3 i lov om anmeldelse af fødsler og dødsfald, afgives anmeldelsen på blanketten ”Fødselsanmeldelse” *eller* eventuelt direkte til personregisterføreren ved brev eller ved personligt fremmøde. Blanketten findes på www.borger.dk.
+
+## Kapitel 2 — Anmeldelse af dødfødte
+
+#### § 4.
+
+Jordemoderens anmeldelse af dødfødt barn indsendes på en blanket, der er godkendt af Kirkeministeriet.
+
+*Stk. 2.* Dersom andre personer end den jordemoder, der har medvirket ved dødfødslen, skal foretage anmeldelsen, anvendes blanketten ”Anmeldelse af dødfødt barn”. Anmeldelsen skal ledsages af en skriftlig bekræftelse på dødfødslen af den dødsattestudstedende læge.
+
+## Kapitel 3 — Øvrige bestemmelser
+
+#### § 5.
+
+Personregisterføreren kan pålægge den anmeldelsespligtige og forældrene inden en fastsat frist at dokumentere de ved anmeldelsen afgivne oplysninger.
+
+#### § 6.
+
+Oplyses det på fødselsanmeldelsen eller af forældrene, at barnet skal tilhøre en valgmenighed, Skt. Petri tyske menighed i København eller en menighed i et anerkendt trossamfund, sendes fødselsoplysninger til præsten for den menighed, som barnet skal tilhøre.
+
+#### § 7.
+
+Bekendtgørelsen træder i kraft den 6. oktober 2010 og har virkning for anmeldelse af fødsler, der finder sted fra dette tidspunkt.
+
+*Stk. 2.* Samtidig ophæves bekendtgørelse nr. 392 af 26. april 2007 om anmeldelse af fødsler og dødsfald.
+
+Kirkeministeriet, den 30. september 2010
+
+Birthe Rønn Hornbech
+
+/ Torben Stærgaard

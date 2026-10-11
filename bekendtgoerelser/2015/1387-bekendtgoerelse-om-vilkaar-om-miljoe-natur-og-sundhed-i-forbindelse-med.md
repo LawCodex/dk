@@ -1,0 +1,51 @@
+---
+title: "Bekendtgørelse om vilkår om miljø, natur og sundhed i forbindelse med godkendelse m.v. efter lov om miljø og genteknologi"
+identifier: "BEK nr 1387 af 25/11/2015"
+eli: "https://www.retsinformation.dk/eli/lta/2015/1387"
+accession_number: "B20150138705"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2015-11-25
+status: "in_force"
+ministry: "Miljø- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2015/1387"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om vilkår om miljø, natur og sundhed i forbindelse med godkendelse m.v. efter lov om miljø og genteknologi
+
+*BEK nr 1387 af 25/11/2015*
+
+I medfør af § 7, stk. 3, § 13, stk. 1, § 20, stk. 2, og § 27, stk. 1-3 i lov om miljø og genteknologi, jf. lovbekendtgørelse nr. 840 af 3. juli 2015, fastsættes efter bemyndigelse:
+
+## § 1.
+
+Bekendtgørelsen finder anvendelse ved fastsættelse af vilkår til beskyttelse af miljø, natur og sundhed i Arbejdstilsynets afgørelser om klassifikation i forbindelse med fremstilling og anvendelse af genetisk modificerede organismer i laboratorier, laboratorieområder og anlæg til storskalaforsøg efter Beskæftigelsesministeriets bekendtgørelse om genteknologi og arbejdsmiljø.
+
+## § 2.
+
+Miljøstyrelsen kan, jf. § 1, fastsætte vilkår om
+
+- 1\) udledning eller overførsel af genetisk modificerede organismer fra laboratorier, laboratorieområder og anlæg til storskalaforsøg, herunder om forbud mod udledning og overførsel af genetisk modificerede organismer til omgivelserne, og
+- 2\) foranstaltninger, der skal træffes for at forebygge, at udledninger og overførsler finder sted.
+
+*Stk. 2.* Miljøstyrelsens vilkår efter stk. 1 kan indgå i Arbejdstilsynets afgørelser om klassifikation efter Beskæftigelsesministeriets bekendtgørelse om genteknologi og arbejdsmiljø.
+
+## § 3.
+
+Miljøstyrelsen fører tilsyn med, at vilkår fastsat efter denne bekendtgørelse overholdes, og at påbud og forbud udstedt i medfør af loven efterkommes.
+
+*Stk. 2.* For tilsyn og håndhævelse gælder i øvrigt reglerne i lovens kapitel 3 og 4 samt reglerne herom i lov om arbejdsmiljø.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 31. december 2015.
+
+*Stk. 2.* Bekendtgørelse nr. 91 af 21. januar 2007 om vilkår om miljø, natur og sundhed i forbindelse med godkendelse m.v. efter lov om miljø og genteknologi ophæves.
+
+Miljø- og Fødevareministeriet, den 25. november 2015
+
+Michel Schilling
+
+/ Peter Østergård Have

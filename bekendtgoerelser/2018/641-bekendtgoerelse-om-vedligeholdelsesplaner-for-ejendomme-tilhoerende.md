@@ -1,0 +1,89 @@
+---
+title: "Bekendtgørelse om vedligeholdelsesplaner for ejendomme tilhørende andelsboligforeninger"
+identifier: "BEK nr 641 af 30/05/2018"
+eli: "https://www.retsinformation.dk/eli/lta/2018/641"
+accession_number: "B20180064105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2018-05-30
+status: "in_force"
+ministry: "Social- og Boligministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2018/641"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om vedligeholdelsesplaner for ejendomme tilhørende andelsboligforeninger
+
+*BEK nr 641 af 30/05/2018*
+
+I medfør af § 3 b, stk. 2, i lov om andelsboligforeninger og andre boligfællesskaber, jf. lovbekendtgørelse nr. 447 af 21. marts 2015, som ændret ved lov nr. 555 af 29. maj 2018, fastsættes efter bemyndigelse:
+
+## Kapitel 1 — Anvendelsesområde
+
+#### § 1.
+
+Bekendtgørelsen gælder for andelsboligforeninger stiftet den 1. juli 2018 eller senere.
+
+### Procedure
+
+#### § 2.
+
+Senest ved stiftelsen af en andelsboligforening skal der foreligge en vedligeholdelsesplan for planlagt periodisk vedligehold af ejendommen. Planen, der skal dække en periode på mindst 15 år, skal omfatte større vedligeholdelsesarbejder på ejendommen, jf. § 5.
+
+*Stk. 2.* Bestyrelsen i en andelsboligforening skal revidere og opdatere vedligeholdelsesplanen mindst hvert femte år, dels i forhold til de arbejder, der indgår i den gældende plan, og dels i forhold til yderligere arbejder, som forfalder inden for en periode på 15 år.
+
+*Stk. 3.* Bestyrelsen skal efter anmodning herom give andelshaverne adgang til at gøre sig bekendt med vedligeholdelsesplanen.
+
+*Stk. 4.* Lejere i andelsboligforeningens ejendom har samme adgang til at gøre sig bekendt med vedligeholdelsesplanen som andelshaverne.
+
+## Kapitel 2 — Vedligeholdelsesplanen
+
+#### § 3.
+
+Vedligeholdelsesplanen har til formål at sikre, at bygningen og dennes tekniske installationer til stadighed er i forsvarlig stand.
+
+#### § 4.
+
+Vedligeholdelsesplanen skal omfatte planlagt, periodisk vedligeholdelse herunder fornyelser, det vil sige forebyggende vedligeholdelsesarbejder, som udføres efter en forudgående økonomisk og teknisk planlægning.
+
+*Stk. 2.* Vedligeholdelsesplanen omfatter ikke afhjælpende vedligeholdelsesarbejder, som udføres akut eller løbende, når der konstateres svigt eller skader på dele af bygningen og dens installationer.
+
+#### § 5.
+
+I vedligeholdelsesplanen angives:
+
+- 1\) Større vedligeholdelsesarbejder, der er nødvendige for, at ejendommen er i forsvarlig stand.
+- 2\) Tidspunkter for vedligeholdelsesarbejdernes udførelse.
+- 3\) Et overslag over de udgifter, der er nødvendige for at efterleve planen.
+
+*Stk. 2.* Vedligeholdelsesplanen omfatter som minimum vurdering af følgende bygningsdele:
+
+- 1\) Tagværk.
+- 2\) Kælder/fundamenter.
+- 3\) Facader/sokkel.
+- 4\) Vinduer.
+- 5\) Udvendige døre.
+- 6\) Trapper.
+- 7\) Porte/gennemgange.
+- 8\) Etageadskillelser.
+- 9\) Varmeinstallation.
+- 10\) Afløbsinstallation.
+- 11\) Kloakinstallation.
+- 12\) Vandinstallation.
+- 13\) Gasinstallation.
+- 14\) Ventilation.
+- 15\) Elinstallation.
+- 16\) Udearealer.
+
+## Kapitel 3 — Ikrafttræden
+
+#### § 6.
+
+Bekendtgørelsen træder i kraft den 1. juli 2018.
+
+Erhvervsstyrelsen, den 30. maj 2018
+
+Henning Steensig
+
+/ Claus Ulrich Schousboe

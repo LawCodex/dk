@@ -1,0 +1,45 @@
+---
+title: "Bekendtgørelse om institutioner for forberedende grunduddannelses benyttelse af Statens IT's levering af basale it-driftsløsninger"
+identifier: "BEK nr 191 af 27/02/2019"
+eli: "https://www.retsinformation.dk/eli/lta/2019/191"
+accession_number: "B20190019105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2019-02-27
+status: "in_force"
+ministry: "Børne- og Undervisningsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2019/191"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om institutioner for forberedende grunduddannelses benyttelse af Statens IT's levering af basale it-driftsløsninger
+
+*BEK nr 191 af 27/02/2019*
+
+I medfør af § 53 i lov nr. 698 af 8. juni 2018 om institutioner for forberedende grunduddannelse fastsættes efter bemyndigelse:
+
+## § 1.
+
+Alle institutioner for forberedende grunduddannelse skal som fælles offentlig løsning benytte Statens IT’s basale it-driftsløsninger i overensstemmelse med de vilkår herfor, som Statens IT fastsætter.
+
+## § 2.
+
+Styrelsen for Undervisning og Kvalitet kan efter ansøgning og efter høring af Moderniseringsstyrelsen fravige § 1 for en institution, hvis helt særlige forhold taler for det. Det kan for eksempel være i følgende situationer:
+
+- 1\) Der foreligger helt særlige og omfattende pædagogiske eller opgavemæssige behov, som ikke kan tilgodeses inden for rammerne af Statens IT.
+- 2\) Institutionen har foretaget ekstraordinært store og meget omkostningstunge investeringer i særligt IT-udstyr, som Statens IT ikke kan overtage.
+- 3\) Statens IT har væsentligt misligholdt sine forpligtelser over for institutionen.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 5. marts 2019.
+
+*Stk. 2.* Hvis institutionen vil ansøge om fravigelse af § 1, jf. § 2, med virkning fra og med 2019, giver den meddelelse herom til Styrelsen for Undervisning og Kvalitet senest den 8. marts 2019 og ansøgningen skal være styrelsen i hænde senest den 15. marts 2019.
+
+Styrelsen for Undervisning og Kvalitet, den 27. februar 2019
+
+Martin Larsen\
+Vicedirektør
+
+/ Thomas Bugge

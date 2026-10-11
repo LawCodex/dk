@@ -1,0 +1,38 @@
+---
+title: "Bekendtgørelse om betaling for meddelelse af aktindsigt efter kapitel 8 i sundhedsloven"
+identifier: "BEK nr 526 af 23/05/2018"
+eli: "https://www.retsinformation.dk/eli/lta/2018/526"
+accession_number: "B20180052605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2018-05-23
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2018/526"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om betaling for meddelelse af aktindsigt efter kapitel 8 i sundhedsloven
+
+*BEK nr 526 af 23/05/2018*
+
+I medfør af § 39 i sundhedsloven, jf. lovbekendtgørelse nr. 191 af 28. februar 2018, fastsættes:
+
+## § 1.
+
+Der kan ikke opkræves betaling første gang, der meddeles aktindsigt i patientjournaler efter sundhedslovens kapitel 8 om aktindsigt.
+
+*Stk. 2.* Hvis der efter udtrykkelig anmodning udleveres yderligere kopier eller afskrifter, kan vedkommende myndighed, institution eller autoriserede sundhedsperson opkræve et rimeligt gebyr baseret på de administrative omkostninger.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 25. maj 2018.
+
+*Stk. 2.* Bekendtgørelse nr. 664 af 14. september 1998 om betaling for afskrifter, edb-udskrifter og fotokopier, der udleveres efter kapitel 4 om aktindsigt i lov om patienters retsstilling, ophæves.
+
+Sundheds- og Ældreministeriet, den 23. maj 2018
+
+Ellen Trane Nørby
+
+/ Annette Baun Knudsen

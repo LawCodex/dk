@@ -1,0 +1,58 @@
+---
+title: "Bekendtgørelse om Arbejdstilsynets videregivelse af oplysninger om virksomheder, som er pålagt anmeldelse i Registret for Udenlandske Tjenesteydere (RUT)"
+identifier: "BEK nr 986 af 29/06/2018"
+eli: "https://www.retsinformation.dk/eli/lta/2018/986"
+accession_number: "B20180098605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2018-06-29
+status: "in_force"
+ministry: "Beskæftigelses- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2018/986"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om Arbejdstilsynets videregivelse af oplysninger om virksomheder, som er pålagt anmeldelse i Registret for Udenlandske Tjenesteydere (RUT)
+
+*BEK nr 986 af 29/06/2018*
+
+I medfør af § 7 f, stk. 5, i lov om udstationering af lønmodtagere m.v., jf. lovbekendtgørelse nr. 366 af 12. april 2017, som ændret ved lov nr. 702 af 8. juni 2018, fastsættes:
+
+## § 1.
+
+Denne bekendtgørelse fastsætter de nærmere regler om Arbejdstilsynets videregivelse af oplysninger i medfør af § 7 f, stk. 3, i lov om udstationering af lønmodtagere m.v.
+
+## § 2.
+
+Efter § 7 f, stk. 3, i lov om udstationering af lønmodtagere m.v. kan Arbejdstilsynet videregive oplysninger om virksomheder, der er givet et påbud efter lovens § 7 f, stk. 1, eller er pålagt daglige bøder efter lovens § 7 f, stk. 2, til andre offentlige myndigheder og til faglige organisationer og arbejdsgiverorganisationer.
+
+*Stk. 2.* Videregivelse efter bestemmelserne i bekendtgørelsen sker i overensstemmelse med reglerne i databeskyttelsesforordningen og databeskyttelsesloven.
+
+## § 3.
+
+Arbejdstilsynet videregiver til Skatteforvaltningen og politiet oplysninger om Arbejdstilsynets besøg og om virksomhedens:
+
+- 1\) navn, forretningsadresse og kontaktoplysninger,
+- 2\) arbejdssted,
+- 3\) ansatte,
+- 4\) udførte arbejde og
+- 5\) hvervgiver.
+
+*Stk. 2.* Videregivelsen omfatter kun de oplysninger, som er nødvendige for Skatteforvaltningen eller politiet til at håndhæve de regler, der gælder ved levering af en tjenesteydelse i Danmark.
+
+## § 4.
+
+Faglige organisationer og arbejdsgiverforeninger kan efter ansøgning herom få adgang til information om det tidspunkt og den adresse, hvor Arbejdstilsynet har truffet virksomheden. Denne adgang omfatter alene virksomheder med ansatte og er begrænset til en periode på 6 måneder fra den dato, hvor Arbejdstilsynet har registreret oplysningerne i RUT.
+
+*Stk. 2.* Ansøgning om adgang efter stk. 1 skal sendes til Arbejdstilsynet.
+
+## § 5.
+
+Bekendtgørelsen træder i kraft den 1. juli 2018.
+
+Beskæftigelsesministeriet, den 29. juni 2018
+
+Troels Lund Poulsen
+
+/ Eva Jensen

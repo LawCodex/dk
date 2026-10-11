@@ -1,0 +1,58 @@
+---
+title: "Bekendtgørelse om offentliggørelse af påbud givet som led i Styrelsen for Patientsikkerheds tilsyn med sygehuse, klinikker og andre behandlingssteder"
+identifier: "BEK nr 604 af 02/06/2016"
+eli: "https://www.retsinformation.dk/eli/lta/2016/604"
+accession_number: "B20160060405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2016-06-02
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2016/604"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om offentliggørelse af påbud givet som led i Styrelsen for Patientsikkerheds tilsyn med sygehuse, klinikker og andre behandlingssteder
+
+*BEK nr 604 af 02/06/2016*
+
+I medfør af § 215 b, stk. 3, og § 272, stk. 2, 2. pkt., i sundhedsloven, jf. lovbekendtgørelse nr. 1202 af 14. november 2014, som ændret ved lov nr. 129 af 16. februar 2016, fastsættes:
+
+## Offentliggørelse
+
+### § 1.
+
+Styrelsen for Patientsikkerhed offentliggør i henhold til § 215 b, stk. 2, 2. pkt., på Styrelsen for Patientsikkerheds hjemmeside og på sundhed.dk påbud, som styrelsen giver til et behandlingssted, hvor de sundhedsmæssige forhold er anset for at kunne bringe patientsikkerheden i fare, jf. sundhedsloven § 215b, stk. 1.
+
+*Stk. 2.* Et påbud offentliggjort, jf. stk. 1, fjernes fra Styrelsen for Patientsikkerheds hjemmeside og sundhed.dk, når det ophæves.
+
+*Stk. 3.* Ved Styrelsen for Patientsikkerheds offentliggørelse af påbud fremgår hvilket behandlingssted, der er meddelt påbud til, baggrunden for påbuddet og de forpligtelser, der følger af påbuddet.
+
+### § 2.
+
+Det enkelte behandlingssted skal offentliggøre Styrelsen for Patientsikkerheds påbud, jf. § 1, stk. 1. Påbuddet skal være let tilgængeligt på behandlingsstedets hjemmeside i samme periode, som påbuddet er offentliggjort af Styrelsen for Patientsikkerhed, jf. § 1, stk. 2, hvis behandlingsstedet har en hjemmeside. Behandlingsstedet skal desuden offentliggøre påbuddet ved at gøre det umiddelbart tilgængeligt på selve behandlingsstedet i samme periode.
+
+*Stk. 2.* Behandlingsstedet skal offentliggøre påbuddet i den form, som det er offentliggjort af Styrelsen for Patientsikkerhed, jf. § 1, stk. 3.
+
+## Straffebestemmelser
+
+### § 3.
+
+Den, der undlader at efterkomme en forpligtelse efter § 2 straffes med bøde, medmindre højere straf er fastsat i lovgivningen.
+
+*Stk. 2.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens kapitel 5.
+
+## Ikrafttræden
+
+### § 4.
+
+Bekendtgørelsen træder i kraft den 1. juli 2016.
+
+*Stk. 2.* Det enkelte behandlingssted skal også offentliggøre påbud, der er truffet afgørelse om før 1. juli 2016, og som behandlingsstedet fortsat er forpligtet til at påse overholdt.
+
+Styrelsen for Patientsikkerhed, den 2. juni 2016
+
+Anne-Marie Vangsted
+
+/ Anette Lykke Petri

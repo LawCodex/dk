@@ -1,0 +1,51 @@
+---
+title: "Bekendtgørelse om underretning af kommunen om afhøringer af sigtede under 18 år"
+identifier: "BEK nr 803 af 28/06/2010"
+eli: "https://www.retsinformation.dk/eli/lta/2010/803"
+accession_number: "B20100080305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2010-06-28
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2010/803"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om underretning af kommunen om afhøringer af sigtede under 18 år
+
+*BEK nr 803 af 28/06/2010*
+
+I henhold til § 752, stk. 2, i lov om rettens pleje, jf. lovbekendtgørelse nr. 1053 af 29. oktober 2009, og efter bemyndigelse fra justitsministeren fastsættes:
+
+## § 1.
+
+Politiet underretter kommunen om sagen, når en sigtet under 18 år skal afhøres, og sigtelsen angår
+
+- 1\) overtrædelse af borgerlig straffelov, eller
+- 2\) forhold, der efter loven kan medføre frihedsstraf.
+
+*Stk. 2.* Underretning kan dog undlades om afhøringer, der foretages i direkte forbindelse med, at sigtede af politiet træffes under eller i umiddelbar tilknytning til udøvelsen af et strafbart forhold, for hvilket der ikke bliver spørgsmål om højere straf end bøde.
+
+## § 2.
+
+Underretningen sker til den kommune, hvor sigtede bor. Er bopælskommunen ikke oplyst, eller kan der på grund af afstanden ikke gives møde herfra, underrettes den stedlige kommune.
+
+*Stk. 2.* Hvis den i § 1 nævnte underretning ikke er sket skriftligt, skal der efterfølgende tillige ske skriftlig underretning af kommunen.
+
+## § 3.
+
+En repræsentant fra kommunen skal så vidt muligt have adgang til at overvære afhøringer som nævnt i § 1, der foretages af politiet eller i retten.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. juli 2010.
+
+*Stk. 2.* Bekendtgørelse nr. 786 af 21. september 1992 om underretning af kommunalbestyrelsen om afhøringer af sigtede under 18 år ophæves.
+
+Rigsadvokaturen, den 28. juni 2010
+
+Jørgen Steen Sørensen
+
+/

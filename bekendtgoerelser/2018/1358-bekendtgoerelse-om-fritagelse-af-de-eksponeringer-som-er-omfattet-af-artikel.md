@@ -1,0 +1,47 @@
+---
+title: "Bekendtgørelse om fritagelse af de eksponeringer, som er omfattet af artikel 400, stk. 2, i Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 af 26. juni 2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber, fra forordningens regler om begrænsninger for store eksponeringer"
+identifier: "BEK nr 1358 af 28/11/2018"
+eli: "https://www.retsinformation.dk/eli/lta/2018/1358"
+accession_number: "B20180135805"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2018-11-28
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2018/1358"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om fritagelse af de eksponeringer, som er omfattet af artikel 400, stk. 2, i Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 af 26. juni 2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber, fra forordningens regler om begrænsninger for store eksponeringer
+
+*BEK nr 1358 af 28/11/2018*
+
+I medfør af § 372 b i lov om finansiel virksomhed, jf. lovbekendtgørelse nr. 1140 af 26. september 2017, som ændret ved lov nr. 706 af 8. juni 2018, fastsættes:
+
+## § 1.
+
+Denne bekendtgørelse finder anvendelse på:
+
+- 1\) Pengeinstitutter.
+- 2\) Realkreditinstitutter.
+- 3\) Fondsmæglerselskaber I.
+
+## § 2.
+
+I medfør af artikel 400, stk. 2, i Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 af 26. juni 2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber fritages følgende eksponeringer fra forordningens regler om begrænsninger for store eksponeringer, jf. artikel 395, stk. 1, og artikel 493, stk. 3:
+
+- 1\) Særligt dækkede obligationer og særligt dækkede realkreditobligationer som defineret i artikel 129, stk. 1, 3 og 6, i Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 af 26. juni 2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber.
+- 2\) Eksponeringer, herunder kapitalinteresser eller andre interesser, som et institut har mod sit moderselskab, med moderselskabets øvrige datterselskaber eller med sine egne datterselskaber, for så vidt disse selskaber falder ind under det tilsyn på konsolideret niveau, som instituttet selv er underlagt i overensstemmelse med Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 af 26. juni 2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber, Europa-Parlamentets og Rådets direktiv 2002/87/EF af 16. december 2002 om supplerende tilsyn med kreditinstitutter, forsikringsselskaber og investeringsselskaber i et finansielt konglomerat eller tilsvarende regler i et land uden for Den Europæiske Union, som Unionen ikke har indgået aftale med på det finansielle område. Eksponeringer, der ikke opfylder disse kriterier, behandles, uanset om de er undtaget fra artikel 395, stk. 1, i Europa-Parlamentets og Rådets forordning (EU) nr. 575/2013 af 26. juni 2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber, eller ej, som eksponeringer mod en tredjepart.
+- 3\) Aktivposter, der består i fordringer på og andre eksponeringer mod institutter, forudsat at disse eksponeringer ikke udgør sådanne institutters egenkapital, ikke har længere varighed end til den følgende handelsdag og ikke er denomineret i en større handelsvaluta.
+- 4\) Garantier, som der foreligger et lovbestemt krav om, og som anvendes, når realkreditlån, der er finansieret ved at udstede realkreditobligationer, udbetales til låntageren inden den endelige registrering af lånet i tingbogen, hvis garantien ikke anvendes til at begrænse risikoen i forbindelse med beregningen af de risikovægtede eksponeringsværdier.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. januar 2019.
+
+Finanstilsynet, den 28. november 2018
+
+Jesper Berg
+
+/ Lars Stage

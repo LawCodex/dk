@@ -1,0 +1,54 @@
+---
+title: "Bekendtgørelse om behandlingssikkerhed ved Forsvarets Efterretningstjenestes behandling af personoplysninger"
+identifier: "BEK nr 1028 af 11/07/2018"
+eli: "https://www.retsinformation.dk/eli/lta/2018/1028"
+accession_number: "B20180102805"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2018-07-11
+status: "in_force"
+ministry: "Forsvarsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2018/1028"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om behandlingssikkerhed ved Forsvarets Efterretningstjenestes behandling af personoplysninger
+
+*BEK nr 1028 af 11/07/2018*
+
+I medfør af § 4, stk. 2, og § 5, stk. 2, i lov om Forsvarets Efterretningstjeneste (FE), jf. lovbekendtgørelse nr. 1287 af 28. november 2017, som ændret ved § 8 i lov nr. 503 af 23. maj 2018, fastsættes:
+
+## § 1.
+
+Denne bekendtgørelse gælder for behandling af oplysninger om i Danmark hjemmehørende fysiske og juridiske personer, som foretages for Forsvarets Efterretningstjeneste.
+
+## § 2.
+
+Personer, virksomheder m.v., der udfører arbejde under Forsvarets Efterretningstjeneste eller Forsvarets Efterretningstjenestes databehandlere, og som får adgang til oplysninger om i Danmark hjemmehørende fysiske og juridiske personer, må kun behandle disse efter instruks fra Forsvarets Efterretningstjeneste, medmindre andet følger af lov eller bestemmelser fastsat i henhold til lov.
+
+*Stk. 2.* Den i stk. 1 nævnte instruks må ikke begrænse den journalistiske frihed eller være til hinder for tilvejebringelsen af et kunstnerisk eller litterært produkt.
+
+## § 3.
+
+Forsvarets Efterretningstjeneste skal træffe de fornødne tekniske og organisatoriske sikkerhedsforanstaltninger mod, at oplysninger om i Danmark hjemmehørende fysiske og juridiske personer hændeligt eller ulovligt tilintetgøres, fortabes eller forringes, samt mod, at de kommer til uvedkommendes kendskab, misbruges eller i øvrigt behandles i strid med lov om Forsvarets Efterretningstjeneste (FE). Tilsvarende gælder for databehandlere, der behandler oplysninger om i Danmark hjemmehørende fysiske og juridiske personer for Forsvarets Efterretningstjeneste.
+
+## § 4.
+
+For oplysninger om i Danmark hjemmehørende fysiske og juridiske personer, som behandles for Forsvarets Efterretningstjeneste, og som er af særlig interesse for fremmede magter, skal der træffes foranstaltninger, der muliggør bortskaffelse eller tilintetgørelse i tilfælde af krig eller lignende forhold.
+
+## § 5.
+
+Når Forsvarets Efterretningstjeneste overlader en behandling af oplysninger om i Danmark hjemmehørende fysiske og juridiske personer til en databehandler, skal Forsvarets Efterretningstjeneste sikre sig, at databehandleren kan træffe de i §§ 3 og 4 nævnte tekniske og organisatoriske sikkerhedsforanstaltninger, og påse, at dette sker.
+
+*Stk. 2.* Gennemførelse af en behandling ved en databehandler skal ske i henhold til en skriftlig aftale parterne imellem. Af aftalen skal det fremgå, at databehandleren alene handler efter instruks fra Forsvarets Efterretningstjeneste, og at reglerne i §§ 3 og 4 ligeledes gælder for behandlingen ved databehandleren. Hvis databehandleren er etableret i en anden medlemsstat, skal det fremgå af aftalen, at de bestemmelser om sikkerhedsforanstaltninger, som er fastsat i lovgivningen i den medlemsstat, hvor databehandleren er etableret, gælder for denne.
+
+## § 6.
+
+Bekendtgørelsen træder i kraft den 1. august 2018.
+
+Forsvarsministeriet, den 11. juli 2018
+
+Claus Hjort Frederiksen
+
+/ Jon Bach Holm

@@ -1,0 +1,44 @@
+---
+title: "Bekendtgørelse om tidsfrister for at gøre retten til automatisk sikkerhedsstillelse og betalingsforbehold gældende m.v."
+identifier: "BEK nr 1174 af 31/10/2017"
+eli: "https://www.retsinformation.dk/eli/lta/2017/1174"
+accession_number: "B20170117405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2017-10-31
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2017/1174"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om tidsfrister for at gøre retten til automatisk sikkerhedsstillelse og betalingsforbehold gældende m.v.
+
+*BEK nr 1174 af 31/10/2017*
+
+I medfør af § 182, stk. 4, og § 188, stk. 3, i lov nr. 650 af 8. juni 2017 om kapitalmarkeder fastsættes:
+
+## § 1.
+
+Ønsker en långiver at fastholde en sikkerhed efter § 182, stk. 2 eller 3, i lov om kapitalmarkeder i fondsaktiver, skal sikkerheden gøres gældende af långiveren inden kl. 16.45 på afviklingsdagen.
+
+## § 2.
+
+En sælger, der ønsker at gøre et betalingsforbehold gældende efter § 188, stk. 1, i lov om kapitalmarkeder, skal gøre dette gældende inden kl. 17.30 på afviklingsdagen.
+
+## § 3.
+
+Adgangen til at gøre en sikkerhed eller et betalingsforbehold gældende bortfalder automatisk ved fristens udløb uden ændringsmeddelelse til sikkerhedshaveren.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 3. januar 2018.
+
+*Stk. 2.* Bekendtgørelse nr. 1337 af 14. november 2016 om tidsfrister for at gøre retten til automatisk pant og betalingsforbehold gældende m.v. ophæves.
+
+Erhvervsministeriet, den 31. oktober 2017
+
+Brian Mikkelsen
+
+/ Hans Høj

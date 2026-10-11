@@ -1,0 +1,37 @@
+---
+title: "Bekendtgørelse om ophævelse af visse bekendtgørelser på veterinærområdet"
+identifier: "BEK nr 1482 af 08/12/2015"
+eli: "https://www.retsinformation.dk/eli/lta/2015/1482"
+accession_number: "B20150148205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2015-12-08
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2015/1482"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ophævelse af visse bekendtgørelser på veterinærområdet
+
+*BEK nr 1482 af 08/12/2015*
+
+## § 1.
+
+Følgende bekendtgørelser ophæves:
+
+- 1\) Bekendtgørelse nr. 401 af 18. juni 1993 om registrering af akvakulturbrug og betaling for veterinærkontrol m.v.
+- 2\) Bekendtgørelse nr. 9880 af 13. september 2007 om forbud mod udførsel af visse levende dyr til Det Forende Kongerige.
+- 3\) Bekendtgørelse nr. 10190 af 7. november 2007 om forbud mod udførsel af visse levende dyr til Cypern.
+- 4\) Bekendtgørelse nr. 10232 af 14. november 2007 om forbud mod udførsel af visse levende dyr til Det Forenede Kongerige.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. januar 2016.
+
+Fødevarestyrelsen, den 8. december 2015
+
+Per S. Henriksen
+
+/ Marianne Marer

@@ -1,0 +1,67 @@
+---
+title: "Bekendtgørelse om gebyr for indbringelse af klager for Planklagenævnet"
+short_title: "Gebyrbekendtgørelsen"
+identifier: "BEK nr 108 af 28/01/2017"
+eli: "https://www.retsinformation.dk/eli/lta/2017/108"
+accession_number: "B20170010805"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2017-01-28
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2017/108"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om gebyr for indbringelse af klager for Planklagenævnet
+
+*BEK nr 108 af 28/01/2017*
+
+I medfør af § 8, stk. 3, i lov nr. 1658 af 20. december 2016 om Planklagenævnet fastsættes:
+
+## § 1.
+
+Planklagenævnet opkræver klagegebyr, som fastsat i lov om Planklagenævnet.
+
+*Stk. 2.* Indgives flere klager over samme afgørelse, opkræves der et gebyr for hver selvstændig klageskrivelse.
+
+*Stk. 3.* Hvis flere klageberettigede indgiver en samlet klage, betales ét klagegebyr. Hvis blot en af klagerne er en virksomhed eller en organisation er gebyret 1800 kr.
+
+*Stk. 4.* Betaling af klagegebyr sker ved elektronisk overførsel til Planklagenævnet.
+
+*Stk. 5.* Planklagenævnet fastsætter en frist for indbetaling af gebyret. Betales gebyret ikke inden udløb af fristen, afvises klagen.
+
+## § 2.
+
+Der betales ikke gebyr for klager over ekspropriationsbeslutninger efter § 47 i lov om planlægning.
+
+*Stk. 2.* Der betales ikke gebyr for klager, der udelukkende vedrører afslag på aktindsigt efter lov om offentlighed i forvaltningen, forvaltningsloven eller lov om aktindsigt i miljøoplysninger.
+
+## § 3.
+
+Et indbetalt gebyr tilbagebetales, hvis
+
+- 1\) klagesagen fører til, at den påklagede afgørelse ændres eller ophæves,
+- 2\) klageren får helt eller delvis medhold i klagen, eller
+- 3\) klagen afvises som følge af overskredet klagefrist eller manglende klageberettigelse, eller fordi klagen ikke er omfattet af Planklagenævnets kompetence.
+
+*Stk. 2.* Hvis den eneste ændring af den påklagede afgørelse er forlængelse af en frist for efterkommelse af afgørelsen som følge af den tid, der er medgået til at behandle sagen i Planklagenævnet, tilbagebetales gebyret dog ikke efter stk. 1, nr. 1.
+
+*Stk. 3.* Planklagenævnet kan beslutte at tilbagebetale gebyret, hvis klageren trækker sin klage tilbage, før Planklagenævnet har truffet afgørelse i sagen.
+
+*Stk. 4.* Gebyret tilbagebetales dog ikke efter stk. 3, hvis Planklagenævnet vurderer, at der er forhold, der taler imod, at tilbagebetale gebyret, fx hvis klagen trækkes tilbage meget sent.
+
+*Stk. 5.* Spørgsmål om betaling af gebyr og tilbagebetaling af gebyr afgøres af Planklagenævnet. Planklagenævnets afgørelser kan ikke indbringes for anden administrativ myndighed, jf. lovens § 3, stk. 3.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. februar 2017.
+
+*Stk. 2.* Planklagenævnet træffer afgørelse om tilbagebetaling af gebyr, der er indbetalt til Natur- og Miljøklagenævnet efter de hidtil gældende regler, efter reglerne i denne bekendtgørelse.
+
+Erhvervsministeriet, den 28. januar 2017
+
+Brian Mikkelsen
+
+/ Sigmund Lubanski

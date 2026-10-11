@@ -1,0 +1,73 @@
+---
+title: "Bekendtgørelse om hegning i de ydre koge i Tøndermarsken"
+identifier: "BEK nr 869 af 27/06/2016"
+eli: "https://www.retsinformation.dk/eli/lta/2016/869"
+accession_number: "B20160086905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2016-06-27
+status: "in_force"
+ministry: "Ministeriet for Natur og Dyrevelfærd"
+source: "https://www.retsinformation.dk/eli/lta/2016/869"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om hegning i de ydre koge i Tøndermarsken
+
+*BEK nr 869 af 27/06/2016*
+
+I medfør af § 18, stk. 4, og § 50, stk. 2, i lov om beskyttelse af de ydre koge i Tøndermarsken, jf. lovbekendtgørelse nr. 1621 af 10. december 2015, fastsættes efter bemyndigelse i henhold til § 2, stk. 1, i bekendtgørelse nr. 350 af 26. marts 2016 om henlæggelse af opgaver og beføjelser til Naturstyrelsen:
+
+## Hegning
+
+### § 1.
+
+I de områder, der efter §§ 4 og 5 i lov nr. 111 af 12. marts 1988 om beskyttelse af de ydre koge i Tøndermarsken er udlagt eller udlægges til vedvarende græsarealer, må der ikke foretages hegning.
+
+*Stk. 2.* Eksisterende hegn langs skelgrøfter skal fjernes i forbindelse med istandsættelsesarbejder efter § 31 i lov nr. 111 af 12. marts 1988 om beskyttelse af de ydre koge i Tøndermarsken, dog senest den 1. april 1994.
+
+*Stk. 3.* Reglerne i stk. 1 gælder ikke hegning, der er nødvendig af hensyn til digernes sikkerhed, eller hegning langs veje, afvandings- og vandforsyningskanaler, bortset fra skelgrøfter, samt langs landegrænsen.
+
+*Stk. 4.* Reglerne i stk. 1 gælder ikke for nødvendig hegning ved led samt etablering og vedligeholdelse af fangfolde.
+
+*Stk. 5.* Reglerne i stk. 1 gælder ikke ved hegning omkring flere fenner, såfremt hegningen omfatter mindst 8 fenner og et areal på mindst 20 ha.
+
+*Stk. 6.* Reglerne i stk. 1 gælder ikke midlertidig hegning, hvor hegnet kun er opsat et år, og der herefter følger en periode på mindst et år uden hegn.
+
+### § 2.
+
+Kommunalbestyrelsen kan i særlige tilfælde efter høring af de berørte parter meddele tidsbegrænsede dispensationer fra hegningsforbuddet i § 1, stk. 1, for eksempel hvor veterinærhygiejniske, forureningsmæssige eller andre ganske særlige forhold gør dette nødvendigt.
+
+*Stk. 2.* Kommunalbestyrelsens afgørelser kan ikke påklages.
+
+### § 3.
+
+Kommunalbestyrelsen påser, at bestemmelserne i denne bekendtgørelse overholdes.
+
+*Stk. 2.* Opsætning af hegn omkring flere fenner og midlertidige hegn efter § 1, stk. 5 og stk. 6, skal meddeles til kommunalbestyrelsen inden opsætning af hegnet.
+
+### § 4.
+
+Med bøde straffes den, der:
+
+- 1\) tilsidesætter vilkår for en dispensation efter § 2 eller
+- 2\) undlader at efterkomme påbud om at berigtige et ulovligt forhold.
+
+*Stk. 2.* Der kan pålægges juridiske personer strafansvar efter reglerne i straffelovens 5. kapitel.
+
+### § 5.
+
+Kommunalbestyrelsen underretter Styrelsen for Vand- og Naturforvaltning om de afgørelser, der træffes efter bekendtgørelsen.
+
+### § 6.
+
+Bekendtgørelsen træder i kraft den 1. juli 2016. .
+
+*Stk. 2.* Bekendtgørelse nr. 1310 af 20. november 2006 om hegning i de ydre koge i Tøndermarsken ophæves.
+
+Naturstyrelsen, den 27. juni 2016
+
+Hanne Kristensen
+
+/ Anne-Marie Vægter Rasmussen

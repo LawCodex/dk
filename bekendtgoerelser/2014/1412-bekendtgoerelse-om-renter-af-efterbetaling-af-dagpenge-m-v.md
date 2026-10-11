@@ -1,0 +1,58 @@
+---
+title: "Bekendtgørelse om renter af efterbetaling af dagpenge m.v."
+identifier: "BEK nr 1412 af 15/12/2014"
+eli: "https://www.retsinformation.dk/eli/lta/2014/1412"
+accession_number: "B20140141205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2014-12-15
+status: "in_force"
+ministry: "Beskæftigelses- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2014/1412"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om renter af efterbetaling af dagpenge m.v.
+
+*BEK nr 1412 af 15/12/2014*
+
+I medfør af § 46, stk. 5, i lov om arbejdsløshedsforsikring m.v., jf. lovbekendtgørelse nr. 348 af 8. april 2014, og efter forhandling med Beskæftigelsesrådet fastsættes efter bemyndigelse:
+
+## § 1.
+
+Reglerne om renter i denne bekendtgørelse skal anvendes, når et medlem ikke rettidigt har fået udbetalt en ydelse eller den skattefrie præmie efter lovens § 74 m fra en a-kasse. Bekendtgørelsen anvendes ikke på Voksen- og Efteruddannelsesgodtgørelse (VEU-godtgørelse).
+
+## § 2.
+
+Et medlem har ikke ret til renter, hvis den forsinkede eller manglende betaling af en forfalden ydelse skyldes forhold, som kan tilregnes medlemmet.
+
+## § 3.
+
+Hvis en ydelse ikke bliver udbetalt til tiden, skal beløbet forrentes fra forfaldsdagen med den gældende morarente efter rentelovens § 5. Der regnes ikke rente af morarenten. Renten beregnes i øvrigt efter principperne i renteloven.
+
+*Stk. 2.* Forfaldsdagen er den dispositionsdato, som a-kassen har fastsat, eller som er fastsat på anden vis. Der beregnes rente indtil det tidspunkt, hvor den forfaldne ydelse faktisk er udbetalt og til disposition.
+
+*Stk. 3.* Beregningen af renten skal ikke ændres, selv om morarenten ændres inden den første mulige dispositionsdag.
+
+*Stk. 4.* Renten kan ikke udbetales, hvis rentebeløbet er mindre end højeste dagpenge for en dag for fuldtidsforsikrede.
+
+*Stk. 5.* A-kassen har ret til refusion for renter af efterbetalingsbeløb, der er udbetalt med rette, jf. lovens § 79, stk. 1. Dog har a-kassen ikke ret til refusion for renter, hvis a-kassen på grund af fejl i sagsbehandlingen mister retten til refusion for ydelsen, jf. § 2, stk. 2, i bekendtgørelse om a-kassernes ret til refusion for udbetalte ydelser.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. januar 2015.1)
+
+*Stk. 2.* Bekendtgørelsen har virkning ved forsinket eller manglende udbetaling af ydelser og skattefri præmie, der rettidigt kan udbetales den 1. januar 2015 eller senere.
+
+*Stk. 3.* Samtidig ophæves bekendtgørelse nr. 1108 af 18. september 2013 om renter af efterbetaling af dagpenge mv.
+
+Styrelsen for Arbejdsmarked og Rekruttering, den 15. december 2014
+
+Morten Binder
+
+/ Søren Tingskov
+
+## Officielle noter
+
+1\) Der udarbejdes en vejledning til bekendtgørelsen.

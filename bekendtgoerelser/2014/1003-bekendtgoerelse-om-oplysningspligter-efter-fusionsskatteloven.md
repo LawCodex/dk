@@ -1,0 +1,47 @@
+---
+title: "Bekendtgørelse om oplysningspligter efter fusionsskatteloven"
+identifier: "BEK nr 1003 af 06/09/2014"
+eli: "https://www.retsinformation.dk/eli/lta/2014/1003"
+accession_number: "B20140100305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2014-09-06
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2014/1003"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om oplysningspligter efter fusionsskatteloven
+
+*BEK nr 1003 af 06/09/2014*
+
+I medfør af § 6, stk. 2, og § 13, stk. 2, i fusionsskatteloven, jf. lovbekendtgørelse nr. 1120 af 14. november 2012, og § 35, stk. 1 og 4, i skatteforvaltningsloven, jf. lovbekendtgørelse nr. 175 af 23. februar 2011, som ændret ved lov nr. 649 af 12. juni 2013, fastsættes efter indstilling fra Skatterådet:
+
+## § 1.
+
+Det modtagende selskab m.v. i en skattefri omstrukturering omfattet af fusionsskatteloven skal til SKAT oplyse følgende:
+
+- 1\) Hvilken type skattefri omstrukturering der er gennemført,
+- 2\) den skattemæssige virkningsdato samt vedtagelsesdato for den skattefri omstrukturering,
+- 3\) hvilke selskaber m.v. der er henholdsvis indskydende og modtagende,
+- 4\) hvilke sambeskattede datterselskaber, der overgår fra det eller de indskydende selskaber til det eller de modtagende selskaber i forbindelse med den skattefri omstrukturering,
+- 5\) om omstruktureringen er foregået inden for eller uden for sambeskatningskredsen, og
+- 6\) såfremt SKAT anmoder om det, størrelsen af det modtagne underskud efter selskabsskattelovens § 12 og fondsbeskatningslovens § 3, stk. 2, angivet i procent.
+
+*Stk. 2.* Oplysningerne efter stk. 1 skal angives digitalt ved brug af de digitale kanaler, som SKAT anviser, jf. dog stk. 3.
+
+*Stk. 3.* SKAT kan efter anmodning dispensere fra digitalpligten i stk. 2 for modtagende selskaber m.v., som ikke er hjemmehørende her i landet, hvis særlige omstændigheder taler herfor.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. oktober 2014.
+
+*Stk. 2.* Bekendtgørelsen har virkning for skattefri omstruktureringer vedtaget den 1. oktober 2014 og senere.
+
+Skatteministeriet, den 6. september 2014
+
+Benny Engelbrecht
+
+/ Lise Bo Nielsen

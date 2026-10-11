@@ -1,0 +1,62 @@
+---
+title: "Bekendtgørelse om ændringer af landets inddeling i kommuner og regioner"
+identifier: "BEK nr 1241 af 16/12/2011"
+eli: "https://www.retsinformation.dk/eli/lta/2011/1241"
+accession_number: "B20110124105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2011-12-16
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2011/1241"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ændringer af landets inddeling i kommuner og regioner
+
+*BEK nr 1241 af 16/12/2011*
+
+I medfør af § 8 i lov nr. 382 af 3. maj 2006 om ændringer af landets inddeling i kommuner og regioner og om opløsning og udpegelse af forpligtende kommunale samarbejder bekendtgøres:
+
+### § 1.
+
+Landets inddeling i kommuner og regioner er ændret som angivet i bilag 1 til bekendtgørelsen.
+
+### § 2.
+
+Bekendtgørelsen træder i kraft den 1. januar 2012.
+
+Økonomi- og Indenrigsministeriet, den 16. december 2011
+
+P.M.V.\
+E.B.\
+Hans B. Thomsen
+
+/ Christian Vigh
+
+## Bilag 1
+
+Fortegnelse over ændringer af landets inddeling i kommuner og regioner
+
+## Ændringer pr. 1. januar 2012
+
+## Region Hovedstaden
+
+- 1\. Fra *Brøndby Kommune* til *Albertslund Kommune* er overført 2467 m<sup>2</sup> af Brøndbyvester By, Brøndbyvester, som følge af regulering af offentlig vej.
+- 2\. Fra *Brøndby Kommune* til *Vallensbæk Kommune* er overført 628 m<sup>2</sup> af Brøndbyvester By, Brøndbyvester, som følge af regulering af offentlig vej.
+- 3\. Fra *Tårnby Kommune* til *Københavns Kommune* er overført matr.nr. 1f og udskilt offentlig vej 7000I, begge Koklapperne, Tårnby.
+
+## Region Midtjylland
+
+- 1\. Fra *Holstebro Kommune* til *Viborg Kommune* er overført 201 m<sup>2</sup> af Trandum By, Sevel, som følge af regulering af offentlig vandløb.
+- 2\. Fra *Holstebro Kommune* til *Viborg Kommune* er overført 8132 m<sup>2</sup> af Trandum Kirkegårde, Sevel, som følge af regulering af offentlige vandløb.
+- 3\. Fra *Skanderborg Kommune* til *Aarhus Kommune* er overført 16.082 m<sup>2</sup> af Herskind By, Skivholme, som følge af regulering af offentlig vandløb.
+- 4\. Fra *Aarhus Kommune* til *Skanderborg Kommune* er overført 740 m<sup>2</sup> af Hørslev Gde. , Framlev, som følge af regulering af offentligt vandløb.
+
+## Region Syddanmark
+
+- 1\. Fra *Haderslev Kommune* til *Tønder Kommune* er overført 730 m<sup>2</sup> af Højrup Sogn.
+- 2\. Fra *Haderslev Kommune* til *Tønder Kommune* er overført 965 m<sup>2</sup> af Højrup Ejerlav, Højrup.
+- 3\. Fra *Svendborg Kommune* til *Faaborg-Midtfyn Kommune* er overført 1804 m<sup>2</sup> af Lunde By, Lunde, som følge af regulering af offentlig vej.
+- 4\. Fra *Tønder Kommune* til *Haderslev Kommune* er overført 1035 m<sup>2</sup> af Højrup Sogn.

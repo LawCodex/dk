@@ -1,0 +1,48 @@
+---
+title: "Bekendtgørelse om ophævelse af forskellige bekendtgørelser m.v. på Beskæftigelsesministeriets område"
+identifier: "BEK nr 1190 af 13/12/2012"
+eli: "https://www.retsinformation.dk/eli/lta/2012/1190"
+accession_number: "B20120119005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2012-12-13
+status: "in_force"
+ministry: "Beskæftigelses- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2012/1190"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ophævelse af forskellige bekendtgørelser m.v. på Beskæftigelsesministeriets område
+
+*BEK nr 1190 af 13/12/2012*
+
+## § 1.
+
+Følgende bekendtgørelser ophæves:
+
+- 1\) Bekendtgørelse nr. 717 af 24. juni 2011 om rådighed og om nedsættelse, ophør af eller fradrag i introduktionsydelse.
+- 2\) Bekendtgørelse nr. 576 af 6. juni 2011 om kommunernes pligt til varsling, vejledning m.v. af ægtefæller, hvis kontanthjælp kan bortfalde som følge af 225 timers reglen.
+- 3\) Bekendtgørelse nr. 504 af 10. juni 2004 om uddannelsessøgende udlændiges ret til særlig ydelse.
+- 4\) Bekendtgørelse nr. 908 af 14. november 2003 om nedsættelse og efterregulering af den samlede hjælp efter § 25 b i lov om aktiv socialpolitik.
+- 5\) Bekendtgørelse nr. 1234 af 17. december 2002 om beregning af kontanthjælp til personer, der er gift med personer, hvis forsørgelse helt eller delvis dækkes af det offentlige efter anden lovgivning.
+- 6\) Bekendtgørelse nr. 59 af 25. januar 2000 om særlig støtte efter § 28 a i integrationsloven.
+
+## § 2.
+
+Følgende vejledninger m.v. ophæves:
+
+- 1\) Vejledning nr. 48 af 6. juni 2011 om 225 timers reglen for ægtepar der modtager hjælp efter lov om aktiv socialpolitik § 11.
+- 2\) Cirkulæreskrivelse af 2. september 2009 om vejledning om retten til ledighedsydelse i forbindelse med flytning af kommune.
+- 3\) Vejledning nr. 46 af 25. maj 2004 til bekendtgørelse nr. 908 af 14. november 2003 om nedsættelse og efterregulering af den samlede hjælp efter § 25 b i lov om aktiv socialpolitik.
+- 4\) Vejledning nr. 49 af 24. april 2001 om ændrede rådigheds- og sanktionsregler m.v. for kontanthjælpsmodtagere.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. januar 2013.
+
+Arbejdsmarkedsstyrelsen, den 13. december 2012
+
+Marie Hansen
+
+/ Karen Louise Riis

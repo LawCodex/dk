@@ -1,0 +1,52 @@
+---
+title: "Bekendtgørelse om digital kommunikation for universiteterne"
+identifier: "BEK nr 219 af 27/02/2015"
+eli: "https://www.retsinformation.dk/eli/lta/2015/219"
+accession_number: "B20150021905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2015-02-27
+status: "in_force"
+ministry: "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2015/219"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om digital kommunikation for universiteterne
+
+*BEK nr 219 af 27/02/2015*
+
+I medfør af § 8 a, stk. 1-3, i lov om universiteter (universitetsloven), jf. lovbekendtgørelse nr. 960 af 14. august 2014, fastsættes efter bemyndigelse i henhold til § 1, nr. 12, i bekendtgørelse nr. 1301 af 18. november 2010 om delegation af ministeren for videnskab, teknologi og udviklings beføjelser i universitetsloven, som ændret ved bekendtgørelse nr. 927 af 18. august 2011:
+
+## § 1.
+
+Bekendtgørelsen omfatter digital kommunikation mellem universiteter og indskrevne studerende, herunder ph.d.-studerende, og ansøgere til universitetets uddannelser.
+
+*Stk. 2.* Bekendtgørelsen finder anvendelse for uddannelser og undervisningsforløb, som udbydes af universiteterne, på Uddannelses- og Forskningsministeriets område.
+
+*Stk. 3.* Bekendtgørelsen finder ikke anvendelse ved ansøgning om optagelse på uddannelser, der koordineres af Den Koordinerede Tilmelding.
+
+## § 2.
+
+Et universitet kan beslutte, at al kommunikation mellem universitetet og studerende og mellem universitetet og ansøgere til universitetets uddannelser med den i § 1, stk. 3, nævnte undtagelse helt eller delvist for den enkelte uddannelse skal foregå digitalt (obligatorisk digital kommunikation), herunder ved anvendelse af et bestemt digitalt system og sikker identifikation.
+
+*Stk. 2.* Beslutning om obligatorisk digital kommunikation mellem universitetet og indskrevne studerende, herunder ph.d.-studerende, træffes efter høring af det relevante studienævn og meddeles den enkelte studerende mindst 4 uger, inden beslutningen får virkning.
+
+## § 3.
+
+Ved indførelse af obligatorisk digital kommunikation efter § 2 skal universitetet tilbyde de studerende adgang til nødvendigt it-udstyr på de dele af universitetets område, der er omfattet heraf. Udstyret og tilknyttede softwaresystemer skal i fornødent omfang kunne benyttes af personer med handicap, og universitetet skal sikre, at kommunikationen ikke kommer til uvedkommendes kendskab, og at oplysninger heri ikke hændeligt eller ulovligt tilintetgøres, fortabes eller forringes.
+
+*Stk. 2.* Ved indførelse af obligatorisk digital kommunikation efter § 2 skal universitetet sikre, at der ikke sker indskrænkning i ansøgerens eller den studerendes ret til at lade sig repræsentere eller bistå af andre, jf. forvaltningslovens § 8.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. april 2015.
+
+*Stk. 2.* Bekendtgørelse nr. 1093 af 26. november 2012 om digital kommunikation for universiteterne ophæves.
+
+Styrelsen for Videregående Uddannelser, den 27. februar 2015
+
+Nils Agerhus
+
+/ Thomas Voigt Lund

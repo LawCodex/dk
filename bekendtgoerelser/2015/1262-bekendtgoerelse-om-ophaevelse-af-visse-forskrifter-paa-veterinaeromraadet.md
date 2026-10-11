@@ -1,0 +1,42 @@
+---
+title: "Bekendtgørelse om ophævelse af visse forskrifter på veterinærområdet"
+identifier: "BEK nr 1262 af 17/11/2015"
+eli: "https://www.retsinformation.dk/eli/lta/2015/1262"
+accession_number: "B20150126205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2015-11-17
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2015/1262"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ophævelse af visse forskrifter på veterinærområdet
+
+*BEK nr 1262 af 17/11/2015*
+
+## § 1.
+
+Følgende forskrifter ophæves:
+
+- 1\) Bekendtgørelse nr. 300 af 1. juli 1951 om øremærkning af dyr.
+- 2\) Bekendtgørelse nr. 465 af 9. juni 1986 om harer og kaniner og indførsel og transit heraf.
+- 3\) Bekendtgørelse nr. 431 af 15. juli 1988 om autorisation m.v. af dyrlæger.
+- 4\) Bekendtgørelse nr. 904 af 28. september 2000 om besøgslandbrug.
+- 5\) Bekendtgørelse nr. 757 af 11. september 2002 om forbud mod anvendelse af visse typer fjerkræ til markprøver m.v.
+- 6\) Bekendtgørelse nr. 10183 af 12. oktober 2007 om flytning af slagtedyr i bluetongue restriktionszoner.
+- 7\) Bekendtgørelse nr. 355 af 5. maj 2009 om udbetaling af EU-tilskud til rutineovervågning for aviær influenza i 2006 og 2007.
+- 8\) Bekendtgørelse nr. 987 af 12. oktober 2011 om udbetaling af EU-tilskud til rutineovervågning for aviær influenza i 2008 og 2009.
+- 9\) Cirkulæreskrivelse af 22. maj 2000 om vederlæggelse af formanden for og medlemmerne af Rådet vedrørende hold af særlige dyr.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. januar 2016.
+
+Fødevarestyrelsen, den 17. november 2015
+
+Per Henriksen
+
+/ Marianne Marer

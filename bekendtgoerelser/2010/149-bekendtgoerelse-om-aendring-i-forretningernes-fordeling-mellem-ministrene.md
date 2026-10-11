@@ -1,0 +1,52 @@
+---
+title: "Bekendtgørelse om ændring i forretningernes fordeling mellem ministrene"
+identifier: "BEK nr 149 af 09/02/2010"
+eli: "https://www.retsinformation.dk/eli/lta/2010/149"
+accession_number: "B20100014905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2010-02-09
+status: "in_force"
+ministry: "Statsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2010/149"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ændring i forretningernes fordeling mellem ministrene
+
+*BEK nr 149 af 09/02/2010*
+
+Efter statsministerens indstilling er der ved kongelige resolutioner af 27. december 2009 fastsat følgende bestemmelser vedrørende forretningernes fordeling mellem ministrene:
+
+## § 1.
+
+Ressortansvaret for alle support-, brugeradministrations-, drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende administrativ it, alle drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende it-infrastrukturen og IP-telefoni, alle opgaver vedrørende drift, vedligehold og brugeradministration af fag it-systemer, alle kontrakter og aftaler vedrørende administrativ it, it-infrastruktur, IP-telefoni samt drift og vedligehold af fag it og alle informationssikkerhedsopgaver vedrørende berørt administrativ it, it-infrastruktur, IP-telefoni, der vedrører Beskæftigelsesministeriets departement, Beskæftigelsesministeriets IT, Arbejdsmarkedsstyrelsen, Arbejdstilsynet, Arbejdsdirektoratet, Arbejdsskadestyrelsen, Forebyggelsesfondens Sekretariat, Arbejdsretten & Forligsinstitutionen, Arbejdsmiljørådet og Pensionsstyrelsen, overføres pr. 1. januar 2010 fra beskæftigelsesministeren til finansministeren.
+
+## § 2.
+
+Ressortansvaret for alle support-, brugeradministrations-, drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende administrativ it, alle drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende it-infrastrukturen og IP-telefoni, alle opgaver vedrørende drift, vedligehold og brugeradministration af fag it-systemer, alle kontrakter og aftaler vedrørende administrativ it, it-infrastruktur, IP-telefoni samt drift og vedligehold af fag it og alle informationssikkerhedsopgaver vedrørende berørt administrativ it, it-infrastruktur, IP-telefoni overføres pr. 1. januar 2010 fra ministeren for flygtninge, indvandrere og integration til finansministeren.
+
+## § 3.
+
+Ressortansvaret for alle support-, brugeradministrations-, drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende administrativ it, alle drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende it-infrastrukturen og IP-telefoni, alle opgaver vedrørende drift, vedligehold og brugeradministration af fag it-systemer, alle kontrakter og aftaler vedrørende administrativ it, it-infrastruktur, IP-telefoni samt drift og vedligehold af fag it og alle informationssikkerhedsopgaver vedrørende berørt administrativ it, it-infrastruktur, IP-telefoni, der vedrører Klima- og Energiministeriets departement, Energistyrelsen, Elsparefonden, Nordsøenheden og Energiklagenævnet, overføres pr. 1. januar 2010 fra klima- og energiministeren til finansministeren.
+
+## § 4.
+
+Ressortansvaret for alle support-, brugeradministrations-, drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende administrativ it, alle drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende it-infrastrukturen og IP-telefoni, alle opgaver vedrørende drift, vedligehold og brugeradministration af fag it-systemer, alle kontrakter og aftaler vedrørende administrativ it, it-infrastruktur, IP-telefoni samt drift og vedligehold af fag it og alle informationssikkerhedsopgaver vedrørende berørt administrativ it, it-infrastruktur, IP-telefoni, der vedrører Kulturministeriets departement, Det Kongelige Akademi for de Skønne Kunster – Akademiraadet, Det Kongelige Danske Kunstakademi – Billedkunstskolerne, Kunsthal Charlottenborg, Danish Crafts, Danmarks Kunstbibliotek, Den Hirschsprungske Samling, Kulturarvsstyrelsen, Kunststyrelsen, Ordrupgaard, Statens Værksteder for Kunst og Håndværk, Styrelsen for Bibliotek og Medier og Kulturministeriets Koncerncenter, overføres pr. 1. januar 2010 fra kulturministeren til finansministeren.
+
+*Stk. 2.* Ressortansvaret for alle support-, brugeradministrations-, drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende administrativ it, alle drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende it-infrastrukturen og IP-telefoni, alle opgaver vedrørende drift, vedligehold og brugeradministration af fag it-systemer, alle kontrakter og aftaler vedrørende administrativ it, it-infrastruktur, IP-telefoni samt drift og vedligehold af fag it og alle informationssikkerhedsopgaver vedrørende berørt administrativ it, it-infrastruktur, IP-telefoni, der vedrører Dansk Sprognævn, overføres pr. 1. juni 2010 fra kulturministeren til finansministeren.
+
+## § 5.
+
+Ressortansvaret for alle support-, brugeradministrations-, drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende administrativ it, alle drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende it-infrastrukturen og IP-telefoni, alle opgaver vedrørende drift, vedligehold og brugeradministration af fag it-systemer, alle kontrakter og aftaler vedrørende administrativ it, it-infrastruktur, IP-telefoni samt drift og vedligehold af fag it og alle informationssikkerhedsopgaver vedrørende berørt administrativ it, it-infrastruktur, IP-telefoni overføres pr. 1. januar 2010 fra miljøministeren til finansministeren.
+
+## § 6.
+
+Ressortansvaret for alle support-, brugeradministrations-, drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende administrativ it, alle drifts-, vedligeholdelses-, udviklings- og strategiske opgaver vedrørende it-infrastrukturen og IP-telefoni, alle opgaver vedrørende drift, vedligehold og brugeradministration af fag it-systemer, alle kontrakter og aftaler vedrørende administrativ it, it-infrastruktur, IP-telefoni samt drift og vedligehold af fag it og alle informationssikkerhedsopgaver vedrørende berørt administrativ it, it-infrastruktur, IP-telefoni, der vedrører departementet, IT- og Telestyrelsen, Forsknings- og Innovationsstyrelsen, Universitets- og Bygningsstyrelsen, ACE Denmark og CIRIUS, overføres pr. 1. januar 2010 fra ministeren for videnskab, teknologi og udvikling til finansministeren.
+
+Statsministeriet, den 9. februar 2010
+
+Lars Løkke Rasmussen
+
+/ Kristian Korfits Nielsen

@@ -1,0 +1,39 @@
+---
+title: "Bekendtgørelse om størrelsen af jordrente og rente af statslån med konjunkturbestemt rente i husmandsbrug"
+identifier: "BEK nr 1201 af 14/11/2014"
+eli: "https://www.retsinformation.dk/eli/lta/2014/1201"
+accession_number: "B20140120105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2014-11-14
+status: "in_force"
+ministry: "Finansministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2014/1201"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om størrelsen af jordrente og rente af statslån med konjunkturbestemt rente i husmandsbrug
+
+*BEK nr 1201 af 14/11/2014*
+
+I medfør af § 22 i lov om jordfordeling og offentligt køb og salg af fast ejendom til jordbrugsmæssige formål m.m. (jordbrugsfordelingsloven), jf. lovbekendtgørelse nr. 1275 af 2. november 2010, fastsættes efter bemyndigelse i henhold til § 1 i bekendtgørelse nr. 782 af 22. november 1990 om bemyndigelse i henhold til lov om statens fremskaffelse af jord og udlån til jordbrugsmæssige forhold m.m.:
+
+## § 1.
+
+Rentefoden for konjunkturbestemt rente og ydelse af de statslån og jordfondslån samt den jordrenteforpligtelse, der er nævnt i § 26 i bekendtgørelse nr. 662 af 14. august 1997 om statshusmandsbrug m.m. og jordrente, reguleres i december termin 2014 og juni termin 2015 således:
+
+- 1\) Rentesatser fra 3 pct. til 5 pct. nedsættes med halvdelen.
+- 2\) Rentesatser på 5½ pct. og derover nedsættes med 2½ pct.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 8. december 2014.
+
+*Stk. 2.* Bekendtgørelse nr. 1296 af 18. november 2013 om størrelsen af jordrente og rente af statslån med konjunkturbestemt rente i husmandsbrug ophæves.
+
+Statens Administration, den 14. november 2014
+
+Frank Petersen
+
+/ Leif H. Skytt

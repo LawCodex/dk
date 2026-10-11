@@ -1,0 +1,46 @@
+---
+title: "Bekendtgørelse om udbetaling af særligt tilskud til kommuner som følge af nedsættelse af grundskyldpromillen"
+identifier: "BEK nr 1475 af 19/11/2010"
+eli: "https://www.retsinformation.dk/eli/lta/2010/1475"
+accession_number: "B20100147505"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2010-11-19
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2010/1475"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om udbetaling af særligt tilskud til kommuner som følge af nedsættelse af grundskyldpromillen
+
+*BEK nr 1475 af 19/11/2010*
+
+I medfør af § 3, stk. 1 i lov nr. 705 af 25. juni 2010 om ændring af lov om kommunal ejendomsskat (Nedsættelse af grundskyldpromillen for ejendomme, der benyttes til landbrug, gartneri, planteskole, frugtplantage eller skovbrug), fastsættes:
+
+## § 1.
+
+Bekendtgørelsen omfatter de tilskud, som statskassen for skatteåret 2011 yder til kommuner som følge af nedsættelsen af grundskyldpromillen, jf. § 3, stk. 1, i lov nr. 705 af 25. juni 2010 om ændring af lov om kommunal ejendomsskat.
+
+## § 2.
+
+Indenrigs- og Sundhedsministeriet foretager opgørelsen af tilskuddene til de enkelte kommuner. Opgørelsen for skatteåret 2010 sker på grundlag af indberetninger fra de berørte kommuner om størrelsen af den samlede nedsættelse for skatteåret 2011 af grundskylden i de enkelte kommuner, jf. § 3, stk. 1, i lov nr. 705 af 25. juni 2010 om ændring af lov om kommunal ejendomsskat. Indenrigs- og Sundhedsministeriet kan kræve nærmere dokumentation fra kommunerne med hensyn til de indberettede beløb.
+
+## § 3.
+
+Indenrigs- og Sundhedsministeriet udbetaler et foreløbigt kompensationsbeløb i januar og juli måned i 2011 til de berørte kommuner. Det efterfølgende år foretages der en regulering af de udbetalte tilskud. Herefter foretages der ikke yderligere efterregulering.
+
+## § 4.
+
+De kommuner, der modtager tilskud, skal efter Indenrigs- og Sundhedsministeriets anmodning det efterfølgende år indsende en af kommunens revision attesteret erklæring om, at opgørelsen af nedsættelsesbeløbene for skatteåret 2011 er sket i overensstemmelse med lovgivningens regler.
+
+## § 5.
+
+Bekendtgørelsen træder i kraft den 1. januar 2011.
+
+Indenrigs- og Sundhedsministeriet, den 19. november 2010
+
+Bertel Haarder
+
+/ Pernille Hvidtfeldt Østergård

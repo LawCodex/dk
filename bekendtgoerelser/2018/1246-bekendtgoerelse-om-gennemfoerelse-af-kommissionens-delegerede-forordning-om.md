@@ -1,0 +1,38 @@
+---
+title: "Bekendtgørelse om gennemførelse af Kommissionens delegerede forordning om indsættelse af et nyt bilag I og II i den omarbejdede Bruxelles I-forordning og af ændringer til bilag til Luganokonventionen"
+identifier: "BEK nr 1246 af 30/10/2018"
+eli: "https://www.retsinformation.dk/eli/lta/2018/1246"
+accession_number: "B20180124605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2018-10-30
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2018/1246"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om gennemførelse af Kommissionens delegerede forordning om indsættelse af et nyt bilag I og II i den omarbejdede Bruxelles I-forordning og af ændringer til bilag til Luganokonventionen
+
+*BEK nr 1246 af 30/10/2018*
+
+I medfør af § 9, stk. 2, i lov om anerkendelse og fuldbyrdelse af visse udenlandske retsafgørelser m.v. på det civil- og handelsretlige område, jf. lov nr. 1563 af 20. december 2006 om Bruxelles I-forordningen m.v., som ændret ved lov nr. 518 af 28. maj 2013 og lov nr. 670 af 8. juni 2017, fastsættes:
+
+## § 1.
+
+Bestemmelserne i Kommissionens delegerede forordning (EU) 2015/281 af 26. november 2014 om indsættelse af et nyt bilag I og II i Europa-Parlamentets og Rådets forordning (EU) nr. 1215/2012 om retternes kompetence og om anerkendelse og fuldbyrdelse af retsafgørelser på det civil- og handelsretlige område gælder her i landet.
+
+## § 2.
+
+Bestemmelserne i de ændringer til bilagene til Luganokonventionen af 30. oktober 2007, som fremgår af berigtigelsesprotokol af 20. oktober 2011, EU-tidende 2014, nr. L 18, side 70, og depositarmeddelelse af 11. april 2016 og 27. maj 2016, EU-tidende 2017, nr. L 57, side 63, gælder her i landet.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 2. november 2018.
+
+Justitsministeriet, den 30. oktober 2018
+
+Søren Pape Poulsen
+
+/ Lars Solskov Lind
