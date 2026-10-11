@@ -660,16 +660,31 @@ PDF_LIST_RE = re.compile(r"^(\d+\)|[a-z]\))\s+(.*)$")
 PDF_KAP_RE = re.compile(r"^(Kapitel \d+\s*[a-zæøå]?\.?|KAPITEL [0-9IVXLC]+\.?|Afsnit [0-9IVXLC]+\.?)$")
 
 
-def pdf_blocks(pdf_path):
+def pdf_blocks(pdf_path, title=""):
     import pypdf
     reader = pypdf.PdfReader(pdf_path)
     lines = []
     for page in reader.pages:
         for ln in (page.extract_text() or "").split("\n"):
             ln = re.sub(r"\s+", " ", ln).strip()
-            if not ln or FOOTER_RE.match(ln) or re.match(r"^[A-Z]{2}\d{6}$", ln):
+            if not ln or FOOTER_RE.match(ln) or re.match(r"^[A-Z]{2}\d{6}$", ln) \
+                    or re.match(r"^Lovtidende [AB] \d{4}$", ln) or re.match(r"^Udgivet den \d", ln):
+                continue
+            if lines and lines[-1].endswith("\u00ad"):
+                lines[-1] = lines[-1][:-1] + ln
                 continue
             lines.append(ln)
+    lines = [re.sub(r"\u00ad\s*", "", ln) for ln in lines]
+    # drop the title lines at the top
+    tnorm = re.sub(r"\W+", "", title.lower())
+    acc = ""
+    while lines and tnorm:
+        nxt = acc + re.sub(r"\W+", "", lines[0].lower())
+        if nxt and tnorm.startswith(nxt):
+            acc = nxt
+            lines.pop(0)
+        else:
+            break
     doc = Doc()
     cur = None  # [kind, label, text]
 
@@ -694,7 +709,7 @@ def pdf_blocks(pdf_path):
         else:
             cur[2] = (cur[2] + " " + text).strip()
 
-    skip_title = True
+    skip_title = not tnorm
     i = 0
     while i < len(lines):
         ln = lines[i]
@@ -826,7 +841,7 @@ def convert_one(raw, out, item):
         pp = cache_path(raw, link, ".pdf")
         if not os.path.exists(pp) or os.path.getsize(pp) == 0:
             return None, "missing-pdf"
-        doc = pdf_blocks(pp)
+        doc = pdf_blocks(pp, title)
         from_pdf = True
     else:
         doc = Doc()

@@ -1,0 +1,2110 @@
+---
+title: "Bekendtgørelse af jernbaneloven"
+short_title: "Jernbaneloven"
+identifier: "LBK nr 1091 af 11/08/2023"
+eli: "https://www.retsinformation.dk/eli/lta/2023/1091"
+accession_number: "A20230109129"
+type: "consolidated_act"
+jurisdiction: "dk"
+language: "da"
+date: 2023-08-11
+last_amended: 2023-08-11
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2023/1091"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse af jernbaneloven
+
+*LBK nr 1091 af 11/08/2023*
+
+Herved bekendtgøres jernbaneloven, lov nr. 686 af 27. maj 2015, med de ændringer, der følger af § 2 i lov nr. 658 af 8. juni 2016, § 21 i lov nr. 285 af 29. marts 2017, lov nr. 1558 af 19. december 2017, lov nr. 1562 af 18. december 2018, § 2 i lov nr. 206 af 5. marts 2019, lov nr. 510 af 1. maj 2019, § 2 i lov nr. 434 af 16. marts 2021, § 1 i lov nr. 2397 af 14. december 2021 og § 1 i lov nr. 756 af 13. juni 2023.
+
+## Kapitel 1 — Formål
+
+#### § 1.
+
+Lovens formål er at fastlægge rammerne for skinnebåren trafik, herunder at sikre, at jernbanetransport tilrettelægges og gennemføres under hensyn til sikkerhed, fremkommelighed og god samfundsøkonomi. Lovens rammer supplerer og udmønter retsakter fastsat af Den Europæiske Union, således at den danske jernbane sikres optimale vilkår for fortsat udvikling samt vækst i gods- og passagertransport.
+
+*Stk. 2.* Loven skal i overensstemmelse med de formål, der er nævnt i stk. 1, særlig skabe klare rammer for jernbanens forskellige aktører og for passagerernes adgang til jernbanen, fremme anlæg og fornyelse af jernbaner, sikre en effektiv anvendelse af økonomiske ressourcer og skabe konkurrence på markedet.
+
+*Stk. 3.* Lovens formål er desuden at sikre et højt miljøbeskyttelsesniveau og bidrage til integrationen af miljøkonsekvensvurderinger i forbindelse med planlægningen og udførelsen af statslige jernbaneprojekter, samt at der under inddragelse af offentligheden tages hensyn til projekters sandsynlige væsentlige indvirkning på miljøet, herunder den biologiske mangfoldighed, befolkningen, menneskers sundhed, flora, fauna, jordbund, jordarealer, vand, luft, klimatiske faktorer, materielle goder, landskab, kulturarv, herunder kirker og deres omgivelser og arkitektonisk og arkæologisk arv, større menneske- og naturskabte katastroferisici og ulykker og ressourceeffektivitet og det indbyrdes forhold mellem disse faktorer, jf. kapitel 6 a.
+
+## Kapitel 2 — Anvendelsesområde og definitioner
+
+#### § 2.
+
+Loven gælder for jernbaner, herunder bybaner, jf. dog stk. 2-6.
+
+*Stk. 2.* For veteranbaner gælder alene kapitel 8.
+
+*Stk. 3.* Bybaner er ikke omfattet af §§ 4-8, § 9, stk. 2, §§ 10, 17 og 18, § 20, stk. 1, 2. pkt., § 21, § 53, stk. 3, og §§ 58-60 c. § 8 finder dog anvendelse for jernbanevirksomheder, der forestår transport i byer og forstæder samt regional transport på lokale og regionale særskilte banenet til befordring på jernbaneinfrastrukturer eller på net, der kun er beregnet til jernbanepassagertransport i byer og forstæder, hvis en sådan jernbanevirksomhed står under direkte eller indirekte kontrol af en virksomhed eller en anden enhed, der udfører eller integrerer andre jernbanetransportydelser end transport i byer og forstæder samt regional transport. 2. pkt. gælder dog kun, for så vidt angår forbindelserne mellem jernbanevirksomheden og den virksomhed eller enhed, som direkte eller indirekte kontrollerer den.
+
+*Stk. 4.* Ud over de bestemmelser, der er angivet i stk. 3, er metro og letbaner ikke omfattet af §§ 20, 22 og 66-68.
+
+*Stk. 5.* Loven gælder ikke for privatejet jernbaneinfrastruktur, herunder sidespor, der anvendes af ejeren eller af en operatør i forbindelse med deres respektive godstransportaktiviteter eller personbefordring i ikkekommercielt øjemed, og køretøjer, der udelukkende bruges på sådan infrastruktur.
+
+*Stk. 6.* Transportministeren kan fastsætte regler om, at lokale og regionale jernbaneinfrastrukturer og virksomheder, der udfører transport på sådanne infrastrukturer, herunder privatbaner, delvis kan undtages bestemmelser i loven.
+
+#### § 3.
+
+I denne lov forstås ved:
+
+- 1\) Agenturet: Den Europæiske Unions Jernbaneagentur som oprettet ved Europa-Parlamentets og Rådets forordning (EU) 2016/796 af 11. maj 2016 om Den Europæiske Unions Jernbaneagentur og om ophævelse af forordning (EF) nr. 881/2004.
+- 2\) Anlægsmyndighed: Bygherren på et jernbaneanlægsprojekt.
+- 3\) Ansøger: Enhver fysisk eller juridisk person, herunder jernbanevirksomheder, som har en almennyttig eller forretningsmæssig interesse i at købe eller reservere infrastrukturkapacitet.
+- 4\) Bybane: Metro, letbaner og S-baner, som udfører transport i byer og forstæder.
+- 5\) Infrastrukturforvalter: Ethvert organ eller enhver virksomhed, der er ansvarlig for anlæg, vedligeholdelse og forvaltning, herunder trafikstyring, af jernbaneinfrastruktur.
+- 6\) Jernbaneinfrastruktur: Infrastrukturelementer som defineret i bilag I i Europa-Parlamentets og Rådets direktiv om oprettelse af et fælles europæisk jernbaneområde, som hører til hoved- og sidesporene med undtagelse af spor inden for reparationsværksteder eller lokomotivremiser eller private sportilslutninger.
+- 7\) Jernbanevirksomhed: En virksomhed, hvis hovedaktivitet består i godstransport eller passagertransport på jernbane, og som er forpligtet til at sørge for trækkraften, eller en virksomhed, der kun leverer trækkraft.
+- 8\) Veteranbane: Jernbanedrift, der gennem en begrænset personbefordring fortrinsvis drives for at tilgodese jernbanehistoriske og turistmæssige formål, og som ikke primært tilsigter at dække et trafikalt behov.
+
+*Stk. 2.* I kapitel 6 a forstås ved:
+
+- 1\) Offentligheden: En eller flere fysiske eller juridiske personer eller foreninger, organisationer eller grupper.
+- 2\) Den berørte offentlighed: Den del af offentligheden, som er berørt af, kan blive berørt af eller har en interesse i et projekt. Dette omfatter også ikkestatslige foreninger og organisationer, der har beskyttelsen af landskab, kulturarv, natur eller miljøinteresser som formål, hvis disse har vedtægter eller love, som dokumenterer deres formål og repræsenterer mindst 100 medlemmer.
+- 3\) Projekt:
+  - a) Etablering, udvidelse eller ændring, herunder nedrivning, af statslige jernbaneanlæg og dertil knyttede projekter.
+  - b) Andre indgreb i det naturlige miljø eller i landskaber, herunder sådanne, der tager sigte på udnyttelse af ressourcer i undergrunden i forbindelse med etablering, udvidelse eller ændring, herunder nedrivning, af statslige jernbaneanlæg og dertil knyttede projekter.
+- 4\) Berørt myndighed: En myndighed, som på grund af dens specifikke miljøansvar eller lokale og regionale kompetence kan forventes at blive berørt af et statsligt jernbaneanlægs indvirkning på miljøet.
+- 5\) Administrativ tilladelse: Trafikstyrelsens afgørelse efter § 38 j, stk. 1, der giver Banedanmark ret til at gennemføre et projekt, der er omfattet af § 38 a, stk. 1 eller 2.
+- 6\) Tilladelse ved anlægslov: Folketingets vedtagelse af en anlægslov, der giver Banedanmark ret til at gennemføre et projekt, der er omfattet af § 38 a, stk. 3.
+- 7\) Miljøkonsekvensvurdering: En proces, der består af følgende elementer:
+  - a) Banedanmarks udfærdigelse af en miljøkonsekvensrapport, jf. § 38 g.
+  - b) Gennemførelse af høringer af offentligheden og berørte myndigheder og miljøministerens gennemførelse af høring af berørte stater i henhold til § 38 h og § 38 i.
+  - c) Undersøgelse af de i miljøkonsekvensrapporten fremlagte oplysninger og eventuelle supplerende oplysninger, som Banedanmark om nødvendigt har fremlagt i overensstemmelse med § 38 g, stk. 9, 2. pkt., og af eventuelle relevante oplysninger modtaget via høringer i henhold til § 38 h og § 38 i.
+  - d) Den begrundede konklusion om et projekts væsentlige indvirkninger på miljøet under hensyntagen til resultaterne af den i litra c omhandlede undersøgelse og myndighedens egen supplerende undersøgelse.
+  - e) Indarbejdelse af den begrundede konklusion i afgørelserne, jf. § 38 j.
+
+## Kapitel 3 — Markedsadgang
+
+### Adgang til jernbaneinfrastrukturen
+
+#### § 4.
+
+Ansøgere har lige adgang til på ikkediskriminerende vilkår at søge om at købe eller reservere infrastrukturkapacitet på statens jernbaneinfrastruktur, jernbaneinfrastruktur ejet af A/S Storebælt eller A/S Øresund og anden jernbaneinfrastruktur beliggende på den danske del af det transeuropæiske transportnet (TEN-T-nettet) samt adgang til stationer, kombiterminaler, rangerfaciliteter og jernbanerelaterede serviceydelser i tilknytning hertil.
+
+*Stk. 2.* Transportministeren kan fastsætte regler om begrænsning af retten til at medtage passagerer fra én station til en anden, hvor udøvelsen af denne ret vil skabe ubalance i den økonomiske ligevægt i en kontrakt om offentlig tjeneste.
+
+### Adgang til stationer, kombiterminaler og jernbanerelaterede servicefaciliteter
+
+#### § 5.
+
+Forvaltere af jernbanerelaterede servicefaciliteter omfattet af bilag II, punkt 2, litra a-i, i Europa-Parlamentets og Rådets direktiv om oprettelse af et fælles europæisk jernbaneområde giver uden forskelsbehandling alle jernbanevirksomheder adgang, herunder sporadgang, til faciliteterne og de ydelser, der leveres i disse faciliteter.
+
+*Stk. 2.* Forvaltere omfattet af stk. 1 reserverer uden forskelsbehandling betjeningskapacitet på en jernbanerelateret servicefacilitet i tilknytning til tildelt jernbaneinfrastruktur til ansøgere, der ikke er jernbanevirksomheder.
+
+*Stk. 3.* Transportministeren kan fastsætte regler om betaling for betjeningskapacitet på stationer, herunder om betaling for at stille billetsalgsudstyr til rådighed.
+
+*Stk. 4.* Transportministeren fastsætter de nærmere regler om forvaltning af og principperne for afgifter for brug af jernbanerelaterede servicefaciliteter og de ydelser, der leveres i disse faciliteter.
+
+#### § 6.
+
+Er en forvalter, jf. § 5, kontrolleret direkte eller indirekte af en jernbanevirksomhed, der har en dominerende stilling på det nationale jernbanetransportmarked, hvor servicefaciliteten benyttes, skal forvalteren af faciliteten være organiseret på en måde, der sikrer, at forvalteren er uafhængig af den pågældende virksomhed med hensyn til organisation og beslutningstagning. En sådan uafhængighed indebærer ikke krav om, at der skal oprettes en særskilt juridisk enhed for servicefaciliteterne, men kan opnås med to særskilte afdelinger inden for en og samme juridiske enhed.
+
+*Stk. 2.* Transportministeren kan fastsætte nærmere regler om forhold efter stk. 1, herunder regler om særskilte regnskaber.
+
+#### § 7.
+
+Såfremt en servicefacilitet, der er omfattet af § 5, ikke har været benyttet i mindst 2 år i træk og en jernbanevirksomhed over for ejeren eller forvalteren af faciliteten på grundlag af et påvist behov har tilkendegivet interesse for adgang hertil, skal ejeren offentliggøre, at faciliteten kan leases eller lejes helt eller delvis som jernbanefacilitet. Dette gælder dog ikke, såfremt ejeren eller forvalteren af servicefaciliteten kan godtgøre, at en igangværende omstillingsproces forhindrer jernbanevirksomheder i at benytte den.
+
+*Stk. 2.* Transportministeren kan fastsætte nærmere regler om leasing- eller lejeforhold efter stk. 1.
+
+### Regnskaber
+
+#### § 8.
+
+Jernbanevirksomheder skal føre og offentliggøre særskilte driftsregnskaber og balancer for aktiviteter i forbindelse med jernbanegodstransport og for aktiviteter i forbindelse med passagertransport. Offentlige midler, der udbetales til aktiviteter i forbindelse med transporttjenester som led i offentlig tjeneste, skal figurere særskilt i de relevante regnskaber, og de må ikke overføres til aktiviteter i forbindelse med andre transporttjenester eller anden form for aktivitet.
+
+*Stk. 2.* Jernbanevirksomheder skal føre og offentliggøre særskilte driftsregnskaber og balancer for aktiviteter i forbindelse med udførelse af transport og for aktiviteter i forbindelse med virksomhedernes forvaltning af jernbaneinfrastrukturen.
+
+*Stk. 3.* Regnskaberne vedrørende de forskellige aktivitetsområder, der henvises til i stk. 1 og 2, skal føres således, at det er muligt at overvåge forbuddet mod overførsel af offentlige midler, der er betalt til ét aktivitetsområde, til et andet og at overvåge anvendelsen af overskud fra andre forretningsaktiviteter.
+
+*Stk. 4.* Transportministeren kan fastsætte nærmere regler om virksomhedernes pligt til at føre og offentliggøre særskilte regnskaber, jf. stk. 1-3.
+
+## Kapitel 4 — Krav til virksomheder på jernbaneområdet
+
+#### § 9.
+
+Drift af jernbanevirksomhed i Danmark kræver tilladelse, der udstedes af Trafikstyrelsen. Trafikstyrelsen kan suspendere, ændre eller tilbagekalde tilladelser, der er udstedt til jernbanevirksomhederne.
+
+*Stk. 2.* Trafikstyrelsen underretter Det Europæiske Jernbaneagentur ved udstedelse, suspension, ændring eller tilbagekaldelse af tilladelser til jernbanevirksomheder.
+
+*Stk. 3.* Tilladelser udstedt af andre medlemsstater i Den Europæiske Union i medfør af EU-regler gælder i Danmark.
+
+*Stk. 4.* Transportministeren fastsætter nærmere regler om krav til at opnå en tilladelse til at drive jernbanevirksomhed efter stk. 1, herunder krav om hæderlighed, finansiel kapacitet, faglige kompetencer og forsikring til dækning af erstatningsansvar.
+
+*Stk. 5.* Transportministeren fastsætter endvidere regler om udstedelse, fornyet vurdering, suspension, vilkår, ændring, tidsbegrænsning eller tilbagekaldelse af tilladelser efter stk. 1.
+
+#### § 10.
+
+Ansøgere, der ikke er jernbanevirksomheder, skal have en godkendelse af infrastrukturforvalteren for at kunne reservere jernbaneinfrastrukturkapacitet på et givet tidspunkt på infrastrukturforvalterens baneafsnit.
+
+*Stk. 2.* Banedanmark fastsætter nærmere regler om vilkår for godkendelse af ansøgere, jf. stk. 1.
+
+*Stk. 3.* Infrastrukturforvaltere, der stiller jernbaneinfrastruktur til rådighed for andre, kan ligeledes fastsætte vilkår for godkendelse af ansøgere, jf. stk. 1.
+
+#### § 11.
+
+For virksomheder, som er certificeret efter regler, der er fastsat efter stk. 3, gælder §§ 15, 21, 39, 50-54, 57, 58, 61, 64, 67, 69, 71, 76, 76 a, 77, 79 og 103 og kapitel 12 og 13 og regler, der er udstedt i medfør heraf. Reglerne i §§ 50-54 finder dog kun anvendelse ved skader på ejendom eller personer, der ikke befordres med virksomheder, som er certificeret efter regler, der er fastsat efter stk. 3.
+
+*Stk. 2.* Virksomheder, der er certificeret efter regler fastsat i medfør af stk. 3, skal indgå en aftale med infrastrukturforvalteren om anvendelsen af jernbaneinfrastrukturen, inden der kan udføres kørsel på jernbanenettet.
+
+*Stk. 3.* Transportministeren2) kan fastsætte regler om sikkerhedscertificering af virksomheder, som udfører kørsel på eget ansvar på jernbanenettet, og som ikke er omfattet af § 9 om tilladelse til at drive jernbanevirksomhed. Transportministeren kan endvidere fastsætte regler om forsikring for disse virksomheder.
+
+#### § 12.
+
+Transportministeren kan bestemme, at de virksomheder, der udsteder certifikater til ihændehavere af køretøjer, vedligeholdelsesenheder eller værksteder m.v. i henhold til EU-regler, skal være omfattet af en akkrediteret ordning.
+
+*Stk. 2.* Transportministeren fastsætter nærmere regler om akkrediteringsordningen efter stk. 1, herunder om krav til certificering og underretning om akkreditering.
+
+### Forretningsbetingelser, kontrolafgifter og færdselsregler
+
+#### § 13.
+
+Jernbanevirksomheder skal udarbejde forretningsbetingelser om virksomhedernes regler vedrørende befordring, herunder erstatningsansvar over for passagerer ved skader på bagage. Forretningsbetingelserne skal endvidere gengive reglerne i Europa-Parlamentets og Rådets forordning om jernbanepassagerers rettigheder og forpligtelser og reglerne om erstatning i forbindelse med national godstransport. Forretningsbetingelserne skal anmeldes til Trafikstyrelsen.
+
+*Stk. 2.* Jernbanevirksomheders forretningsbetingelser skal være offentligt tilgængelige.
+
+#### § 14.
+
+Jernbanevirksomheder, der via kontrakt udfører offentlig servicetrafik, kan opkræve kontrolafgifter, ekspeditionsgebyrer og rejsekortfordringer.
+
+*Stk. 2.* Passagerer, der ikke er i besiddelse af gyldig rejsehjemmel, har pligt til på forlangende at forevise legitimation for jernbanevirksomhedens personale med henblik på at fastslå passagerens identitet.
+
+#### § 15.
+
+Jernbanevirksomhederne skal overholde infrastrukturforvalterens krav til færdsel, jf. § 19, stk. 1.
+
+## Kapitel 5 — Infrastruktur og infrastrukturforvaltning
+
+### Banedanmark
+
+#### § 16.
+
+Banedanmark forvalter statens jernbaneinfrastruktur.
+
+*Stk. 2.* Banedanmark er bortset fra opgaver vedrørende vedligeholdelse og reinvestering infrastrukturforvalter for jernbanedelen på den faste forbindelse over Storebælt og på de danske jernbanetilslutningsanlæg til den faste forbindelse over Øresund (Kastrupbanen og Vigerslevbanen).
+
+*Stk. 3.* Banedanmark varetager kapacitetstildeling og trafikstyring på jernbaneinfrastruktur ejet af A/S Femern Landanlæg.
+
+*Stk. 4.* Banedanmark kan endvidere varetage kapacitetstildeling på jernbaneinfrastruktur ejet af Femern A/S.
+
+*Stk. 5.* Banedanmark kan forvalte anden jernbaneinfrastruktur i henhold til aftale med infrastrukturejeren.
+
+*Stk. 6.* Banedanmark kan mod betaling stille ERTMS-udstyr, ICI-udstyr, CBTC-udstyr, ERTMS-udrustet materiel og ICI-udrustet materiel til rådighed for jernbanevirksomheder godkendt efter § 9, stk. 1, og virksomheder godkendt efter regler fastsat i medfør af § 11, stk. 3.
+
+### Kapacitetstildeling
+
+#### § 17.
+
+Infrastrukturforvalteren tildeler infrastrukturkapacitet på baneafsnit, som denne forvalter.
+
+*Stk. 2.* I de tilfælde, hvor der foreligger modstridende ønsker om infrastrukturkapacitet på et baneafsnit, fordeler infrastrukturforvalteren kapaciteten efter nærmere regler fastsat af transportministeren, jf. stk. 5.
+
+*Stk. 3.* Der gives fortrinsret til godstrafik i internationale godstogskorridorer i henhold til Europa-Parlamentets og Rådets forordning om et europæisk banenet med henblik på konkurrencebaseret godstransport og derefter til trafik udført som offentlig tjeneste.
+
+*Stk. 4.* Kapacitet, som ikke er fordelt i henhold til stk. 3, fordeles til ansøgende jernbanevirksomheder således, at
+
+- 1\) der tages hensyn til virksomhedernes hidtidige kapacitetsrettigheder,
+- 2\) der inden for nærmere fastsatte rammer stilles kapacitet til rådighed for jernbanevirksomheder, som for første gang ansøger om rettigheder til baneafsnittet, og
+- 3\) jernbaneinfrastrukturen i øvrigt udnyttes på den samfundsmæssigt mest hensigtsmæssige måde.
+
+*Stk. 5.* Transportministeren fastsætter nærmere regler om fordeling af infrastrukturkapacitet, jf. stk. 2-4.
+
+### Oplysninger om infrastrukturen og adgang hertil
+
+#### § 18.
+
+Infrastrukturforvaltere udarbejder og offentliggør årligt en netredegørelse, der beskriver karakteren af den jernbaneinfrastruktur, der er til rådighed for jernbanevirksomhederne og ansøgerne, og beskriver vilkårene for jernbanevirksomhedernes og ansøgernes adgang til jernbaneinfrastrukturen, herunder om afgifter og jernbanevirksomhedernes betaling for benyttelse af jernbaneinfrastrukturen, jf. § 21.
+
+*Stk. 2.* Netredegørelsen indeholder ligeledes oplysninger om vilkårene for jernbanevirksomhedernes og ansøgernes adgang til servicefaciliteter, der er omfattet af § 5, og oplysninger om levering af ydelser i disse faciliteter eller henviser til en hjemmeside, hvor oplysningerne fremgår.
+
+*Stk. 3.* Vilkår for godkendelse af ansøgere, som Banedanmark og infrastrukturforvaltere fastsætter efter § 10, stk. 2 og 3, gengives i netredegørelsen.
+
+*Stk. 4.* Transportministeren fastsætter nærmere regler om netredegørelsen, der er nævnt i stk. 1 og 2, herunder om tidspunkt for offentliggørelse og retningslinjer for netredegørelsen.
+
+#### § 19.
+
+Infrastrukturforvalteren offentliggør sine krav til færdsel på baneafsnit, som denne forvalter.
+
+*Stk. 2.* Infrastrukturforvalteren skal stille de tekniske forskrifter, der er nødvendige for kørslen på et baneafsnit, til rådighed for jernbanevirksomhederne.
+
+*Stk. 3.* Transportministeren kan pålægge infrastrukturforvalteren at afgive tekniske og statistiske oplysninger om den jernbaneinfrastruktur, som vedkommende forvalter, herunder oplysninger om jernbanevirksomhedernes trafik på jernbaneinfrastrukturen. Transportministeren bestemmer den form, hvori oplysningerne skal afgives.
+
+#### § 20.
+
+I forbindelse med tildeling af infrastrukturkapacitet indgår infrastrukturforvalteren kontrakt med jernbanevirksomheden om samarbejdsrelationer og betingelser for benyttelse af jernbaneinfrastrukturen. Kontrakten skal indeholde en præstationsordning, der kan omfatte bestemmelser om bonus og om bod for togforsinkelser og for manglende overholdelse af aftalens bestemmelser.
+
+*Stk. 2.* Transportministeren kan fastsætte nærmere regler om betingelser for benyttelse af jernbaneinfrastrukturen, jf. stk. 1.
+
+#### § 21.
+
+Transportministeren fastsætter regler om jernbanevirksomhedernes betaling for at benytte statens jernbaneinfrastruktur.
+
+*Stk. 2.* Transportministeren kan fastsætte regler om en kompensationsordning, der kan understøtte konkurrencemæssig ligestilling af jernbanegodstransport med andre former for godstransport.
+
+*Stk. 3.* Transportministeren kan bestemme, at jernbanevirksomheder mod særskilt betaling kan købe særlige ydelser af infrastrukturforvalteren, der ikke er omfattet af betaling i stk. 1, herunder forvarmning af passagertog.
+
+#### § 22.
+
+Lov om elforsyning finder ikke anvendelse på Banedanmarks elforsyningsaktiviteter.
+
+*Stk. 2.* Banedanmark forsyner jernbanevirksomhederne med kørestrøm. Transportministeren fastsætter nærmere regler herfor.
+
+### Drift og trafikstyring
+
+#### § 23.
+
+Infrastrukturforvalteren har ansvaret for en sikker trafikstyring på den del af jernbaneinfrastrukturen, som denne forvalter.
+
+*Stk. 2.* Ønsker en infrastrukturforvalter, at ansvaret for trafikstyringen skal varetages af en anden virksomhed, skal Trafikstyrelsen godkende dette. Trafikstyrelsen kan fastsætte vilkår herfor.
+
+### Sikring af baneafsnittet og driften på sporene
+
+#### § 24.
+
+Der kan ikke uden tilladelse fra infrastrukturforvalteren
+
+- 1\) foretages udgravninger eller opfyldninger eller anbringes materiel eller materialer i en sådan nærhed af infrastrukturforvalterens område, at der derved kan opstå fare for driften,
+- 2\) føres ledninger over, under eller langs med banen,
+- 3\) ledes vand til banen eller dennes grøfter, herunder ved opstemning, eller
+- 4\) foretages arbejder i niveauoverkørsler.
+
+### Ledningsarbejder
+
+#### § 24 a.
+
+Arbejder på ledninger m.v. over, under eller langs baneareal, herunder om nødvendigt flytning af ledninger, i forbindelse med arbejder, der iværksættes af infrastrukturforvalteren inden for rammerne af de formål, som infrastrukturforvalteren kan varetage på egne arealer, betales af ledningsejeren.
+
+*Stk. 2.* Stk. 1 finder ikke anvendelse, hvis andet er bestemt ved aftale, kendelse afsagt af en ekspropriationskommission nedsat i henhold til lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom eller afgørelse truffet af en kommunalbestyrelse efter vandforsyningslovens §§ 37 og 38, jf. § 40.
+
+*Stk. 3.* Foretages der i forbindelse med etablering af statslig jernbaneinfrastruktur arbejder på en kommunalt eller fælleskommunalt ejet ledning placeret i en kommunevej, afholder staten udgifterne til dette ledningsarbejde. Udgifter til senere arbejder på disse ledninger er dog omfattet af stk. 1.
+
+#### § 24 b.
+
+Arbejder på ledninger m.v. over, under eller langs baneareal udføres af vedkommende ledningsejer, medmindre andet er aftalt.
+
+*Stk. 2.* Infrastrukturforvalteren kan kræve selv at udføre arbejder over, under eller langs baneareal i forbindelse med ledningsarbejder, hvis
+
+- 1\) der er behov for at koordinere ledningsarbejdet med andre arbejder på banearealet,
+- 2\) ledningsejeren ikke overholder vilkår stillet i forbindelse med en tilladelse eller
+- 3\) arbejdets udførelse kræver særlig faglig ekspertise.
+
+*Stk. 3.* Infrastrukturforvalteren kan i særlige tilfælde lade ledningsarbejder udføre for ledningsejerens regning, når ledningsejeren trods indskærpelse af vilkårene for ledningstilladelse, jf. § 24, nr. 2, ikke overholder disse.
+
+#### § 24 c.
+
+Ved infrastrukturforvalterens arbejder efter § 24 a skal infrastrukturforvalteren tage hensyn til ledninger m.v. over, under eller langs banearealet.
+
+*Stk. 2.* Infrastrukturforvalteren skal så tidligt som muligt drøfte et planlagt arbejde med ledningsejeren med henblik på at undersøge, hvordan arbejdet kan tilrettelægges på den mest hensigtsmæssige måde for infrastrukturforvalteren og ledningsejeren.
+
+*Stk. 3.* Opnås der ikke enighed mellem infrastrukturforvalteren og ledningsejeren, kan infrastrukturforvalteren efter at have meddelt ledningsejeren, at det planlagte arbejde påbegyndes, gennemføre arbejdet og kræve nærmere bestemte ledningsarbejder udført af ledningsejeren.
+
+*Stk. 4.* Infrastrukturforvalteren kan i særlige tilfælde lade de ledningsarbejder, der er nævnt i stk. 3, udføre for ledningsejerens regning.
+
+*Stk. 5.* Tvister om betaling for arbejder på eller af hensyn til ledninger kan indbringes for transportministeren.
+
+#### § 25.
+
+Infrastrukturforvalteren kan kræve træer og anden beplantning på, over og ved baneareal fjernet, nedskåret, opstammet eller studset, når banens vedligehold eller hensynet til togdriften gør det nødvendigt. Efterkommes infrastrukturforvalterens krav ikke inden for en fastsat frist, kan infrastrukturforvalteren lade arbejdet udføre på ejerens bekostning.
+
+#### § 26.
+
+Inden for nærmere angivne afstande, der fastsættes af transportministeren, jf. stk. 3, skal rummet over og på begge sider af alle spor, der ligger på havneområde uden at være bestemt afgrænset fra dette, samt alle spor, der ligger i vej, gade eller plads, der er åben for almindelig færdsel, holdes fri for faste og løse genstande.
+
+*Stk. 2.* § 24 gælder tilsvarende for de spor, der er nævnt i stk. 1.
+
+*Stk. 3.* Transportministeren fastsætter nærmere regler om de forhold, der er nævnt i stk. 1, og om forhold, der i øvrigt måtte findes fornødne til sikring af driften på sporene.
+
+#### § 27.
+
+Infrastrukturforvalteren etablerer, vedligeholder og nedtager egne hegn, herunder fastsætter hegnstyper, på baneafsnit, der forvaltes af den pågældende.
+
+#### § 28.
+
+Hævd kan ikke vindes over arealer, der i matriklen er registreret som jernbanearealer.
+
+### Infrastrukturens ensartethed og sikkerhed
+
+#### § 29.
+
+Transportministeren kan fastsætte regler om anlæg, vedligeholdelse, drift og nedlæggelse af jernbaneinfrastruktur, herunder om jernbaneinfrastrukturens forhold til omgivelserne, om entreprisebetingelser og om sådanne forhold, som i øvrigt er af betydning for jernbaneinfrastrukturens ensartethed og sikkerhed.
+
+### Afvisning af nye anlæg og omfattende ændringer på eksisterende anlæg
+
+#### § 29 a.
+
+Transportministeren kan afvise nye anlæg og omfattende ændringer på eksisterende anlæg på, i tilknytning til og i nærheden af jernbanenettet, når det er nødvendigt af hensyn til jernbanenettets funktionalitet og sikkerhed.
+
+*Stk. 2.* Transportministeren kan fastsætte nærmere regler om afvisning af projekter omfattet af stk. 1.
+
+## Kapitel 6 — Ekspropriation og anlæg af baner
+
+### Ekspropriation m.v.
+
+#### § 30.
+
+Transportministeren kan til statslige anlæg, når det er nødvendigt af hensyn til almenvellet, iværksætte eller, for så vidt angår ikkestatslige anlæg, tillade, at anlægsmyndigheden iværksætter ekspropriation til de formål, der er nævnt i stk. 2.
+
+*Stk. 2.* Ekspropriation i henhold til stk. 1 kan ske til
+
+- 1\) nyanlæg af jernbaner,
+- 2\) udvidelse eller ændring af eksisterende jernbaneanlæg,
+- 3\) nyanlæg, udvidelse eller ændring af veje i forbindelse med anlæg efter nr. 1 og 2,
+- 4\) sikring og regulering af færdslen ved krydsninger mellem veje og jernbaner,
+- 5\) vedligehold af jernbaneanlæg, nødvendige supplerende foranstaltninger og fyldtagning,
+- 6\) foranstaltninger af hensyn til udnyttelse, betjening, sikring, synlighed og drift på hensigtsmæssig måde af de anlæg, der er nævnt i nr. 1-5, herunder til etablering af fornødne adgangsveje, arbejdsarealer, garager, værksteder, administrationsbygninger, signaler, kørestrømsanlæg og sikringsanlæg,
+- 7\) klimarelaterede afværgeforanstaltninger, herunder ved etablering af regnvandsbassiner, kontrollerede oversvømmelser og etablering og vedligeholdelse af dræn- og afvandingsanlæg samt sikring af grundvand,
+- 8\) nyanlæg, ændring eller vedligehold af master og dertilhørende tekniske anlæg til brug for mobil- og internetdækning i tog eller
+- 9\) etablering af erstatningsbiotoper og andre foranstaltninger til kompensation for banens indgreb i naturtilstanden.
+
+*Stk. 3.* Transportministeren kan ved ekspropriation efter stk. 1 pålægge ejendomme servitutter, herunder om eldrift, med heraf følgende rådighedsindskrænkninger.
+
+*Stk. 4.* Ekspropriation efter stk. 1-3 sker efter reglerne i lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom.
+
+*Stk. 5.* Ved erstatningsfastsættelsen efter stk. 4 finder § 103 i lov om offentlige veje m.v. anvendelse.
+
+#### § 31.
+
+En ekspropriationskommission, der er nedsat i henhold til lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom, kan træffe beslutning om lukning af niveauoverkørsler eller lukning af adgang til jernbanestrækninger, selv om der ikke i forbindelse hermed foretages ekspropriation med henblik på en afløsningsforanstaltning. Eventuelle erstatningsspørgsmål afgøres efter lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom.
+
+#### § 32.
+
+Infrastrukturforvalteren kan til forebyggelse af snedriver på jernbaner lade opstille flyttelige sneskærme eller træffe lignende midlertidige foranstaltninger. Skader, der herved forvoldes på de pågældende ejendomme, hvorpå foranstaltningerne iværksættes, eller andre ejendomme, erstattes. Erstatning fastsættes ved taksation efter reglerne i lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom, hvis der ikke kan indgås aftale med ejeren herom.
+
+*Stk. 2.* Transportministeren kan fastsætte nærmere regler om fremgangsmåden i henhold til stk. 1.
+
+#### § 33.
+
+Transportministeren kan efter anmodning fra ejeren i særlige tilfælde overtage en ejendom, der berøres særlig indgribende af en projekterings- eller anlægsaktivitet i forbindelse med projekteringen eller anlægget af nye statslige baneanlæg eller ændring af eksisterende statslige baneanlæg, før tidspunktet for de ordinære ekspropriationer, hvis ejendommen ikke kan afhændes på normale vilkår. Ikke-statslige anlægsmyndigheder kan på samme betingelser som i 1. pkt. overtage en ejendom, idet anlægsmyndigheden afholder alle omkostningerne hertil.
+
+*Stk. 2.* Hvis transportministeren afslår ejerens anmodning efter stk. 1, eller hvis der ikke kan opnås enighed om prisen for ejendommens overtagelse, henvises sagen til ekspropriations- og taksationsmyndighederne i henhold til lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom.
+
+*Stk. 3.* Ved erstatningsfastsættelsen efter stk. 2 finder § 103 i lov om offentlige veje m.v. anvendelse.
+
+### Byggelinjer og forbud
+
+#### § 34.
+
+Transportministeren kan pålægge byggelinjer, når det er nødvendigt for at sikre gennemførelsen af nye statslige eller ikkestatslige baneanlæg eller ændringer af eksisterende statslige eller ikkestatslige baneanlæg.
+
+*Stk. 2.* Byggelinjer efter stk. 1 kan pålægges for en periode af højst 10 år. Byggelinjepålægget kan én gang ved et nyt pålæg forlænges med indtil 10 år.
+
+*Stk. 3.* På ejendomme, der ligger inden for byggelinjen, må der ikke uden tilladelse fra transportministeren opføres ny bebyggelse eller tilbygning til eksisterende bebyggelse, foretages væsentlige forandringer i eksisterende bebyggelse, genopføres nedbrændt eller nedrevet bebyggelse eller etableres andre anlæg og indretninger af blivende art.
+
+#### § 35.
+
+Transportministeren skal offentliggøre byggelinjepålæg efter § 34. Transportministeren skal endvidere sende meddelelse til de ejere og brugere, hvis ejendomme direkte berøres af pålægget, og hvis adkomst fremgår af tingbogen.
+
+*Stk. 2.* Byggelinjepålægget skal tinglyses med angivelse af hjemmel, når klagefristen, der fastsættes efter § 113, er udløbet eller afgørelse af eventuel klagesag er truffet.
+
+*Stk. 3.* Klage over en afgørelse om byggelinjepålæg fritager ikke klageren for at efterkomme pålægget. Klagemyndigheden kan dog bestemme, at klagen skal have opsættende virkning.
+
+*Stk. 4.* Pålagte byggelinjepålæg skal respekteres af enhver fra datoen for pålæggets offentliggørelse, uanset hvornår rettighederne er erhvervet.
+
+*Stk. 5.* Inden byggearbejder iværksættes på en ejendom, hvorpå der er pålagt byggelinjer i henhold til § 34, skal bygherren indhente oplysning hos transportministeren om, hvorvidt arbejdets udførelse vil komme i strid med byggelinjepålægget.
+
+#### § 36.
+
+Transportministeren kan nedlægge forbud mod, at der på en ejendom, der berøres af planlægningen af de anlæg, der er nævnt i § 34, stk. 1, foretages de foranstaltninger, der er nævnt i § 34, stk. 2, inden der eventuelt pålægges byggelinjer efter § 34, stk. 1.
+
+*Stk. 2.* Et forbud efter stk. 1 kan kun nedlægges for en periode af 1 år og kan ikke nedlægges mere end én gang.
+
+*Stk. 3.* Inden en kommunalbestyrelse giver tilladelse til byggeri eller andre retlige eller fysiske foranstaltninger, som må forventes at komme i strid med byggelinjen for anlægget, som er under planlægning eller er planlagt, men endnu ikke er sikret ved et byggelinjepålæg, skal kommunalbestyrelsen give transportministeren oplysning herom. Hvis transportministeren ikke inden 2 måneder efter at have modtaget en sådan oplysning nedlægger forbud efter stk. 1, kan tilladelsen gives.
+
+*Stk. 4.* Transportministeren skal offentliggøre forbud efter stk. 1. Transportministeren skal endvidere sende meddelelse til de ejere og brugere, hvis ejendomme direkte berøres af forbuddet, og hvis adkomst fremgår af tingbogen.
+
+*Stk. 5.* Et forbud efter stk. 1 skal respekteres af enhver fra datoen for forbuddets offentliggørelse, uanset hvornår deres rettigheder er erhvervet.
+
+*Stk. 6.* Klage over en afgørelse om forbud fritager ikke klageren for at efterkomme forbuddet. Klagemyndigheden kan dog bestemme, at klagen skal have opsættende virkning.
+
+#### § 37.
+
+Transportministeren kan efter anmodning fra ejeren overtage en ejendom mod erstatning, hvis ejendommen er pålagt byggelinjer efter § 34 og ejeren afskæres fra en udnyttelse af ejendommen, der er økonomisk rimelig og forsvarlig under hensyn til ejendommens beliggenhed og øvrige beskaffenhed, og som svarer til den udnyttelse, der finder sted af andre tilgrænsende eller omliggende ejendomme. Ikkestatslige anlægsmyndigheder kan på samme betingelser som i 1. pkt. overtage en ejendom, idet anlægsmyndigheden afholder alle omkostningerne hertil.
+
+*Stk. 2.* Ejeren af en ejendom, der i ikke uvæsentligt omfang er pålagt byggelinjer efter § 34, kan på ethvert tidspunkt desuden kræve, at transportministeren overtager ejendommen mod erstatning, når byggelinjerne hindrer afhændelse af ejendommen på normale vilkår og ejeren af særlige personlige grunde ønsker at afstå ejendommen før det tidspunkt, hvor der kan foretages ekspropriation. Ikkestatslige anlægsmyndigheder kan på samme betingelser som i 1. pkt. overtage en ejendom, idet anlægsmyndigheden afholder alle omkostningerne hertil.
+
+*Stk. 3.* Udgør det areal, der er pålagt byggelinjer efter § 34, kun en del af en ejendom, kan ejeren kræve hele ejendommen overtaget, hvis den tilbageværende del af ejendommen bliver så lille eller af en sådan beskaffenhed, at ejendommen ikke skønnes hensigtsmæssigt at kunne bevares som selvstændig ejendom eller udnyttes på rimelig måde. Tilsvarende gælder, hvis byggelinjepålægget hindrer afhændelse af hele ejendommen på normale vilkår i de situationer, der er nævnt i stk. 2.
+
+*Stk. 4.* Hvis transportministeren afslår ejerens anmodning efter stk. 1, eller hvis der ikke kan opnås enighed om prisen for ejendommens overtagelse, henvises sagen til ekspropriations- og taksationsmyndighederne i henhold til lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom.
+
+*Stk. 5.* Ved erstatningsfastsættelsen efter stk. 4 finder § 103 i lov om offentlige veje m.v. anvendelse.
+
+### Fravigelse af støjkrav
+
+#### § 37 a.
+
+Transportministeren kan efter forhandling med miljøministeren bestemme, at krav, påbud eller forbud efter lov om miljøbeskyttelse og regler fastsat i medfør heraf om støj ikke finder anvendelse, i det omfang det er nødvendigt for at undgå væsentlig forsinkelse eller fordyrelse af et jernbaneprojekt.
+
+#### § 37 b.
+
+Transportministeren kan i forbindelse med afgørelse truffet i henhold til § 37 a efter anmodning give tilbud om midlertidigt ophold uden for eget hjem eller kontant kompensation til beboere, som er naboer til jernbaneprojekter omfattet af § 37 a, der udføres i nattetimerne og skønnes at støje over, hvad der må anses som tåleligt.
+
+*Stk. 2.* Beløb ydet efter reglerne i stk. 1 indgår ikke ved vurderingen af, om en person har ret til ydelser fra det offentlige, og medfører ikke reduktion af sådanne ydelser.
+
+*Stk. 3.* Transportministeren kan fastsætte nærmere regler om rammerne for den kompensation, der tilbydes, jf. stk. 1.
+
+### Forundersøgelser
+
+#### § 38.
+
+Transportministeren har, hvis det skønnes nødvendigt, til enhver tid mod behørig legitimation og uden retskendelse adgang til en privat ejendom med henblik på at foretage jordbundsundersøgelser, opmålinger, afmærkninger og andre undersøgelser af udendørsarealer for at foretage undersøgelser og projektering af nye baneanlæg eller ændringer af eksisterende baneanlæg samt klimarelaterede afværgeforanstaltninger. Det samme gælder i forhold til at foretage undersøgelser og projektering af master og dertilhørende tekniske anlæg til brug for mobil- og internetdækning i tog i tilknytning til nye eller eksisterende jernbaneanlæg.
+
+*Stk. 2.* Transportministeren skal mindst 14 dage før gennemførelsen af forberedende undersøgelser efter stk. 1 give skriftligt besked til de berørte grundejere eller brugere. Hvis dette ikke er muligt, skal oplysning om de forberedende undersøgelser offentliggøres i lokale medier el.lign.
+
+*Stk. 3.* Transportministeren kan under samme betingelser som nævnt i stk. 1 lade foretage arkæologiske forundersøgelser.
+
+*Stk. 4.* Transportministeren skal mindst 28 dage før gennemførelsen af arkæologiske forundersøgelser efter stk. 3 give skriftlig besked til de berørte grundejere eller brugere. Hvis dette ikke er muligt, skal oplysning om de arkæologiske forundersøgelser offentliggøres i lokale medier el.lign.
+
+*Stk. 5.* Erstatning for skader og ulempe, som påføres ved undersøgelser efter stk. 1 og 3, fastsættes efter almindelige erstatningsregler. I tilfælde af uenighed mellem skadelidte og transportministeren fastsættes erstatningen efter reglerne i lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom. Ved erstatningsfastsættelsen finder § 103 i lov om offentlige veje m.v. anvendelse.
+
+## Kapitel 6 a — Miljøkonsekvensvurdering af statslige jernbaneanlæg
+
+### Krav om tilladelse
+
+#### § 38 a.
+
+Banedanmarks etablering, udvidelse eller ændring af statslige jernbaneanlæg og dertil knyttede projekter, der er omfattet af bilag 1, der bl.a. på grund af deres art, dimensioner eller placering kan forventes at få væsentlige indvirkninger på miljøet, kræver en vurdering af projektets indvirkning på miljøet samt administrativ tilladelse.
+
+*Stk. 2.* Banedanmarks etablering, udvidelse eller ændring af statslige jernbaneanlæg og dertil knyttede projekter, der er omfattet af bilag 2, der bl.a. på grund af deres art, dimensioner eller placering kan forventes at få væsentlige indvirkninger på miljøet, kræver administrativ tilladelse, hvis Trafikstyrelsen efter § 38 d har truffet screeningsafgørelse om, at der skal gennemføres en vurdering af projektets indvirkning på miljøet.
+
+*Stk. 3.* Banedanmarks etablering, udvidelse eller ændring af statslige jernbaneanlæg og dertil knyttede projekter, der er omfattet af bilag 1 eller 2, jf. stk. 1 og 2, kræver ikke administrativ tilladelse, når projektet opnår tilladelse ved anlægslov. Projekter, hvor der meddeles tilladelse ved anlægslov, kan fritages fra høring af offentligheden, jf. § 38 h, stk. 6, forudsat at formålet med dette kapitel, jf. § 1, stk. 3, opfyldes.
+
+*Stk. 4.* Et konkret projekt, der er omfattet af bilag 1 eller 2, jf. stk. 1-3, kan i undtagelsestilfælde helt eller delvis fritages fra dette kapitels bestemmelser, hvis anvendelsen af disse bestemmelser vil skade formålet med projektet, forudsat at formålet med dette kapitel, jf. § 1, stk. 3, opfyldes. Fritagelsen gælder ikke høring efter § 38 i.
+
+*Stk. 5.* Transportministeren fastsætter nærmere regler om anvendelse af fritagelsen i stk. 4, herunder om betingelserne og processen for anvendelsen.
+
+### Ansøgning
+
+#### § 38 b.
+
+Ansøgning efter § 38 a, stk. 1, indgives skriftligt til Trafikstyrelsen.
+
+*Stk. 2.* Banedanmark skal før etablering, udvidelse eller ændring af statslige jernbaneanlæg og dertil knyttede projekter, jf. § 38 a, stk. 2 og 3 indgive skriftlig ansøgning om en screeningsafgørelse til Trafikstyrelsen, hvis projektet er opført på bilag 2, jf. dog stk. 3.
+
+*Stk. 3.* Ønsker Banedanmark, at et projekt, der er omfattet af bilag 2, jf. stk. 2, skal undergå en miljøkonsekvensvurdering uden screeningsafgørelse, jf. 38 d, stk. 1, skal dette meddeles skriftligt til Trafikstyrelsen.
+
+### Screening
+
+#### § 38 c.
+
+Banedanmarks ansøgning efter § 38 b, stk. 2, for et projekt, der er opført på bilag 2, skal indeholde oplysninger om projektets karakteristika og dets forventede væsentlige indvirkninger på miljøet, jf. bilag 2 a, og tilgængelige resultater af andre relevante vurderinger af indvirkninger på miljøet, der er foretaget i medfør af EU-lovgivning, der er relevant for det konkrete projekt.
+
+*Stk. 2.* Ved ansøgning efter stk. 1 kan Banedanmark fremlægge en beskrivelse af særkender ved projektet og, hvis det er relevant, en beskrivelse af de foranstaltninger, der påtænkes truffet for at undgå eller forebygge, hvad der ellers kunne have været væsentlige skadelige indvirkninger på miljøet.
+
+#### § 38 d.
+
+Trafikstyrelsen træffer afgørelse om, hvorvidt et projekt, der er opført på bilag 2, bl.a. på grund af dets art, dimensioner eller placering, er omfattet af krav om tilladelse efter § 38 a, stk. 2 eller 3, på grundlag af oplysningerne i ansøgningen, jf. § 38 c. Ved vurderingen skal Trafikstyrelsen tage hensyn til kriterierne i bilag 3.
+
+*Stk. 2.* Trafikstyrelsen skal i afgørelsen tage hensyn til resultaterne af foreløbig kontrol eller vurderinger af indvirkningen på miljøet, der er foretaget i medfør af EU-lovgivning.
+
+*Stk. 3.* Trafikstyrelsen skal med henvisning til de kriterier, der fremgår af bilag 3, angive hovedårsagerne til afgørelsen. I de tilfælde, hvor Banedanmark har fremlagt en beskrivelse efter § 38 c, stk. 2, skal Trafikstyrelsen i en afgørelse om, at et projekt ikke er omfattet af krav om tilladelse efter § 38 a, stk. 2 eller 3, endvidere anføre særkender ved projektet eller anføre, hvilke foranstaltninger der påtænkes truffet for at undgå eller forebygge, hvad der ellers kunne have været væsentlige skadelige indvirkninger på miljøet.
+
+*Stk. 4.* Trafikstyrelsen skal offentliggøre sin afgørelse efter stk. 1.
+
+*Stk. 5.* Transportministeren kan fastsætte regler om tærskelværdier eller kriterier til brug for Trafikstyrelsens afgørelse efter stk. 1.
+
+#### § 38 e.
+
+Trafikstyrelsen skal træffe screeningsafgørelse efter § 38 d, stk. 1, hurtigst muligt og senest 90 dage fra den dag, hvor Banedanmark har fremlagt alle de oplysninger, der kræves efter § 38 c, stk. 1, jf. dog stk. 2.
+
+*Stk. 2.* I særlige tilfælde, f.eks. med hensyn til projektets art, kompleksitet, placering eller dimensioner, kan Trafikstyrelsen forlænge fristen til at træffe afgørelse. Trafikstyrelsen underretter skriftligt Banedanmark om årsagerne til forlængelsen og om, hvornår der forventes en afgørelse.
+
+### Afgrænsning af miljøkonsekvensrapportens indhold
+
+#### § 38 f.
+
+Banedanmark kan forud for udarbejdelse af en miljøkonsekvensrapport, jf. § 38 g, anmode Trafikstyrelsen om at afgive en udtalelse om, hvor omfattende og detaljerede de oplysninger, som skal fremlægges i miljøkonsekvensrapporten, skal være. Udtalelsen skal tage hensyn til Banedanmarks fremlagte oplysninger, herunder navnlig oplysninger om projektets særlige karakteristika, herunder dets placering og tekniske kapacitet, og dets forventede indvirkning på miljøet. Udtalelsen skal endvidere tage behørigt hensyn til resultaterne af de høringer, der er foretaget efter § 38 h, stk. 4.
+
+### Miljøkonsekvensrapport
+
+#### § 38 g.
+
+Banedanmark udfærdiger en miljøkonsekvensrapport for et projekt, der er omfattet af § 38 a. Miljøkonsekvensrapporten skal være fuldstændig og af tilstrækkelig høj kvalitet.
+
+*Stk. 2.* Miljøkonsekvensrapporten skal mindst omfatte
+
+- 1\) en beskrivelse af projektet med oplysninger om projektets placering, udformning, dimensioner og andre relevante særkender,
+- 2\) en beskrivelse af projektets forventede væsentlige indvirkninger på miljøet,
+- 3\) en beskrivelse af projektets særkender og, hvis det er relevant, en beskrivelse af de foranstaltninger, der påtænkes truffet for at undgå, forebygge, begrænse eller om muligt neutralisere forventede væsentlige skadelige indvirkninger på miljøet,
+- 4\) en beskrivelse af de rimelige alternativer, som Banedanmark har undersøgt, og som er relevante for projektet og dets særlige karakteristika, og en angivelse af hovedårsagerne til den valgte løsning under hensyntagen til projektets indvirkninger på miljøet,
+- 5\) et ikketeknisk resumé af oplysningerne i nr. 1-4 og
+- 6\) alle yderligere oplysninger, som er beskrevet i bilag 4, og som er relevante for de særlige karakteristika, der gør sig gældende for et bestemt projekt eller en bestemt projekttype og for det miljø, der kan forventes at blive berørt.
+
+*Stk. 3.* Miljøkonsekvensrapporten skal i de tilfælde, hvor Trafikstyrelsen har afgivet en udtalelse efter § 38 f, være udarbejdet på grundlag af udtalelsen.
+
+*Stk. 4.* Miljøkonsekvensrapporten skal indeholde de oplysninger, der med rimelighed kan kræves for at nå frem til den begrundede konklusion om projektets væsentlige indvirkninger på miljøet, idet der tages hensyn til gældende viden og vurderingsmetoder.
+
+*Stk. 5.* Ved udarbejdelsen af miljøkonsekvensrapporten skal der tages hensyn til tilgængelige resultater af andre relevante vurderinger foretaget i henhold til EU-lovgivning eller dansk lovgivning.
+
+*Stk. 6.* De oplysninger, som miljøkonsekvensrapporten skal omfatte, jf. stk. 2 og bilag 4, skal på en passende måde påvise og beskrive og indeholde en vurdering af projektets væsentlige direkte og indirekte virkninger på
+
+- 1\) befolkningen og menneskers sundhed,
+- 2\) den biologiske mangfoldighed med særlig vægt på arter og naturtyper, der er beskyttet i henhold til Rådets direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter og Europa-Parlamentets og Rådets direktiv 2009/147/EF om beskyttelse af vilde fugle,
+- 3\) jordarealer, jordbund, vand, luft og klima,
+- 4\) materielle goder, kulturarv og landskabet og
+- 5\) samspillet mellem faktorerne i nr. 1-4.
+
+*Stk. 7.* Virkningerne, der er nævnt i stk. 6, skal omfatte de forventede virkninger af projektets sårbarhed over for risici for større ulykker eller katastrofer, der er relevante for det pågældende projekt.
+
+*Stk. 8.* Banedanmark skal sikre, at miljøkonsekvensrapporten er udarbejdet af kvalificerede og kompetente eksperter.
+
+*Stk. 9.* Trafikstyrelsen skal sikre, at miljøkonsekvensrapporten for de projekter, der er omfattet af § 38 a, stk. 1 og 2, opfylder kravene i stk. 1-8. Trafikstyrelsen kan om nødvendigt indhente yderligere oplysninger fra Banedanmark til opfyldelse af de krav, der følger af stk. 2 og bilag 4, som er direkte relevante for, at Trafikstyrelsen kan nå frem til den begrundede konklusion om et projekts væsentlige indvirkninger på miljøet. Trafikstyrelsen skal sikre, at styrelsen har eller efter behov kan få adgang til tilstrækkelig ekspertise til at undersøge miljøkonsekvensrapporten.
+
+*Stk. 10.* Myndigheder skal stille relevante oplysninger til brug for udarbejdelse af miljøkonsekvensrapporten til rådighed for Banedanmark efter anmodning fra Banedanmark.
+
+### Høringer m.v.
+
+#### § 38 h.
+
+For at sikre offentlighedens og berørte myndigheders effektive deltagelse i miljøkonsekvensvurderingen af et projekt, jf. § 38 a, skal myndigheden tidligt i miljøkonsekvensvurderingen, og senest så snart oplysningerne med rimelighed kan gives, stille oplysningerne nævnt i stk. 2 til rådighed for offentligheden og berørte myndigheder.
+
+*Stk. 2.* De oplysninger, som myndigheden skal stille til rådighed, jf. stk. 1, er følgende:
+
+- 1\) Ansøgningen om tilladelse, jf. § 38 b.
+- 2\) Oplysning om, at projektet er underkastet en miljøkonsekvensvurdering, og, hvis det er relevant, at § 38 i finder anvendelse.
+- 3\) Oplysning om, hvilken myndighed der skal træffe afgørelse.
+- 4\) Oplysning om, hvorfra der kan indhentes relevante oplysninger, og hvortil bemærkninger eller spørgsmål kan rettes, og nærmere oplysninger om fristerne for fremsendelse af bemærkninger eller spørgsmål.
+- 5\) Oplysning om karakteren af eventuelle afgørelser eller udkast til afgørelse, hvis et sådant foreligger, og efter hvilken lov afgørelsen skal træffes.
+- 6\) Oplysning om, hvorvidt de miljøoplysninger, der er indhentet af Banedanmark eller Trafikstyrelsen til brug for sagens behandling, er til rådighed for offentligheden.
+- 7\) Oplysning om, hvornår, hvor og hvordan relevante oplysninger stilles til rådighed.
+- 8\) Oplysning om, hvilke foranstaltninger der er eller vil blive truffet med henblik på offentlighedens deltagelse i miljøkonsekvensvurderingen.
+- 9\) Miljøkonsekvensrapporten, jf. § 38 g, udtalelsen om afgrænsning af miljøkonsekvensrapportens indhold, jf. § 38 f, resultatet af høringerne, jf. stk. 4, og indhentede oplysninger, jf. § 38 g, stk. 9, 2. pkt.
+- 10\) Eventuelle supplerende oplysninger, herunder de vigtigste rapporter og anbefalinger m.v., som myndigheden har modtaget.
+- 11\) Andre oplysninger end de oplysninger, der er nævnt i nr. 1-10, som er relevante for afgørelsen.
+
+*Stk. 3.* Trafikstyrelsen skal foretage høring af berørte myndigheder, inden styrelsen træffer screeningsafgørelse efter § 38 d, stk. 1. Trafikstyrelsen fastsætter en passende frist for høringen, som giver myndighederne mulighed for at forberede sig og opnå en reel deltagelse i processen.
+
+*Stk. 4.* Trafikstyrelsen skal foretage høring af berørte myndigheder, inden styrelsen afgiver udtalelse efter § 38 f, stk. 1. Trafikstyrelsen fastsætter en passende frist for høringen, som giver myndighederne mulighed for at forberede sig og opnå en reel deltagelse i processen.
+
+*Stk. 5.* Trafikstyrelsen skal efter gennemgang af miljøkonsekvensrapporten sende denne, ansøgningen og eventuelle supplerende oplysninger i høring med henblik på at give berørte myndigheder og offentligheden mulighed for at fremsætte bemærkninger, før der træffes afgørelse om administrativ tilladelse. Trafikstyrelsen fastsætter en passende frist for fremsættelse af bemærkninger til miljøkonsekvensrapporten, dog mindst 8 uger, som giver myndighederne og offentligheden mulighed for at forberede sig og opnå en reel deltagelse i processen. Fristen skal fremgå af høringen.
+
+*Stk. 6.* Ved projekter, hvor der meddeles tilladelse ved anlægslov, sender Banedanmark miljøkonsekvensrapporten og eventuelle supplerende oplysninger i høring med henblik på at give berørte myndigheder og offentligheden mulighed for at fremsætte bemærkninger før vedtagelse af anlægsloven, jf. dog § 38 a, stk. 3. Banedanmark fastsætter en passende frist for fremsættelse af bemærkninger til miljøkonsekvensrapporten, dog mindst 8 uger, som giver myndighederne og offentligheden mulighed for at forberede sig og opnå en reel deltagelse i processen. Fristen skal fremgå af høringen.
+
+*Stk. 7.* I de tilfælde, hvor høringer efter stk. 5 og 6 er afsluttet og der opstår behov for at gennemføre en supplerende miljøkonsekvensvurdering, kan høringen over en supplerende miljøkonsekvensrapport ske med en passende høringsfrist på mindst 30 dage, som giver myndighederne og offentligheden mulighed for at forberede sig og opnå en reel deltagelse i processen.
+
+*Stk. 8.* Transportministeren eller den offentlige myndighed, som ministeren bemyndiger hertil, udpeger de berørte myndigheder, der skal ske høring af efter stk. 3-7 for det enkelte projekt.
+
+### Internationale høringer
+
+#### § 38 i.
+
+Kan et projekt, der er omfattet af § 38 a, forventes at få væsentlige indvirkninger på miljøet i en anden stat, skal Trafikstyrelsen snarest muligt underrette miljø- og fødevareministeren med henblik på gennemførelse af en international høring, jf. stk. 3 og 4. Trafikstyrelsen kan ikke meddele administrativ tilladelse, før miljø- og fødevareministeren har meddelt samtykke hertil.
+
+*Stk. 2.* Får miljø- og fødevareministeren en henvendelse fra en anden stat om, at denne finder, at der i Danmark er indledt et projekt, der er omfattet af § 38 a, og hvis gennemførelse kan få væsentlige indvirkninger på miljøet i den pågældende stat, underretter miljø- og fødevareministeren snarest muligt Trafikstyrelsen herom med henblik på afklaring af, om der skal gennemføres en international høring, jf. stk. 3 og 4. Trafikstyrelsen kan ikke meddele administrativ tilladelse, før miljø- og fødevareministeren har meddelt samtykke hertil.
+
+*Stk. 3.* Kan et projekt få væsentlige indvirkninger på miljøet i en anden stat, jf. stk. 1 og 2, stiller miljøministeren oplysningerne nævnt i § 38 h, stk. 2, til rådighed for den pågældende stat i overensstemmelse med § 38 h, stk. 1.
+
+*Stk. 4.* Med henblik på gennemførelse af en international høring, jf. stk. 1 og 2, sender miljø- og fødevareministeren, de oplysninger, der er nævnt i § 38 h, stk. 2, 5 og 6, oplysninger om projektets mulige grænseoverskridende virkninger på miljøet, herunder på menneskers sundhed, og oplysninger om beslutningsproceduren, herunder angivelse af en frist for afgivelse af bemærkninger, til den berørte stat. Fristen for afgivelse af bemærkninger fastsættes i overensstemmelse med § 38, stk. 6, 2. og 3. pkt., i lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM).
+
+### Administrativ tilladelse
+
+#### § 38 j.
+
+Trafikstyrelsen træffer afgørelse om, hvorvidt et ansøgt projekt, der er omfattet af § 38 a, stk. 1 og 2, kan tillades. Afgørelsen træffes på grundlag af Banedanmarks ansøgning, miljøkonsekvensrapporten, eventuelle supplerende oplysninger, resultatet af de høringer, der er foretaget, og Trafikstyrelsens begrundede konklusion. Trafikstyrelsen skal, før der træffes afgørelse, sikre, at miljøkonsekvensrapporten, eventuelle supplerende oplysninger og den begrundede konklusion er tidssvarende.
+
+*Stk. 2.* Trafikstyrelsen skal træffe afgørelse efter stk. 1 inden for en rimelig frist. Hvis Trafikstyrelsen ikke kan træffe afgørelse inden for en rimelig frist, meddeles dette Banedanmark samt begrundelsen herfor.
+
+#### § 38 k.
+
+Træffer Trafikstyrelsen afgørelse om at tillade det ansøgte projekt, jf. § 38 j, stk. 1 skal afgørelsen indeholde den begrundede konklusion og alle de miljømæssige betingelser, der er knyttet til afgørelsen, en beskrivelse af alle projektets særkender og de foranstaltninger, der påtænkes truffet for at undgå, forebygge eller begrænse og om muligt neutralisere væsentlige skadelige indvirkninger på miljøet samt eventuelle overvågningsforanstaltninger.
+
+*Stk. 2.* Trafikstyrelsen kan stille vilkår for administrative tilladelser med henblik på opfyldelse af dette kapitels formål, jf. § 1, stk. 3. Trafikstyrelsen skal, hvis projektet har væsentlige skadelige indvirkninger på miljøet, stille vilkår om Banedanmarks overvågning heraf. Hvor det er hensigtsmæssigt, kan der anvendes eksisterende overvågningsordninger.
+
+*Stk. 3.* Vilkår, jf. stk. 2, skal stå i et rimeligt forhold til projektets art, placering og dimensioner samt omfanget af dets indvirkninger på miljøet.
+
+*Stk. 4.* Træffer Trafikstyrelsen afgørelse om at nægte administrativ tilladelse til det ansøgte projekt, skal Trafikstyrelsen angive hovedårsagerne hertil i afgørelsen.
+
+*Stk. 5.* Transportministeren kan fastsætte nærmere regler om overvågningens gennemførelse, om indholdet af overvågningen, om, at overvågningen i visse tilfælde skal udøves af andre end Banedanmark, og om indberetning af resultaterne af overvågningen til ministeren.
+
+#### § 38 l.
+
+Trafikstyrelsen kan genoptage en afgørelse om at tillade et ansøgt projekt, jf. § 38 j, stk. 1, og om nødvendigt meddele forbud og påbud, herunder tilbagekalde en tilladelse eller fastsætte særlige vilkår til en eksisterende tilladelse, hvis
+
+- 1\) der fremkommer nye oplysninger om projektets væsentlige skadelige indvirkning på miljøet,
+- 2\) projektets væsentlige skadelige indvirkning ikke kunne forudses ved Trafikstyrelsens meddelelse af tilladelsen eller
+- 3\) projektets væsentlige skadelige indvirkning i øvrigt går ud over det, som blev lagt til grund ved Trafikstyrelsens meddelelse af tilladelse.
+
+### Offentliggørelse
+
+#### § 38 m.
+
+Når Trafikstyrelsen har truffet afgørelse om at give eller nægte administrativ tilladelse, skal styrelsen sikre, at følgende oplysninger straks gøres tilgængelige for offentligheden og de berørte myndigheder:
+
+- 1\) Indholdet af afgørelsen og de betingelser, der eventuelt er knyttet hertil, jf. § 38 k.
+- 2\) De vigtigste begrundelser og overvejelser, der ligger til grund for afgørelsen, herunder oplysninger om proceduren for offentlig deltagelse.
+- 3\) Resuméet af resultaterne af de høringer, der er foretaget.
+- 4\) De oplysninger, der er indsamlet i henhold til § 38 g, stk. 9, 2. pkt., § 38 h, stk. 5, og § 38 i.
+- 5\) Hvorledes resultaterne og oplysningerne, der er nævnt i nr. 3 og 4, er indarbejdet i afgørelsen eller på anden måde taget i betragtning, navnlig eventuelle bemærkninger fra berørte stater, jf. § 38 i.
+
+*Stk. 2.* Trafikstyrelsen skal underrette alle stater, der er blevet hørt, jf. § 38 i, stk. 4, og fremsende de oplysninger, der er nævnt i stk. 1.
+
+*Stk. 3.* I de projekter, hvor der gives tilladelse ved anlægslov, skal Banedanmark stille de oplysninger, der er nævnt i stk. 1, til rådighed for offentligheden og de berørte myndigheder.
+
+*Stk. 4.* I de projekter, hvor der meddeles tilladelse ved anlægslov, skal Banedanmark underrette alle de stater, der er blevet hørt, jf. § 38 i, stk. 4, og fremsende de oplysninger, der er nævnt i stk. 1.
+
+### Andre bestemmelser
+
+#### § 38 n.
+
+Ved udførelsen af opgaver i dette kapitel er Trafikstyrelsen uafhængig af instruktioner om den enkelte sags behandling og afgørelse. Trafikstyrelsen udfører opgaverne i dette kapitel på objektiv vis.
+
+#### § 38 o.
+
+For projekter, der er omfattet af § 38 a, stk. 1 og 2, fører Trafikstyrelsen tilsyn med overholdelse af bestemmelserne i dette kapitel og med, at vilkår m.v. for projekternes gennemførelse overholdes.
+
+#### § 38 p.
+
+Transportministeren kan fastsætte regler om, at offentliggørelse af oplysninger om projektet, herunder høringer, skal ske via en central elektronisk portal.
+
+#### § 38 q.
+
+Transportministeren fastsætter regler om fælles og samordnede procedurer for miljøkonsekvensvurdering af projekter, hvor der både gælder krav om miljøkonsekvensvurdering efter reglerne i dette kapitel og krav om vurdering efter regler, der implementerer Rådets direktiv 92/43/EØF om bevaring af naturtyper samt vilde dyr og planter eller Europa-Parlamentets og Rådets direktiv 2009/147/EF om beskyttelse af vilde fugle.
+
+#### § 38 r.
+
+Transportministeren kan bemyndige statslige selskaber på Transportministeriets område til helt eller delvis at udøve de beføjelser, som Banedanmark er tillagt efter dette kapitel eller regler fastsat i medfør af dette kapitel, til etablering, udvidelse eller ændring af statslige jernbaneanlæg og dertil knyttede projekter, jf. § 38 a.
+
+*Stk. 2.* Transportministeren kan efter forhandling med vedkommende minister bemyndige andre statslige myndigheder eller selskaber til helt eller delvis at udøve de beføjelser, som Banedanmark er tillagt efter dette kapitel eller regler fastsat i medfør af dette kapitel, til gennemførelse af projekter, der er knyttet til etablering, udvidelse eller ændring af statslige jernbaneanlæg, jf. § 38 a.
+
+*Stk. 3.* Transportministeren kan efter forhandling med vedkommende minister fastsætte regler om gebyrer til dækning af Trafikstyrelsens omkostninger ved administration og tilsyn efter dette kapitel eller regler fastsat i medfør af dette kapitel, hvad angår projekter omfattet af stk. 2.
+
+## Kapitel 7 — Bybaner
+
+#### § 39.
+
+Jernbanevirksomheder, som driver virksomhed på en bybane, skal have et sikkerhedscertifikat, der udstedes af Trafikstyrelsen.
+
+*Stk. 2.* Transportministeren fastsætter regler om kravene for at opnå sikkerhedscertifikat efter stk. 1, herunder regler om sikkerhedsledelsessystemer, oplysningspligt, gyldighedsperiode, dispensation og ændringer af certifikat og suspension samt tilbagekaldelse.
+
+#### § 39 a.
+
+Infrastrukturforvaltere, som forvalter infrastruktur på en bybane skal have en sikkerhedsgodkendelse, der udstedes af Trafikstyrelsen.
+
+*Stk. 2.* Transportministeren fastsætter regler om kravene for at opnå sikkerhedsgodkendelse efter stk. 1, herunder regler om sikkerhedsledelsessystemer, oplysningspligt, gyldighedsperiode, dispensation og ændringer af godkendelser og suspension samt tilbagekaldelse.
+
+#### § 39 b.
+
+Det kræver godkendelse fra Trafikstyrelsen at tage jernbaneinfrastruktur eller køretøjer i brug på en bybane.
+
+*Stk. 2.* Trafikstyrelsen kan udstede typegodkendelse til køretøjer efter stk. 1.
+
+*Stk. 3.* Trafikstyrelsen fastsætter regler om godkendelse af køretøjer og jernbaneinfrastruktur, herunder om, at visse forhold kan undtages fra godkendelse.
+
+#### § 39 c.
+
+Transportministeren fastsætter særlige regler om bybaner, herunder beløbsstørrelser for ansvarsforsikring, indberetning af ulykker og hændelser m.v., kørestrøm, drifts- og trafikstyringsregler, tekniske krav og helbreds- og kompetencekrav for bybaneførere.
+
+*Stk. 2.* Transportministeren fastsætter regler om særlige forhold for letbaner, der er skinnebåren trafik, som både kan køre på vej efter færdselslovens regler og i eget tracé.
+
+## Kapitel 8 — Veteranbaner
+
+#### § 40.
+
+Drift af veteranbaner samt udførelse af veterantogskørsel kræver tilladelse fra Trafikstyrelsen.
+
+*Stk. 2.* Trafikstyrelsen udsteder tilladelse, jf. stk. 1, og fører tilsyn med drift af veteranbaner og med udførelse af veterantogskørsel, jf. dog stk. 6.
+
+*Stk. 3.* Trafikstyrelsen kan stille krav om, at der for veteranbanens regning udføres eller kræves udført afprøvninger, målinger og kontrol. Trafikstyrelsen kan endvidere forlange udtalelser fra veteranbanens ledelse og medarbejdere og kræve nødvendig dokumentation udleveret.
+
+*Stk. 4.* §§ 48, 62 og 63 gælder tilsvarende for niveauoverkørsler på veteranbanerne.
+
+*Stk. 5.* § 81 gælder tilsvarende i det tilfælde, hvor der udføres veterantogskørsel på det åbne jernbanenet.
+
+*Stk. 6.* Transportministeren kan udpege sagkyndige private virksomheder eller personer til at føre tilsyn med drift af veteranbanerne og med udførelse af veterantogskørsel.
+
+*Stk. 7.* Transportministeren kan fastsætte nærmere regler om drift af veteranbaner, godkendelse af køretøjer og jernbaneinfrastruktur og udførelse af veterantogskørsel, herunder om kriterier for udstedelse af tilladelser, sikkerhedsmæssige forhold, forsikringsmæssige forhold, helbreds- og kompetencekrav, indberetninger, undersøgelser af ulykker, klageadgang og påbud og forbud.
+
+*Stk. 8.* Transportministeren kan fastsætte særlige regler i det tilfælde, hvor der udføres veterantogskørsel på det åbne jernbanenet, herunder om godkendelse af veterantogskøretøjer samt krav til helbred og uddannelse af fører af veterantog.
+
+## Kapitel 9 — Ordensbestemmelser
+
+### Ophold m.v. på infrastrukturforvalterens og jernbanevirksomhedens område
+
+#### § 41.
+
+Infrastrukturforvalterens og jernbanevirksomhedens område omfatter stationsområder, banelinjer med tilhørende skråninger, banketter og grøfter, broer, tunneler, højbaner, arbejdspladser og andre anlæg, tog og andre køretøjer og forpladser og adgangsveje til stationer og jernbanefærgesteder, hvor disse ejes af jernbanevirksomheden eller ejes eller forvaltes af infrastrukturforvalteren.
+
+#### § 42.
+
+Enhver, der søger adgang til eller opholder sig på de områder, der er nævnt i § 41, og som er åbne for offentligheden, skal rette sig efter de forskrifter til opretholdelse af orden og sikkerhed, der meddeles af virksomhedens personale, eller som ved opslag eller på anden hensigtsmæssig måde er bekendtgjort af virksomheden.
+
+*Stk. 2.* Politiet skal efter anmodning bistå jernbanevirksomheden eller infrastrukturforvalteren med håndhævelsen af de ordens- og sikkerhedsbestemmelser, der gælder på områder nævnt i § 41.
+
+#### § 43.
+
+Uden den pågældende jernbanevirksomheds eller infrastrukturforvalters tilladelse må ingen tage ophold i erhvervsøjemed, optage film eller fotografere i erhvervsøjemed eller til undervisningsbrug, foretage indsamlinger, omdele tryksager el.lign. på de områder, der er nævnt i § 41.
+
+#### § 44.
+
+Reklamer og andre indretninger må ikke være anbragt således, at de er til ulempe for opfattelsen af signaler på banearealet.
+
+#### § 45.
+
+Det er forbudt at stige på tog, når dørene er under lukning, og at hindre den automatiske dørlukning i tog.
+
+*Stk. 2.* Der må ikke kastes affald eller andre genstande ud fra tog.
+
+*Stk. 3.* Nødbremsen i tog og nødstop på perron må kun benyttes i nødstilfælde.
+
+#### § 46.
+
+Ingen må færdes eller lade dyr færdes på de områder, der er nævnt i § 41, og som ikke er åbne for offentligheden, uden infrastrukturforvalterens eller jernbanevirksomhedens tilladelse.
+
+#### § 47.
+
+Enhver, der overtræder bestemmelserne i § 42, stk. 1, og §§ 43, 45 og 46, kan af virksomhedens personale bortvises og om fornødent fjernes fra virksomhedens område.
+
+#### § 47 a.
+
+Personer, der skal passere en perronovergang i niveau med jernbaneskinner, skal udvise særlig forsigtighed. Når sporene passeres, skal dette ske uden unødigt ophold.
+
+*Stk. 2.* Personer må ikke passere en perronovergang i niveau med jernbaneskinner i følgende situationer:
+
+- 1\) Det kan ses eller høres, at tog nærmer sig.
+- 2\) Advarsel om, at tog nærmer sig, er tilkendegivet ved signalanlæg.
+- 3\) Jernbanens personale tilkendegiver, at tog nærmer sig.
+
+### Krydsende trafik i niveauoverkørsler, der ikke er åbne for almindelig færdsel
+
+#### § 48.
+
+Ved passage af niveauoverkørsler, der ikke er åbne for almindelig færdsel, skal der udvises særlig forsigtighed.
+
+*Stk. 2.* Uvedkommende må ikke benytte niveauoverkørsler, der ikke er åbne for almindelig færdsel.
+
+*Stk. 3.* Transportministeren fastsætter nærmere regler om passage og benyttelse af niveauoverkørsler, der ikke er åbne for almindelig færdsel.
+
+## Kapitel 10 — Erstatning, forsikring og farligt gods
+
+#### § 49.
+
+Jernbanevirksomheden skal erstatte skader på passagerer og tab af forsørger ved dødsfald, hvis skaden eller dødsfaldet er en følge af en begivenhed i forbindelse med jernbanebefordring under passagerens ophold i tog eller under dennes ind- eller udstigning, jf. dog § 50, stk. 1.
+
+*Stk. 2.* Jernbanevirksomheden skal endvidere erstatte skader på og tab af genstande, som passageren medfører som håndbagage, hvis skaden er en følge af en begivenhed i forbindelse med jernbanebefordring under passagerens ophold i tog eller under dennes ind- eller udstigning, jf. dog § 50, stk. 2.
+
+*Stk. 3.* Erstatning i medfør af stk. 2 kan ikke overstige 15.900 kr. for hver passager. Erstatningsbeløbet reguleres hvert år pr. 1. januar med 2 pct. tillagt tilpasningsprocenten for det gældende finansår, jf. lov om en satsreguleringsprocent. De herefter fremkomne beløb afrundes til nærmeste kronebeløb, der kan deles med 100. Transportministeren bekendtgør hvert år de regulerede beløb.
+
+*Stk. 4.* Transportministeren kan fastsætte nærmere regler om, at jernbanevirksomhedernes erstatningsansvar efter stk. 1 som følge af terrorvirksomhed el.lign. begrænses til et bestemt beløb.
+
+#### § 50.
+
+Erstatning for personskade eller tab af forsørger, jf. § 49, stk. 1, kan nedsættes eller bortfalde, hvis skadelidte eller afdøde forsætligt har medvirket til skaden. Erstatning kan endvidere nedsættes og i særlige tilfælde bortfalde, hvis skadelidte eller afdøde ved grov uagtsomhed har medvirket til skaden.
+
+*Stk. 2.* Erstatning for tingskade, jf. § 49, stk. 2, kan nedsættes eller bortfalde, hvis skadelidte forsætligt eller uagtsomt har medvirket til skaden.
+
+#### § 51.
+
+Jernbanevirksomheden skal erstatte skader på ejendom eller personer, der ikke befordres med jernbanevirksomheden, som foranlediges ved påkørsel. Ved sådanne skader finder §§ 50 og 52 tilsvarende anvendelse. Påkørsel af løsgående dyr er ikke omfattet af erstatningspligten.
+
+#### § 52.
+
+Jernbanevirksomheden kan gøre regres mod infrastrukturforvalteren, i det omfang en skade er forvoldt ved fejl eller uagtsomhed fra infrastrukturforvalterens side.
+
+#### § 53.
+
+Jernbanevirksomheder og infrastrukturforvaltere skal tegne ansvarsforsikring, der dækker krav om erstatning for skader i forbindelse med jernbanevirksomhed eller skader, som er forvoldt af infrastrukturforvaltere, medmindre kravene er omfattet af statens selvforsikringsprincip.
+
+*Stk. 2.* Ophører forsikringen med at gælde, hæfter forsikringsselskabet dog over for tredjemand for skaden efter policens pålydende, endnu i 2 måneder efter at forsikringsselskabet over for Trafikstyrelsen har anmeldt forsikringens ophør, medmindre kravene er dækket af anden forsikring eller kravene er omfattet af statens selvforsikringsprincip.
+
+*Stk. 3.* Erstatningsansvaret ved befordring af gods i national trafik følger de fælles regler for kontrakter om international befordring af gods med jernbane (CIM). For stykgods gælder dog den maksimale erstatning, der er fastsat i konvention om fragtaftaler ved international godstransport ad landevej (CMR).
+
+*Stk. 4.* Transportministeren fastsætter nærmere regler om forhold efter stk. 1, herunder om oversættelse af udenlandske forsikringspolicer og minimumsforsikringsbeløb og regulering heraf m.v.
+
+#### § 54.
+
+Transportministeren kan fastsætte regler om transport af farligt gods på jernbaneområdet, herunder om virksomhedernes indberetninger om forhold vedrørende farligt gods. Transportministeren kan endvidere fastsætte regler om afsenders erstatningsansvar over for jernbanevirksomheden, såfremt der ved indlevering af gods afgives urigtig, unøjagtig eller ufuldstændig betegnelse eller der sker overtrædelse af gældende sikkerhedsforskrifter.
+
+#### § 54 a.
+
+Transportministeren kan fastsætte regler om transport af farligt gods, herunder forbud mod transport af farligt gods, når det er begrundet i andre hensyn end sikkerheden under transport.
+
+## Kapitel 11 — Jernbanesikkerhed og interoperabilitet
+
+#### § 55.
+
+Trafikstyrelsen er sikkerhedsmyndighed på jernbaneområdet. I forhold vedrørende jernbanesikkerhed er Trafikstyrelsen uafhængig og ikke undergivet transportministerens instruktionsbeføjelse.
+
+#### § 56.
+
+Transportministeren kan fastsætte regler om sikkerhed og interoperabilitet på jernbaneområdet.
+
+#### § 57.
+
+Jernbanevirksomheder og infrastrukturforvaltere er ansvarlige for sikkerheden på deres respektive del af jernbanesystemet.
+
+*Stk. 2.* Andre aktører end dem, der er nævnt i stk. 1, og som har potentiel indflydelse på sikker drift af jernbanesystemet, herunder fabrikanter, vedligeholdelsesvirksomheder, ihændehavere m.v., skal
+
+- 1\) iværksætte de nødvendige risikostyringsforanstaltninger om nødvendigt i samarbejde med andre aktører,
+- 2\) sørge for, at delsystemer, øvrigt udstyr, materiel eller tjenesteydelser, som de leverer, opfylder de anførte krav og betingelser, således at det er sikkert for den pågældende jernbanevirksomhed eller infrastrukturforvalter at anvende det i driften,
+- 3\) træffe de nødvendige korrigerende foranstaltninger, hvis de inden for deres respektive kompetenceområder konstaterer eller underrettes om en sikkerhedsrisiko i forbindelse med mangler og konstruktionsmæssige fejl eller funktionsfejl ved teknisk udstyr, herunder også i strukturelt definerede delsystemer, med henblik på at udbedre den konstaterede sikkerhedsrisiko og
+- 4\) underrette de relevante involverede parter om risikoen, hvis de inden for deres respektive kompetenceområder konstaterer eller underrettes om en sikkerhedsrisiko i forbindelse med mangler og konstruktionsmæssige fejl eller funktionsfejl ved teknisk udstyr, herunder også i strukturelt definerede delsystemer, med henblik på at sætte disse parter i stand til at træffe de nødvendige korrigerende foranstaltninger, som sikrer, at sikkerhedskrav til jernbanesystemet er opfyldt.
+
+*Stk. 3.* Infrastrukturforvalteren er ansvarlig for jernbanesikkerheden i niveauoverkørsler med de anlæg, der er nødvendige til sikring af vejtrafikken.
+
+### Sikkerhedscertifikater og -godkendelser
+
+#### § 58.
+
+Jernbanevirksomheder skal have et EU-sikkerhedscertifikat, jf. dog § 39.
+
+*Stk. 2.* EU-sikkerhedscertifikatet udstedes af agenturet i de tilfælde, hvor EU-sikkerhedscertifikatet skal dække et driftsområde i mere end én medlemsstat i EU.
+
+*Stk. 3.* EU-sikkerhedscertifikatet udstedes af agenturet eller Trafikstyrelsen i de tilfælde, hvor EU-sikkerhedscertifikatet alene skal dække et driftsområde i Danmark.
+
+*Stk. 4.* Den, der ansøger om et EU-sikkerhedscertifikat i henhold til stk. 3, kan ansøge hos agenturet eller Trafikstyrelsen.
+
+*Stk. 5.* Transportministeren kan fastsætte regler om kravene for at opnå et EU-sikkerhedscertifikat, herunder regler om sikkerhedsledelsessystemer, gyldighedsperiode, dispensation og ændringer af certifikater samt tilbagekaldelse.
+
+#### § 59.
+
+Infrastrukturforvaltere skal have en sikkerhedsgodkendelse, der udstedes af Trafikstyrelsen.
+
+*Stk. 2.* Transportministeren kan fastsætte nærmere regler om kravene for at opnå sikkerhedsgodkendelse, herunder regler om sikkerhedsledelsessystemer, gyldighedsperiode, dispensation, ændringer af godkendelser og certifikater samt tilbagekaldelse.
+
+#### § 60.
+
+Det kræver køretøjsomsætningstilladelse at bringe et køretøj i omsætning i Danmark.
+
+*Stk. 2.* Typegodkendelse er en betingelse for køretøjsomsætningstilladelsen. Typegodkendelsen skal udstedes senest samtidig med udstedelse af køretøjsomsætningstilladelsen.
+
+*Stk. 3.* Køretøjsomsætningstilladelsen og typegodkendelsen udstedes af agenturet, hvis køretøjet skal have anvendelsesområde i mere end én medlemsstat i EU.
+
+*Stk. 4.* Køretøjsomsætningstilladelsen og typegodkendelsen udstedes af agenturet eller Trafikstyrelsen i de tilfælde, hvor køretøjet alene skal have anvendelsesområde i Danmark.
+
+*Stk. 5.* Den, der ansøger om en køretøjsomsætningstilladelse eller en typegodkendelse i henhold til stk. 4, kan ansøge hos agenturet eller Trafikstyrelsen.
+
+*Stk. 6.* Trafikstyrelsen kan fastsætte regler om køretøjsomsætningstilladelser og typegodkendelser, herunder om, at visse forhold kan undtages fra godkendelse.
+
+#### § 60 a.
+
+Det kræver godkendelse fra Trafikstyrelsen at tage jernbaneinfrastruktur i brug på det danske jernbanenet.
+
+*Stk. 2.* Trafikstyrelsen kan fastsætte regler om godkendelse af jernbaneinfrastrukturforhold, herunder om, at visse forhold kan undtages fra godkendelse.
+
+#### § 60 b.
+
+Den, der udsender et udbud vedrørende fast ERTMS-udstyr (udstyr i forbindelse med det fælles harmoniserede togkontrolsystem), skal før udbuddet ansøge om agenturets godkendelse af, at de tekniske løsninger, der påtænkes, er i fuld overensstemmelse med de relevante tekniske specifikationer for interoperabilitet, jf. dog stk. 2 og 3.
+
+*Stk. 2.* Projekter vedrørende fast ERTMS-udstyr, hvor udbuds- eller kontraktindgåelsesfasen er afsluttet forud for den 16. juni 2019, er undtaget fra kravet om agenturets godkendelse.
+
+*Stk. 3.* Projekter vedrørende fast ERTMS-udstyr, hvor der er tale om optioner i kontrakter, der er undertegnet før den 15. juni 2016, er undtaget fra kravet om agenturets godkendelse indtil den 16. juni 2031, selv hvis de indfries efter den 15. juni 2016.
+
+*Stk. 4.* Transportministeren fastsætter nærmere regler om krav til ansøgningen i stk. 1.
+
+#### § 60 c.
+
+Ansøgning i henhold til §§ 58, 60 og 60 b skal indgives ved anvendelse af den elektroniske ansøgningsportal (onestopshop), som agenturet stiller til rådighed.
+
+*Stk. 2.* Transportministeren kan fastsætte nærmere regler om anvendelse af den elektroniske ansøgningsportal (onestopshop).
+
+### Sikkerhedsregler og trafikale sikkerhedsregler
+
+#### § 61.
+
+Trafikstyrelsen kan fastsætte regler om infrastrukturforvalteres tekniske sikkerhedsregler, herunder krav om anvendelse af en uafhængig tredjeparts vurderinger i forbindelse med udarbejdelse og ændring af tekniske sikkerhedsregler.
+
+### Niveauoverkørsler, der er åbne for almindelig færdsel
+
+#### § 62.
+
+Udgifter til drift og vedligeholdelse af anlæg til sikring af vejtrafikken i niveauoverkørsler, der er åbne for almindelig færdsel, afholdes af infrastrukturforvalteren.
+
+*Stk. 2.* Når anlægsarbejder på vejnettet medfører behov for etablering af nye eller ændring af eksisterende anlæg til sikring af vejtrafikken i niveauoverkørsel, som kan påvirke jernbanesikkerheden, afholdes udgifterne hertil af vedkommende vejmyndighed. Udgifterne afholdes af infrastrukturforvalteren, hvis etablering af eller ændring i sikkerhedsforanstaltningerne skyldes anlægsarbejder på banenettet.
+
+*Stk. 3.* Transportministeren kan efter høring af den relevante infrastrukturforvalter og vejmyndighed pålægge infrastrukturforvalteren eller vejmyndigheden at anlægge eller udbygge viadukter til sikring af vejtrafikken i niveauoverkørsler, der er åbne for almindelig færdsel. Udgifter efter 1. pkt. afholdes af staten. Medfører anlæg eller udbygning af en viadukt fremtidige lettelser i infrastrukturforvalterens årlige udgifter, afholder infrastrukturforvalteren et beløb, der svarer til den kapitaliserede værdi af udgiftsbesparelsen og andre indvundne fordele. Transportministeren fastsætter beløbets størrelse, såfremt der ikke er enighed herom.
+
+*Stk. 4.* Transportministeren fastsætter efter forhandling med justitsministeren regler om anlæg til sikring af vejtrafikken i niveauoverkørsler, der er åbne for almindelig færdsel.
+
+### Niveauoverkørsler, der ikke er åbne for almindelig færdsel
+
+#### § 63.
+
+Anlæg til sikring af vejtrafikken i niveauoverkørsler, der ikke er åbne for almindelig færdsel, etableres og vedligeholdes af infrastrukturforvalteren for det pågældende baneafsnit.
+
+*Stk. 2.* Transportministeren fastsætter regler om sikkerhed i niveauoverkørsler, der ikke er åbne for almindelig færdsel, herunder om anlæg til sikring af vejtrafikken.
+
+### Uafhængig tredjeparts vurdering og sagkyndig bistand
+
+#### § 64.
+
+Trafikstyrelsen kan kræve, at jernbanevirksomheder eller infrastrukturforvaltere, der ansøger om godkendelse af køretøjer, jernbaneinfrastruktur eller sikkerhedsregler, jf. §§ 39 b, 60, 60 a og 61, skal bruge en uafhængig tredjeparts vurdering i forbindelse med ansøgning om godkendelsen.
+
+*Stk. 2.* Trafikstyrelsen godkender uafhængige tredjeparter og fører tilsyn med disse.
+
+*Stk. 3.* Trafikstyrelsen kan stille krav om, at der for jernbanevirksomhedens eller infrastrukturforvalterens regning kan anvendes sagkyndig bistand i forbindelse med tilsyn efter § 70.
+
+*Stk. 4.* Trafikstyrelsen fastsætter regler om godkendelse af og krav til en uafhængig tredjeparts vurderinger, jf. stk. 1 og 2, herunder om uafhængighed og kompetence.
+
+### Krav til sikkerhedsklassificerede funktioner
+
+#### § 65.
+
+Den, som udfører sikkerhedsklassificerede funktioner på jernbaneområdet, skal have
+
+- 1\) opnået nødvendige faglige kvalifikationer via en uddannelse, der er godkendt af Trafikstyrelsen, jf. § 66, og
+- 2\) en helbredsgodkendelse, jf. § 68.
+
+*Stk. 2.* Trafikstyrelsen kan fastsætte regler og træffe afgørelse om, hvorvidt en funktion anses for at være en sikkerhedsklassificeret funktion.
+
+#### § 66.
+
+Trafikstyrelsen godkender uddannelser til udførelse af sikkerhedsklassificerede funktioner på jernbaneområdet.
+
+*Stk. 2.* Transportministeren godkender uddannelsessteder for lokomotivførere i henhold til krav, der er fastsat i retsakter fra Den Europæiske Union.
+
+*Stk. 3.* Trafikstyrelsen kan fastsætte nærmere regler om de uddannelser, der er nævnt i stk. 1, herunder regler om certificering, uddannelsernes indhold og krav til lærere.
+
+*Stk. 4.* Transportministeren kan fastsætte nærmere regler om godkendelse af og tilsyn med uddannelsessteder for lokomotivførere, jf. stk. 2, herunder bemyndige andre statslige myndigheder eller offentlige institutioner til at udføre dette tilsyn.
+
+#### § 67.
+
+Transportministeren kan pålægge jernbanevirksomheder og infrastrukturforvaltere mod betaling og på lige og ikkediskriminerende vilkår at uddanne lokomotivførere, togførere og andet personale på jernbaneområdet, herunder at stille praktikpladser til rådighed.
+
+*Stk. 2.* Transportministeren fastsætter nærmere regler om uddannelse og praktikpladser efter stk. 1.
+
+*Stk. 3.* Transportministeren fastsætter regler om, at jernbanevirksomheder, der udfører passagertrafik omfattet af kontrakt om offentlig tjeneste, skal indgå i en betalingsordning i forbindelse med den praktiske del af lokomotivføreruddannelsen.
+
+#### § 68.
+
+Transportministeren kan fastsætte regler om udstedelse af helbredsgodkendelser og krav til helbred for personer, der udfører sikkerhedsklassificerede funktioner på jernbaneområdet, herunder om udtagning af blod-, sved- og urinprøver i forbindelse med helbredsundersøgelser.
+
+*Stk. 2.* Transportministeren kan fastsætte regler om udpegning af læger og psykologer i forbindelse med udstedelse af helbredsgodkendelser m.v.
+
+*Stk. 3.* Trafikstyrelsen fører tilsyn med, at de aftaler, der indgås med læger og psykologer, jf. stk. 2, overholdes.
+
+### Alkohol og andre bevidsthedspåvirkende stoffer m.v.
+
+#### § 69.
+
+En sikkerhedsklassificeret person må ikke udføre eller forsøge at udføre sikkerhedsklassificerede funktioner, når den pågældende
+
+- 1\) har indtaget spiritus i et sådant omfang, at den pågældende er ude af stand til at udføre sikkerhedsklassificerede funktioner på fuldt betryggende måde,
+- 2\) har en alkoholkoncentration i blodet på 0,20 promille eller derover,
+- 3\) har indtaget bevidsthedspåvirkende stoffer i et sådant omfang, at den pågældende er ude af stand til at udføre sikkerhedsklassificerede funktioner på fuldt betryggende måde,
+- 4\) har blod, der under eller efter udførelsen af den sikkerhedsklassificerede funktion indeholder bevidsthedspåvirkende stoffer, som efter regler fastsat af justitsministeren er klassificeret som farlige for færdselssikkerheden, jf. færdselslovens § 54, stk. 1, og som ikke er indtaget i henhold til en lovlig recept,
+- 5\) har indtaget bevidsthedspåvirkende stoffer i henhold til en lovlig recept, hvis indtagelsen ikke er sket i overensstemmelse med recepten og den pågældende er ude af stand til at udføre sikkerhedsklassificerede funktioner på fuldt betryggende måde, eller
+- 6\) på grund af sygdom, svækkelse, overanstrengelse eller mangel på søvn eller af lignende årsager befinder sig i en sådan tilstand, at den pågældende er ude af stand til at udføre sikkerhedsklassificerede funktioner på fuldt betryggende måde.
+
+*Stk. 2.* En arbejdsgiver eller anden foresat må ikke lade nogen udføre sikkerhedsklassificerede funktioner i forbindelse med driften af jernbanevirksomhed eller infrastrukturforvaltning, når den pågældende befinder sig i en tilstand som nævnt i stk. 1.
+
+*Stk. 3.* Har en arbejdsgiver eller en anden foresat formodning om, at en person udfører eller forsøger at udføre sikkerhedsklassificerede funktioner i en sådan tilstand som nævnt i stk. 1, skal arbejdsgiveren eller den foresatte sørge for, at den pågældende fritages for de sikkerhedsklassificerede funktioner.
+
+*Stk. 4.* Politiet kan med henblik på at konstatere en eventuel overtrædelse af stk. 1 til enhver tid forlange, at den sikkerhedsklassificerede person afgiver udåndings-, spyt- eller svedprøve eller lader sine øjne besigtige.
+
+*Stk. 5.* Politiet kan fremstille en person til udtagelse af blod- eller urinprøve, hvis der er grund til at antage, at den pågældende har overtrådt stk. 1 og en udåndings-, spyt- eller svedprøve ikke er tilstrækkelig eller den pågældende nægter eller er ude af stand til at foretage en udåndings-, spyt- eller svedprøve. Når særlige omstændigheder taler derfor, kan politiet tillige fremstille den pågældende til undersøgelse hos en læge.
+
+*Stk. 6.* Stk. 1-5 finder tilsvarende anvendelse på personer, der udfører kørsel med letbanekøretøjer på områder omfattet af færdselslovens § 1.
+
+*Stk. 7.* Transportministeren fastsætter efter forhandling med justitsministeren regler om prøver og undersøgelser, der er nævnt i stk. 4 og 5.
+
+### Tilsyn
+
+#### § 70.
+
+Trafikstyrelsen fører tilsyn med, at indehaveren af et sikkerhedscertifikat, jf. § 11, stk. 3, og § 39, et EU-sikkerhedscertifikat, jf. § 11, stk. 3, og § 58, eller en sikkerhedsgodkendelse, jf. §§ 39 b og 59, overholder betingelserne herfor.
+
+*Stk. 2.* Trafikstyrelsen fører tilsyn med, at indehaveren af et sikkerhedscertifikat, et EU-sikkerhedscertifikat eller en sikkerhedsgodkendelse overholder gældende lovgivning på jernbaneområdet vedrørende interoperabilitet, beredskab, jernbanesikring og jernbanesikkerhed, herunder farligt gods, helbredskrav, uddannelseskrav, anlæg til sikring af vejtrafikken i niveauoverkørsler, godkendelse af jernbanekøretøjer og jernbaneinfrastruktur m.v. Trafikstyrelsen kan ligeledes føre tilsyn med sikkerhedsmæssige ydelser, som udføres af andre virksomheder for indehaveren af et sikkerhedscertifikat eller en sikkerhedsgodkendelse.
+
+*Stk. 3.* Trafikstyrelsen fører tilsyn med, at personer, der udfører sikkerhedsklassificerede funktioner, jf. § 65, besidder de nødvendige helbredsmæssige og faglige kvalifikationer.
+
+#### § 71.
+
+Trafikstyrelsen eller personer, der af Trafikstyrelsen er bemyndiget hertil, har til enhver tid mod behørig legitimation adgang til køretøjer, jernbaneinfrastruktur, forretningsbøger, papirer m.v., herunder også materiale, der opbevares i elektronisk form, uanset om disse befinder sig på områder, der hører til infrastrukturforvaltere og jernbanevirksomheder eller private, med henblik på at føre tilsyn i henhold til loven eller regler fastsat i medfør heraf.
+
+*Stk. 2.* Trafikstyrelsen kan for de pågældende infrastrukturforvalteres og jernbanevirksomheders regning udføre eller kræve udført afprøvninger, målinger og kontrol, forlange udtalelser fra infrastrukturforvalternes og jernbanevirksomhedernes ledelse og medarbejdere og kræve al dokumentation af betydning for tilsynet udleveret.
+
+*Stk. 3.* Trafikstyrelsen kan kræve al dokumentation vedrørende de sikkerhedsmæssige ydelser udleveret fra de virksomheder, der er nævnt i § 70, stk. 2, 2. pkt.
+
+### Påbud og forbud
+
+#### § 72.
+
+Opfylder indehaveren af et sikkerhedscertifikat, jf. § 11, stk. 3, og § 39, et EU-sikkerhedscertifikat, jf. § 11, stk. 3, og § 58, eller en sikkerhedsgodkendelse, jf. §§ 39 a og 59, ikke vilkår og betingelser fastsat heri, kan Trafikstyrelsen udstede påbud om, at denne straks eller inden for en nærmere angivet tidsfrist skal foretage de nødvendige foranstaltninger for at opfylde disse vilkår og betingelser. Det samme gælder for indehavere af en godkendelse eller en køretøjsomsætningstilladelse, jf. §§ 39 b, 60 og 60 a.
+
+#### § 73.
+
+Trafikstyrelsen kan udstede påbud til indehaveren af et sikkerhedscertifikat, jf. § 11, stk. 3, og § 39, et EU-sikkerhedscertifikat, jf. § 11, stk. 3, og § 58, eller en sikkerhedsgodkendelse, jf. §§ 39 b og 59, om, at denne straks eller inden for en nærmere angivet tidsfrist skal foretage de foranstaltninger, der er nødvendige for at udbedre de forhold, der er konstateret ved et tilsyn efter § 70, stk. 2.
+
+*Stk. 2.* Efter udløbet af tidsfristen kan Trafikstyrelsen om nødvendigt lade disse foranstaltninger udføre for indehaverens, jf. stk. 1, regning. Er de sikkerhedsmæssige forhold uforsvarlige, kan det i et påbud fastsættes, at driften skal indstilles eller begrænses, indtil påbuddet er efterkommet.
+
+#### § 74.
+
+Ved konstatering af forhold, der udgør en risiko for jernbanesikkerheden, kan Trafikstyrelsen udstede påbud til indehaveren af et sikkerhedscertifikat, jf. § 11, stk. 3, og § 39, et EU-sikkerhedscertifikat, jf. § 11, stk. 3 og § 58, eller en sikkerhedsgodkendelse, jf. §§ 39 b og 59, om, at denne straks eller inden for en nærmere angivet tidsfrist skal foretage de foranstaltninger, der efter Trafikstyrelsens vurdering er nødvendige for at udbedre disse forhold. I påbuddet kan det fastsættes, at driften skal indstilles eller begrænses, indtil påbuddet er efterkommet.
+
+*Stk. 2.* Ved konstatering af forhold, der udgør en risiko for sikkerheden for vejtrafikken i niveauoverkørsler, kan Trafikstyrelsen udstede påbud til infrastrukturforvalteren om, at denne straks eller inden for en nærmere angivet tidsfrist skal foretage de foranstaltninger, der efter Trafikstyrelsens vurdering er nødvendige for at udbedre disse forhold. I påbuddet kan det fastsættes, at driften skal indstilles eller begrænses, indtil påbuddet er efterkommet.
+
+*Stk. 3.* Efter udløbet af tidsfristen kan Trafikstyrelsen om nødvendigt lade disse foranstaltninger udføre for indehaverens, jf. stk. 1, eller infrastrukturforvalterens, jf. stk. 2, regning.
+
+#### § 75.
+
+Trafikstyrelsen kan, såfremt de sikkerhedsmæssige forhold for jernbanetrafikken eller for vejtrafikken i niveauoverkørsler er klart uforsvarlige, straks nedlægge forbud mod drift på en nærmere angivet strækning eller mod drift med nærmere angivne køretøjer.
+
+*Stk. 2.* Forbud efter stk. 1 kan meddeles mundtligt eller skriftligt og har virkning fra modtagelsen. Et mundtligt meddelt forbud gælder i 3 dage. Et skriftligt forbud gælder i 14 dage. Forbud kan forlænges skriftligt.
+
+### Udveksling af oplysninger
+
+#### § 76.
+
+Trafikstyrelsen kan udveksle oplysninger med tilsvarende udenlandske nationale sikkerhedsmyndigheder, der er omfattet af EU-reglerne på jernbaneområdet, herunder oplysninger om sikkerhedscertifikater, certificeringsordninger og tilsyn hermed.
+
+#### § 76 a.
+
+Trafikstyrelsen kan udveksle oplysninger med agenturet i forbindelse med varetagelse af opgaver, der følger af EU-reglerne på jernbaneområdet, herunder oplysninger om EU-sikkerhedscertifikater og tilsyn hermed og oplysninger i forbindelse med udstedelse af køretøjsomsætningstilladelser og typegodkendelser.
+
+#### § 77.
+
+Trafikstyrelsen kan i kontrol- og tilsynsøjemed udveksle oplysninger om lokomotivførerlicenser og -certifikater med tilsvarende udenlandske myndigheder, der er omfattet af EU-reglerne på jernbaneområdet.
+
+### Indberetning og sikkerhedsrapporter
+
+#### § 78.
+
+Virksomheder på jernbaneområdet skal give indberetning til Trafikstyrelsen til brug for styrelsens forebyggende jernbanesikkerhedsmæssige arbejde om ulykker og forløbere for ulykker samt sikkerhedsmæssige uregelmæssigheder på jernbaneområdet.
+
+*Stk. 2.* Ansatte i virksomheder på jernbaneområdet og personer, der udfører sikkerhedsklassificerede funktioner på jernbaneområdet, skal give indberetning til den virksomhed, som de er ansat i, om ulykker og forløbere for ulykker samt sikkerhedsmæssige uregelmæssigheder på jernbaneområdet.
+
+*Stk. 3.* Ansatte i virksomheder på jernbaneområdet og personer, der udfører sikkerhedsklassificerede funktioner på jernbaneområdet, kan uanset stk. 2 give indberetning til Trafikstyrelsen om ulykker og forløbere for ulykker samt sikkerhedsmæssige uregelmæssigheder på jernbaneområdet.
+
+*Stk. 4.* Ansatte i Trafikstyrelsen og eventuelle tilkaldte sagkyndige er under ansvar efter straffelovens §§ 152-152 e forpligtet til over for uvedkommende at hemmeligholde indberetninger efter stk. 1-3 eller efter regler fastsat i medfør af stk. 5. Andre ansatte på Transportministeriets ressortområde er omfattet af forpligtelsen i 1. pkt., i det omfang de er bekendt med indholdet af sådanne indberetninger.
+
+*Stk. 5.* Transportministeren fastsætter nærmere regler om stk. 1-3, herunder i hvilke tilfælde der skal gives indberetning, hvornår og i hvilken form indberetningen skal gives, og hvilke oplysninger indberetningen skal indeholde.
+
+#### § 79.
+
+Jernbanevirksomheder og infrastrukturforvaltere skal hvert år fremsende en sikkerhedsrapport omhandlende det foregående kalenderår til Trafikstyrelsen.
+
+*Stk. 2.* Trafikstyrelsen offentliggør hvert år en rapport om sin virksomhed på jernbanesikkerhedsområdet. Samtidig med offentliggørelsen sendes rapporten til Det Europæiske Jernbaneagentur.
+
+*Stk. 3.* Trafikstyrelsen kan fastsætte nærmere regler om virksomhedernes sikkerhedsrapporter, jf. stk. 1.
+
+## Kapitel 12 — Beredskab
+
+#### § 80.
+
+Jernbanevirksomheder og infrastrukturforvaltere skal foretage nødvendig planlægning og træffe nødvendige foranstaltninger for at sikre jernbanen og jernbanedriften i beredskabssituationer og andre ekstraordinære situationer. Jernbanevirksomheder og infrastrukturforvaltere skal indbyrdes koordinere planlægning og udførelse af beredskabsopgaver, herunder også vedrørende jernbanesikringsopgaver og opgaver varetaget af Hjemmeværnet.
+
+*Stk. 2.* Jernbanevirksomheder og infrastrukturforvaltere skal endvidere foretage nødvendig planlægning og træffe nødvendige foranstaltninger for at sikre passagerers personlige sikkerhed i beredskabssituationer og andre ekstraordinære situationer.
+
+*Stk. 3.* Jernbanevirksomheder og infrastrukturforvaltere forpligtes til efter transportministerens nærmere bestemmelse at stille transportkapacitet til disposition mod fuld erstatning i de situationer, der er nævnt i stk. 1.
+
+*Stk. 4.* Trafikstyrelsen varetager den overordnede koordination vedrørende beredskabsarbejdet og fører tilsyn hermed.
+
+*Stk. 5.* Personer, der deltager i beredskabsarbejdet, er under ansvar efter straffelovens §§ 152-152 e forpligtet til over for uvedkommende at hemmeligholde fortrolige oplysninger, som de får kendskab til i forbindelse med beredskabsarbejdet, jf. dog stk. 6.
+
+*Stk. 6.* De fortrolige oplysninger, der er omfattet af stk. 5, kan videregives til udenlandske myndigheder og internationale organisationer, når det følger af Danmarks internationale forpligtelser.
+
+*Stk. 7.* Transportministeren kan fastsætte nærmere regler om jernbanevirksomheders og infrastrukturforvalteres beredskab, jf. stk. 1 og 2.
+
+*Stk. 8.* Transportministeren kan fastsætte regler om sikring af jernbanen og passagerers personlige sikkerhed og om varetagelse af beredskabsarbejdet, herunder om udstedelse af påbud og forbud til infrastrukturforvaltere og jernbanevirksomheder.
+
+## Kapitel 13 — Havarikommissionen for Civil Luftfart og Jernbane
+
+### Undersøgelse af jernbaneulykker
+
+#### § 81.
+
+Havarikommissionen undersøger alvorlige ulykker på jernbaneområdet i Danmark.
+
+*Stk. 2.* Havarikommissionen kan undersøge øvrige ulykker og hændelser på jernbaneområdet i Danmark.
+
+*Stk. 3.* Havarikommissionen kan endvidere iværksætte undersøgelser i forbindelse med alvorlige ulykker, ulykker og hændelser på jernbaneområdet i udlandet, såfremt den kompetente udenlandske myndighed anmoder herom.
+
+*Stk. 4.* Indleder Havarikommissionen en undersøgelse efter stk. 1 og 2, underretter Havarikommissionen inden 7 dage agenturet herom. Havarikommissionen oplyser agenturet om dato og tidspunkt for ulykken eller hændelsen og om stedet og ulykkens eller hændelsens karakter og konsekvenser med hensyn til dræbte og tilskadekomne og materielle skader.
+
+#### § 82.
+
+Når en ulykke eller hændelse på jernbaneområdet er indtruffet i Danmark, skal Havarikommissionen omgående underrettes herom af den pågældende jernbanevirksomhed og infrastrukturforvalter.
+
+*Stk. 2.* En jernbanevirksomhed, der benytter dansk registreret køretøj, skal omgående underrette Havarikommissionen herom, hvis ulykken eller hændelsen på jernbaneområdet sker i udlandet.
+
+*Stk. 3.* Trafikstyrelsen skal omgående underrette Havarikommissionen om de ulykker og hændelser på jernbaneområdet, som Trafikstyrelsen bliver bekendt med.
+
+*Stk. 4.* De pågældende jernbanevirksomheder og infrastrukturforvaltere og Trafikstyrelsen videregiver omgående alle tilgængelige oplysninger om ulykken eller hændelsen til Havarikommissionen.
+
+*Stk. 5.* Havarikommissionen træffer hurtigst muligt og senest 2 måneder efter modtagelse af meddelelsen om ulykken eller hændelsen afgørelse om, hvorvidt en undersøgelse skal indledes.
+
+*Stk. 6.* Transportministeren fastsætter nærmere regler om underretningspligt og rapportering af ulykker og hændelser på jernbaneområdet.
+
+#### § 83.
+
+Havarikommissionen bestemmer omfanget af og formen for de undersøgelser, der foretages i anledning af en ulykke eller hændelse på jernbaneområdet, jf. dog stk. 2-6.
+
+*Stk. 2.* Havarikommissionens undersøgelser vedrører ikke spørgsmålet om placering af skyld eller erstatningsansvar.
+
+*Stk. 3.* Havarikommissionen skal give den relevante infrastrukturforvalter, de involverede jernbanevirksomheder, Trafikstyrelsen, agenturet, ofrene og deres familie, ejere af beskadigede genstande, fabrikanter, involverede beredskabstjenester og repræsentanter for personale og brugere mulighed for at fremlægge relevante tekniske oplysninger med henblik på at forbedre undersøgelsesrapportens kvalitet.
+
+*Stk. 4.* Havarikommissionen skal tage hensyn til ofrenes og deres families rimelige behov og holde dem underrettet om de fremskridt, der er gjort i undersøgelsen.
+
+*Stk. 5.* Havarikommissionen skal høre og underrette alle parter om undersøgelsens resultater.
+
+*Stk. 6.* Transportministeren kan anmode Havarikommissionen om at foretage yderligere undersøgelser i en sag.
+
+*Stk. 7.* Havarikommissionen kan genoptage en afsluttet undersøgelse, såfremt der fremkommer nyt og væsentligt materiale i sagen.
+
+#### § 84.
+
+Ved Havarikommissionens undersøgelse af en ulykke eller hændelse på jernbaneområdet skal undersøgelseslederen udføre sine opgaver så effektivt og hurtigt som muligt.
+
+#### § 85.
+
+Når en ulykke eller hændelse på jernbaneområdet undersøges af Havarikommissionen, må de køretøjer, der er indblandet i ulykken, og den berørte jernbaneinfrastruktur, dele eller indhold heraf eller spor i øvrigt ikke fjernes eller røres, før Havarikommissionen eller politiet i forståelse med Havarikommissionen giver tilladelse hertil.
+
+*Stk. 2.* Havarikommissionen har ret til straks at registrere bevismateriale og i forståelse med politiet at foretage fjernelse af vragdele, jernbaneinfrastruktur, dele eller indhold heraf eller spor i øvrigt til undersøgelser, målinger og kontrol.
+
+#### § 86.
+
+Havarikommissionen kan fra alle relevante virksomheder og myndigheder forlange al dokumentation og bevismateriale, der er nødvendig for undersøgelsen, fremlagt, herunder oplysninger i dødsattester udstedt efter retslægeligt ligsyn og oplysninger i retslægelige obduktionserklæringer.
+
+*Stk. 2.* Havarikommissionen kan endvidere foretage afhøringer af enhver person, som må formodes at kunne give oplysninger af betydning for undersøgelsen.
+
+#### § 87.
+
+Havarikommissionen kan forlange retligt forhør efter retsplejelovens § 1018.
+
+#### § 88.
+
+Havarikommissionen har uden retskendelse adgang til omgående at foretage undersøgelse af køretøjer og jernbaneinfrastruktur samt trafikstyrings- og signalanlæg, uanset om disse befinder sig på privat område.
+
+#### § 89.
+
+Havarikommissionen kan for infrastrukturforvalternes og jernbanevirksomhedernes regning udføre eller kræve udført afprøvninger, målinger og kontrol, forlange udtalelser fra infrastrukturforvalternes og jernbanevirksomhedernes ledelse og medarbejdere og kræve al dokumentation udleveret i den forbindelse.
+
+#### § 90.
+
+Havarikommissionen kan, i det omfang det skønnes fornødent, kræve politiets og Trafikstyrelsens bistand til undersøgelse af ulykker og hændelser på jernbaneområdet.
+
+*Stk. 2.* Foreligger der mistanke om strafbart forhold, kan politiet selvstændigt foretage de efterforskningsskridt, der af anklagemyndigheden skønnes fornødne, og kan hertil kræve bistand af Trafikstyrelsen og Havarikommissionen.
+
+#### § 91.
+
+I forbindelse med undersøgelse af ulykker og hændelser på jernbaneområdet kan Havarikommissionen ved konstatering af forhold, der udgør en risiko for jernbanesikkerheden, anmode Trafikstyrelsen om at udstede påbud eller forbud til infrastrukturforvalterne og jernbanevirksomhederne om udbedring af disse forhold.
+
+#### § 92.
+
+Havarikommissionen skal løbende holde Trafikstyrelsen underrettet om fund og omstændigheder omkring en undersøgelse, der skønnes af væsentlig betydning for jernbanesikkerheden, og skal uden unødigt ophold gøre Trafikstyrelsen bekendt med sine vurderinger heraf.
+
+#### § 93.
+
+Når undersøgelsen er afsluttet, udarbejder Havarikommissionen en rapport om undersøgelsens resultater med eventuelle anbefalinger om sikkerhedsmæssige forhold m.v. Anbefalinger stiles til Trafikstyrelsen og, hvis det er nødvendigt på grund af anbefalingens karakter, til agenturet, til andre organer eller myndigheder i den berørte medlemsstat eller til andre medlemsstater. Rapporten sendes til transportministeren, agenturet, relevante parter, de berørte organer, parter i andre medlemsstater og Trafikstyrelsen. Rapporten offentliggøres, medmindre afgørende hensyn taler herimod. Såfremt Havarikommissionen ikke offentliggør en rapport, skal denne beslutning offentliggøres.
+
+*Stk. 2.* Kan Havarikommissionen ikke offentliggøre den endelige rapport inden for 12 måneder, udsender Havarikommissionen en foreløbig erklæring med nærmere oplysninger om fremskridt i relation til undersøgelsen og eventuelle sikkerhedsspørgsmål, der er blevet rejst. Denne erklæring udsendes som minimum på hver årsdag for ulykken eller hændelsen.
+
+*Stk. 3.* Når den foretagne undersøgelses omfang taler derfor, kan Havarikommissionen fravige stk. 1 og i stedet udarbejde en kortfattet redegørelse.
+
+*Stk. 4.* I tilfælde af yderligere undersøgelser efter § 83, stk. 2, eller genoptagelse af en undersøgelse efter § 83, stk. 3, udarbejder Havarikommissionen en rapport eller redegørelse i overensstemmelse med stk. 1 og 2.
+
+*Stk. 5.* Trafikstyrelsen og de organer og myndigheder, som anbefalinger efter stk. 1 måtte være stilet til, træffer de nødvendige foranstaltninger til at sikre, at der tages behørigt hensyn til Havarikommissionens eller andre undersøgelsesorganers anbefalinger på sikkerhedsområdet, og at de følges op af korrigerende foranstaltninger.
+
+### Organisering
+
+#### § 94.
+
+Havarikommissionen er uafhængig og er ikke undergivet instruktionsbeføjelser fra transportministeren.
+
+*Stk. 2.* Transportministeren kan dog pålægge Havarikommissionen særlige opgaver, der har et generelt jernbanesikkerhedsmæssigt formål.
+
+*Stk. 3.* Transportministeren fastsætter Havarikommissionens sammensætning.
+
+#### § 95.
+
+Havarikommissionen skal beslutte, at repræsentanter for fremmede stater kan deltage i Havarikommissionens arbejde, i det omfang Danmark ved aftale har forpligtet sig hertil, medmindre deltagelsen undergraver Havarikommissionens uafhængighed.
+
+*Stk. 2.* Havarikommissionen kan, hvor den finder det nødvendigt, beslutte, at sagkyndige kan deltage i Havarikommissionens arbejde.
+
+#### § 95 a.
+
+Havarikommissionen udveksler synspunkter og erfaringer med de andre undersøgelsesorganer og kan deltage i det fælles europæiske peerevalueringsprogram.
+
+### Årsberetning
+
+#### § 96.
+
+Havarikommissionen offentliggør hvert år en beretning om sin virksomhed på jernbaneområdet. Samtidig med offentliggørelsen sendes beretningen til Det Europæiske Jernbaneagentur.
+
+#### § 97.
+
+Trafikstyrelsen giver mindst én gang om året tilbagemelding til Havarikommissionen om, hvilke foranstaltninger der er gennemført eller planlagt som resultat af anbefalinger i Havarikommissionens rapporter og redegørelser.
+
+*Stk. 2.* Agenturet og andre myndigheder eller organer, til hvem der er stilet anbefalinger, giver med jævne mellemrum Havarikommissionen tilbagemelding om, hvilke foranstaltninger der er truffet eller planlagt som resultat af en given anbefaling.
+
+### Tavshedspligt
+
+#### § 98.
+
+Havarikommissionen, Trafikstyrelsen, tilkaldte sagkyndige og andre, der medvirker i en undersøgelse, som foretages af Havarikommissionen, er under ansvar efter straffelovens §§ 152-152 e forpligtet til over for uvedkommende at hemmeligholde, hvad de bliver vidende om i forbindelse med undersøgelsen.
+
+## Kapitel 14 — Kundgørelse og indberetninger
+
+#### § 99.
+
+Transportministeren kan fastsætte regler om, at forskrifter og tekniske specifikationer fastsat i medfør af §§ 29 og 56 ikke indføres i Lovtidende. Reglement for international jernbanetransport af farligt gods (RID) og senere ændringer heraf indføres ikke i Lovtidende.
+
+*Stk. 2.* Transportministeren fastsætter regler om, hvordan der kan opnås adgang til indholdet af de forskrifter og tekniske specifikationer, der ikke indføres i Lovtidende, jf. stk. 1.
+
+#### § 100.
+
+Transportministeren kan fastsætte regler om pligt for jernbanevirksomheder, infrastrukturforvaltere og andre, som udfører opgaver på jernbaneområdet, til at indberette data, herunder til planlægnings- og analyseopgaver, for at sikre overholdelsen af de krav, der følger af denne lov eller regler fastsat i medfør heraf, eller krav, der følger af EU-retsakter.
+
+## Kapitel 15 — EU-forhold og internationale forhold
+
+#### § 101.
+
+Transportministeren kan indgå konventioner med andre lande om befordring af personer, bagage og gods med jernbane. Bestemmelserne i sådanne konventioner gælder i Danmark efter bekendtgørelsen i Lovtidende.
+
+*Stk. 2.* Transportministeren kan indgå aftaler med andre lande om anerkendelse af godkendelser på uddannelses- og helbredsområdet inden for jernbaneområdet og om forvaltning af godstogskorridorer.
+
+*Stk. 3.* Transportministeren kan fastsætte regler om gennemførelse i dansk ret af aftalerne efter stk. 2.
+
+#### § 101 a.
+
+Trafikstyrelsen kan indgå samarbejdsaftale med agenturet om forhold, der er nødvendige for at leve op til forpligtelser, som fremgår af EU-regler på jernbaneområdet, herunder om samarbejde vedrørende udstedelse af EU-sikkerhedscertifikater, køretøjsomsætningstilladelser og typegodkendelser, fordeling af gebyrer og anvendelsen af den elektroniske ansøgningsportal (onestopshop).
+
+#### § 102.
+
+Transportministeren kan fastsætte regler med henblik på opfyldelse og anvendelse af retsakter fastsat af Den Europæiske Union om forhold på jernbaneområdet samt forhold vedrørende miljø og naturbeskyttelse omfattet af denne lov, herunder regler om meddelelse af påbud og forbud og om oplysningspligter.
+
+*Stk. 2.* Transportministeren kan fastsætte regler om en akkrediteringsordning for de organer, institutioner eller andre, der i henhold til retsakter fastsat af Den Europæiske Union skal varetage opgaver om forhold på jernbaneområdet.
+
+## Kapitel 16 — Jernbanenævnet
+
+#### § 103.
+
+Jernbanenævnet er en særskilt myndighed, der organisatorisk, funktionelt, hierarkisk og med hensyn til beslutningstagning er retligt adskilt fra og uafhængigt af enhver anden offentlig eller privat enhed. Jernbanenævnet er med hensyn til organisation, finansieringsbeslutninger, retlig struktur og beslutningstagning uafhængigt af enhver jernbanevirksomhed, infrastrukturforvalter og ansøger af infrastrukturkapacitet og ethvert tildelings- og afgiftsorgan. Jernbanenævnet er desuden funktionelt uafhængigt af enhver kompetent myndighed, der tager sig af tildelingen af en kontrakt om offentlig tjeneste. Jernbanenævnet er ikke undergivet transportministerens instruktionsbeføjelse.
+
+*Stk. 2.* Jernbanenævnet varetager tilsyns- og klagefunktioner på jernbaneområdet. Jernbanenævnet kan undersøge sager på eget initiativ eller efter klage og kan træffe afgørelse i sådanne sager. Jernbanenævnets afgørelser er bindende.
+
+*Stk. 3.* Jernbanenævnet fører tilsyn med konkurrencesituationen på markederne for jernbanetransportydelser med henblik på at undgå en uhensigtsmæssig udvikling i disse markeder og er nationalt tilsynsorgan i henhold til Europa-Parlamentets og Rådets direktiv om oprettelse af et fælles europæisk jernbaneområde og regler til gennemførelse heraf samt Europa-Parlamentets og Rådets forordning om et europæisk banenet med henblik på konkurrencebaseret godstransport.
+
+*Stk. 4.* Derudover fører Jernbanenævnet tilsyn med overholdelse af Europa-Parlamentets og Rådets forordning om jernbanepassagerers rettigheder og forpligtelser.
+
+*Stk. 5.* Formanden for Jernbanenævnet skal være dommer. Formanden udpeges af vedkommende retspræsident.
+
+*Stk. 6.* Jernbanenævnets øvrige medlemmer, jf. stk. 5, udpeges af erhvervs- og vækstministeren efter høring af transportministeren.
+
+*Stk. 7.* Transportministeren fastsætter nærmere regler om Jernbanenævnet, herunder om udpegning af medlemmer, udførelse af dets virksomhed, opgaver, indholdet og rækkevidden af dets afgørelses- og tilsynskompetence, sammensætning, sekretariatsbetjening og uafhængighed.
+
+#### § 104.
+
+Jernbanenævnet kan gennemføre revisioner eller iværksætte eksterne revisioner hos infrastrukturforvaltere, forvaltere af servicefaciliteter og jernbanevirksomheder, jf. dog stk. 2, for at kontrollere, om reglerne om adskillelse af regnskaber i Europa-Parlamentets og Rådets direktiv om oprettelse af et fælles europæisk jernbaneområde er overholdt.
+
+*Stk. 2.* Jernbanenævnet skal gennemføre revisioner eller iværksætte eksterne revisioner, jf. stk. 1, i forhold til jernbanevirksomheder med kontrakt om offentlig tjeneste, som ikke er tildelt efter udbud.
+
+#### § 105.
+
+Jernbanenævnet kan påbyde jernbanevirksomheder, infrastrukturforvaltere og andre virksomheder på jernbaneområdet at give de oplysninger, som er nødvendige for Jernbanenævnets virksomhed.
+
+#### § 106.
+
+Jernbanenævnet udveksler oplysninger om sit arbejde, sine principper for beslutningstagning og sin praksis med tilsvarende tilsynsorganer i lande, der er omfattet af EU-reglerne på jernbaneområdet.
+
+#### § 107.
+
+Jernbanenævnet kan pålægge ugentlige tvangsbøder til den, der undlader at
+
+- 1\) udlevere oplysninger efter § 105 inden for den frist, som Jernbanenævnet har givet, eller
+- 2\) efterkomme en afgørelse truffet af Jernbanenævnet som led i dets udførelse af de klage- og tilsynsfunktioner, der følger af § 103, jf. § 113, stk. 4.
+
+#### § 108.
+
+Jernbanenævnet afgiver hvert år en beretning om sin virksomhed i det forgangne kalenderår. Beretningen offentliggøres på Jernbanenævnets hjemmeside.
+
+## Kapitel 17 — Afgifter og gebyrer
+
+#### § 109.
+
+For udførelse af tilsyn, herunder med EU-sikkerhedscertifikater, sikkerhedscertifikater og sikkerhedsgodkendelser m.v., jf. § 70, betaler jernbanevirksomheder, virksomheder, der er certificerede efter § 11, og infrastrukturforvaltere, herunder bybaner, en afgift som fastsat i stk. 2-7.
+
+*Stk. 2.* Jernbanevirksomheder og virksomheder, der er certificerede efter § 11, betaler et årligt grundbeløb på 65.000 kr. pr. sikkerhedscertifikat og en årlig aktivitetsafgift på 0,0500 kr. pr. kørt togkilometer.
+
+*Stk. 3.* Infrastrukturforvaltere betaler et årligt grundbeløb på 65.000 kr. pr. sikkerhedsgodkendelse og en årlig aktivitetsafgift på 0,0500 kr. pr. kørt togkilometer på den pågældendes jernbaneinfrastruktur.
+
+*Stk. 4.* Virksomheder, som udfører transport på bybaner, betaler et årligt grundbeløb på 65.000 kr. pr. sikkerhedscertifikat og en årlig aktivitetsafgift på 0,0500 kr. pr. kørt togkilometer. Forvaltere af bybaner betaler et årligt grundbeløb på 65.000 kr. pr. sikkerhedsgodkendelse og en årlig aktivitetsafgift på 0,0500 kr. pr. kørt togkilometer på den pågældende infrastruktur.
+
+*Stk. 5.* De beløb, der er anført i stk. 2-4, reguleres en gang årligt pr. 1. januar med den sats for det generelle pris- og lønindeks, der er fastsat af Finansministeriet. Transportministeren offentliggør reguleringer hvert år, første gang pr. 1. januar 2021.
+
+*Stk. 6.* En virksomhed, der er underlagt det tilsyn, der er nævnt i stk. 1, betaler grundbeløbet og aktivitetsafgiften, jf. stk. 2-4, uanset om virksomheden ophører eller påbegyndes i løbet af det pågældende år.
+
+*Stk. 7.* Ved oparbejdelse af store overskud i ordningen kan overskuddet tilbagebetales til de virksomheder, som har betalt afgift.
+
+*Stk. 8.* Transportministeren kan fastsætte nærmere regler om opkrævning m.v. af afgiften nævnt i stk. 1-4, herunder regler om tidspunktet for opkrævning af afgiften og betaling for rykkerskrivelser.
+
+#### § 110.
+
+Transportministeren kan fastsætte regler om gebyrer til dækning af Trafikstyrelsens omkostninger ved varetagelse af de øvrige opgaver i henhold til denne lov eller regler fastsat i medfør af EU-regler på jernbaneområdet, herunder regler om opkrævning, rentetilskrivning efter renteloven, rykkerskrivelser m.v.
+
+*Stk. 2.* Transportministeren kan fastsætte regler om gebyrer til dækning af Trafikstyrelsens omkostninger ved varetagelse af opgaver vedrørende byggesagsbehandling i henhold til anlægslove på jernbaneområdet, herunder regler om opkrævning, rentetilskrivning efter renteloven, rykkerskrivelser m.v.
+
+#### § 110 a.
+
+Transportministeren kan fastsætte regler om betaling af gebyr for Banedanmarks beredskabsydelser, kurser og uddannelser og om betaling for opgaver i forbindelse med tredjepartsprojekter, herunder regler om opkrævning, rentetilskrivning efter renteloven, rykkerskrivelser m.v.
+
+#### § 111.
+
+De udgifter, der er forbundet med Jernbanenævnets drift, betales af de jernbanevirksomheder, som Jernbanenævnet fører tilsyn med efter denne lov eller regler fastsat i medfør heraf.
+
+*Stk. 2.* Jernbanevirksomheder, der er omfattet af Jernbanenævnets tilsyn, skal årligt betale 0,0630 kr. pr. kørt togkilometer på statens jernbaneinfrastruktur, jernbaneinfrastruktur ejet af A/S Storebælt eller A/S Øresund og anden jernbaneinfrastruktur beliggende på den danske del af det transeuropæiske transportnet (TEN-T-nettet).
+
+*Stk. 3.* Bybaner samt privatbaner, der ikke kører på jernbaneinfrastruktur på det transeuropæiske transportnet (TEN-T-nettet), er ikke omfattet af stk. 2.
+
+*Stk. 4.* Det beløb, der er nævnt i stk. 2, reguleres en gang årligt pr. 1. januar med den sats for det generelle løn- og prisindeks, der er fastsat af Finansministeriet. Transportministeren offentliggør reguleringer hvert år, første gang pr. 1. januar 2021.
+
+*Stk. 5.* Ved oparbejdelse af store overskud i ordningen kan overskuddet tilbagebetales til de virksomheder, som har betalt afgift.
+
+*Stk. 6.* Transportministeren kan fastsætte nærmere regler om betaling for Jernbanenævnets tilsyn, herunder om, at jernbanevirksomheder, der ikke i fuldt omfang er underlagt tilsynet, kan undtages fra betalingsforpligtelsen.
+
+*Stk. 7.* Transportministeren kan fastsætte nærmere regler om opkrævning m.v. af afgiften nævnt i stk. 1-4, herunder regler om tidspunktet for opkrævning af afgiften og betaling for rykkerskrivelser.
+
+*Stk. 8.* For behandling af klager, der indbringes for Jernbanenævnet, betaler klager et gebyr på 4.000 kr. Transportministeren kan fastsætte nærmere regler om gebyret.
+
+## Kapitel 18 — Delegation og klageadgang
+
+### Delegation
+
+#### § 112.
+
+Transportministeren kan bemyndige Trafikstyrelsen, Banedanmark, Havarikommissionen for Civil Luftfart og Jernbane eller andre statslige myndigheder til at udøve ministerens beføjelser i denne lov.
+
+*Stk. 2.* Transportministeren kan bemyndige andre statslige myndigheder til at udøve de beføjelser, som Trafikstyrelsen, Banedanmark eller Havarikommissionen for Civil Luftfart og Jernbane er tillagt efter denne lov.
+
+*Stk. 3.* Transportministeren kan bemyndige sagkyndige, private virksomheder eller offentlige institutioner til at foretage typegodkendelser, prøvninger og eftersyn af emballage til farligt gods, jf. § 54, og til at udstede helbredsgodkendelser, jf. § 68.
+
+### Klageadgang
+
+#### § 113.
+
+Transportministeren kan fastsætte regler om adgangen til at klage over afgørelser og beslutninger, der træffes i henhold til denne lov, herunder om klagefrister, eller om, at afgørelserne eller beslutningerne ikke kan påklages til transportministeren.
+
+*Stk. 2.* Stk. 1 gælder tilsvarende, hvor transportministeren har bemyndiget andre statslige myndigheder til at udøve Trafikstyrelsens, Banedanmarks eller Havarikommissionen for Civil Luftfart og Jernbanes beføjelser efter loven, jf. § 112, stk. 2.
+
+*Stk. 3.* Stk. 1 gælder tilsvarende i de tilfælde, hvor transportministeren har bemyndiget sagkyndige, private virksomheder eller offentlige institutioner til at udøve ministerens beføjelser efter loven, jf. § 112, stk. 3.
+
+*Stk. 4.* Transportministeren kan fastsætte regler om, at afgørelser og beslutninger kan påklages til Jernbanenævnet, herunder at de afgørelser, der kan påklages til Jernbanenævnet, ikke først kan påklages til anden administrativ myndighed, og at Jernbanenævnets afgørelser ikke kan påklages til anden administrativ myndighed.
+
+#### § 114.
+
+Transportministeren kan fastsætte regler om passagerers klageadgang efter Europa-Parlamentets og Rådets forordning om jernbanepassagerers rettigheder og forpligtelser.
+
+#### § 115.
+
+Søgsmål til prøvelse af afgørelser og beslutninger om forhold omfattet af denne lov, herunder Jernbanenævnets afgørelser, skal indbringes for domstolene, senest 8 uger efter at afgørelsen eller beslutningen er kommet frem til klageren. Finder indbringelse for domstolene ikke sted inden for fristen, er den pågældende afgørelse eller beslutning endelig.
+
+*Stk. 2.* Søgsmål i henhold til § 37, stk. 4, skal dog være anlagt, inden 6 måneder efter at klagemyndighedens afgørelse er kommet frem til klageren.
+
+*Stk. 3.* En afgørelse eller beslutning som nævnt i stk. 1 og 2 kan ikke indbringes for domstolene, før den administrative klageadgang er udnyttet.
+
+#### § 115 a.
+
+Afgørelser truffet efter kapitel 6 a kan ikke påklages til anden administrativ myndighed.
+
+*Stk. 2.* Ved søgsmål om forhold omfattet af kapitel 6 a, herunder søgsmål om miljømæssige spørgsmål i forhold til projekter, der opnår tilladelse ved anlægslov, jf. § 38 a, stk. 3, skal retten påse, at omkostningerne ved sagen ikke er uoverkommelig høje for de berørte parter.
+
+*Stk. 3.* Søgsmål til prøvelse af afgørelser efter § 38 d og § 38 j, stk. 1 skal være anlagt, inden 6 måneder efter at afgørelsen er offentliggjort.
+
+*Stk. 4.* Transportministeren fastsætter nærmere regler om, hvordan praktiske oplysninger om adgang til domstolsprøvelse, jf. stk. 1-3, stilles til rådighed for offentligheden.
+
+## Kapitel 19 — Straffebestemmelser
+
+#### § 116.
+
+Med bøde eller fængsel indtil 4 måneder straffes den, der
+
+- 1\) påbegynder eller driver virksomhed uden fornødne certifikater, jf. §§ 39 og 58, godkendelser, jf. §§ 39 a, 39 b, 59, 60 og 60 a, eller tilladelser, jf. § 9,
+- 2\) tilsidesætter vilkår eller betingelser knyttet til et certifikat, et EU-certifikat, en tilladelse eller en godkendelse efter nr. 1,
+- 3\) hindrer Trafikstyrelsen i at foretage tilsyn efter §§ 70 og 71 eller Havarikommissionen for Civil Luftfart og Jernbane i at foretage undersøgelse efter § 81,
+- 4\) overtræder §§ 24 eller 26, § 42, stk. 1, §§ 43-46, § 48, stk. 1 og 2, § 80, stk. 1 og 2, eller § 85 eller
+- 5\) overtræder Europa-Parlamentets og Rådets forordning om jernbanepassagerers rettigheder og forpligtelser.
+
+*Stk. 2.* Med bøde straffes den, der
+
+- 1\) i strid med § 38 b undlader at indgive skriftlig ansøgning om afgørelse efter § 38 d eller administrativ tilladelse efter § 38 j, stk. 1,
+- 2\) i strid med §§ 38 d eller 38 j, stk. 1, påbegynder et ansøgt projekt, før Trafikstyrelsen har meddelt tilladelse,
+- 3\) tilsidesætter vilkår for en administrativ tilladelse efter § 38 j, stk. 1,
+- 4\) undlader at efterkomme et påbud eller forbud, der er udstedt i henhold til kapitel 6 a eller regler fastsat i medfør af kapitel 6 a, herunder påbud om at berigtige et ulovligt forhold, eller
+- 5\) undlader at efterleve de krav, der er angivet i § 57, stk. 2, nr. 1-4.
+
+*Stk. 3.* Den, der undlader at efterkomme et påbud eller forbud, der er udstedt i henhold til loven eller de forskrifter, der er fastsat i medfør heraf, straffes med bøde eller fængsel indtil 4 måneder. Straffen for tilsidesættelse af et påbud eller forbud i henhold til §§ 72-75 kan dog stige til fængsel indtil 2 år.
+
+*Stk. 4.* Den, der afgiver urigtige oplysninger til administrative myndigheder, straffes med bøde eller fængsel indtil 4 måneder, medmindre højere straf er forskyldt efter anden lovgivning.
+
+*Stk. 5.* Straf efter stk. 1, stk. 3, 1. pkt., og stk. 4 kan stige til fængsel indtil 2 år, hvis overtrædelsen er begået forsætligt eller ved grov uagtsomhed, og hvis der ved overtrædelsen er
+
+- 1\) forvoldt skade på personer, materiel eller miljø eller fremkaldt nærliggende fare herfor eller
+- 2\) opnået eller tilsigtet en økonomisk fordel for den pågældende selv eller andre.
+
+#### § 117.
+
+For overtrædelser af forskrifter, der fastsættes i medfør af loven, kan der fastsættes straf af bøde eller fængsel indtil 4 måneder eller under skærpende omstændigheder fængsel indtil 2 år.
+
+*Stk. 2.* For overtrædelse af bestemmelser i forordninger, herunder i bilag til forordninger, fastsat af Den Europæiske Union om forhold, som er omfattet af denne lov, kan der i forskrifter, der fastsættes i medfør af loven, ligeledes fastsættes straf af bøde, fængsel indtil 4 måneder eller under skærpende omstændigheder fængsel indtil 2 år.
+
+#### § 118.
+
+Med fængsel indtil 2 år straffes den, der
+
+- 1\) overtræder § 69, stk. 1 og 2, eller
+- 2\) udfører sikkerhedsklassificerede funktioner for en jernbanevirksomhed eller infrastrukturforvalter, til trods for at retten hertil er midlertidigt inddraget eller frakendt efter § 123.
+
+*Stk. 2.* Under særligt formildende omstændigheder kan straffen for overtrædelse efter stk. 1 udgøre bøde.
+
+#### § 119.
+
+Der kan pålægges juridiske personer, herunder selskaber, strafansvar efter straffelovens 5. kapitel.
+
+#### § 120.
+
+Med bøde straffes den, der skaffer sig eller forsøger at skaffe sig befordring med ugyldig billet eller ugyldigt kort.
+
+#### § 120 a.
+
+Med bøde straffes den, som overtræder § 47 a.
+
+#### § 121.
+
+Den, der med forsæt beskadiger eller uberettiget flytter opstillede sneskærme eller lignende sneværn, jf. § 32, straffes med bøde, medmindre strengere straf er forskyldt efter straffeloven.
+
+#### § 122.
+
+Den, der i overensstemmelse med § 78, stk. 1-3, eller regler fastsat i medfør af § 78, stk. 5, har foretaget indberetning om sikkerhedsmæssige uregelmæssigheder, der ikke har medført en hændelse eller ulykke på jernbaneområdet, kan ikke for det pågældende forhold straffes for overtrædelse af bestemmelser, der er fastsat herom i medfør af § 56 eller § 102, stk. 1.
+
+#### § 123.
+
+Ret til at udføre sikkerhedsklassificerede funktioner skal frakendes, når
+
+- 1\) der ved tjenestens udførelse er blevet tilsidesat væsentlige hensyn til jernbanesikkerheden eller færdselssikkerheden eller
+- 2\) den pågældende har udført eller forsøgt at udføre sikkerhedsklassificerede funktioner efter at have indtaget spiritus eller andre bevidsthedspåvirkende stoffer, jf. § 69, stk. 1, nr. 1-3.
+
+*Stk. 2.* Frakendelsen efter stk. 1, nr. 2, sker ubetinget. Frakendelsen efter stk. 1, nr. 1, sker betinget, medmindre den pågældende
+
+- 1\) forsætligt har voldt skade på andres person eller ting, forsætligt har fremkaldt nærliggende fare herfor eller i øvrigt har udøvet tjenesten på særlig hensynsløs måde,
+- 2\) ved forskellige lejligheder har gjort sig skyldig i forhold, der hver for sig er omfattet af stk. 1, nr. 1,
+- 3\) tidligere er frakendt ret til at udføre sikkerhedsklassificeret funktion betinget og det nye forhold er begået i prøvetiden eller
+- 4\) tidligere er frakendt ret til at udføre sikkerhedsklassificeret funktion ubetinget og det nye forhold er begået inden 5 år fra udløbet af frakendelsestiden.
+
+*Stk. 3.* I tilfælde, hvor der ellers kunne ske ubetinget frakendelse efter stk. 1, nr. 2, kan der under særligt formildende omstændigheder ske betinget frakendelse.
+
+*Stk. 4.* Ubetinget frakendelse sker for et bestemt tidsrum af ikke under 6 måneder eller for bestandig. Betinget frakendelse sker, på vilkår af at den pågældende i en prøvetid på indtil 3 år fra endelig dom ikke udfører sikkerhedsklassificerede funktioner under sådanne omstændigheder, at retten dertil skal frakendes.
+
+*Stk. 5.* Trafikstyrelsen kan midlertidigt inddrage retten til at udføre sikkerhedsklassificerede funktioner, såfremt der under udøvelsen af tjenesten sker væsentlig tilsidesættelse af gældende regler og krav. Trafikstyrelsen skal i forbindelse med afgørelsen vejlede den pågældende om prøvelsesadgangen efter stk. 6.
+
+*Stk. 6.* Den, hvis ret til at udføre sikkerhedsklassificerede funktioner er midlertidigt inddraget, kan forlange inddragelsen prøvet af domstolene. Domstolene træffer ved kendelse afgørelse om inddragelsen.
+
+*Stk. 7.* Det tidsrum, hvori retten har været midlertidigt inddraget, fradrages i frakendelsestiden.
+
+*Stk. 8.* Er en person, der har ret til at udføre sikkerhedsklassificerede funktioner, og som har dansk indfødsret eller er bosat i den danske stat eller ansat i en dansk jernbanevirksomhed eller hos en dansk infrastrukturforvalter, straffet i udlandet for et forhold, der bedømt efter denne lov ville have medført frakendelse af ret til at udføre sikkerhedsklassificerede funktioner, kan sådan frakendelse ske efter offentlig påtale i Danmark.
+
+*Stk. 9.* Er en person, der har ret til at udføre sikkerhedsklassificerede funktioner, i medfør af færdselsloven frakendt retten til at føre motordrevet køretøj ubetinget, kan Trafikstyrelsen for det tidsrum, frakendelsen er sket, fratage den pågældende ret til at udføre sikkerhedsklassificerede funktioner, såfremt det strafbare forhold, for hvilket vedkommende er dømt, begrunder en nærliggende fare for misbrug af retten til at udføre sikkerhedsklassificerede funktioner. Den pågældende kan forlange fratagelsen indbragt for domstolene. Trafikstyrelsen skal i forbindelse med fratagelsen vejlede den pågældende herom.
+
+## Kapitel 20 — Lovens ikrafttræden og ophævelse og ændring af andre love
+
+#### § 124.
+
+Loven træder i kraft den 15. juni 2015, jf. dog stk. 2.
+
+*Stk. 2.* Transportministeren fastsætter tidspunktet for ikrafttræden af lovens § 16, stk. 3 og 4.
+
+*Stk. 3.* (Udelades)
+
+*Stk. 4.* Bekendtgørelser, regulativer m.v., der er udstedt i medfør af den lov, der er angivet i stk. 3, forbliver i kraft, indtil de afløses eller ophæves af bestemmelser fastsat i medfør af denne lov.
+
+*Stk. 5.* Aftaler indgået i henhold til den lov, der er angivet i stk. 3, og som er gældende på lovens ikrafttrædelsestidspunkt, videreføres med deres indhold, indtil aftalen udløber eller ændres.
+
+#### §§ 125-131.
+
+(Udelades)
+
+#### § 132.
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 658 af 8. juni 2016 (Implementering af VVM-direktivet for statslige vej- og jernbaneprojekter samt havneprojekter)3) indeholder følgende ikrafttrædelsesbestemmelse:
+
+#### § 7
+
+*Stk. 1.* Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende, jf. dog stk. 2.
+
+*Stk. 2.* Lovens §§ 1-3, 5 og 6 træder i kraft den 16. maj 2017.
+
+*Stk. 3.* De hidtil gældende regler finder anvendelse for projekter, som er omfattet af denne lov, og hvor
+
+- 1\) der er truffet en screeningsafgørelse før ikrafttrædelsestidspunktet,
+- 2\) bygherren har anmodet den kompetente VVM-myndighed om en udtalelse om afgrænsning af miljøkonsekvensrapportens indhold før ikrafttrædelsestidspunktet eller
+- 3\) VVM-redegørelsen er afgivet før ikrafttrædelsestidspunktet.
+
+Lov nr. 285 af 29. marts 2017 (Forenkling af regler om inddrivelse af gæld til det offentlige m.v.)4) indeholder følgende ikrafttrædelsesbestemmelse:
+
+#### § 25
+
+*Stk. 1.* Loven træder i kraft den 1. april 2017.
+
+*Stk. 2.* § 1, nr. 10, har virkning for renter af fordringer, der er under inddrivelse hos restanceinddrivelsesmyndigheden, og hvor renten stiftes den 21. november 2018 eller senere.
+
+Lov nr. 1558 af 19. december 2017 (Certificering af virksomheder, der udfører opgaver for andre end jernbanevirksomheder og infrastrukturforvaltere)5) indeholder følgende ikrafttrædelsesbestemmelse:
+
+#### § 2
+
+Loven træder i kraft den 1. januar 2018.
+
+Lov nr. 1562 af 18. december 2018 (Master til brug for mobil- og internetdækning i tog)6) indeholder følgende ikrafttrædelsesbestemmelse:
+
+#### § 2
+
+Loven træder i kraft den 1. januar 2019.
+
+Lov nr. 206 af 5. marts 2019 (Fremme af digitale mobilitetstjenester m.v.)7) indeholder følgende ikrafttrædelsesbestemmelse:
+
+#### § 3
+
+Loven træder i kraft den 1. juli 2019.
+
+Lov nr. 510 af 1. maj 2019 (Implementering af dele af den tekniske del af 4. jernbanepakke, herunder nye beføjelser for Den Europæiske Unions Jernbaneagentur, justeringer af den retlige ramme for Havarikommissionen for Civil Luftfart og Jernbanes arbejde m.v.)8) indeholder følgende ikrafttrædelsesbestemmelser:
+
+#### § 2
+
+*Stk. 1.* Lovens § 1, nr. 8, 13, 21-35, 39, 42 og 47, træder i kraft den 16. juni 2019, jf. dog stk. 2.
+
+*Stk. 2.* Transportministeren fastsætter tidspunktet for ikrafttræden af lovens § 1, nr. 1-7, 9-12, 14-20, 36-38, 40, 41 og 43-469). Ministeren kan herunder fastsætte, at dele af loven træder i kraft på forskellige tidspunkter.
+
+*Stk. 3.* Regler fastsat i medfør af § 39, stk. 1 og 2, i jernbaneloven, jf. lov nr. 686 af 27. maj 2015, forbliver i kraft, indtil de ændres, ophæves eller afløses af forskrifter udstedt i medfør af § 39 c, stk. 1 og 2, jf. denne lovs § 1, nr. 7.
+
+*Stk. 4.* Regler fastsat i medfør af § 82, stk. 4, i jernbaneloven, jf. lov nr. 686 af 27. maj 2015, forbliver i kraft, indtil de ændres, ophæves eller afløses af forskrifter udstedt i medfør af § 82, stk. 6, jf. denne lovs § 1, nr. 22.
+
+#### § 3
+
+*Stk. 1.* Lovens § 1, nr. 21-34, finder ikke anvendelse på Havarikommissionens arbejde og undersøgelse af ulykker og hændelser, som er indtruffet før den 16. juni 2019. For dette arbejde og undersøgelser af sådanne ulykker og hændelser finder de hidtil gældende regler anvendelse.
+
+*Stk. 2.* Et sikkerhedscertifikat, der er udstedt efter jernbanelovens § 58, jf. lov nr. 686 af 27. maj 2015, før denne lovs ikrafttræden, kan i overensstemmelse med sit indhold anvendes i stedet for et EU-sikkerhedscertifikat efter § 58 som affattet ved denne lovs § 1, nr. 10, indtil det udløber eller ændres.
+
+*Stk. 3.* Køretøjsgodkendelser, der er udstedt efter jernbanelovens § 60, jf. lov nr. 686 af 27. maj 2015, før denne lovs ikrafttræden, kan på de betingelser, der gjaldt for udstedelsen, anvendes i stedet for en køretøjsomsætningstilladelse efter § 60 som affattet ved denne lovs § 1, nr. 11. Et køretøj med køretøjsgodkendelse efter jernbanelovens § 60, jf. lov nr. 686 af 27. maj 2015, skal have en køretøjsomsætningstilladelse efter § 60 som affattet ved denne lovs § 1, nr. 11, før det må køre på et eller flere net, der ikke er omfattet af deres godkendelse.
+
+Lov nr. 434 af 16. marts 2021 (Implementering af VVM-direktivet for statslige vej- og jernbaneprojekter)10) indeholder følgende ikrafttrædelsesbestemmelse:
+
+#### § 3
+
+*Stk. 1.* Loven træder i kraft den 1. april 2021.
+
+*Stk. 2.* (Udelades)
+
+*Stk. 3.* Regler fastsat i medfør af § 38 k, stk. 4, i jernbaneloven, lov nr. 686 af 27. maj 2015, som ændret ved § 2 i lov nr. 658 af 8. juni 2016 forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 38 k, stk. 5, i jernbaneloven.
+
+Lov nr. 2397 af 14. december 2021 (Fravigelse af støjkrav i forbindelse med jernbaneprojekter i særlige tilfælde og kompensation herfor)11) indeholder følgende ikrafttrædelsesbestemmelse:
+
+#### § 4
+
+Loven træder i kraft den 1. januar 2022.
+
+Lov nr. 756 af 13. juni 2023 (Revision af visse regler på jernbaneområdet)12) indeholder følgende ikrafttrædelsesbestemmelse:
+
+#### § 3
+
+*Stk. 1.* Loven træder i kraft den 1. juli 2023.
+
+*Stk. 2.* Regler fastsat i medfør af § 2, stk. 5, 2. pkt., § 5, stk. 6, 1. pkt., § 5, stk. 7, § 8, stk. 3, § 11, stk. 2, § 61, stk. 4 og 5, § 109, stk. 9, og § 111, stk. 7 og 8, i jernbaneloven, lov nr. 686 af 27 maj 2015, som ændret ved lov nr. 1558 af 19. december 2017 og lov nr. 510 af 1. maj 2019, forbliver i kraft, indtil de ophæves eller afløses af forskrifter udstedt i medfør af § 2, stk. 6, § 5, stk. 3 og 4, § 8, stk. 4, § 11, stk. 3, § 61, § 109, stk. 8, og § 111, stk. 6 og 7, i jernbaneloven som affattet ved denne lovs § 1, nr. 2, 3, 7, 10, 18, 27 og 29.
+
+Transportministeriet, den 11. august 2023
+
+Thomas Danielsen
+
+/ Christian Løvenbalck Haxthausen
+
+## Bilag 1
+
+1\. Råolieraffinaderier (undtagen virksomheder, der udelukkende fremstiller smøremidler på grundlag af råolie) samt anlæg til forgasning og fortætning af mindst 500 t kul eller bituminøs skifer om dagen.
+
+2\.
+
+a) Konventionelle kraftværker og andre fyringsanlæg med en termisk ydelse på mindst 300 MW.
+
+b) Kernekraftværker og andre kernereaktorer, herunder demontering og nedlukning af sådanne kernekraftværker eller reaktorer1) (bortset fra forskningsanlæg til fremstilling og forarbejdning af spaltelige og fertile stoffer, hvis maksimumskapacitet ikke overstiger 1 kW vedvarende termisk ydelse)
+
+3\.
+
+a) Anlæg til oparbejdning af bestrålet nukleart brændsel.
+
+b) Anlæg, der er bestemt:
+
+i) til fremstilling eller berigning af nukleart brændsel
+
+ii) til oparbejdning af bestrålet nukleart brændsel eller højradioaktivt affald
+
+iii) til endelig bortskaffelse af bestrålet nukleart brændsel
+
+iv) udelukkende til endelig bortskaffelse af radioaktivt affald
+
+v) udelukkende til deponering (planlagt til at vare i mere end 10 år) af bestrålet nukleart brændsel eller radioaktivt affald på et andet sted med produktionsstedet.
+
+4\.
+
+a) Integrerede jern- og stålværker til fremstilling af råjern og råstål.
+
+b) Anlæg til udvinding af non-ferro-råmetaller af malme, koncentrater eller sekundære råstoffer ved hjælp af metalprocesser, kemiske eller elektrolytiske processer.
+
+5\. Anlæg til udvinding af asbest og til behandling og forarbejdning af asbest og af produkter, der indeholder asbest: for så vidt angår produkter i asbestcement, med en årlig produktion på over 20.000 t færdige produkter; for så vidt angår friktionspakninger, med en årlig produktion på 50 t færdige produkter; for så vidt angår anden anvendelse af asbest, med et årligt forbrug heraf på over 200 t.
+
+6\. Integrerede kemiske anlæg, dvs. anlæg til fremstilling i industriel målestok af stoffer ved kemisk omdannelse, som ligger side om side og funktionelt hører sammen, og som er:
+
+a) til fremstilling af organiske grundkemikalier
+
+b) til fremstilling af uorganiske grundkemikalier
+
+c) til fremstilling af phosphat-, kvælstof- eller kaliumholdig kunstgødning (også blandingsgødning)
+
+d) til fremstilling af basisplantebeskyttelsesmidler og biocider
+
+e) til fremstilling af farmaceutiske basisprodukter ved hjælp af en kemisk eller biologisk proces
+
+f) til fremstilling af sprængstoffer.
+
+7\.
+
+a) Nyanlæg til jernbanefjerntrafik samt lufthavne2) med en start- og landingsbane på mindst 2.100 m.
+
+b) Anlæg af motorveje og motortrafikveje3).
+
+c) Anlæg af nye veje med mindst fire kørebaner eller udretning og/eller udvidelse af en eksisterende vej med højst to kørebaner med henblik på anlæg af mindst fire kørebaner, hvis en sådan ny vej eller et således udrettet og/eller udvidet vejafsnit har en ubrudt længde på mindst 10 km.
+
+8\.
+
+a) Indre vandveje og havne ved indre vandveje, som kan anløbes af fartøjer på over 1.350 t.
+
+b) Søhandelshavne, anløbsbroer til lastning og losning, der er forbundet med havneanlæg til lands og til vands (bortset fra færgebroer), der kan anløbes af fartøjer på over 1.350 t.
+
+9\. Anlæg til bortskaffelse af farligt affald ved forbrænding, kemisk behandling (som defineret i bilag I til Europa- Parlamentets og Rådets direktiv 2008/98/EF af 19. november 2008 om affald4), afsnit D9) eller deponering i jorden som defineret i artikel 3, nr. 2, i det nævnte direktiv5).
+
+10\. Anlæg til bortskaffelse af ikkefarligt affald ved forbrænding eller kemisk behandling (som defineret i bilag I til direktiv 2008/98/EF afsnit D9) med en kapacitet på over 100 t/dag.
+
+11\. Arbejder i forbindelse med indvinding af grundvand eller kunstig tilførsel af grundvand, hvor den indvundne eller tilførte mængde vand udgør mindst 10 mio. m<sup>3</sup>/år.
+
+12\.
+
+a) Anlæg til overførsel af vandressourcer mellem flodbækkener, når formålet er at forebygge eventuel vandmangel, og når den overførte vandmængde overstiger 100 mio. m<sup>3</sup>/år.
+
+b) I alle andre tilfælde anlæg til overførsel af vandressourcer mellem flodbækkener, når den gennemsnitlige vandmængde i det bækken, hvorfra vandet overføres, over flere år overstiger 2.000 mio. m<sup>3</sup>/år, og den overførte vandmængde overstiger 5 pct. af denne mængde.
+
+I begge tilfælde er overførsel af drikkevand via rørledninger ikke omfattet.
+
+13\. Anlæg til behandling af spildevand med en kapacitet på over 150.000 personækvivalenter som defineret i artikel 2, nr. 6, i Rådets direktiv 91/271/EØF6) af 21. maj 1991 om rensning af byspildevand.
+
+14\. Udvinding af mere end 500 t råolie/dag og mere end 500.000 m<sup>3</sup> naturgas/dag i kommercielt øjemed.
+
+15\. Dæmninger og andre anlæg til opstuvning eller varig oplagring af vand, når den nye eller supplerende opstuvede eller oplagrede vandmængde overstiger 10 mio. m<sup>3</sup>.
+
+16\. Rørledninger med en diameter på over 800 mm og en længde på over 40 km:
+
+a) til transport af gas, olie, kemikalier
+
+b) til transport af kuldioxidstrømme (CO<sub>2</sub>) med henblik på geologisk lagring, herunder tilknyttede pumpestationer.
+
+17\. Anlæg til intensiv fjerkræavl og svineavl med mere end:
+
+a) 85.000 pladser til slagtekyllinger, 60.000 pladser til høner
+
+b) 3.000 pladser til slagtesvin (over 30 kg) eller
+
+c) 900 pladser til søer.
+
+18\. Industrianlæg til fremstilling af:
+
+a) papirmasse af træ eller andre fibermaterialer
+
+b) papir og pap med en produktionskapacitet på mere end 200 t per dag.
+
+19\. Stenbrud og minedrift i åbne brud, hvor minestedets areal er over 25 ha, eller tørvegravning på et areal over 150 ha.
+
+20\. Anlæg af stærkstrømsluftledninger med en spænding på mindst 220 kV og en længde på over 15 km.
+
+21\. Anlæg til oplagring af olieprodukter samt petrokemiske eller kemiske produkter med en kapacitet på 200.000 t eller derover.
+
+22\. Lagringslokalitet som omhandlet i Europa-Parlamentets og Rådets direktiv 2009/31/EF af 23. april 2009 om geologisk lagring af kuldioxid7).
+
+23\. Anlæg til opsamling af CO<sub>2</sub>-strømme fra anlæg omfattet af dette bilag, med henblik på geologisk lagring i medfør af direktiv 2009/31/EF, eller hvor den samlede opsamling af CO<sub>2</sub> årligt ligger på 1,5 megatons eller derover.
+
+24\. Enhver ændring eller udvidelse af projekter, der er opført i dette bilag, såfremt en sådan ændring eller udvidelse i sig selv opfylder de eventuelle tærskelværdier, der er fastsat i dette bilag.
+
+## Bilag 2
+
+1\. LANDBRUG, SKOVBRUG OG AKVAKULTUR
+
+a) Projekter vedrørende sammenlægninger.
+
+b) Projekter vedrørende inddragning af uopdyrket land eller delvise naturområder til intensiv landbrugsvirksomhed.
+
+c) Vandforvaltningsprojekter inden for landbruget, herunder vandings- og dræningsprojekter.
+
+d) Nyplantning og rydning af skov med henblik på omlægning til anden arealudnyttelse.
+
+e) Anlæg til intensiv husdyravl (projekter, som ikke er omfattet af bilag 1).
+
+f) Intensivt fiskeopdræt.
+
+g) Landindvinding fra havet.
+
+2\. UDVINDINGSINDUSTRIEN
+
+a) Stenbrud og minedrift i åbne brud samt tørvegravning (projekter, som ikke er omfattet af bilag 1).
+
+b) Minedrift i underjordiske brud.
+
+c) Udvinding af mineraler ved sandsugning fra hav- eller flodbund.
+
+d) Dybdeboringer, navnlig:
+
+i) geotermiske boringer
+
+ii) boringer til deponering af nukleart affald
+
+iii) vandforsyningsboringer bortset fra boringer til undersøgelse af jordbundens fasthed.
+
+e) Overfladeanlæg til udvinding af stenkul, råolie, naturgas og malme samt bituminøs skifer.
+
+3\. ENERGIINDUSTRIEN
+
+a) Industrianlæg til fremstilling af elektricitet, damp og varmt vand (projekter, som ikke er omfattet af bilag 1).
+
+b) Industrianlæg til transport af gas, damp og varmt vand; transport af elektricitet gennem luftledninger (projekter, som ikke er omfattet af bilag 1).
+
+c) Oplagring af naturgas over jorden.
+
+d) Oplagring af brændselsgas i underjordiske beholdere.
+
+e) Oplagring af fossilt brændsel over jorden.
+
+f) Industriel brikettering af sten- og brunkul.
+
+g) Anlæg til oparbejdning og deponering af radioaktivt affald (projekter, som ikke er omfattet af bilag 1).
+
+h) Anlæg til fremstilling af hydroelektrisk energi.
+
+i) Anlæg til udnyttelse af vindkraft til energiproduktion (vindmølleparker).
+
+j) Anlæg til opsamling af CO<sub>2</sub>-strømme fra anlæg, der ikke er omfattet af bilag 1, med henblik på geologisk lagring i medfør af direktiv 2009/31/EF.
+
+4\. PRODUKTION OG FORARBEJDNING AF METALLER
+
+a) Anlæg til produktion af støbejern eller stål (første eller anden smeltning) med dertil hørende strengstøbning.
+
+b) Anlæg til videreforarbejdning af jernmetaller ved hjælp af:
+
+i) varmtvalsning
+
+ii) smedning med hamre
+
+iii) anbringelse af beskyttelseslag af smeltet metal.
+
+c) Smelteanlæg for jernmetaller.
+
+d) Anlæg til smeltning, inkl. legering, af non-ferro-metaller, undtagen ædelmetaller, herunder genindvindingsprodukter, (f.eks. forædling, støbning).
+
+e) Anlæg til overfladebehandling af metaller og plastmaterialer ved en elektrolytisk eller kemisk proces.
+
+f) Fremstilling og samling af motorkøretøjer samt fremstilling af motorer til sådanne.
+
+g) Skibsværfter.
+
+h) Anlæg til fremstilling og reparation af luftfartøjer.
+
+i) Fremstilling af jernbanemateriel.
+
+j) Eksplosionsformgivning (dybtrykning).
+
+k) Anlæg til kalcinering og udfritning af malm.
+
+5\. MINERALINDUSTRIEN
+
+a) Koksværker (tørdestillation af kul).
+
+b) Anlæg til cementfremstilling.
+
+c) Anlæg til udvinding af asbest og fremstilling af produkter af asbest (projekter, som ikke er omfattet af bilag 1).
+
+d) Anlæg til fremstilling af glas, inklusive glasfibre.
+
+e) Anlæg til smeltning af mineralske stoffer, inklusive fremstilling af mineraluldsfibre.
+
+f) Fremstilling af keramiske produkter ved brænding, navnlig tagsten, mursten, ildfaste sten, fliser, stentøj eller porcelæn.
+
+6\. DEN KEMISKE INDUSTRI (PROJEKTER, SOM IKKE ER OMFATTET AF BILAG 1)
+
+a) Behandling af mellemprodukter og fremstilling af kemiske produkter.
+
+b) Fremstilling af pesticider og farmaceutiske produkter, af maling og lak, af elastomerer og peroxider.
+
+c) Anlæg til oplagring af olie samt petrokemiske og kemiske produkter.
+
+7\. LEVNEDSMIDDELINDUSTRIEN
+
+a) Bearbejdning af vegetabilske og animalske fedtstoffer.
+
+b) Konservering af animalske og vegetabilske produkter.
+
+c) Fremstilling af mejeriprodukter.
+
+d) Brygning og maltning.
+
+e) Sukkervareindustrien.
+
+f) Slagterier.
+
+g) Fremstilling af stivelse og stivelsesprodukter.
+
+h) Fiskemels- og fiskeoliefabrikker.
+
+i) Sukkerfabrikker.
+
+8\. TEKSTIL-, LÆDER-, TRÆ- OG PAPIRINDUSTRIEN
+
+a) Industrianlæg til produktion af papir og pap (projekter, som ikke er omfattet af bilag 1).
+
+b) Anlæg til forbehandling (vask, blegning, mercerisering) eller farvning af fibre eller tekstilstoffer.
+
+c) Anlæg til garvning af huder og skind.
+
+d) Anlæg til fremstilling og bearbejdning af cellulose.
+
+9\. GUMMIINDUSTRIEN
+
+Fremstilling og behandling af produkter på grundlag af elastomerer.
+
+10\. INFRASTRUKTURPROJEKTER
+
+a) Anlægsarbejder i industrizoner.
+
+b) Anlægsarbejder i byzoner, herunder opførelse af butikscentre og parkeringsanlæg.
+
+c) Anlæg af jernbaner og anlæg til kombineret transport og af intermodale terminaler (projekter, som ikke er omfattet af bilag 1).
+
+d) Anlæg af flyvepladser (projekter, som ikke er omfattet af bilag 1).
+
+e) Bygning af veje, havne og havneanlæg, herunder fiskerihavne (projekter, som ikke er omfattet af bilag 1).
+
+f) Anlæg af vandveje, som ikke er omfattet af bilag 1, kanalbygning og regulering af vandløb.
+
+g) Dæmninger og andre anlæg til opstuvning eller varig oplagring af vand (projekter, som ikke er omfattet af bilag 1).
+
+h) Sporveje, høj- og undergrundsbaner, svævebaner eller lignende baner af særlig bygningstype, der udelukkende eller overvejende tjener til personbefordring.
+
+i) Anlæg af olie- og gasledninger og rørledninger til transport af CO<sub>2</sub>-strømme med henblik på geologisk lagring (projekter, der ikke er omfattet af bilag 1).
+
+j) Anlæg af vandledninger over større afstande.
+
+k) Kystanlæg til modvirkning af erosion og maritime vandbygningskonstruktioner, der kan ændre kystlinjerne, som f.eks. diger, dæmninger, moler, bølgebrydere og andre konstruktioner til beskyttelse mod havet, bortset fra vedligeholdelse og genopførelse af sådanne anlæg.
+
+l) Arbejder i forbindelse med indvinding af grundvand og kunstig tilførsel af grundvand, som ikke er omfattet af bilag 1.
+
+m) Anlæg til overførsel af vandressourcer mellem flodbækkener, som ikke er omfattet af bilag 1.
+
+11\. ANDRE PROJEKTER
+
+a) Permanente væddeløbs- og prøvekørselsbaner for motorkøretøjer.
+
+b) Anlæg til bortskaffelse af affald (projekter, som ikke er omfattet af bilag 1).
+
+c) Rensningsanlæg (projekter, som ikke er omfattet af bilag 1).
+
+d) Områder til oplagring af slam fra rensningsanlæg.
+
+e) Skrotoplagring, herunder oplagring af biler til ophugning.
+
+f) Prøveanlæg for motorer, turbiner eller reaktorer.
+
+g) Anlæg til fremstilling af kemofibre.
+
+h) Anlæg til indsamling eller destruering af sprængfarlige stoffer.
+
+i) Destruktionsanstalter.
+
+12\. TURISME OG FRITID
+
+a) Skiløjper, skilifter, tovbaner og hermed forbundet anlægsarbejde.
+
+b) Lystbådehavne.
+
+c) Feriebyer og hotelkomplekser uden for byområder og hermed forbundet anlægsarbejde.
+
+d) Permanente campingpladser.
+
+e) Forlystelsesparker, og lign.
+
+13\.
+
+a) Ændringer eller udvidelser af projekter i bilag 1 eller nærværende bilag, som allerede er godkendt, er udført eller er ved at blive udført, når de kan have væsentlige skadelige indvirkninger på miljøet (ændring eller udvidelse, som ikke er omfattet af bilag 1).
+
+b) Projekter i bilag 1, som udelukkende eller hovedsagelig tjener til udvikling og afprøvning af nye metoder eller produkter, og som ikke anvendes mere end 2 år.
+
+## Bilag 2 a
+
+(OPLYSNINGER FRA BYGHERREN OM DE I BILAG 2 OPFØRTE PROJEKTER)
+
+1\. En beskrivelse af projektet, herunder navnlig:
+
+a) en beskrivelse af hele projektets fysiske karakteristika, og, hvor det er relevant, nedrivningsarbejder
+
+b) en beskrivelse af projektets placering, navnlig med hensyn til den miljømæssige sårbarhed i de geografiske områder, der kan forventes at blive berørt af projektet.
+
+2\. En beskrivelse af de miljøaspekter, der kan forventes at blive berørt i væsentlig grad af projektet.
+
+3\. En beskrivelse af alle de væsentlige virkninger, for så vidt oplysninger om sådanne virkninger foreligger, som projektet kan forventes at få på miljøet som følge af:
+
+a) de forventede reststoffer og emissioner og den forventede affaldsproduktion, hvor dette er relevant
+
+b) brugen af naturressourcer, særlig jordarealer, jordbund, vand og biodiversitet.
+
+4\. Der skal, hvor det er relevant, tages hensyn til kriterierne i bilag 3 ved indsamlingen af oplysninger i overensstemmelse med punkt 1-3.
+
+## Bilag 3
+
+(KRITERIER TIL BESTEMMELSE AF, HVORVIDT PROJEKTER OPFØRT PÅ BILAG 2 SKAL UNDERKASTES EN MILJØKONSEKVENSVURDERING)
+
+**1.** **Projekters karakteristika:** Projekters karakteristika skal især anskues i forhold til:
+
+a) hele projektets dimensioner og udformning,
+
+b) kumulation med andre eksisterende og/eller godkendte projekter,
+
+c) brugen af naturressourcer, særlig jordarealer, jordbund, vand og biodiversitet,
+
+d) affaldsproduktion,
+
+e) forurening og gener,
+
+f) risikoen for større ulykker og/eller katastrofer, som er relevante for det pågældende projekt, herunder sådanne, som forårsages af klimaændringer, i overensstemmelse med videnskabelig viden, og
+
+g) risikoen for menneskers sundhed (f.eks. som følge af vand- eller luftforurening).
+
+**2.** **Projekters placering:** Den miljømæssige sårbarhed i de geografiske områder, der kan forventes at blive berørt af projekter, skal tages i betragtning, navnlig:
+
+a) den eksisterende og godkendte arealanvendelse,
+
+b) naturressourcernes (herunder jordbund, jordarealer, vand og biodiversitet) relative rigdom, forekomst, kvalitet og regenereringskapacitet i området og dettes undergrund, og
+
+c) det naturlige miljøs bæreevne med særlig opmærksomhed på følgende områder:
+
+i) vådområder, områder langs bredder, flodmundinger
+
+ii) kystområder og havmiljøet
+
+iii) bjerg- og skovområder
+
+iv) naturreservater og -parker
+
+v) områder, der er registreret eller fredet ved national lovgivning; Natura 2000-områder udpeget af medlemsstater i henhold til direktiv 92/43/EØF og direktiv 2009/147/EF
+
+vi) områder, hvor det ikke er lykkedes — eller med hensyn til hvilke det menes, at det ikke er lykkedes — at opfylde de miljøkvalitetsnormer, der er fastsat i EU-lovgivningen, og som er relevante for projektet
+
+vii) tætbefolkede områder
+
+viii) landskaber og lokaliteter af historisk, kulturel eller arkæologisk betydning.
+
+**3.** **Arten af og kendetegn ved den potentielle indvirkning på miljøet:** Projektets forventede væsentlige virkninger på miljøet skal ses i relation til de kriterier, der er anført under punkt 1 og 2 i dette bilag, og under hensyn til projektets indvirkning på de i artikel 3, stk. 1, nævnte faktorer, idet der skal tages hensyn til:
+
+a) indvirkningens størrelsesorden og rumlige udstrækning (f.eks. geografisk område og antallet af personer, der forventes berørt),
+
+b) indvirkningens art,
+
+c) indvirkningens grænseoverskridende karakter,
+
+d) indvirkningens intensitet og kompleksitet,
+
+e) indvirkningens sandsynlighed,
+
+f) indvirkningens forventede indtræden, varighed, hyppighed og reversibilitet,
+
+g) kumulationen af projektets indvirkninger med indvirkningerne af andre eksisterende og/eller godkendte projekter, og
+
+h) muligheden for reelt at begrænse indvirkningerne.
+
+## Bilag 4
+
+(OPLYSNINGER TIL MILJØKONSEKVENSRAPPORTEN)
+
+1\. Beskrivelse af projektet, herunder navnlig:
+
+a) en beskrivelse af projektets placering,
+
+b) en beskrivelse af hele projektets fysiske karakteristika, herunder, hvor det er relevant, fornødne nedrivningsarbejder, og arealanvendelsesbehovet i anlægs- og driftsfaserne,
+
+c) en beskrivelse af de væsentligste karakteristika ved projektets driftsfase (navnlig en eventuel produktionsproces), f.eks. energibehov og energiforbrug, typen og mængden af de anvendte materialer og naturressourcer (herunder vand, jordarealer, jordbund og biodiversitet), og
+
+d) et skøn efter type og mængde over forventede reststoffer og emissioner (såsom vand-, luft-, jordbunds- og undergrundsforurening, støj, vibrationer, lys, varme, stråling) og mængder og typer af affald produceret i anlægs- og driftsfaserne.
+
+2\. En beskrivelse af de rimelige alternativer (f.eks. vedrørende projektets udformning, teknologi, placering, dimensioner og størrelsesorden), som bygherren har undersøgt, og som er relevante for det fremlagte projekt og dets særlige karakteristika, og angivelse af hovedårsagerne til det trufne valg, herunder en sammenligning af miljøpåvirkningerne.
+
+3\. En beskrivelse af de relevante aspekter af den aktuelle miljøstatus (referencescenarie) og en kort beskrivelse af dens sandsynlige udvikling, hvis projektet ikke gennemføres, for så vidt naturlige ændringer i forhold til referencescenariet kan vurderes ved hjælp af en rimelig indsats på grundlag af tilgængeligheden af miljøoplysninger og videnskabelig viden.
+
+4\. En beskrivelse af de i jernbanelovens § 38 g, stk. 6, nævnte faktorer, der kan forventes at blive berørt i væsentlig grad af projektet: befolkningen, menneskers sundhed, biodiversiteten (f.eks. fauna og flora), jordarealer (f.eks. inddragelse af arealer), jordbund (f.eks. organisk stof, erosion, komprimering og arealbefæstelse), vand (f.eks. hydromorfologiske forandringer, kvantitet og kvalitet), luft, klima (f.eks. drivhusgasemissioner, virkninger, der er relevante for tilpasning), materielle goder, kulturarven, herunder den arkitektoniske og arkæologiske aspekter, og landskab.
+
+5\. En beskrivelse af projektets forventede væsentlige virkninger på miljøet som følge af bl.a.:
+
+a) anlæggelsen og tilstedeværelsen af projektet, herunder, hvor det er relevant, nedrivningsarbejder
+
+b) brugen af naturressourcer, navnlig jordarealer, jordbund, vand og biodiversitet, så vidt muligt under hensyntagen til en bæredygtig adgang til disse ressourcer
+
+c) emissionen af forurenende stoffer, støj, vibrationer, lys, varme og stråling, opståelsen af gener og bortskaffelsen og genvindingen af affald
+
+d) faren for menneskers sundhed, kulturarven og miljøet (f.eks. på grund af ulykker eller katastrofer)
+
+e) kumulationen af projektets virkninger med andre eksisterende og/eller godkendte projekter, idet der tages hensyn til eventuelle eksisterende miljøproblemer i forbindelse med områder af særlig miljømæssig betydning, som kan forventes at blive berørt, eller anvendelsen af naturressourcer
+
+f) projektets indvirkning på klimaet (f.eks. arten og omfanget af drivhusgasemissioner) og projektets sårbarhed over for klimaændringer
+
+g) de anvendte teknologier og stoffer.
+
+Beskrivelsen af de forventede væsentlige virkninger på de i jernbanelovens § 38 g, stk. 6, angivne faktorer bør omfatte projektets direkte virkninger og i givet fald dets indirekte, sekundære, kumulative, grænseoverskridende, kort-, mellem- og langsigtede, vedvarende eller midlertidige samt positive eller negative virkninger. I beskrivelsen bør der tages hensyn til de miljøbeskyttelsesmål, der er fastlagt på EU- eller medlemsstatsplan, og som er relevante for projektet.
+
+6\. En beskrivelse af, hvilke metoder eller beviser der er anvendt til identificeringen og forudberegningen af de væsentlige virkninger på miljøet, herunder oplysninger vedrørende eventuelle vanskeligheder (f.eks. tekniske mangler eller manglende viden) i forbindelse med indsamlingen af de krævede oplysninger og vedrørende de vigtigste usikkerheder.
+
+7\. En beskrivelse af de påtænkte foranstaltninger med henblik på at undgå, forebygge, begrænse eller om muligt neutralisere identificerede væsentlige skadelige virkninger på miljøet og, om relevant, af eventuelle foreslåede overvågningsordninger (f.eks. udarbejdelse af en analyse efter projektets afslutning). Denne beskrivelse bør redegøre for, i hvilken grad de væsentlige skadelige virkninger på miljøet undgås, forebygges, begrænses eller neutraliseres, og bør dække både anlægs- og driftsfasen.
+
+8\. En beskrivelse af projektets forventede skadelige virkninger på miljøet som følge af projektets sårbarhed over for større ulykker og/eller katastrofer, som er relevante for det pågældende projekt. Relevante foreliggende oplysninger indhentet via risikovurderinger foretaget i henhold til EU-lovgivning såsom Europa-Parlamentets og Rådets direktiv 2012/18/EU1) eller Rådets direktiv 2009/71/Euratom2) eller relevante vurderinger foretaget i henhold til national lovgivning kan bruges til dette formål, forudsat at kravene i nærværende direktiv opfyldes.
+
+Beskrivelsen bør, hvor det er relevant, omfatte de påtænkte foranstaltninger til forebyggelse eller afbødning af sådanne begivenheders væsentlige skadelige virkninger på miljøet og oplysninger om beredskabet med henblik på og den foreslåede håndtering af sådanne nødsituationer.
+
+9\. Et ikketeknisk resumé af de på grundlag af punkt 1-8 fremlagte oplysninger.
+
+10\. En referenceliste med oplysninger om kilderne til de i rapporten indeholdte beskrivelser og vurderinger.
+
+## Officielle noter
+
+1\) Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2016/797/EU af 11. maj 2016 om interoperabilitet i jernbanesystemet i Den Europæiske Union, EU-Tidende 2016, nr. L 138, side 44, dele af Europa-Parlamentets og Rådets direktiv 2016/798/EU af 11. maj 2016 om jernbanesikkerhed, EU-Tidende 2016, nr. L 138, side 102, dele af Europa-Parlamentets og Rådets direktiv 2012/34/EU af 21. november 2012 om oprettelse af et fælles europæisk jernbaneområde, EU-Tidende 2012, nr. L 343, side 32, og Europa-Parlamentets og Rådets direktiv 2011/92/EU af 13. december 2011 om vurdering af visse offentlige og private projekters indvirkning på miljøet, EU-Tidende 2012, nr. L 26, side 1, som ændret ved Europa-Parlamentets og Rådets direktiv 2014/52/EU af 16. april 2014 om ændring af direktiv 2011/92/EU af 13. december 2011 om vurdering af visse offentlige og private projekters indvirkning på miljøet, EU-Tidende 2014, nr. L 124, side 1.
+
+2\) Betegnelsen for ministeren er i hele lovbekendtgørelsen ændret til transportministeren som følge af den kongelige resolution af 27. juni 2019.
+
+3\) Lovændringen vedrører fodnoten til lovens titel, § 1, stk. 3, § 3, stk. 2, §§ 38 a – q, § 102, stk. 1, § 115 a, § 116, stk. 2 og 5, og bilag 1, 2, 2 a, 3 og 4.
+
+4\) Lovændringen vedrører § 14, stk. 2.
+
+5\) Lovændringen vedrører § 11.
+
+6\) Lovændringen vedrører § 30, stk. 2, og § 38, stk. 1.
+
+7\) Lovændringen vedrører § 14.
+
+8\) Lovændringen vedrører fodnoten til lovens titel, § 2, stk. 3 og 6, § 3, stk. 1, § 11, stk. 1, § 39, §§ 39 a – c, § 47 a, § 57, stk. 2, § 58, § 60, §§ 60 a – c, § 61, § 64, stk. 1, § 70, stk. 2, § 72, § 73, stk. 1, § 74, stk. 1, § 76 a, § 81, stk. 4, § 82, stk. 4 og 5, § 83, § 85, stk. 2, § 86, stk. 1, § 88, § 93, § 95, stk. 1, § 95 a, § 97, stk. 2, § 101 a, § 109, § 111, § 116, stk. 1 og 2, og § 120 a.
+
+9\) Loven er sat i kraft ved bekendtgørelse nr. 634 af 14. maj 2020.
+
+10\) Lovændringen vedrører § 3, stk. 2, § 38 a, § 38 b, stk. 2 og 3, § 38 c, stk. 2, § 38 d, § 38 e, stk. 2, § 38 f, stk. 1-3, §§ 38 g – l, § 38 m, stk. 1, 2 og 4, §§ 38 n – o, § 38 r, § 115 a, stk. 3 og 4, § 116, stk. 2 og bilag 4.
+
+11\) Lovændringen vedrører §§ 37 a – b.
+
+12\) Lovændringen vedrører § 2, § 5, § 6, stk. 1, § 8, stk. 2 og 3, § 11, § 16, stk. 6, §§ 24 a – c, § 29 a, § 30, stk. 2, § 54 a, § 61, § 62, stk. 2, § 70, stk. 1, § 72, stk. 1, § 73, stk. 1, § 74, stk. 1, § 78, stk. 4, § 80, stk. 1, § 83, stk. 6, § 103, stk. 1, 2 og 7, § 109, stk. 6-8, § 110 a, § 111, stk. 5-8, § 116, stk. 1, og § 117, stk. 2.
+
+1\) Kernekraftværker og andre kernereaktorer ophører med at betragtes som sådanne, når alt nukleart brændsel og andre radioaktivt kontaminerede elementer er blevet permanent fjernet fra anlæggets område.
+
+2\) Jf. definitionen for lufthavne i Chicagooverenskomsten af 1944 om oprettelse af organisationen for international luftfart (bilag 14).
+
+3\) Ved motortrafikveje forstås veje, der svarer til definitionen i ECE-aftalen af 15. november 1975 om internationale hovedtrafikårer.
+
+4\) Europa-Parlamentets og Rådets direktiv 2008/98/EF af 19. november 2008 om affald og om ophævelse af visse direktiver.
+
+5\) Rådets direktiv 75/442/EØF af 15. juli 1975 om affald. Direktivet er senest ændret ved direktiv 91/156/EØF af 18. marts 1991.
+
+6\) Rådets direktiv 91/271/EØF af 21. maj 1991 om rensning af byspildevand.
+
+7\) Direktiv 2009/31 af 23. april 2009 om geologisk lagring af kuldioxid og om ændring af Rådets direktiv 85/337/EØF, Europa-Parlamentets og Rådets direktiv 2000/60/EF, 2004/35/EF, 2008/1/EF og forordning (EF) nr. 1013/2006.
+
+1\) Europa-Parlamentets og Rådets direktiv 2012/18/EU af 4. juli 2012 om kontrol med risikoen for større uheld med farlige stoffer og om ændring og efterfølgende ophævelse af Rådets direktiv 96/82/EF (EUT L 197 af 24.7.2012, side 1).
+
+2\) Rådets direktiv 2009/71/Euratom af 25. juni 2009 om EF-rammebestemmelser for nukleare anlægs nukleare sikkerhed (EUT L 172 af 2.7.2009, side 18) 25.4.2014 L 124/18 Den Europæiske Unions Tidende DA.

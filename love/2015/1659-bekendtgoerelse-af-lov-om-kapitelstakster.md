@@ -1,0 +1,81 @@
+---
+title: "Bekendtgørelse af lov om kapitelstakster"
+identifier: "LBK nr 1659 af 14/12/2015"
+eli: "https://www.retsinformation.dk/eli/lta/2015/1659"
+accession_number: "A20150165929"
+type: "consolidated_act"
+jurisdiction: "dk"
+language: "da"
+date: 2015-12-14
+last_amended: 2015-12-14
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2015/1659"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse af lov om kapitelstakster
+
+*LBK nr 1659 af 14/12/2015*
+
+Herved bekendtgøres lov nr. 592 af 12. december 1984 om kapitelstakster med de ændringer, der følger af § 44 i lov nr. 145 af 25. marts 2002 og § 2 i lov nr. 536 af 24. juni 2005.
+
+## § 1.
+
+Danmarks Statistik beregner hvert år kapitelstakster for byg og hvede.
+
+*Stk. 2.* Kapitelstaksterne beregnes på grundlag af indberetninger fra erhvervsdrivende, der handler med korn, som et gennemsnit af de salgspriser, landmændene har opnået ved salg i perioden fra høstens begyndelse til udgangen af december det pågældende år for tør og renset byg og hvede leveret frit på vogn og afhentet på eller ved landmandens ejendom.
+
+## § 2.
+
+Kapitelstaksterne beregnes for følgende områder:
+
+- 1\) Sjælland med omliggende øer,
+- 2\) Lolland-Falster med omliggende øer,
+- 3\) Bornholm,
+- 4\) Fyn med omliggende øer,
+- 5\) Sønderjylland,
+- 6\) Østjylland,
+- 7\) Vestjylland,
+- 8\) Nordjylland og
+- 9\) hele landet.
+
+## § 3.
+
+Loven træder i kraft den 1. januar 1985.
+
+*Stk. 2.* Lov nr. 179 af 28. april 1971 om fastsættelse af kapitelstakster ophæves.
+
+## § 4.
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 145 af 25. marts 2002 om ændring af forskellige love som følge af sammenlægningen af de bornholmske kommuner1) indeholder følgende ikrafttrædelsesbestemmelser:
+
+## § 78
+
+*Stk. 1.* Loven træder i kraft den 1. januar 2003, jf. dog § 79, stk. 1.
+
+*Stk. 2.* (Udeladt)
+
+## § 79
+
+(Udeladt)
+
+Lov nr. 536 af 24. juni 2005 om ændring af jordfordelingsloven, landdistriktsstøtteloven, lov om drift af landbrugsjorder og forskellige andre love på Fødevareministeriets område (Udmøntning af kommunalreformen, for så vidt angår miljøvenlige jordbrugsforanstaltninger, samt konsekvensrettelser som følge af kommunalreformen)2) indeholder følgende ikrafttrædelsesbestemmelse:
+
+## § 8
+
+Loven træder i kraft den 1. januar 2007.
+
+Miljø- og Fødevareministeriet, den 14. december 2015
+
+Eva Kjer Hansen
+
+/ Jette Petersen
+
+## Officielle noter
+
+1\) Lovændringen vedrører ændring af § 2, nr. 3.
+
+2\) Lovændringen vedrører ændring af § 2.

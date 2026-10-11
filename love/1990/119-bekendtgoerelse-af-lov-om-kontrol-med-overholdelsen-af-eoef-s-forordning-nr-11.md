@@ -1,0 +1,80 @@
+---
+title: "Bekendtgørelse af lov om kontrol med overholdelsen af EØF's forordning nr. 11/1960 om afskaffelse af forskelsbehandling med hensyn til transportpriser og transportvilkår"
+identifier: "LBK nr 119 af 21/02/1990"
+eli: "https://www.retsinformation.dk/eli/lta/1990/119"
+accession_number: "A19900011929"
+type: "consolidated_act"
+jurisdiction: "dk"
+language: "da"
+date: 1990-02-21
+last_amended: 1990-02-21
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1990/119"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse af lov om kontrol med overholdelsen af EØF's forordning nr. 11/1960 om afskaffelse af forskelsbehandling med hensyn til transportpriser og transportvilkår
+
+*LBK nr 119 af 21/02/1990*
+
+Herved bekendtgøres lov nr. 564 af 21. december 1972 om kontrol med overholdelsen af EØF's forordning nr. 11/1960 om afskaffelse af forskelsbehandling med hensyn til transportpriser og transportvilkår med de ændringer, der følger af lov nr. 818 af 19. december 1989.
+
+## § 1.
+
+Varetagelsen af de opgaver, som efter Det europæiske økonomiske
+
+Fællesskabs forordning nr. 11/1960 om afskaffelse af
+
+forskelsbehandling med hensyn til transportpriser og transportvilkår
+
+er henlagt til medlemsstaternes kompetente myndigheder, påhviler her
+
+i landet Konkurrencerådets sekretariat.
+
+*Stk. 2.* Trafikministeren kan på forslag af Konkurrencerådets sekretariat fastsætte nærmere bestemmelser vedrørende udforming, behandling og opbevaring af de transportdokumenter, der er nævnt i artikel 6 i forordning nr. 11/1960.
+
+## § 2.
+
+Konkurrencerådets sekretariat kan pålægge virksomheder og sammenslutninger af virksomheder, der er omfattet af forordning nr. 11/1960, at give de oplysninger, som er nødvendige for varetagelsen af sekretariatets opgaver efter § 1, stk. 1.
+
+*Stk. 2.* Konkurrencerådets sekretariat kan, når det er nødvendigt for varetagelsen af sekretariatets opgaver efter § 1, stk. 1, hos de i stk. 1 nævnte virksomheder og sammenslutninger af virksomheder:
+
+- 1\) undersøge virksomhedernes bøger og andre forretningspapirer,
+- 2\) tage kopier eller udskrifter af disse bøger og papirer på stedet,
+- 3\) få adgang til alle de virksomhederne tilhørende lokaler, områder og køretøjer,
+- 4\) forlange en hvilken som helst udtalelse til bøgerne og forretningspapirerne.
+
+*Stk. 3.* Ved undersøgelsen efter stk. 2 skal der forevises en skriftlig bemyndigelse fra sekretariatet. Bemyndigelsen skal indeholde oplysning om undersøgelsens genstand og formål.
+
+*Stk. 4.* Bestemmelserne i stk. 2 og 3 gælder også, når sekretariatet bistår Kommissionen ved undersøgelser i henhold til artikel 14, stk. 2, i forordning nr. 11/1960.
+
+## § 3.
+
+Den, der undlader at give Konkurrencerådets sekretariat de oplysninger, som skal afgives i henhold til art. 5, stk. 2, i forordning nr. 11/1960, eller som er afkrævet ham i henhold til art. 13 i forordningen eller i henhold til denne lovs § 2, stk. 1, straffes med bøde.
+
+*Stk. 2.* Den, der overtræder bestemmelserne i forordning nr. 11/1960, art. 6, om transportdokumenter, straffes med bøde.
+
+*Stk. 3.* I forskrifter, der udstedes i medfør af § 1, stk. 2, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i forskrifterne.
+
+*Stk. 4.* Har nogen, der optræder på en virksomheds vegne, overtrådt stk. 1.-2., bestemmelser i forskrifter udstedt i medfør af § 1, stk. 2, eller borgerlig straffelovs § 162, kan der pålægges virksomhedens ejer bødeansvar, selv om overtrædelsen ikke kan tilregnes ham som forsætlig eller uagtsom. Er virksomheden et aktieselskab, andelsselskab eller lignende, kan der under tilsvarende betingelser pålægges selskabet som sådant bødeansvar. For bødeansvar fastsættes ingen forvandlingsstraf.
+
+*Stk. 5.* Ved behandlingen af sager i henhold til denne paragraf anvendes reglerne i lov om rettens pleje, kapitel 69, i samme omfang som i sager, der påtales af statsadvokaten.
+
+## § 4.
+
+Loven træder i kraft den 1. januar 1973.
+
+## § 5.
+
+Loven gælder ikke for Færøerne.
+
+*Industriministeriet, den 21. februar 1990*
+
+Anne Birgitte Lundholt
+
+/ Jytte Boesgaard
+
+## Officielle noter
+
+Ingen
