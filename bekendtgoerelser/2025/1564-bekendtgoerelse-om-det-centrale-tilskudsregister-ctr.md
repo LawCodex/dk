@@ -1,0 +1,163 @@
+---
+title: "Bekendtgørelse om det Centrale TilskudsRegister (CTR)"
+identifier: "BEK nr 1564 af 08/12/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/1564"
+accession_number: "B20250156405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2025-12-08
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2025/1564"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om det Centrale TilskudsRegister (CTR)
+
+*BEK nr 1564 af 08/12/2025*
+
+I medfør af § 156, stk. 3, i sundhedsloven, jf. lovbekendtgørelse nr. 275 af 12. marts 2025, fastsættes:
+
+## § 1.
+
+Lægemiddelstyrelsen fører i medfør af sundhedslovens § 156, stk. 1, det Centrale TilskudsRegister (CTR), over de oplysninger, der er nødvendige for beregningen af tilskud til lægemidler efter sundhedslovens §§ 144-148, § 151 og § 158 a.
+
+*Stk. 2.* CTR indeholder desuden i medfør af sundhedslovens § 156, stk. 2, de oplysninger,
+
+- 1\) der er nødvendige for en apoteksadministreret betalingsordning for lægemiddelkøb, jf. bekendtgørelse om henstandsordning for borgere med store udgifter til køb af tilskudsberettigede lægemidler (henstandsordning),
+- 2\) der benyttes af apotekerne ved administrationen af helbredstillæg, jf. lov om social pension og lov om højeste, mellemste, forhøjet almindelig og almindelig førtidspension m.v. (kommunalt helbredstillæg),
+- 3\) der benyttes af apotekerne ved administration af rettighedsbaseret tilskud til medicin, jf. § 82 b i lov om aktiv socialpolitik (rettighedsbaseret tilskud til egenbetalingen), og
+- 4\) der benyttes af apotekerne i forbindelse med udlevering af regionalt betalt medicin.
+
+## § 2.
+
+CTR omfatter oplysninger om personer, der
+
+- 1\) inden for de seneste 2 år har købt lægemidler med tilskud, efter sundhedslovens § 144 eller § 158 a,
+- 2\) har fået bevilget individuelt tilskud efter sundhedslovens § 145 (enkelttilskud), § 148 (terminaltilskud) eller § 151 (forhøjet tilskud),
+- 3\) har indgået aftale om henstandsordning med en apoteker,
+- 4\) er bevilget kommunalt helbredstillæg,
+- 5\) har ret til rettighedsbaseret tilskud til egenbetalingen, og
+- 6\) har ret til udlevering af regionalt betalt medicin fra apotek.
+
+## § 3.
+
+CTR må indeholde følgende oplysninger ved køb og fakturering af tilskudsberettigede lægemidler:
+
+- 1\) Entydig identifikation af apotek og apotekssted.
+- 2\) Entydig identifikation af ekspeditionen.
+- 3\) Entydig identifikation af ordinationen.
+- 4\) Dato og tid for betaling eller fakturering, hvis dette tidspunkt ligger før betalingstidspunktet.
+- 5\) CPR-nummer eller et entydigt identifikationsnummer, jf. stk. 3.
+- 6\) Markering af om personen ved den aktuelle tilskudsperiodes begyndelse var under 18 år.
+- 7\) Datoer for udløb af den forrige og aktuelle tilskudsperiode.
+- 8\) Udgift til køb af lægemidler opgjort i tilskudspriser for det enkelte lægemiddel samt saldo, jf. sundhedslovens § 146.
+- 9\) Tilskud ydet til køb af lægemidler i medfør af sundhedslovens § 146.
+- 10\) Beløb, der skal udlignes som følge af for lidt eller for meget udbetalt tilskud.
+
+*Stk. 2.* CTR indeholder følgende oplysninger om personer omfattet af § 2:
+
+- 1\) Tilkendte individuelle tilskud, jf. sundhedslovens § 145 (enkelttilskud), § 148 (terminaltilskud) eller § 151 (forhøjet tilskud).
+- 2\) Oplysning om aftale om henstandsordning.
+- 3\) Oplysning om tilkendt kommunalt helbredstillæg.
+- 4\) Oplysning om ret til rettighedsbaseret tilskud til egenbetalingen.
+- 5\) Oplysning om ret til udlevering af regionalt betalt medicin fra apotek.
+
+*Stk. 3.* Hvis en person, der er omfattet af sundhedsloven, ikke har et CPR-nummer, erstattes CPR-nummeret med et entydigt identifikationsnummer.
+
+## § 4.
+
+Oplysninger i CTR slettes efter 2 år, jf. dog stk. 2-8.
+
+*Stk. 2.* Oplysninger i CTR om afdøde personer slettes 1 år efter personens død.
+
+*Stk. 3.* Oplysninger om bevillinger af individuelle tilskud, jf. § 2, nr. 2, slettes 2 år efter bevillingens udløb.
+
+*Stk. 4.* Oplysninger om aftale om henstandsordning jf. § 2, nr. 3, slettes 2 år efter aftalens udløb.
+
+*Stk. 5.* Oplysninger om bevilget helbredstillæg, jf. § 2, nr. 4, slettes 2 år efter bevillingens udløb.
+
+*Stk. 6.* Oplysninger om ret til rettighedsbaseret tilskud til egenbetalingen jf. § 2, nr. 5, slettes 2 år efter rettigheden er bortfaldet.
+
+*Stk. 7.* Udligningsbeløb i forbindelse med køb af lægemidler med tilskud, jf. § 6, stk. 1, slettes 2 år efter udligningsbeløbets opståen.
+
+*Stk. 8.* Oplysninger om ret til udlevering af regionalt betalt medicin, jf. § 2, nr. 6, slettes 2 år efter rettigheden er bortfaldet.
+
+## § 5.
+
+Apotekere og personale på apoteker har adgang til alle de i § 3, stk. 1 og 2, nævnte oplysninger. Oplysningerne må kun anvendes til beregning af tilskud til lægemidler, kommunale helbredstillæg, egenbetaling i forbindelse med udlevering af lægemidler, og udlevering af regionalt betalt medicin. Oplysningerne må derudover kun anvendes til information til personer om køb af tilskudsberettigede lægemidler i de pågældendes aktuelle og forrige tilskudsperiode samt til brug for apotekets vurdering af, om der kan indgås aftale om en henstandsordning, jf. bekendtgørelse om henstandsordning for borgere med store udgifter til køb af tilskudsberettigede lægemidler.
+
+*Stk. 2.* Læger har adgang til de i § 3, stk. 1, nr. 7 og 10, og stk. 2, nr. 1, nævnte oplysninger og den i § 3, stk. 1, nr. 8, nævnte saldo, når lægen har patienten i aktuel behandling.
+
+*Stk. 3.* Lægemiddelstyrelsen og en eventuel operatør, der på Lægemiddelstyrelsens vegne fører CTR, har adgang til alle oplysninger i registret. Oplysningerne må kun anvendes med henblik på at sikre registrets drift og datakvalitet.
+
+*Stk. 4.* Borgeren har adgang til de i § 3, stk. 1, nr. 7 og 10, og stk. 2, nr. 1, nævnte oplysninger og den i § 3, stk. 1, nr. 8, nævnte saldo om borgeren selv og om børn under 15 år, som borgeren har forældremyndighed over.
+
+## § 6.
+
+Er der ved køb af lægemidler ydet tilskud, som afviger fra det, som personen efter reglerne i sundhedsloven er berettiget til, skal apoteket jf. dog § 11, regulere herfor i forbindelse med det førstkommende køb af tilskudsberettigede lægemidler.
+
+*Stk. 2.* En regulering efter stk. 1, som ikke er i personens favør, kan kun ske i det beløb, personen skulle have modtaget i tilskud i forbindelse med det aktuelle køb af tilskudsberettigede lægemidler. Personen kan dog frivilligt tilbagebetale det fulde udligningsbeløb straks.
+
+*Stk. 3.* Reguleringen efter stk. 2 kan i helt særlige tilfælde, hvor personen ikke kan antages at have været bekendt med det skyldige beløb og er ude af stand til at udrede betalingen for det aktuelle køb af tilskudsberettigede lægemidler uden fuldt tilskud, udskydes til det næstfølgende køb af tilskudsberettigede lægemidler.
+
+## § 7.
+
+Apotekere skal indberette de i § 3, stk. 1, nr. 1-5, 8 og 9 nævnte oplysninger digitalt til CTR umiddelbart efter hver betaling eller hver fakturering af et lægemiddel, hvortil der ydes tilskud, hvis dette tidspunkt ligger før betalingstidspunktet, jf. dog stk. 2.
+
+*Stk. 2.* Apotekere skal på opfordring fra en person, der ikke ønsker, at personens lægemiddelkøb registreres, undlade at indberette de i stk. 1 nævnte oplysninger til CTR.
+
+*Stk. 3.* Apotekere skal indberette oplysninger om foretaget udligning af for meget eller for lidt udbetalt tilskud, jf. § 3, stk. 1, nr. 10, til den tilskudsperiode (forrige eller aktuel), hvor udligningsbeløbet er opstået.
+
+*Stk. 4.* Apotekere skal indberette oplysninger som nævnt i § 3, stk. 2, nr. 2, digitalt til CTR samme dag, som apoteket har indgået eller opsagt en aftale om henstandsordning med en person.
+
+*Stk. 5.* Hvis en person, der ikke har et CPR-nummer, får tildelt et CPR-nummer, eller hvis en person får ændret sit CPR-nummer, skal apotekere på opfordring fra den pågældende indberette oplysning om det nye eller ændrede CPR-nummer til CTR.
+
+*Stk. 6.* Lægemiddelstyrelsen kan påbyde apotekere at rette fejlbehæftede indberetninger og statusoplysninger i CTR.
+
+*Stk. 7.* Apotekere skal på opfordring fra personer, som har konstateret fejl i oplysninger om den pågældende i CTR, foretage de nødvendige rettelser i CTR eller henvise personen til Lægemiddelstyrelsen, såfremt apoteket ikke selv har den fornødne adgang til at foretage rettelserne.
+
+## § 8.
+
+Kommunerne skal indberette de i § 3, stk. 2, nr. 3, nævnte oplysninger digitalt til CTR umiddelbart efter enhver meddelelse eller ændring i meddelelse af kommunale helbredstillæg.
+
+*Stk. 2.* Kommunerne skal indberette de i § 3, stk. 2, nr. 4, nævnte oplysninger digitalt til CTR umiddelbart efter enhver opstået eller bortfaldet ret til rettighedsbaseret tilskud til egenbetalingen.
+
+## § 9.
+
+Lægemiddelstyrelsen skal indlægge oplysninger om bevilling af følgende individuelle tilskud i CTR:
+
+- 1\) Tilskud i medfør af sundhedslovens § 145 (enkelttilskud).
+- 2\) Tilskud i medfør af sundhedslovens § 148 (terminaltilskud).
+- 3\) Tilskud i medfør af sundhedslovens § 151 (forhøjet tilskud).
+
+## § 10.
+
+Læger skal indberette de i § 3, stk. 2, nr. 5, nævnte oplysninger digitalt til CTR umiddelbart efter enhver meddelelse eller ændring i meddelelse af retten til udlevering af regionalt betalt medicin.
+
+## § 11.
+
+Bestemmelserne i §§ 5, 6 og 7 gælder også for Lægemiddelstyrelsen i forbindelse med styrelsens beregning af tilskud til lægemidler købt i et andet EU/EØS-land efter reglerne udstedt i medfør af sundhedslovens § 168, stk. 1.
+
+## § 12.
+
+Lægemiddelstyrelsen fastsætter som dataansvarlig en teknisk beskrivelse af indholdet i CTR samt tekniske forskrifter for apotekeres og kommuners tilslutning og indberetning til CTR.
+
+*Stk. 2.* De tekniske beskrivelser og forskrifter for tilslutning og indberetning til CTR offentliggøres på Lægemiddelstyrelsens netsted.
+
+## § 13.
+
+Apotekere skal tilslutte og indberette til CTR som angivet i § 12.
+
+## § 14.
+
+Bekendtgørelsen træder i kraft den 1. januar 2026.
+
+*Stk. 2.* Bekendtgørelse nr. 764 af 18. juni 2025 om det Centrale TilskudsRegister (CTR) ophæves.
+
+Indenrigs- og Sundhedsministeriet, den 8. december 2025
+
+Sophie Løhde
+
+/ Line Brøns Jensen

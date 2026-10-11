@@ -1,0 +1,185 @@
+---
+title: "Bekendtgørelse om udlejning af motorkøretøjer uden fører"
+identifier: "BEK nr 329 af 24/02/2026"
+eli: "https://www.retsinformation.dk/eli/lta/2026/329"
+accession_number: "B20260032905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2026-02-24
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2026/329"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om udlejning af motorkøretøjer uden fører
+
+*BEK nr 329 af 24/02/2026*
+
+I medfør af § 79 og § 118, stk. 15, 1. pkt., i færdselsloven, jf. lovbekendtgørelse nr. 118 af 12. januar 2026, fastsættes efter bemyndigelse i henhold til § 3, stk. 1, i bekendtgørelse nr. 787 af 18. juni 2025 om Færdselsstyrelsens opgaver og beføjelser samt klageadgang:
+
+## Kapitel 1 — Anvendelsesområde
+
+#### § 1.
+
+Denne bekendtgørelse finder anvendelse på erhvervsmæssig udlejning af motorkøretøjer uden fører, hvorved forstås alle forhold, hvor et sådant køretøj erhvervsmæssigt overlades til brug, jf. dog stk. 3 og stk. 4.
+
+*Stk. 2.* Bekendtgørelsen finder endvidere anvendelse på udlejers udlån af motorkøretøjer omfattet af bekendtgørelsen, jf. dog § 9.
+
+*Stk. 3.* Forhold, hvorved en anden person opnår varig rådighed over et motorkøretøj, således at denne person skal registreres som bruger af køretøjet efter de almindelige regler herom, er ikke omfattet af bekendtgørelsen.
+
+*Stk. 4.* § 4, stk. 2, § 5, § 6 og § 10 finder ikke anvendelse, hvis et motorkøretøj fra et nærmere aftalt tidspunkt overlades til brug som led i en ordning, hvor en organisation m.v. giver personer, som har tilmeldt sig ordningen, adgang til at bruge sine motorkøretøjer.
+
+## Kapitel 2 — Registrering
+
+#### § 2.
+
+Motorkøretøjer, der ønskes anvendt til udlejning uden fører, skal registreres til udlejning uden fører.
+
+#### § 3.
+
+Hvis motorkøretøjets ejer lader en anden person etablere udlejningsforholdene, og hvis dette har karakter af en fast forretningsforbindelse, således at den anden person selv træffer bestemmelse om, hvem motorkøretøjet skal udlejes til, skal denne anden person registreres som bruger af køretøjet og anses som udlejer.
+
+## Kapitel 3 — Udlejerens forpligtigelser
+
+#### § 4.
+
+Udlejning kan kun ske til personer, der lovligt kan føre det udlejede køretøj. Udlejning til juridiske personer kan ske under forudsætning af, at den eller de fysiske personer, der skal føre det pågældende køretøj, lovligt vil kunne gøre dette, og at de pågældende med lejekontrakten gives tilladelse hertil, jf. § 5, stk. 3, nr. 1.
+
+*Stk. 2.* Udlejeren skal i forbindelse med udlejningen kræve dokumentation i form af fremvisning af kørekort for, at lejeren og eventuelle førere lovligt kan føre det udlejede køretøj. Dette kan ske ved brug af elektroniske hjælpemidler.
+
+*Stk. 3.* Hvis et motorkøretøj fra et nærmere aftalt tidspunkt overlades til en lejer som led i en ordning, hvor en organisation m.v. giver personer, som har tilmeldt sig ordningen, adgang til at bruge sine motorkøretøjer, skal organisationen m.v. i forbindelse med, at lejeren tilmelder sig ordningen, på betryggende vis, f.eks. ved elektronisk at modtage en kopi af kørekortet, sikre sig dokumentation for, at lejeren lovligt kan føre det køretøj, der gives den pågældende adgang til at føre. Hvis lejeren er en udenlandsk, ikke-nordisk statsborger, skal organisationen m.v. på tilsvarende vis sikre sig oplysninger om lejerens pas eller dermed ligestillet identifikationskort.
+
+#### § 5.
+
+Før hver udlejning skal udlejeren oprette en skriftlig lejekontrakt med lejeren. Lejeren skal have udleveret et eksemplar eller en kopi af kontrakten. Dette kan ske ved brug af elektroniske hjælpemidler.
+
+*Stk. 2.* Indholdet af denne bekendtgørelses § 10, § 13, stk. 2, og § 14 skal være særskilt og tydeligt fremhævet i kontrakten.
+
+*Stk. 3.* Kontrakten skal i øvrigt indeholde oplysninger om
+
+- 1\) lejerens fulde navn og adresse samt navnene på eventuelle førere, der med kontrakten gives tilladelse til at føre køretøjet, og, hvis lejeren er en juridisk person, dennes CVR-nummer,
+- 2\) nummer, udstedelsessted og -dato for lejerens pas eller dermed ligestillet identitetskort, hvis den pågældende er udenlandsk, ikke-nordisk statsborger,
+- 3\) nummeret på hvert enkelt kørekort, der skal forevises efter § 4, stk. 2,
+- 4\) motorkøretøjets registreringsnummer, og
+- 5\) tidspunktet for lejeforholdets begyndelse og ophør med angivelse af dato og klokkeslæt.
+
+#### § 6.
+
+Udlejer skal opbevare lejekontrakten i mindst 5 år. Dette kan ske ved brug af elektroniske hjælpemidler.
+
+*Stk. 2.* Lejekontrakten skal på forlangende vises til politiet. Dette kan ske ved brug af elektroniske hjælpemidler.
+
+#### § 7.
+
+Hvis en organisation m.v. giver personer, som har tilmeldt sig ordningen, adgang til fra et nærmere aftalt tidspunkt at bruge sine motorkøretøjer, skal organisationen m.v., når et køretøj overlades, registrere oplysninger om
+
+- 1\) det fulde navn og adresse på den, som køretøjet overlades til,
+- 2\) de oplysninger, som organisationen m.v. har modtaget efter § 4, stk. 3 og 4,
+- 3\) registreringsnummeret på det motorkøretøj, som overlades til den pågældende, og
+- 4\) det tidspunkt, hvor motorkøretøjet blev stillet til den pågældendes rådighed, med angivelse af dato og klokkeslæt.
+
+*Stk. 2.* Organisationen m.v. skal opbevare oplysningerne omfattet af stk. 1 i mindst 5 år.
+
+*Stk. 3.* Organisationen m.v. skal på forlangende give politiet adgang til oplysninger omfattet af stk. 1.
+
+### Udlejning af motorkøretøjer til erhvervsmæssig personbefordring
+
+#### § 8.
+
+Motorkøretøjer må kun udlejes til erhvervsmæssig personbefordring med henblik på midlertidigt at erstatte et køretøj, der anvendes i lejerens virksomhed, og som er ude af funktion. Udlejning kan i så fald ske for en periode på højst 8 uger.
+
+### Udlejers udlån af motorkøretøjer, der er registreret til udlejning uden fører
+
+#### § 9.
+
+Udlejer kan uanset § 1, stk. 2, udlåne motorkøretøjer, der er registreret til udlejning uden fører, til personer, der hører til udlejers husstand, og til ansatte i udlejningsvirksomheden uden at iagttage reglerne i denne bekendtgørelse, jf. dog stk. 2.
+
+*Stk. 2.* Udlån af motorkøretøjer til kørsel omfattet af § 8 kan i alle tilfælde kun ske under iagttagelse af reglerne i bekendtgørelsen.
+
+## Kapitel 4 — Lejerens og eventuel førers forpligtelser
+
+#### § 10.
+
+Et udlejet motorkøretøj må kun føres af lejeren eller eventuelle andre personer, der med lejekontrakten har fået tilladelse hertil, jf. § 5, stk. 3, nr. 1.
+
+*Stk. 2.* Eksemplar eller kopi af lejekontrakten skal medbringes under kørslen og på forlangende vises til politiet. Dette kan ske ved brug af elektroniske hjælpemidler.
+
+#### § 11.
+
+Hvis et motorkøretøj fra et nærmere aftalt tidspunkt overlades til en lejer som led i en ordning, hvor en organisation m.v. giver personer, som har tilmeldt sig ordningen, adgang til at bruge et af sine motorkøretøjer, skal føreren på forlangende over for politiet kunne dokumentere sin ret til at råde over motorkøretøjet.
+
+*Stk. 2.* Hvis et motorkøretøj fra et nærmere aftalt tidspunkt overlades til en lejer som led i en ordning, hvor en organisation m.v. giver personer, som har tilmeldt sig ordningen, adgang til at bruge et af sine motorkøretøjer, skal lejeren efter anmodning fra politiet oplyse, hvilke personer der som førere har benyttet køretøjet i den periode, hvor den pågældende har rådet over køretøjet.
+
+## Kapitel 5 — Forsikring og selvrisiko
+
+#### § 12.
+
+Ud over færdselslovens almindelige regler om erstatning og forsikring og reglerne i bekendtgørelse om ansvarsforsikring for motorkøretøjer m.v. finder reglerne i dette kapitel anvendelse i forhold til udlejede motorkøretøjer.
+
+#### § 13.
+
+Ansvarsforsikringsaftaler for køretøjer omfattet af bekendtgørelsen skal udformes således, at lejeren og eventuelle andre førere, der er berettigede til at føre køretøjet, anses for sikrede.
+
+*Stk. 2.* Hvis udlejeren ikke tegner kaskoforsikring for motorkøretøjet, skal lejeren og eventuelle andre førere, der er berettigede til at føre køretøjet, have samme retsstilling over for motorkøretøjets ejer, som han ville have haft, hvis kaskoforsikring havde været tegnet.
+
+#### § 14.
+
+Udlejeren og lejeren kan aftale, at lejeren skal holde udlejeren skadesløs for ethvert beløb på indtil 15.000 kr., som udlejeren er forpligtet til at betale i medfør af bestemmelser i ansvarsforsikringspolicen eller i en eventuel kaskoforsikringspolice om, at udlejeren bærer en del af risikoen for de skader, som er omfattet af den pågældende forsikring.
+
+#### § 15.
+
+Et forsikringsselskab kan kun gøre regres gældende over for lejeren eller føreren i overensstemmelse med færdselslovens § 108, stk. 2, og i tilfælde, hvor den pågældende har ført bilen uden at have gyldigt kørekort, eller hvor der foreligger en overtrædelse af § 10, stk. 1.
+
+#### § 16.
+
+Hvis udlejer og lejer har indgået en aftale som nævnt i § 14, kan forsikringsselskabet rette krav direkte mod lejer om betaling af det beløb, som lejer i henhold til aftalen er forpligtet til at holde udlejer skadesløs for.
+
+#### § 17.
+
+Hvis udlejeren ikke har overholdt sine forpligtelser efter §§ 4, 5 eller 8, bærer udlejeren i forhold til forsikringsselskabet selv den fulde risiko for alle skader, der indtræder under udlejningen, og som er dækket af ansvarsforsikringen eller en eventuel kaskoforsikring, medmindre det godtgøres, at skadens indtræden eller omfang ikke skyldes, at de pågældende forpligtelser ikke er overholdt.
+
+*Stk. 2.* Er de i stk. 1 nævnte forpligtelser ikke overholdt, er forsikringsselskabet berettiget til at ophæve forsikringsforholdet uden varsel.
+
+#### § 18.
+
+Anmeldelse til forsikringsselskabet af skader omfattet af ansvarsforsikringen eller en eventuel kaskoforsikring skal være ledsaget af en fysisk eller digital kopi af lejekontrakten efter § 5, stk. 1, eller af de oplysninger, som er registreret efter § 7, stk. 1.
+
+## Kapitel 6 — Dispensation
+
+#### § 19.
+
+Færdselsstyrelsen kan i særlige tilfælde dispensere fra bestemmelserne i § 4, § 5, stk. 3, og § 10.
+
+*Stk. 2.* Dispensation efter stk. 1 kan navnlig meddeles i tilfælde, hvor udlejer ønsker at udleje til f.eks. myndigheder eller virksomheder, der har behov for at leje et større antal køretøjer eller for at lade et eller flere lejede køretøjer benytte af et større antal førere.
+
+*Stk. 3.* Færdselsstyrelsen kan desuden dispensere fra bestemmelsen i § 7, stk. 1, nr. 3, såfremt oplysninger om, hvem der har rådet over et bestemt køretøj, på anden vis straks vil kunne stilles til politiets rådighed på forlangende.
+
+*Stk. 4.* Færdselsstyrelsens afgørelser efter stk. 1 og stk. 3 kan ikke indbringes for anden administrativ myndighed, jf. bekendtgørelse om Færdselsstyrelsens opgaver og beføjelser samt klageadgang.
+
+## Kapitel 7 — Straf
+
+#### § 20.
+
+Med bøde straffes den, der overtræder §§ 2-11.
+
+*Stk. 2.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+## Kapitel 8 — Ikrafttræden
+
+#### § 21.
+
+Bekendtgørelsen træder i kraft den 1. marts 2026.
+
+*Stk. 2.* Bekendtgørelse nr. 992 af 27. juni 2022 om udlejning af motorkøretøjer uden fører ophæves.
+
+*Stk. 3.* Ansøgning om dispensation indsendt før denne bekendtgørelses ikrafttræden færdigbehandles i overensstemmelse med bekendtgørelse nr. 992 af 27. juni 2022.
+
+*Stk. 4.* Dispensation meddelt i medfør af bekendtgørelse nr. 463 af 2. maj 2013 og bekendtgørelse nr. 992 af 27. juni 2022 er fortsat gyldige.
+
+Færdselsstyrelsen, den 24. februar 2026
+
+Jacob Karkov Buch
+
+/ Ann Katrine Flugt Petersen

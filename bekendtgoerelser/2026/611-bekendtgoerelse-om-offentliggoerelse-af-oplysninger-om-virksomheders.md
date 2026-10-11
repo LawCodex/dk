@@ -1,0 +1,107 @@
+---
+title: "Bekendtgørelse om offentliggørelse af oplysninger om virksomheders arbejdsmiljø"
+identifier: "BEK nr 611 af 29/06/2026"
+eli: "https://www.retsinformation.dk/eli/lta/2026/611"
+accession_number: "B20260061105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2026-06-29
+status: "in_force"
+ministry: "Beskæftigelses- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2026/611"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om offentliggørelse af oplysninger om virksomheders arbejdsmiljø
+
+*BEK nr 611 af 29/06/2026*
+
+I medfør af § 78 a i lov om arbejdsmiljø, jf. lovbekendtgørelse nr. 442 af 24. april 2026, fastsættes efter bemyndigelse:
+
+## Formål og område
+
+### § 1.
+
+Formålet med bekendtgørelsen er at offentliggøre oplysninger om den enkelte danske eller udenlandske virksomheds arbejdsmiljø på baggrund af oplysninger om, hvorvidt den enkelte virksomhed
+
+- 1\) har haft besøg af Arbejdstilsynet,
+- 2\) har modtaget afgørelse af Arbejdstilsynet, og
+- 3\) tidligere har modtaget afgørelse om samme arbejdsmiljøproblem.
+
+### § 2.
+
+Bekendtgørelsen omfatter danske og udenlandske virksomheder.
+
+*Stk. 2.* Ved en dansk virksomhed forstås en produktionsenhed, jf. Lov om Det Centrale Virksomhedsregister, som er optaget i Det Centrale Virksomheds-register (CVR).
+
+*Stk. 3.* Ved en udenlandsk virksomhed forstås en virksomhed, der er etableret i et andet land end Danmark, og som midlertidigt leverer tjenesteydelser i Danmark.
+
+*Stk. 4.* Bekendtgørelsen omfatter også bygherrer, jf. § 37 i lov om arbejdsmiljø, i det omfang de er optaget i Det Centrale Virksomheds Register.
+
+### § 3.
+
+Bekendtgørelsen omfatter offentliggørelse af oplysninger om afgørelser efter § 77, stk. 1 og 2, i lov om arbejdsmiljø.
+
+## Offentliggørelse af oplysninger om virksomheder
+
+### § 4.
+
+Arbejdstilsynet offentliggør på sin hjemmeside følgende oplysninger om den enkelte danske virksomhed:
+
+- 1\) Navn på produktionsenheden.
+- 2\) Adresse.
+- 3\) Navn på den juridiske enhed.
+- 4\) Nummer på den juridiske enhed (CVR-nummer).
+- 5\) Nummer på produktionsenheden (P-nummer).
+- 6\) Branchegruppe.
+- 7\) Branche.
+
+### § 5.
+
+Arbejdstilsynet offentliggør på sin hjemmeside følgende oplysninger om den enkelte udenlandske virksomhed:
+
+- 1\) Navn.
+- 2\) Adresse i det land, hvor virksomheden er etableret.
+- 3\) Branchetilhørsforhold.
+- 4\) RUT-nummer, hvis virksomheden er anmeldt i Registret for Udenlandske Tjenesteydere (RUT).
+
+## Offentliggørelse af oplysninger om Arbejdstilsynets besøg og afgørelser
+
+### § 6.
+
+Arbejdstilsynet offentliggør på sin hjemmeside oplysninger om, at den enkelte virksomhed inden for de seneste 6 måneder har haft besøg af Arbejdstilsynet samt datoen for det seneste besøg.
+
+*Stk. 2.* Hvis Arbejdstilsynets besøg ikke har givet anledning til afgørelser, jf. § 3, offentliggøres oplysning herom.
+
+### § 7.
+
+Arbejdstilsynet offentliggør på sin hjemmeside oplysninger om, at den enkelte virksomhed inden for de seneste 6 måneder har modtaget en eller flere afgørelser fra Arbejdstilsynet, jf. § 3.
+
+*Stk. 2.* I forbindelse med offentliggørelse af oplysninger efter stk. 1, oplyses om afgørelsestidspunkt, afgørelsestype og det arbejdsmiljøproblem, som afgørelsen eller afgørelserne omhandler.
+
+*Stk. 3.* Hvis afgørelsen eller afgørelserne nævnt i stk. 1, efterkommes inden for 6 måneder, offentliggøres oplysning herom.
+
+*Stk. 4.* Hvis virksomheden inden for de seneste to år har modtaget en eller flere afgørelser om samme arbejdsmiljøproblem, som afgørelsen eller afgørelserne nævnt i stk. 1, offentliggøres oplysninger herom. Gives en afgørelse på ét arbejdsmiljøproblememne, offentliggøres oplysninger om alle afgørelser afgivet inden for samme arbejdsmiljøproblemgruppe i løbet af de seneste to år.
+
+*Stk. 5.* Oplysninger om afgørelser efter stk. 1, offentliggøres, når klagefristen er udløbet for den enkelte afgørelse og afgørelsen ikke er påklaget. Ved afgørelser efter stk. 1, hvor virksomheden påbydes at bringe forholdene i orden straks og klage over afgørelsen derfor ikke har opsættende virkning, jf. § 81, stk. 3, i lov om arbejdsmiljø, sker offentliggørelse af oplysningerne dog straks.
+
+*Stk. 6.* Arbejdstilsynet kan offentliggøre oplysninger om, hvorvidt der er klaget over en afgørelse som nævnt i stk. 5, 2. pkt.
+
+### § 7 a.
+
+Offentliggørelse af oplysninger efter §§ 4-7 kan helt eller delvist fraviges i perioder, hvor det ikke er muligt at offentliggøre oplysningerne, f.eks. på grund af it-udvikling, fejl i data eller nedbrud i it-systemer.
+
+## Ikrafttræden m.v.
+
+### § 8.
+
+Bekendtgørelsen træder i kraft den 1. juli 2026.
+
+*Stk. 2.* Bekendtgørelse nr. 877 af 28. juni 2024 om offentliggørelse af oplysninger om virksomheders arbejdsmiljø ophæves.
+
+Arbejdstilsynet, den 29. juni 2026
+
+Marianne Sørensen
+
+/ Sofie Bisbjerg

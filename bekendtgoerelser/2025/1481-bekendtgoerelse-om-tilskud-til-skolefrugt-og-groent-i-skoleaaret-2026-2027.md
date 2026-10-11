@@ -1,0 +1,520 @@
+---
+title: "Bekendtgørelse om tilskud til skolefrugt og -grønt i skoleåret 2026-2027"
+identifier: "BEK nr 1481 af 02/12/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/1481"
+accession_number: "B20250148105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2025-12-02
+status: "in_force"
+ministry: "Ministeriet for Natur og Dyrevelfærd"
+source: "https://www.retsinformation.dk/eli/lta/2025/1481"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om tilskud til skolefrugt og -grønt i skoleåret 2026-2027
+
+*BEK nr 1481 af 02/12/2025*
+
+I medfør af § 2, stk. 2 og 4, § 13 og § 19, stk. 1 og 2, i lov nr. 407 af 25. april 2023 om administration af den fælles landbrugspolitik m.v. fastsættes efter bemyndigelse:
+
+## Kapitel 1 — Anvendelsesområde m.v.
+
+#### § 1.
+
+Bekendtgørelsen finder anvendelse for tilskud til levering og uddeling af skolefrugt og -grønt til børn i uddannelsesinstitutioner med det formål at fremme sunde kostvaner hos børn og styrke deres adgang til frugt og grønt.
+
+#### § 2.
+
+Der kan gives tilsagn om tilskud til levering eller uddeling af skolefrugt og -grønt, der fremgår af bilag 1, til børn i uddannelsesinstitutioner på uddelingsdage i skoleåret 2026-2027.
+
+*Stk. 2.* Der kan, i forbindelse med tilsagn omfattet af stk. 1, også gives tilsagn om tilskud til læringsaktiviteter, hvis ansøger iværksætter egne læringsaktiviteter på uddelingsdage i skoleåret 2026-2027.
+
+#### § 3.
+
+Tilsagn om tilskud kan efter ansøgning gives til følgende:
+
+- 1\) Uddannelsesinstitutioner.
+- 2\) Undervisningsmyndigheder, hvis skolefrugt og -grønt uddeles til børn, som hører under deres ansvarsområde.
+- 3\) Leverandører og distributører af frugt og grønt.
+- 4\) Organisationer, der handler på vegne af en eller flere uddannelsesinstitutioner, der specifikt er oprettet med det formål at forvalte og udbyde levering eller uddeling af skolefrugt og -grønt til børn i uddannelsesinstitutioner.
+- 5\) Kommuner.
+
+#### § 4.
+
+I denne bekendtgørelse forstås ved:
+
+- 1\) Europa-Parlamentets og Rådets forordning (EU) nr. 2013/1308: Europa-Parlamentets og Rådets forordning (EU) nr. 1308/2013 af 17. december 2013 om en fælles markedsordning for landbrugsprodukter og om ophævelse af Rådets forordning (EØF) nr. 922/72, (EØF) nr. 234/79, (EF) nr. 1037/2001 og (EF) nr. 1234/2007 med senere ændringer.
+- 2\) Kommissionens delegerede forordning (EU) nr. 2017/40: Kommissionens delegerede forordning (EU) 2017/40 af 3. november 2016 om supplerende regler til Europa-Parlamentets og Rådets forordning (EU) nr. 1308/2013, for så vidt angår EU-støtte til uddeling af frugt og grøntsager, bananer og mælk i uddannelsesinstitutioner, og om ændring af forordning (EU) nr. 907/2014 med senere ændringer.
+- 3\) Kommissionens gennemførelsesforordning (EU) nr. 2017/39: Kommissionens gennemførelsesforordning (EU) 2017/39 af 3. november 2016 om gennemførelsesbestemmelser til Europa-Parlamentets og Rådets forordning (EU) nr. 1308/2013, for så vidt angår EU-støtte til uddeling af frugt og grøntsager, bananer og mælk i undervisningsinstitutioner, med senere ændringer.
+- 4\) Læringsaktiviteter: Pædagogiske ledsageforanstaltninger, jf. artikel 23, stk. 10, i Europa-Parlamentets og Rådets forordning (EU) nr. 2013/1308 og artikel 3, stk. 1, i Kommissionens delegerede forordning (EU) nr. 2017/40.
+- 5\) Normale skolemåltider: Uddelte måltider til børn i uddannelsesinstitutioner, som helt eller delvist finansieres nationalt.
+- 6\) Ordning: Tiltag, der indebærer, at frugt og grønt uddeles til børn i uddannelsesinstitutioner på uddelingsdage i skoleåret 2026-2027 i overensstemmelse med denne bekendtgørelse.
+- 7\) Skoleår: Perioden fra 1. august til 31. juli det følgende år, jf. artikel 1, stk. 2, i Kommissionens gennemførelsesforordning (EU) nr. 2017/39.
+- 8\) Styrelsen: Styrelsen for Grøn Arealomlægning og Vandmiljø.
+- 9\) Uddannelsesinstitutioner: Børnehaveklasse og 1.-10. klassetrin eller tilsvarende niveau, hvor der undervises i overensstemmelse med folkeskoleloven, eller udbydes undervisning, som står mål med, hvad der almindeligvis kræves i folkeskolen.
+- 10\) Uddelingsdag: Dag, hvor der foretages aktiv, skemalagt undervisning, og hvor der er mødepligt for børnene.
+- 11\) Udnyttelsesgrad: Den procentvise andel af et tilsagn, der udbetales på baggrund af de reelt udførte tilskuds-berettigede aktiviteter indenfor tilsagnet.
+
+## Kapitel 2 — Ansøgning om tilsagn om tilskud og prioritering
+
+### Ansøgning
+
+#### § 5.
+
+Ansøgning om tilsagn om tilskud skal indgives til styrelsen ved brug af det ansøgningsskema, der er tilgængeligt for ordningen på styrelsens hjemmeside.
+
+*Stk. 2.* Ansøgning om tilsagn indgives i perioden fra den 2. marts 2026 til og med den 20. marts 2026.
+
+#### § 6.
+
+Ansøgning om tilsagn om tilskud skal indeholde:
+
+- 1\) Et udfyldt og underskrevet ansøgningsskema, jf. § 5, stk. 1.
+- 2\) En underskrevet erklæring om overholdelse af ordningens regler ved brug af den blanket, der er tilgængelig for ordningen på styrelsens hjemmeside.
+- 3\) Udfyldt budgetskema for ansøgning om tilsagn om tilskud, ved brug af det skema, der er tilgængeligt for ordningen på styrelsens hjemmeside.
+
+*Stk. 2.* Hvis ansøger er én af de i § 3, nr. 2-5, nævnte juridiske personer, skal ansøgning om tilsagn også indeholde et udfyldt og underskrevet deltagerskema, der er tilgængeligt for ordningen på styrelsens hjemmeside. Ansøger skal sikre, at den enkelte deltagende uddannelsesinstitution under ansøger udfylder, underskriver og indgiver deltagerskemaet direkte til styrelsen inden for fristen i § 5, stk. 2. Deltager-skemaet skal indeholde følgende:
+
+- 1\) Den deltagende uddannelsesinstitutions navn, adresse, CVR-nummer og p-nummer.
+- 2\) Forventede antal deltagende børn på ordningen i begyndelsen af skoleåret 2026-2027.
+- 3\) Forventede antal uddelingsdage pr. tilskudsberettiget produkttype, jf. bilag 1, i skoleåret 2026-2027.
+- 4\) Navn og stilling på den juridiske person, der underskriver på vegne af deltageren.
+
+#### § 7.
+
+En uddannelsesinstitution kan kun være omfattet af én ansøgning om tilsagn om tilskud.
+
+### Prioritering
+
+#### § 8.
+
+Der gives tilsagn om tilskud til samtlige tilskudsberettigede ansøgninger indgivet inden for fristen i § 5, stk. 2.
+
+*Stk. 2.* Hvis de tilskudsberettigede ansøgninger til levering eller uddeling af skolefrugt og -grønt og til læringsaktiviteter tilsammen beløbsmæssigt overstiger de midler, der er til rådighed, reduceres tilsagnsbeløbene til levering eller uddeling af skolefrugt og -grønt og til læringsaktiviteter med lige stor procentdel.
+
+#### § 9.
+
+Ansøger anses for godkendt, jf. artikel 6 i Kommissionens delegerede forordning (EU) nr. 2017/40, ved meddelelse om tilsagn om tilskud.
+
+## Kapitel 3 — Skiltning, følgesedler, leveringslister m.v.
+
+### Skiltning
+
+#### § 10.
+
+Tilsagnshaver skal sikre, at der skiltes om deltagelse i EU-skoleordningen på forsiden af uddannelsesinstitutionens hjemmeside. Skiltning sker ved, at et internetbanner fremgår af forsiden og indeholder følgende:
+
+- 1\) EU-flaget.
+- 2\) Betegnelsen »skoleordning«.
+- 3\) Unionens økonomiske støtte, medmindre det er udelukket på grund af størrelsen på internetbanneret.
+
+*Stk. 2.* Skiltning, jf. stk. 1, skal ske frem til, at slutudbetaling har fundet sted.
+
+*Stk. 3.* Hvis tilsagnshaver har fået tilsagn om tilskud til læringsaktiviteter, skal tilsagnshaver sikre, at der påføres EU-flaget og betegnelsen »skoleordning« på undervisningsmaterialer og -værktøjer, der anvendes i forbindelse med aktiviteterne, og medmindre det er udelukket på grund af størrelsen af materialerne og redskaberne, skal unionens økonomiske støtte også fremgå af disse materialer og værktøjer.
+
+### Følgesedler
+
+#### § 11.
+
+En følgeseddel udarbejdes af leverandøren eller distributøren af skolefrugt og -grønt og skal indeholde følgende oplysninger:
+
+- 1\) Dato for levering.
+- 2\) Navn, adresse og CVR-nummer på leverandør eller distributør.
+- 3\) Antal og produkttype af den leverede skolefrugt og -grønt.
+- 4\) Uddannelsesinstitutionens navn.
+
+*Stk. 2.* Hvis tilsagnshaver er én af de i § 3, nr. 2-5, nævnte juridiske personer, skal tilsagnshaver sikre, at den enkelte deltagende uddannelsesinstitution under tilsagnshaver kan fremvise disse følgesedler ved kontrolbesøg på uddannelsesinstitutionen, jf. artikel 10 i Kommissionens gennemførelsesforordning (EU) nr. 2017/39.
+
+### Leveringslister
+
+#### § 12.
+
+Leveringslister udarbejdes af leverandøren eller distributøren af skolefrugt og -grønt. Leveringslisten skal underskrives og kvitteres af uddannelsesinstitutionen eller grossisten.
+
+#### § 13.
+
+Leveringslister, der underskrives af uddannelsesinstitutioner, skal indeholde følgende:
+
+- 1\) Tilsagnshavers navn, adresse og CVR-nummer.
+- 2\) Udsteders navn, adresse og CVR-nummer.
+- 3\) Uddannelsesinstitutionens navn.
+- 4\) Leveringsdato eller leveringsperiode.
+- 5\) Antal og produkttype af den leverede skolefrugt og -grønt.
+- 6\) Uddannelsesinstitutionens underskrift på, at oplysningerne er korrekte.
+
+#### § 14.
+
+Leveringslister, der underskrives af grossister, skal indeholde følgende:
+
+- 1\) Grossistens navn, adresse og CVR-nummer.
+- 2\) Uddannelsesinstitutionens navn.
+- 3\) Leveringsdato eller leveringsperiode.
+- 4\) Antal og produkttype af den leverede skolefrugt og -grønt.
+- 5\) Grossistens underskrift på, at oplysningerne er korrekte.
+
+#### § 15.
+
+Kvitteringer kan tjene som dokumentation, jf. § 11 og § 12, forudsat at de i § 11, stk. 1, nævnte oplysninger fremgår af disse.
+
+*Stk. 2.* Hvis kvitteringen ikke angiver antal og produkttype af den leverede skolefrugt og -grønt, skal antal og produktype af den leverede skolefrugt og -grønt attesteres på kvitteringen med underskrift.
+
+*Stk. 3.* Hvis tilsagnshaver er en uddannelsesinstitution, underskrives kvitteringen af tilsagnshaver.
+
+*Stk. 4.* Hvis tilsagnshaver er én af de i § 3, nr. 2-5, nævnte juridiske personer, skal tilsagnshaver sikre, at den enkelte deltagende uddannelsesinstitution underskriver kvitteringen.
+
+*Stk. 5.* Kvitteringer, jf. stk. 1, skal suppleres af et kontoudtog som dokumentation for betaling. Kontoudtog skal indgives til styrelsen inden for fristen i § 31, stk. 3.
+
+### Kvitteringsskema
+
+#### § 16.
+
+Hvis tilsagnshaver er én af de i § 3, nr. 2-5, nævnte juridiske personer, skal tilsagnshaver sikre, at den enkelte deltagende uddannelsesinstitution under tilsagnshaver udfylder og underskriver det kvitteringsskema, der er tilgængeligt for ordningen på styrelsens hjemmeside, og indgiver det direkte til styrelsen inden for fristen i § 31, stk. 3.
+
+*Stk. 2.* Kvitteringsskemaet, jf. stk. 1, skal indeholde følgende oplysninger:
+
+- 1\) Uddannelsesinstitutionens navn.
+- 2\) Navn og stilling på den juridiske person, der underskriver på vegne af deltageren.
+- 3\) Start- og slutdato for uddelingsperioden.
+- 4\) Det samlede antal dage, hvor der er uddelt skolefrugt og -grønt i uddelingsperioden.
+- 5\) Tilvejebringe oplysninger om antallet af deltagende børn, der er registreret i uddannelsesinstitutionen i begyndelsen af skoleåret.
+- 6\) Om skolefrugt og -grønt er uddelt i forbindelse med normale skolemåltider, og, i bekræftende fald, om produkterne er uddelt gratis til børnene og i overensstemmelse med artikel 11 i Kommissionens delegerede forordning (EU) nr. 2017/40.
+- 7\) Om uddannelsesinstitutionen har gennemført læringsaktiviteter, og, i bekræftende fald, en beskrivelse af læringsaktiviteterne.
+- 8\) Link til den hjemmeside, hvor uddannelsesinstitutionen har skiltet, jf. § 10.
+- 9\) Uddelt skolefrugt og -grønt i antal styk og produkttype.
+
+### Uddeling i forbindelse med normale skolemåltider
+
+#### § 17.
+
+Hvis skolefrugt og -grønt uddeles i forbindelse med uddelingen af normale skolemåltider, skal uddelingen ske i overensstemmelse med artikel 11 i Kommissionens delegerede forordning (EU) nr. 2017/40, hvorefter følgende gælder:
+
+- 1\) Produkterne må ikke anvendes til tilberedning af de normale skolemåltider.
+- 2\) Produkterne må ikke anvendes til at erstatte produkter, der er en del af de normale skolemåltider, i form af finansielle bidrag fra offentlige eller private enheder, jf. dog stk. 2.
+- 3\) Produkterne skal til enhver tid være let genkendelige som værende led i ordningen, gennem passende kommunikations- og oplysningsforanstaltninger.
+
+*Stk. 2.* Hvis de normale skolemåltider uddeles gratis, finder stk. 1, nr. 2, ikke anvendelse.
+
+## Kapitel 4 — Kriterier og forpligtelser
+
+### Kriterier for tilskudsberettigelse
+
+#### § 18.
+
+Tilsagn om tilskud er betinget af følgende:
+
+- 1\) Ansøger er en juridisk person, jf. § 3.
+- 2\) Ansøger leverer eller uddeler skolefrugt og -grønt til børn i uddannelsesinstitutioner i skoleåret 2026-2027.
+- 3\) Der foreligger en erklæring om overholdelse af ordningens regler, jf. § 6, stk. 1, nr. 2.
+
+### Forpligtelser
+
+#### § 19.
+
+Tilsagnshaver er forpligtet til følgende:
+
+- 1\) Sikre, at skolefrugt og -grønt gøres tilgængelig med henblik på konsum til børnene i uddannelsesinstitutionen.
+- 2\) Godtgøre uretmæssigt udbetalt tilskud for de pågældende antal, hvis det viser sig, at skolefrugt og -grønt ikke er blevet uddelt til børnene eller ikke giver ret til tilskud.
+- 3\) Godtgøre uretmæssigt udbetalt tilskud til læringsaktiviteter, hvis det viser sig, at disse aktiviteter ikke er korrekt gennemført.
+- 4\) Fremlægge relevante bilag på styrelsens anmodning.
+- 5\) Tillade, at styrelsen gennemfører den nødvendige kontrol, navnlig hvad angår regnskabskontrol og kontrolbesøg.
+- 6\) Sikre, at EU-regler og nationale regler om offentlige udbud overholdes, hvis tilskuddet, eller dele heraf, er omfattet af disse regler.
+- 7\) Sikre, at tilbudsloven overholdes, hvis tilskuddet eller dele heraf, er omfattet disse regler.
+- 8\) Overholde de særlige oplysningspligter, jf. lovens § 8.
+- 9\) Gennemføre levering eller uddeling af skolefrugt og -grønt i overensstemmelse med tilsagnet.
+- 10\) Sikre, at skolefrugt og -grønt uddeles i overensstemmelse med § 17, hvis produkterne uddeles i forbindelse med uddelingen af normale skolemåltider.
+- 11\) Sikre, at der iværksættes læringsaktiviteter i uddelingsperioden, at læringsaktiviteterne kan dokumenteres, og at alle børn, der deltager i ordningen, kan deltage i disse læringsaktiviteter.
+- 12\) Sikre skiltning i overensstemmelse med § 10.
+- 13\) Sikre, at minimum 80 pct. af tilskuddet til skolefrugt og -grønt går direkte til nedsættelse af den pris, som børnene betaler for produkterne.
+- 14\) Sikre, at der ved de enkelte leverancer af skolefrugt og -grønt medfølger en følgeseddel for leverancen i overensstemmelse med § 11, jf. dog § 15.
+- 15\) Sikre, at der udarbejdes en leveringsliste over den leverede skolefrugt og -grønt i overensstemmelse med §§ 12-14, jf. dog § 15.
+- 16\) Tilvejebringe oplysninger om antallet af deltagende børn, der er registreret i uddannelsesinstitutionen i begyndelsen af skoleåret.
+- 17\) Sikre, at al dokumentation i relation til tilsagn om tilskud opbevares i 5 år og 6 måneder fra datoen for slutudbetaling.
+
+#### § 20.
+
+Tilsagnshavere, jf. § 3, nr. 2-5, er også forpligtet til følgende:
+
+- 1\) Sikre, at styrelsen kan foretage kontrolbesøg, jf. artikel 10, stk. 3, i Kommissionens gennemførelsesforordning (EU) nr. 2017/39, hos den enkelte deltagende uddannelsesinstitution under tilsagnshaver.
+- 2\) Sikre, at den enkelte deltagende uddannelsesinstitution under tilsagnshaver, udfylder, underskriver og indgiver et kvitteringsskema i overensstemmelse med § 16.
+- 3\) Registrere navn og adresse på de deltagende uddannelsesinstitutioner, der modtager produkterne, og føre fortegnelse over antallet af de specifikke produkter, der er blevet leveret.
+
+## Kapitel 5 — Ændring og overdragelse af tilsagn om tilskud
+
+### Ansøgning om ændring af tilsagn om tilskud
+
+#### § 21.
+
+Tilsagnshaver kan ansøge om ændring af tilsagn om tilskud. Ansøgning om ændring af tilsagn indgives til styrelsen ved brug af det ansøgningsskema, der er tilgængeligt for ordningen på styrelsens hjemmeside.
+
+*Stk. 2.* Ansøgning efter stk. 1 kan indgives fra den 1. august 2026 til og med den 1. april 2027.
+
+*Stk. 3.* Hvis en tilsagnshaver jf. § 3, nr. 2-5, søger om ændring i form af en udskiftning af én eller flere deltagende uddannelsesinstitutioner, skal tilsagnshaver sikre, at den eller de nye deltagende uddannelsesinstitutioner udfylder og underskriver deltagerskema, jf. § 6, stk. 2, og indgiver dette direkte til styrelsen inden for fristen i stk. 2.
+
+*Stk. 4.* Ændringer kan, forud for styrelsens godkendelse, igangsættes for tilsagnshavers egen regning og risiko, efter at ansøgning om ændring af tilsagn om tilskud er indgivet.
+
+### Ansøgning om overdragelse af tilsagn
+
+#### § 22.
+
+Tilsagnshaver kan ansøge om overdragelse af tilsagn. Ansøgning om overdragelse af tilsagn indgives til styrelsen ved brug af det ansøgningsskema, der er tilgængeligt for ordningen på styrelsens hjemmeside. Ansøgning om overdragelse skal underskrives af både tilsagnshaver og den, som tilsagnet ønskes overdraget til.
+
+*Stk. 2.* Overdragelse er betinget af, at den, som tilsagnet ønskes overdraget til,
+
+- 1\) er en juridisk person, jf. § 3,
+- 2\) leverer eller uddeler skolefrugt og -grønt til børn i uddannelsesinstitutioner, og
+- 3\) afgiver erklæring om overholdelse af ordningens regler, jf. § 6, stk. 1, nr. 2.
+
+*Stk. 3.* Tilsagnshaver skal sikre, at den som tilsagnet ønskes overdraget til, indgiver en erklæring om overholdelse af ordningens regler, jf. § 6, stk. 1, nr. 2, direkte til styrelsen.
+
+*Stk. 4.* Den, der får overdraget tilsagnet, overtager alle rettigheder og forpligtelser efter tilsagnet.
+
+*Stk. 5.* Overdragelse af tilsagn skal godkendes af styrelsen, inden overdragelse kan finde sted.
+
+*Stk. 6.* Ved godkendelse af overdragelse af tilsagn, godkendes den nye tilsagnshaver, jf. artikel 6 i Kommissionens delegerede forordning (EU) nr. 2017/40.
+
+## Kapitel 6 — Fastsættelse af tilskud og udbetaling af tilskud
+
+#### § 23.
+
+Tilskudsberettigede udgifter omfatter friske og uforarbejdede produkter, jf. bilag 1, og læringsaktiviteter.
+
+#### § 24.
+
+Tilskudsberettigede udgifter omfatter ikke udgifter, hvortil der gives andre nationale tilskud eller EU-tilskud, og moms.
+
+#### § 25.
+
+Der kan ydes tilskud til levering eller uddeling af skolefrugt og -grønt efter satserne i bilag 1.
+
+*Stk. 2.* Der kan maksimalt ydes tilskud til ét stykke frugt og -grønt pr. barn, pr. uddelingsdag, jf. dog stk. 3.
+
+*Stk. 3.* Der kan maksimalt ydes tilskud til 200 uddelingsdage.
+
+#### § 26.
+
+Der kan ydes tilskud til 100 pct. af udgifterne til læringsaktiviteter efter § 2, stk. 2, jf. dog stk. 2. Udgifterne skal være nødvendige og direkte relateret til gennemførelsen af læringsaktiviteterne.
+
+*Stk. 2.* Tilsagn om tilskud til læringsaktiviteter kan maksimalt udgøre 17,5 pct. af tilsagn om tilskud til levering eller uddeling af skolefrugt og -grønt.
+
+#### § 27.
+
+Tilskud fastsættes endvidere på baggrund af ansøgers udnyttelsesgrad af sit tilsagn om tilskud til levering eller uddeling af skolefrugt og -grønt for skoleåret 2024-2025, jf. dog stk. 2.
+
+*Stk. 2.* Såfremt ansøger ikke blev tildelt et tilsagn om tilskud til levering eller uddeling af skolefrugt og -grønt for skoleåret 2024-2025, vil tilskuddet blive fastsat på baggrund af ansøgers udnyttelsesgrad af sit tildelte tilsagn om tilskud til levering eller uddeling af skolefrugt og -grønt for skoleåret 2023-2024.
+
+#### § 28.
+
+I tilfældet, hvor udnyttelsesgraden, jf. § 27, var følgende:
+
+- 1\) Under eller lig med 70 pct., kan der højst ydes tilskud tilsvarende det tidligere tilsagnsbeløb til levering eller uddeling af skolefrugt og -grønt, der ud fra en skønsmæssig vurdering kan nedsættes.
+- 2\) Over 70 pct., men under eller lig med 85 pct., kan der højst ydes tilskud tilsvarende det tidligere tilsagnsbeløb til levering eller uddeling af skolefrugt og -grønt.
+- 3\) Over 85 pct., kan der ydes tilskud til det ansøgte tilskudsberettigede beløb.
+
+#### § 29.
+
+Ansøgere, der ikke tidligere har modtaget tilsagn, eller som alene har modtaget tilsagn om tilskud før skoleåret 2022-2023, er ikke omfattet af § 27 og § 28.
+
+### Udbetaling af tilskud
+
+#### § 30.
+
+Tilskud til skolefrugt og -grønt udbetales på baggrund af tilsagnshavers dokumentation for den reelt leverede og uddelte skolefrugt og -grønt.
+
+*Stk. 2.* Tilskud til læringsaktiviteter, jf. § 2, stk. 2, udbetales på baggrund af tilsagnshavers dokumentation for de faktiske udgifter i relation til disse læringsaktiviteter. Udgifterne skal være faktureret til og betalt af tilsagnshaver.
+
+#### § 31.
+
+Ansøgning om udbetaling af tilskud skal indgives til styrelsen ved brug af de udbetalingsskemaer, som er tilgængeligt for ordningen på styrelsens hjemmeside.
+
+*Stk. 2.* Tilskud kan udbetales i,
+
+- 1\) to rater dækkende henholdsvis uddelingsperioderne fra den 1. august 2026 til og med den 31. december 2026 og den 1. januar 2027 til og med den 31. juli 2027, hvoraf sidste rate udgør slutudbetalingen, eller
+- 2\) én slutudbetaling dækkende uddelingsperioden fra den 1. august 2026 til og med den 31. juli 2027.
+
+*Stk. 3.* Ansøgning efter stk. 1 indgives senest tre måneder efter udløbet af den periode, jf. stk. 2, som ansøgningen vedrører.
+
+#### § 32.
+
+Overskrides fristen i § 31, stk. 3, udbetales tilskuddet i overensstemmelse med artikel 4, stk. 5, i Kommissionens gennemførelsesforordning (EU) nr. 2017/39.
+
+#### § 33.
+
+Ansøgning om udbetaling af tilskud til leveret eller uddelt skolefrugt og -grønt skal indeholde følgende:
+
+- 1\) Udfyldt og underskrevet udbetalingsskema til skolefrugt og -grønt, jf. § 31, stk. 1.
+- 2\) Dokumentation for den uddelte skolefrugt og -grønt i form af leveringslister, jf. § 12, eller kvitteringer og kontoudtog, jf. § 15.
+- 3\) Dokumentation for uddelingsdage i skoleåret.
+- 4\) Udfyldt budgetskema for udbetaling af tilskud ved brug af det skema, der er tilgængeligt for ordningen på styrelsens hjemmeside.
+- 5\) Eventuel dokumentation for afholdte udbud, hvis tilskuddet, eller dele heraf er omfattet af EU-regler og nationale regler om offentlige udbud.
+- 6\) Eventuel dokumentation for overholdelse af tilbudsloven, hvis tilskuddet eller dele heraf er omfattet af disse regler.
+- 7\) Eventuelle kvitteringsskemaer, jf. § 16.
+
+#### § 34.
+
+Ansøgning om udbetaling af tilskud til læringsaktiviteter skal indeholde følgende:
+
+- 1\) Udfyldt og underskrevet udbetalingsskema og bilagsskema til læringsaktiviteter, jf. § 31, stk. 1.
+- 2\) Fakturaer og betalingsdokumentation for udførte læringsaktiviteter.
+- 3\) Eventuel dokumentation for afholdte udbud, hvis tilskuddet, eller dele heraf er omfattet af EU-regler og nationale regler om offentlige udbud.
+- 4\) Eventuel dokumentation for overholdelse af tilbudsloven, hvis tilskuddet eller dele heraf er omfattet af disse regler.
+
+#### § 35.
+
+Styrelsen kan forlange rigtigheden af oplysninger, der skal danne grundlag for udbetaling af tilskud, bekræftet af en godkendt revisor.
+
+#### § 36.
+
+Tilskud udbetales til tilsagnshavers NemKonto.
+
+## Kapitel 7 — Obligatorisk digital kommunikation og ikrafttræden
+
+#### § 37.
+
+Ansøgninger om tilsagn, jf. § 5, ændring af tilsagn, jf. § 21, overdragelse af tilsagn, jf. § 22, og udbetaling, jf. § 31, samt tilhørende bilag skal indgives til styrelsen via mail eller via Digital Post med angivelse af skolefrugt og -grønt 2026-2027 i emnefeltet.
+
+*Stk. 2.* Deltagerskema, jf. § 6, stk. 2, kvitteringsskema, jf. § 16, og erklæring, jf. § 22, stk. 2, nr. 3, skal indgives til styrelsen via mail eller via Digital Post med angivelse af skolefrugt og -grønt 2026-2027 i emnefeltet.
+
+*Stk. 3.* Partshøringssvar efter forvaltningslovens § 19 skal indgives til styrelsen via mail eller via Digital Post med angivelse af skolefrugt og -grønt 2026-2027 i emnefeltet.
+
+#### § 38.
+
+Bekendtgørelsen træder i kraft den 1. januar 2026.
+
+Styrelsen for Grøn Arealomlægning og Vandmiljø, den 2. december 2025
+
+Lars Gregersen
+
+/ Michael Etting Pentz
+
+## Bilag 1
+
+Tilskudssatser for frisk og uforarbejdet skolefrugt og -grønt
+
+<table>
+<tr>
+<td></td>
+<td>Tilskudsberettiget produkttype</td>
+<td>Tilskudssats pr. 1 stykke frugt og grønt (kroner)</td>
+<td>Krav til minimums nedsættelse af pris pr. 1 stykke frugt og grønt (kroner) jf. § 19, stk. 13</td>
+</tr>
+<tr>
+<td rowspan="11">Konventionelle produkter</td>
+<td>Appelsin</td>
+<td>2,33</td>
+<td>1,86</td>
+</tr>
+<tr>
+<td>Banan</td>
+<td>3,11</td>
+<td>2,49</td>
+</tr>
+<tr>
+<td>Blomme</td>
+<td>2,47</td>
+<td>1,98</td>
+</tr>
+<tr>
+<td>Fersken</td>
+<td>3,11</td>
+<td>2,49</td>
+</tr>
+<tr>
+<td>Gulerod</td>
+<td>0,63</td>
+<td>0,50</td>
+</tr>
+<tr>
+<td>Kiwi</td>
+<td>2,46</td>
+<td>1,97</td>
+</tr>
+<tr>
+<td>Klementin</td>
+<td>2,20</td>
+<td>1,76</td>
+</tr>
+<tr>
+<td>Nektarin</td>
+<td>2,98</td>
+<td>2,38</td>
+</tr>
+<tr>
+<td>Pærer</td>
+<td>2,29</td>
+<td>1,83</td>
+</tr>
+<tr>
+<td>Skoleagurk</td>
+<td>4,19</td>
+<td>3,35</td>
+</tr>
+<tr>
+<td>Æble</td>
+<td>1,99</td>
+<td>1,59</td>
+</tr>
+<tr>
+<td rowspan="11">Økologiske produkter</td>
+<td>Appelsin</td>
+<td>3,91</td>
+<td>3,13</td>
+</tr>
+<tr>
+<td>Banan</td>
+<td>2,50</td>
+<td>2,00</td>
+</tr>
+<tr>
+<td>Blomme</td>
+<td>4,63</td>
+<td>3,70</td>
+</tr>
+<tr>
+<td>Fersken</td>
+<td>4,88</td>
+<td>3,90</td>
+</tr>
+<tr>
+<td>Gulerod</td>
+<td>0,80</td>
+<td>0,64</td>
+</tr>
+<tr>
+<td>Kiwi</td>
+<td>3,01</td>
+<td>2,41</td>
+</tr>
+<tr>
+<td>Klementin</td>
+<td>2,30</td>
+<td>1,84</td>
+</tr>
+<tr>
+<td>Nektarin</td>
+<td>3,88</td>
+<td>3,10</td>
+</tr>
+<tr>
+<td>Pærer</td>
+<td>5,99</td>
+<td>4,79</td>
+</tr>
+<tr>
+<td>Skoleagurk</td>
+<td>3,76</td>
+<td>3,01</td>
+</tr>
+<tr>
+<td>Æble</td>
+<td>2,92</td>
+<td>2,34</td>
+</tr>
+</table>
+
+## Officielle noter
+
+**Slutnoter**
+
+1\) I bekendtgørelsen er der medtaget visse bestemmelser fra Europa-Parlamentets og Rådets forordning (EU) nr. 1308/2013 af 17. december 2013 om en fælles markedsordning for landbrugsprodukter og om ophævelse af Rådets forordning (EØF) nr. 0922/72, (EØF) nr. 234/79, (EF) nr. 1037/2001 og (EF) nr. 1234/2007, EU tidende 2013, nr. L 347, side 671, som ændret ved Europa-Parlamentets og Rådets forordning (EU) 2021/2117 af 2. december 2021 om ændring af forordning (EU) nr. 1308/2013 om en fælles markedsordning for landbrugsprodukter, (EU) nr. 1151/2012 om kvalitetsordninger for landbrugsprodukter og fødevarer, (EU) nr. 251/2014 om definition, beskrivelse, præsentation, mærkning og beskyttelse af geografiske betegnelser for aromatiserede vinprodukter og (EU) nr. 228/2013 om særlige foranstaltninger på landbrugsområdet i Unionens fjernområder, EU-Tidende 2021, nr. L 435, side 262, og Kommissionens gennemførelsesforordning (EU) 2017/39 af 3. november 2016 om gennemførelsesbestemmelser til Europa-Parlamentets og Rådets forordning (EU) nr. 1308/2013 for så vidt angår EU-støtte til uddeling af frugt og grøntsager, bananer og mælk i undervisningsinstitutioner, EU-Tidende 2017, nr. L 5, side 1, og Kommissionens delegerede forordning (EU) 2017/40 af 3. november 2016 om supplerende regler til Europa-Parlamentets og Rådets forordning (EU) nr. 1308/2013 for så vidt angår EU-støtte til uddeling af frugt og grøntsager, bananer og mælk i uddannelsesinstitutioner og om ændring af forordning (EU) nr. 907/2014, EU-Tidende 2017, nr. L 5, side 11. Ifølge artikel 288 i EUF-Traktaten gælder en forordning umiddelbart i hver medlemsstat. Gengivelsen af disse bestemmelser i bekendtgørelsen er således udelukkende begrundet i praktiske hensyn og berører ikke forordningens umiddelbare gyldighed i Danmark.

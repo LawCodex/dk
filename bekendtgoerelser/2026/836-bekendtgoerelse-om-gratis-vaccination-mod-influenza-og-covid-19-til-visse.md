@@ -1,0 +1,106 @@
+---
+title: "Bekendtgørelse om gratis vaccination mod influenza og covid-19 til visse persongrupper"
+identifier: "BEK nr 836 af 29/09/2026"
+eli: "https://www.retsinformation.dk/eli/lta/2026/836"
+accession_number: "B20260083605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2026-09-29
+status: "in_force"
+ministry: "Sundheds- og Kirkeministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2026/836"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om gratis vaccination mod influenza og covid-19 til visse persongrupper
+
+*BEK nr 836 af 29/09/2026*
+
+I medfør af § 8, stk. 2, § 158, stk. 2 og 3, § 158 b og § 222, stk. 3, i sundhedsloven, jf. lovbekendtgørelse nr. 275 af 12. marts 2025, som ændret ved lov nr. 1760 af 29. december 2025, fastsættes:
+
+## Kapitel 1 — Ret til vaccination
+
+### § 1.
+
+Regionsrådet yder i perioden fra den 1. oktober til den 20. december gratis vaccination mod influenza og covid-19 på visse vilkår beskrevet i vejledning fra Sundhedsstyrelsen til personer omfattet af §§ 2 og 3, som har bopæl her i landet eller ret til vaccinationsydelser under ophold i Danmark i medfør af EU-retten eller internationale aftaler i henhold til stk. 3.
+
+*Stk. 2.* Regionsrådet yder i perioden fra den 21. december til den 30. september gratis vaccination mod covid-19 og influenza til personer omfattet af § 4, som har bopæl her i landet eller ret til vaccinationsydelser under ophold i Danmark i medfør af EU-retten eller internationale aftaler i henhold til stk. 3.
+
+*Stk. 3.* Ved EU-retten eller internationale aftaler forstås
+
+- 1\) Europa-Parlamentets og Rådets forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger,
+- 2\) Europa-Parlamentets og Rådets forordning (EF) nr. 987/2009 om de nærmere regler til gennemførelse af forordning (EF) nr. 883/2004 om koordinering af de sociale sikringsordninger,
+- 3\) Nordisk Konvention om Social Sikring,
+- 4\) Aftalen om det Europæiske Økonomiske Samarbejde (EØS-aftalen) med senere ændringer ved afgørelser fra Det Blandede EØS-udvalg,
+- 5\) Aftalen mellem De Europæiske Fællesskaber, dets medlemsstater og Schweiz om fri bevægelighedfor personer som ændret ved afgørelse nr. 1/2012 vedtaget af Det Blandede Udvalg nedsat i henhold til Aftalen mellem Det Europæiske Fællesskab og dets medlemsstater på den ene side og Det Schweiziske Forbund på den anden side om fri bevægelighed for personer af 31. marts 2012 om erstatning af bilag II til aftalen om koordinering af sociale sikringsordninger,
+- 6\) rettigheder som vandrende arbejdstagere efter artikel 45 i Traktaten om Den Europæiske Unions funktionsmåde,
+- 7\) Aftale om Det Forenede Kongerige Storbritannien og Nordirlands udtræden af Den Europæiske Union og Det Europæiske Atomenergifællesskab (2019/C 384 I/01) (Brexit udtrædelsesaftale) og
+- 8\) Handels- og samarbejdsaftale mellem Den Europæiske Union og Det Europæiske Atomenergifællesskab på den ene side og Det Forenede Kongerige Storbritannien og Nordirland på den anden side.
+
+### § 2.
+
+Regionsrådet yder gratis vaccination mod influenza til følgende personer omfattet af § 1, stk. 1:
+
+- 1\) Personer, der er fyldt 65 år senest den 20. december i det år, hvor vaccinationen gennemføres.
+- 2\) Personer med følgende tilstande som nævnt i litra a-g:
+  - a) Personer med kroniske lungesygdomme.
+  - b) Personer med hjerte- og karsygdomme (undtaget isoleret, velreguleret forhøjet blodtryk).
+  - c) Personer med diabetes 1 eller 2 (sukkersyge).
+  - d) Personer med medfødt eller erhvervet immundefekt.
+  - e) Personer med påvirket respiration på grund af nedsat muskelkraft.
+  - f) Personer med kronisk lever- eller nyresygdom.
+  - g) Personer med svær overvægt (BMI>35).
+- 3\) Personer, herunder børn fra 6 måneder, med andre alvorlige sygdomme eller tilstande, der ifølge lægens vurdering medfører, at influenza udgør en alvorlig risiko.
+- 4\) Gravide i 2. eller 3. trimester. Gravide fra 1. trimester tilbydes vaccination mod influenza, hvis den gravide ifølge lægens vurdering er i risiko for et alvorligt forløb med influenza.
+- 5\) Personer i samme husstand som personer med medfødt eller erhvervet immundefekt eller børn i øget risiko for alvorlig influenza, jf. nr. 2, litra d, og nr. 3.
+- 6\) Førtidspensionister omfattet af § 1, stk. 1.
+
+*Stk. 2.* Vaccination mod influenza tilbydes som udgangspunkt i form af en inaktiveret standard 3-valent influenzavaccine, jf. dog stk. 3.
+
+*Stk. 3.* Personer, der er fyldt 69 år senest den 20. december i det år, hvor vaccinen gennemføres, jf. stk. 1, nr. 1, tilbydes vaccination mod influenza i form af en adjuveret 3-valent influenzavaccine.
+
+### § 3.
+
+Regionsrådet yder gratis vaccination mod covid-19 til følgende personer omfattet af § 1, stk. 1:
+
+- 1\) Personer, der er fyldt 65 år senest den 20. december i det år, hvor vaccinationen gennemføres.
+- 2\) Personer med følgende tilstande som nævnt i litra a-g:
+  - a) Personer med kroniske lungesygdomme.
+  - b) Personer med hjerte- og karsygdomme (undtaget isoleret, velreguleret forhøjet blodtryk).
+  - c) Personer med diabetes 1 eller 2 (sukkersyge).
+  - d) Personer med medfødt eller erhvervet immundefekt.
+  - e) Personer med påvirket respiration på grund af nedsat muskelkraft.
+  - f) Personer med kronisk lever- eller nyresygdom.
+  - g) Personer med svær overvægt (BMI>35).
+- 3\) Personer, herunder børn fra 6 måneder, med andre alvorlige sygdomme eller tilstande, der ifølge lægens vurdering medfører, at covid-19 udgør en alvorlig risiko.
+- 4\) Personer i samme husstand som personer med medfødt eller erhvervet immundefekt eller børn i øget risiko for alvorlig covid-19, jf. nr. 2, litra d, og nr. 3.
+
+*Stk. 2.* Vaccination mod covid-19 tilbydes i henhold til Sundhedsstyrelsens vejledning i form af en mRNA-vaccine.
+
+### § 4.
+
+Regionsrådet yder gratis vaccination mod covid-19 og influenza til følgende personer omfattet af § 1, stk. 2:
+
+- 1\) Personer med tilstande som nævnt i litra a eller b efter en lægelig vurdering:
+  - a) Personer med et svært nedsat immunforsvar.
+  - b) Personer, der har fået en stamcelletransplantation.
+- 2\) Børn under 5 år efter lægelig vurdering af en speciallæge i pædiatri.
+
+### § 5.
+
+Vaccination efter § 1, stk. 1 og 2, skal foretages af en autoriseret sundhedsperson, som i henhold til lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed selvstændigt må foretage vaccinationer, eller af en anden person, som vaccinerer på en sådan autoriseret sundhedspersons ansvar.
+
+## Kapitel 2 — Ikrafttræden
+
+### § 6.
+
+Bekendtgørelsen træder i kraft den 1. oktober 2026.
+
+*Stk. 2.* Bekendtgørelse nr. 1111 af 17. september 2025 om gratis vaccination mod influenza og covid-19 til visse persongrupper ophæves.
+
+Sundheds- og Kirkeministeriet, den 29. september 2026
+
+Ida Auken
+
+/ Emil Johannessen

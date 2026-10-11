@@ -1,0 +1,127 @@
+---
+title: "Bekendtgørelse om udbetaling af mobilitetsfremmende ydelser inden for landets grænser fra Arbejdsgivernes Uddannelsesbidrag"
+identifier: "BEK nr 1656 af 07/12/2023"
+eli: "https://www.retsinformation.dk/eli/lta/2023/1656"
+accession_number: "B20230165605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2023-12-07
+status: "in_force"
+ministry: "Børne- og Undervisningsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2023/1656"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om udbetaling af mobilitetsfremmende ydelser inden for landets grænser fra Arbejdsgivernes Uddannelsesbidrag
+
+*BEK nr 1656 af 07/12/2023*
+
+I medfør af § 15 i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 1075 af 10. august 2023, fastsættes:
+
+## Kapitel 1 — Omfanget af mobilitetsfremmende ydelser
+
+### § 1.
+
+Arbejdsgivernes Uddannelsesbidrag yder økonomisk støtte til elever og lærlinge i form af:
+
+- 1\) Rejsehjælp til søgning eller overtagelse af en læreplads.
+- 2\) Flyttehjælp ved overtagelse af en læreplads.
+- 3\) Tilskud til forsørgere til merudgifter til dobbelt husførelse.
+- 4\) Tilskud i særlige tilfælde til andre boligudgifter.
+
+### § 2.
+
+Der ydes støtte til elever og lærlinge med henblik på indgåelse af uddannelsesaftaler vedrørende erhvervsuddannelser.
+
+*Stk. 2.* Støtte ydes også til elever med henblik på indgåelse af uddannelsesaftaler vedrørende uddannelser, der er sidestillet med de i stk. 1 nævnte uddannelser oprettet i henhold til lov om erhvervsuddannelser, hvilket for tiden er erhvervsfiskeruddannelsen, farmakonomuddannelsen og lokomotivføreruddannelsen.
+
+*Stk. 3.* Støtte kan endvidere ydes med henblik på deltagelse i undervisning efter kapitel 7 a i lov om erhvervsuddannelser.
+
+### § 3.
+
+Støtte med henblik på indgåelse af uddannelsesaftaler ydes til elever og lærlinge, der i henhold til lov om erhvervsuddannelser er registreret på en skole som lærepladssøgende eller optaget på skole til uddannelsens grundforløb, eller elever og lærlinge der har gennemført grundforløbet. Der ydes ligeledes støtte med henblik på indgåelse af uddannelsesaftaler til elever og lærlinge, der modtager undervisning i henhold til kapitel 7 a i lov om erhvervsuddannelser.
+
+## Kapitel 2 — Beregning og fastsættelse af mobilitetsfremmende ydelser
+
+### § 4.
+
+Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag fastsætter satserne for samtlige ydelser, der udbetales i medfør af dette kapitel. Satserne fremgår af www.borger.dk/aub.
+
+*Stk. 2.* Mobilitetsfremmende ydelser kan kun udbetales, hvis den samlede transporttid til og fra uddannelses- eller undervisningsstedet udgør mindst 2 1/2 time (inkl. ventetid) med offentlig befordring.
+
+*Stk. 3.* Rejsehjælp beregnes altid på grundlag af de afholdte udgifter, dog højst svarende til udgifterne til billigste befordring med offentlige befordringsmidler. Foretages rejsen i egen bil, opgøres de afholdte udgifter som en km-takst, der svarer til statens lave sats for skattefri godtgørelse ved benyttelse af egen bil til erhvervsmæssig kørsel, samt evt. broafgift/færgebillet.
+
+### § 5.
+
+Rejsehjælp til søgning af en læreplads ydes, hvis der foreligger skriftlig indkaldelse til eller skriftlig bekræftelse fra en arbejdsgiver om en samtale om en konkret læreplads.
+
+*Stk. 2.* Eleven eller lærlingen indsender en ansøgning til Arbejdsgivernes Uddannelsesbidrag med anmodning om økonomisk støtte til rejse med offentlige transportmidler eller med eget transportmiddel. Sammen medansøgningen indsendes kopi af den skriftlige indkaldelse fra arbejdsgiveren.
+
+### § 6.
+
+Rejsehjælp til overtagelse af en læreplads ydes, hvis der foreligger en skriftlig uddannelsesaftale mellem eleven eller lærlingen og en arbejdsgiver.
+
+*Stk. 2.* Rejsehjælp med henblik på påbegyndelse af undervisning i henhold til kapitel 7 a i lov om erhvervsuddannelser ydes, hvis der foreligger bekræftelse fra skolen om elevens eller lærlingens optagelse og undervisningens begyndelse.
+
+*Stk. 3.* Eleven eller lærlingen indsender en ansøgning til Arbejdsgivernes Uddannelsesbidrag med anmodning om økonomisk støtte til rejse med offentlige transportmidler eller med eget transportmiddel. Sammen med ansøgningen indsendes en kopi af den underskrevne uddannelsesaftale eller bekræftelse fra skolen om elevens eller lærlingens optagelse og undervisningens begyndelse.
+
+### § 7.
+
+Flyttehjælp ydes, hvis der foreligger en skriftlig uddannelsesaftale med en arbejdsgiver eller bekræftelse fra skolen om elevens eller lærlingens optagelse til undervisning i henhold til kapitel 7 a i lov om erhvervsuddannelser.
+
+*Stk. 2.* Arbejdsgivernes Uddannelsesbidrag yder kun flyttehjælp, hvis den nye bolig ligger inden for en afstand fra uddannelses– eller undervisningsstedet på 2 1/2 times transporttid (inkl. ventetid) med offentlig befordring.
+
+*Stk. 3.* Arbejdsgivernes Uddannelsesbidrag yder kun flyttehjælp, hvis flytning er sket senest 6 måneder fra overtagelse af lærepladsen/optagelse til undervisning i henhold til kapitel 7 a i lov om erhvervsuddannelser.
+
+*Stk. 4.* Eleven eller lærlingen indhenter mindst 2 uafhængige flyttetilbud. Flyttehjælpen kan højst svare til udgifterne ved det billigste tilbud. Kun dokumenterede udgifter refunderes.
+
+*Stk. 5.* Ved flytning i egen bil dækkes dokumenterede udgifter til færgebillet/broafgift mv. Herudover betales en km-takst pr. kørt km i forhold til den korteste vej mellem hjemstedet og den nye bolig. Km-taksten svarer til statens lave sats for skattefri godtgørelse ved benyttelse af egen bil til erhvervsmæssig kørsel. Ved flytning i lejet bil dækkes færgebillet/broafgift samt eventuel dokumenteret lejeudgift. Herudover dækkes benzinforbrug i forhold til den korteste vej mellem hjemstedet og den nye bolig.
+
+*Stk. 6.* Eleven eller lærlingen indsender en ansøgning til Arbejdsgivernes Uddannelsesbidrag med anmodning om flyttehjælp. Sammen med ansøgningen indsendes en kopi af den underskrevne uddannelsesaftale eller bekræftelse fra skolen om elevens eller lærlingens optagelse og undervisningens begyndelse. Herudover vedlægges enten 2 uafhængige flyttetilbud, jf. stk. 3, eller dokumentation for udgifter til færgebillet/broafgift, lejeudgifter, angivelse af korteste vej mellem hjemstedet og ny bolig.
+
+### § 8.
+
+Tilskud til merudgifter ved dobbelt husførelse ydes til forsørgere, der har overtaget en læreplads eller er påbegyndt undervisning i henhold til kapitel 7 a i lov om erhvervsuddannelser uden for hjemmet.
+
+*Stk. 2.* Som forsørger anses en elev eller lærling, der på hjemstedet i mindst 6 måneder har boet sammen med én eller flere personer, der er økonomisk afhængige af den pågældende.
+
+*Stk. 3.* Tilskudsbeløbet er uafhængigt af modtagerens aflønningsform og ydes bagud for hver af ugens 7 dage.
+
+*Stk. 4.* Der ydes rejsehjælp til én ugentlig hjemrejse i forbindelse med weekend, samt til hjemrejse i forbindelse med påske- og juleferie.
+
+*Stk. 5.* Eleven eller lærlingen indsender en ansøgning til Arbejdsgivernes Uddannelsesbidrag med anmodning om tilskud til merudgifter ved dobbelt husførelse samt rejsehjælp i forbindelse med dobbelt husførelse. Sammen med ansøgningen indsendes lejekontrakt eller anden dokumentation for boligudgiften samt en forsørgererklæring. Herudover vedlægges en kopi af den underskrevne uddannelsesaftale eller bekræftelse fra skolen om elevens eller lærlingens optagelse og undervisningens begyndelse.
+
+### § 9.
+
+Tilskud til andre boligudgifter kan ydes i særlige tilfælde til elever og lærlinge, der har overtaget en læreplads eller er påbegyndt undervisning i henhold til kapitel 7 a i lov om erhvervsuddannelser uden for hjemmet.
+
+*Stk. 2.* Eleven eller lærlingen indsender en ansøgning til Arbejdsgivernes Uddannelsesbidrag bilagt lejekontrakt samt anden dokumentation for den afholdte boligudgift. Sammen med ansøgningen vedlægges en beskrivelse af de særlige forhold samt en kopi af den underskrevne uddannelsesaftale eller bekræftelse fra skolen om elevens eller lærlingens optagelse og undervisningens begyndelse.
+
+## Kapitel 3 — Ansøgningsfrist og udbetaling m.v.
+
+### § 10.
+
+Ansøgning om mobilitetsfremmende ydelse indsendes til Arbejdsgivernes Uddannelsesbidrag senest 2 måneder efter, at rejse og/eller flytning har fundet sted.
+
+*Stk. 2.* Arbejdsgivernes Uddannelsesbidrag kan i særlige tilfælde se bort fra en overskridelse af fristen i op til 2 måneder.
+
+### § 11.
+
+Mobilitetsfremmende ydelser udbetales af Arbejdsgivernes Uddannelsesbidrag efter ansøgning. Sammen med ansøgningen vedlægges nødvendig dokumentation, som nævnt i kapitel 2 under de enkelte bestemmelser. Ansøgning foretages på den af Arbejdsgivernes Uddannelsesbidrag udarbejdede blanket.
+
+*Stk. 2.* Udbetaling af mobilitetsfremmende ydelser finder normalt sted senest 14 dage efter modtagelsen af ansøgningen.
+
+## Kapitel 4 — Ikrafttræden
+
+### § 12.
+
+Bekendtgørelsen træder i kraft den 1. januar 2024.
+
+*Stk. 2.* Bekendtgørelse nr. 128 af 21. februar 2011 om udbetaling af mobilitetsfremmende ydelser inden for landets grænser fra Arbejdsgivernes Elevrefusion ophæves.
+
+Bestyrelsen for Arbejdsgivernes Uddannelsesbidrag, den 7. december 2023
+
+Niels Fog
+
+/ Martin Præstegaard

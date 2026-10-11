@@ -1,0 +1,294 @@
+---
+title: "Bekendtgørelse om betingelser for erstatning for skader, der er omfattet af lov om en terrorforsikringsordning på skadesforsikringsområdet og om skadesforsikringsselskabernes behandling af NBCR-terrorskader"
+identifier: "BEK nr 860 af 18/06/2024"
+eli: "https://www.retsinformation.dk/eli/lta/2024/860"
+accession_number: "B20240086005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2024-06-18
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2024/860"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om betingelser for erstatning for skader, der er omfattet af lov om en terrorforsikringsordning på skadesforsikringsområdet og om skadesforsikringsselskabernes behandling af NBCR-terrorskader
+
+*BEK nr 860 af 18/06/2024*
+
+I medfør af § 1, stk. 5, § 6, stk. 4 og § 12, stk. 6 i lov nr. 367 af 9. april 2019 om en terrorforsikringsordning på skadesforsikringsområdet fastsættes:
+
+## Kapitel 1 — Anvendelsesområde
+
+### § 1.
+
+Denne bekendtgørelse finder anvendelse for forsikringsselskaber, der er omfattet af § 5 i lov om en terrorforsik-ringsordning på skadesforsikringsområdet, og som har tegnet forsikring, der dækker brandrisikoen på de af loven omfattede genstande.
+
+## Kapitel 2 — Principper for opgørelse af skader på bygninger og løsøre
+
+### § 2.
+
+Ved opgørelse af erstatning for skader på bygninger og løsøre, der er omfattet af lov om terrorforsikringsordning på skadesforsikringsområdet, skal forsikringsselskaberne bruge almindeligt anvendte principper i forsikringsbranchen med udgangspunkt i erstatning til nyværdi eller erstatning til dagsværdi.
+
+*Stk. 2.* Ved nyværdi vedrørende bygningsskader forstås det beløb, det vil koste at genoprette det beskadigede ved samme byggemåde, med gængse byggematerialer og på samme sted.
+
+*Stk. 3.* Ved nyværdi vedrørende løsøre forstås det beløb, det vil koste at genanskaffe en tilsvarende ny genstand på skadestidspunktet.
+
+*Stk. 4.* Ved dagsværdi forstås nyværdien med fradrag for den værdiforringelse, herunder slid og ælde, som kan konstateres på den pågældende ejendom, bygningsdel eller det pågældende løsøre umiddelbart inden skadestidspunktet.
+
+### § 3.
+
+Erstatning for skader på ejendomme til helårsbeboelse samt fritidshuse udgør nyværdi. Der sker fradrag i erstatningen i medfør af den til enhver tid gældende afskrivningspraksis, medmindre ejendommen inden skadens indtræden var værdiforringet med mere end 50 pct. af nyværdien.
+
+*Stk. 2.* Erstatning udgør dagsværdi, hvis ejendommens værdi er forringet med mere end 50 pct. af nyværdien, Værdiforringelsen vurderes på grundlag af den tilstand, det beskadigede var i umiddelbart inden skaden som følge af almindelig brug, vejrets påvirkning og eventuelt andre individuelle omstændigheder, f.eks. ikke-intakte bygningsdele, og ikke på grundlag af afskrivningspraksis.
+
+*Stk. 3.* Partiel reparation af en bygningsdel erstattes fuldt ud, medmindre det vurderes at blive dyrere end genanskaffelse fratrukket eventuel afskrivning.
+
+### § 4.
+
+Erstatning for skader på erhvervsejendomme udgør nyværdi med fradrag som følge af den til enhver tid gældende afskrivningspraksis, medmindre ejendommen inden skadens indtræden var værdiforringet med mere end 30 pct. af nyværdien.
+
+*Stk. 2.* Ved værdiforringelse med mere end 30 pct. af nyværdien, f.eks. på grund af slid, ælde eller andre omstændigheder, ydes der erstatning til dagsværdi. Værdiforringelsen vurderes på grundlag af den tilstand, det beskadigede var i umiddelbart inden skaden som følge af almindelig brug, vejrets påvirkning og eventuelt andre individuelle omstændigheder, f.eks. ikke-intakte bygningsdele, og ikke på grundlag af afskrivningspraksis.
+
+*Stk. 3.* Partiel reparation af en bygningsdel erstattes fuldt ud, medmindre det vurderes at blive dyrere end genanskaffelse fratrukket eventuel afskrivning.
+
+### § 5.
+
+Erstatning for skader på privat løsøre udgør nyværdi, medmindre løsøret er mere end to år gammelt, i hvilke tilfælde der sker fradrag i medfør af den til enhver tid gældende afskrivningspraksis, herunder eventuelle vejledende afskrivningstabeller.
+
+*Stk. 2.* Partiel reparation erstattes fuldt ud, medmindre det vurderes at blive dyrere end genanskaffelse fratrukket eventuel afskrivning.
+
+*Stk. 3.* Er genanskaffelse af løsøret ikke mulig, beregnes erstatningen med udgangspunkt i fremstillingsprisen for et nyt tilsvarende løsøre. Erstatningen kan dog ikke overstige, hvad det vil koste at genanskaffe tilsvarende løsøre.
+
+*Stk. 4.* Erstatning for særligt privat indbo kan maksimalt udgøre 150.000 kr.
+
+*Stk. 5.* Erstatning for rede penge, valuta, værdipapirer og lignende kan maksimalt udgøre 25.000 kr.
+
+*Stk. 6.* Erstatning for særlige private værdigenstande kan maksimalt udgøre 50.000 kr.
+
+### § 6.
+
+Erstatning for skader på erhvervsløsøre sker til følgende værdi:
+
+- 1\) Varer, herunder råvarer: Dagsværdi.
+- 2\) Færdigvarer, herunder egen produktion: Den pris, som ved salg på almindelige vilkår ville kunne opnås umiddelbart før skaden med fradrag for normale omkostninger ved salg m.m.
+- 3\) Inventar og driftsudstyr: Nyværdi, hvis der sker en genanskaffelse af den enkelte ting, ellers dagsværdi.
+- 4\) Genfremstilling af originalmodeller eller tabte data: Fremstillingsprisen.
+
+### § 7.
+
+Der ydes erstatning for omkostninger i tilknytning til genhusning, hvis en bygning til privat boligbrug er ubeboelig efter en skade.
+
+*Stk. 2.* Erstatningen efter stk. 1 kan maksimalt udgøre 15.000 kr. pr. måned udregnet som et gennemsnit over den samlede genhusningsperiode.
+
+*Stk. 3.* Genhusningsperioden kan maksimalt udgøre 24 måneder. Perioden kan forlænges, hvis særlige omstændigheder, herunder længere byggeperiode, gør, at der skønnes at være behov for en længere dækningsperiode.
+
+*Stk. 4.* Eventuelle sparede boligudgifter fratrækkes i erstatningen for genhusningen.
+
+*Stk. 5.* Der ydes erstatning for rimelige udgifter til opmagasinering og flytning indenfor det i stk. 2 nævnte maksimum for hele genhusningsperioden.
+
+*Stk. 6.* Dækning af udgifter efter stk. 1-5 forudsætter, at den erstatningsberettigede dokumenterer de afholdte udgifter.
+
+### § 8.
+
+Erstatning for driftstab som følge af skade på bygning eller løsøre fastsættes med udgangspunkt i det forventede dækningsbidrag i det kalenderår, hvor skaden er sket. Erstatningen kan dog højst være 5 pct. over det faktiske dækningsbidrag i det senest afsluttede regnskabsår.
+
+*Stk. 2.* Erstatning ydes for rimelige og nødvendige meromkostninger til begrænsning af driftstabet.
+
+*Stk. 3.* Der kan ske fradrag i erstatningen for driftstab for manglende rimelig tabsbegrænsning og sparede omkostninger.
+
+*Stk. 4.* Erstatning for driftstab kan maksimalt ydes i en periode på 24 måneder.
+
+### § 9.
+
+Der ydes erstatning for udgifter til lovliggørelse af beskadigede bygninger, som er en følge af krav i byggelovgivningen.
+
+*Stk. 2.* Erstatningen efter stk. 1 kan maksimalt udgøre:
+
+- 1\) 1,5 mio. kr. pr. bolig.
+- 2\) 1 mio. kr. pr. fritidshus.
+- 3\) 3 mio. kr. pr. erhvervsbygning.
+
+## Kapitel 3 — Erstatning for oprydningsomkostninger og forurenet jord ved skader på bygninger og løsøre
+
+### § 10.
+
+Der ydes erstatning for nødvendige og rimelige oprydningsomkostninger, herunder fjernelse af bygningsdele og andet affald, som findes på ejendommen som følge af en af loven omfattet skadebegivenhed. Erstatning ydes endvidere for omkostninger til deponering mv.
+
+*Stk. 2.* Erstatningen efter stk. 1 kan maksimalt udgøre:
+
+- 1\) 1 mio. kr. pr. bolig.
+- 2\) 1 mio. kr. pr. fritidshus.
+- 3\) 3 mio. kr. pr. erhvervsbygning.
+
+*Stk. 3.* De i stk. 2 nævnte beløb kan forhøjes, såfremt særlige omstændigheder tilsiger det.
+
+### § 11.
+
+Der ydes erstatning for forurenede grundarealer, som er uanvendelige som følge af en af loven omfattet skadebegivenhed.
+
+*Stk. 2.* Der ydes erstatning for udgifter til oprensning til det niveau, som kræves af kommunalbestyrelsen ifølge miljølovgivningen. Kræver kommunalbestyrelsen bortskaffelse af jord, erstattes udgifter til bortkørsel, rensning og deponering.
+
+*Stk. 3.* Fjernet jord erstattes med opfyldning til terræn.
+
+*Stk. 4.* Kan ejendommen på grund af skaden ikke anvendes til formål svarende til den øvrige arealanvendelse i området, ydes der erstatning ud fra kvadratmeterprisen i området umiddelbart inden skadens indtræden.
+
+*Stk. 5.* Skade på haveanlæg og afgrøder erstattes ikke.
+
+## Kapitel 4 — Anvendelse af erstatninger og udbetaling af kontanterstatning ved skader på bygninger og løsøre
+
+### § 12.
+
+Forsikringsselskabet skal anvise udbetaling af erstatning for skader på fast ejendom uden dokumentation for genanskaffelse eller udbedring af skader, når
+
+- 1\) den enkelte opgjorte skade inden for en entreprisekategori ikke overstiger 40.000 kr.,
+- 2\) erstatning ønskes udbetalt til egen udbedring af skaden, eller
+- 3\) erstatning vedrører skadelidtes forbrugte tid på eget arbejde, herunder oprydning og rengøring mv.
+
+*Stk. 2.* Udbetaling af erstatning efter stk. 1, nr. 2, kan samlet maksimalt udgøre 80.000 kr.
+
+*Stk. 3.* Erstatning for skader på fast ejendom skal forholdsmæssigt anvendes til udbedring af de enkelte skader, som de er opgjort. Skadelidte kan dog vælge, at der skal ske en omfordeling mellem de dækningsberettigede poster. Ikke anvendte erstatningsposter udbetales ikke.
+
+*Stk. 4.* Udbetaling af erstatning efter stk. 1, nr. 2, og stk. 2, kræver accept fra samtlige indehavere af rettigheder over den faste ejendom, hvis der er risiko for en væsentlig forringelse af disses rettigheder.
+
+*Stk. 5.* Forsikringsselskabet skal foranledige udbetaling af erstatning for skader på løsøre uden dokumentation for genanskaffelse eller udbedring af skade, jf. dog stk. 6.
+
+*Stk. 6.* Erstatning for andre end de i stk. 1 og 5 omhandlede skader samt for skader på driftsmidler tilhørende erhvervsvirksomheder, bliver udbetalt, når der foreligger dokumentation for, at skaden er udbedret, eller genanskaffelse er foretaget.
+
+### § 13.
+
+Erstatning for skader på fast ejendom til helårsbeboelse eller fritidshus kan udbetales som totalskadeerstatning inklusiv restværdierstatning, når
+
+- 1\) skadesprocenten overstiger 50 pct. af bygningens nyværdi,
+- 2\) udbedring af de opgjorte skader ikke er påbegyndt,
+- 3\) der sker opførelse af ny, tilsvarende bygning, og
+- 4\) opførelse af ny bygning sker på samme fysiske placering, medmindre særlige forhold forhindrer dette.
+
+*Stk. 2.* Totalskadeerstatning gælder kun for fast ejendom, som ikke var bestemt til nedrivning, renovering eller modernisering på tidspunktet umiddelbart inden skadens indtræden.
+
+*Stk. 3.* Ved beregning af skaden medtages kun de beskadigede bygningsdele. Skadesprocenten beregnes som den opgjorte skades procentmæssige andel af den samlede beregnede udgift til opførelse af en ny, tilsvarende bygning.
+
+*Stk. 4.* Værdien af anvendelige materialer fra ikke-beskadigede dele af ejendommen, som skadelidte vælger at beholde, fradrages i totalskadeerstatningen.
+
+### § 14.
+
+Ønskes en skade ikke udbedret eller en bygning ikke genopført, kan erstatningen udbetales som kontanterstatning.
+
+*Stk. 2.* Udbetaling af erstatning efter stk. 1 kræver samtlige indehavere af rettigheder over den faste ejendoms accept, hvis der er risiko for en væsentlig forringelse af disses rettigheder.
+
+*Stk. 3.* Ved beregning af erstatning efter stk. 1 opgøres ejendommens værdi til dagsværdi.
+
+*Stk. 4.* Den samlede kontanterstatning for bygninger kan ikke overstige de på ejendommen værende bygningers handelsværdi (kontantværdi) umiddelbart inden skadens indtræden.
+
+## Kapitel 5 — Principper for opgørelse af skader på motorkøretøjer
+
+### § 15.
+
+Kan det beskadigede motorkøretøj repareres, erstattes reparationsudgifterne.
+
+*Stk. 2.* Er det beskadigede motorkøretøj totalskadet eller uanvendeligt, ydes der erstatning svarende til, hvad det vil koste at genanskaffe et tilsvarende motorkøretøj.
+
+*Stk. 3.* Der ydes erstatning for udgifter til nødvendig oprydning og rensning, herunder bortskaffelse og destruktion.
+
+## Kapitel 6 — Principper for opgørelse af skader på jernbanekøretøjer
+
+### § 16.
+
+Kan det beskadigede jernbanekøretøj repareres, erstattes reparationsudgifterne.
+
+*Stk. 2.* Er det beskadigede jernbanekøretøj totalskadet eller uanvendeligt, ydes der erstatning svarende til, hvad det vil koste at genanskaffe et tilsvarende materiel.
+
+*Stk. 3.* Der ydes erstatning for udgifter til nødvendig oprydning og rensning, herunder bortskaffelse og destruktion.
+
+## Kapitel 7 — Principper for opgørelse af skade på skibe
+
+### § 17.
+
+Der ydes erstatning efter principperne i de til enhver tid gældende forsikringsvilkår, der følger af The Nordic Marine Insurance Plan, baseret på aftale mellem The Nordic Association of Marine Insurers (Cefor) og Danske Rederier, Suomen Varustamot, Norges Rederiforbund samt Svensk Sjöfart.
+
+## Kapitel 8 — Registreringsdatabase og sagsunderstøttelsessystem (Naturskadebasen)
+
+### § 18.
+
+Terrorforsikringsrådets sekretariat skal føre en database (Naturskadebasen) til brug for registrering af oplysninger om personer og virksomheder i forbindelse med behandlingen af sager forårsaget af terrorhandlinger omfattet af lov om en terrorforsikringsordning på skadesforsikringsområdet.
+
+*Stk. 2.* Naturskadebasen skal bestå af en registreringsdatabase og et sagsunderstøttelsessystem.
+
+*Stk. 3.* Terrorforsikringsrådets sekretariat skal sikre, at Naturskadebasen kan tilgås via Finanstilsynets hjemmeside.
+
+*Stk. 4.* Forsikringsselskaberne skal i Naturskadebasen registrere de oplysninger om personer og virksomheder, som er fastlagt i denne bekendtgørelse, medmindre oplysningerne allerede er indføjet i Naturskadebasen af anmelder, jf. § 21, stk. 1. De sagsbehandlende forsikringsselskaber er ansvarlige for behandlingen af disse oplysninger.
+
+### § 19.
+
+Behandling af oplysninger i Naturskadebasen må alene finde sted i det omfang, det er nødvendigt i forbindelse med behandlingen af sager forårsaget af begivenheder omfattet § 1, stk. 1, i lov om en terrorforsikringsordning på skade-forsikringsområdet.
+
+*Stk. 2.* Alene de sagsbehandlende forsikringsselskaber og Terrorforsikringsrådets sekretariat må have adgang til Naturskadebasen, jf. § 18. Forsikringsselskabernes adgang skal begrænses til oplysninger vedrørende sager, som de selv behandler.
+
+*Stk. 3.* Alene det sagsbehandlende forsikringsselskab må ajourføre og berigtige oplysninger i Naturskadebasen.
+
+*Stk. 4.* Det sagsbehandlende forsikringsselskab skal rette urigtige eller fejlbehæftede oplysninger i naturskadebasen snarest muligt.
+
+## Kapitel 9 — Udtalelse om en NBCR-terrorhandling
+
+### § 20.
+
+Det forsikringsselskab, der i Naturskadebasen modtager en anmeldelse, jf. § 21, skal afvente sagsbehandling af anmeldelsen, indtil Terrorforsikringsrådet har truffet afgørelse om, at skaden er omfattet af § 1, stk. 1, i lov om en terrorforsikringsordning på skadeforsikringsområdet.
+
+## Kapitel 10 — Anmeldelse, sagsbehandling og klage.
+
+### § 21.
+
+Skader omfattet af § 1, stk. 2-4, i lov om en terrorforsikringsordning på skadeforsikringsområdet, der ønskes dækket af terrorforsikringsordningerne skal anmeldes elektronisk til Naturskadebasen og stiles til det forsikringsselskab, hvor den beskadigede ejendom eller det beskadigede løsøre er brandforsikret.
+
+*Stk. 2.* Kan anmeldelse ikke ske elektronisk i Naturskadebasen, skal det ske på et anmeldelsesskema, som skal kunne tilgås via Finanstilsynets hjemmeside. I dette tilfælde skal forsikringsselskabet registrere oplysningerne fra anmeldelses-skemaet i Naturskadebasen.
+
+*Stk. 3.* Anmeldelse efter stk. 2 skal indsendes af forsikringstageren, eller den som i øvrigt ved tilkendelse af erstatning har krav herpå, til det forsikringsselskab, som skal behandle sagen, jf. § 22.
+
+*Stk. 4.* Forsikringsselskabet skal kvittere for modtagelsen af anmeldelsen over for anmelder. Med kvitteringen skal følge information om forsikringsselskabet, der behandler sagen, og hvilke oplysninger, der registreres om anmelder, medmindre andet følger af anden lovgivning.
+
+*Stk. 5.* Forsikringsselskabet skal endvidere registrere alle modtagne oplysninger med relevans for behandlingen af den konkrete sag.
+
+*Stk. 6.* Forsikringsselskabet skal afvise anmeldelsen, hvis den anmeldte skade ikke opfylder betingelserne for udbetaling af erstatning. Det samme gælder, hvis anmeldelsen er sket for sent, medmindre Terrorforsikringsrådet har dispenseret fra fristen, jf. § 18, stk. 2, i lov om en terrorforsikringsordning på skadesforsikringsområdet.
+
+### § 22.
+
+Er der sket skade på både fast ejendom og løsøre, og er disse forsikret i forskellige forsikringsselskaber, skal skaden anmeldes til det forsikringsselskab, hvor ejendommen er brandforsikret. Dette forsikringsselskab skal varetage sagsbehandlingen, og de eventuelt øvrige forsikringsselskaber skal levere de oplysninger, som er nødvendig for sagsbehandlingen, herunder opgørelse af skader, som har relation til anmelders engagement i dette selskab.
+
+*Stk. 2.* For ejendomme der rummer to eller flere boliger eller virksomheder, og hvor bygningen forsikres samlet, skal eventuelle løsøreskader behandles af det forsikringsselskab, som har tegnet brandforsikring af løsøret.
+
+*Stk. 3.* Udbetaling af erstatning skal ske via Naturskadebasen økonomisystem, når forsikringsselskabet har meddelt dette til Terrorforsikringsrådet.
+
+*Stk. 4.* Terrorforsikringsrådet skal indgå aftale med F&P om, hvilke oplysninger forsikringsselskaberne skal levere til Terrorforsikringsrådet i forbindelse med udbetaling af erstatning.
+
+### § 23.
+
+Forsikringsselskabet skal afslutte sagen, når den afgjorte erstatning er anvist og udbetalt, eller der af andre grunde ikke vil blive anvist og udbetalt yderligere erstatning. Forsikringsselskabet skal meddele dette til forsikringstageren og registreres i Naturskadebasen.
+
+### § 24.
+
+Afgørelser truffet af forsikringsselskaberne i medføre af denne bekendtgørelse kan påklages til Terrorforsikringsrådet senest 3 måneder efter, at afgørelsen er meddelt den pågældende.
+
+*Stk. 2.* En klage skal indgives skriftligt med eventuelle bilag til Terrorforsikringsrådet.
+
+*Stk. 3.* Terrorforsikringsrådet skal straks efter modtagelse af en klage, jf. stk. 1, orientere forsikringsselskabet, som har truffet afgørelse i den pågældende sag.
+
+*Stk. 4.* Forsikringsselskabet, som har truffet afgørelse i en sag påklaget efter stk. 1, har 3 uger efter modtagelsen af orienteringen, jf. stk. 3, til at fremsende eventuelle bemærkninger til klagen til Terrorforsikringsrådet.
+
+*Stk. 5.* Afgiver forsikringsselskabet ikke bemærkninger, jf. stk. 4, behandles sagen alene på grundlag af det for Terrorforsikringsrådet foreliggende materiale.
+
+## Kapitel 11 — Ikrafttræden
+
+### § 25.
+
+Bekendtgørelsen træder i kraft den 1. juli 2024.
+
+*Stk. 2.* Bekendtgørelse nr. 941 af 10. september 2019 om betingelser for erstatning for skader, der er omfattet af Lov om en terrorforsikringsordning på skadesforsikringsområdet og om skadesforsikringsselskabernes behandling af NBCR-terrorskader ophæves.
+
+*Stk. 3.* Bekendtgørelse nr. 809 af 28. juni 2010 om Terrorforsikringspoolen for skadesforsikring ophæves.
+
+Erhvervsministeriet, den 18. juni 2024
+
+Morten Bødskov
+
+/ Julie Sonne

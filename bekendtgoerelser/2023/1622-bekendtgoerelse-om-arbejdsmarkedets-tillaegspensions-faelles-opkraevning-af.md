@@ -1,0 +1,165 @@
+---
+title: "Bekendtgørelse om Arbejdsmarkedets Tillægspensions fælles opkrævning af bidrag m.v."
+identifier: "BEK nr 1622 af 12/12/2023"
+eli: "https://www.retsinformation.dk/eli/lta/2023/1622"
+accession_number: "B20230162205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2023-12-12
+status: "in_force"
+ministry: "Beskæftigelses- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2023/1622"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om Arbejdsmarkedets Tillægspensions fælles opkrævning af bidrag m.v.
+
+*BEK nr 1622 af 12/12/2023*
+
+I medfør af § 17, stk. 8, i lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 1110 af 10. oktober 2014, som ændret ved lov nr. 1159 af 8. juni 2021 og lov nr. 1538 af 12. december 2023, § 21, stk. 3, i lov om Arbejdsgivernes Uddannelsesbidrag, jf. lovbekendtgørelse nr. 1075 af 10. august 2023, som ændret ved lov nr. 1538 af 12. december 2023, § 56, stk. 2, i lov om arbejdsskadesikring, jf. lovbekendtgørelse nr. 1186 af 19. august 2022, som ændret ved lov nr. 1538 af 12. december 2023, § 3, stk. 6, i lov Arbejdsmarkedets Fond for Udstationerede, jf. lov nr. 613 af 8. juni 2016, som ændret ved lov nr. 1538 af 12. december 2023, § 19, stk. 7, i lov om forvaltning og administration af tilgodehavende feriemidler, jf. lovbekendtgørelse nr. 58 af 30. januar 2018, som ændret ved lov nr. 1538 af 12. december 2023, § 9, stk. 11, i lov om Lønmodtagernes Garantifond, jf. lovbekendtgørelse nr. 686 af 20. juni 2011, som ændret ved lov nr. 1569 af 15. december 2015 og lov nr. 1538 af 12. december 2023, § 35, stk. 9, i lov om ferie, jf. lovbekendtgørelse nr. 230 af 12. februar 2021, som ændret ved lov nr. 1538 af 12. december 2023, § 4, stk. 4, i lov om barselsudligning på det private arbejdsmarked, jf. lovbekendtgørelse nr. 281 af 26. marts 2019, som ændret ved lov nr. 1538 af 12. december 2023, § 85 c, stk. 23, i lov om arbejdsløshedsforsikring m.v., jf. lovbekendtgørelse nr. 503 af 11. maj 2023, som ændret ved lov nr. 1538 af 12. december 2023, § 66, stk. 14, i lov om sygedagpenge, jf. lovbekendtgørelse nr. 1179 af 21. september 2023, som ændret ved lov nr. 1538 af 12. december 2023, § 13, stk. 21, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, jf. lovbekendtgørelse nr. 601 af 22. maj 2019, som ændret ved lov nr. 1538 af 12. december 2023, § 80 a, stk. 14, i lov om aktiv socialpolitik, jf. lovbekendtgørelse nr. 1031 af 22. juni 2023, som ændret ved lov nr. 1538 af 12. december 2023, § 45, stk. 14, i barselsloven, jf. lovbekendtgørelse nr. 1180 af 21. september 2023, som ændret ved lov nr. 1538 af 12. december 2023, og efter forhandling med børne- og undervisningsministeren fastsættes:
+
+## Bidrag m.v., der indgår i den fælles opkrævning
+
+### § 1.
+
+I denne bekendtgørelse forstås ved:
+
+- 1\) Fælles opkrævning: En samlet opkrævning af de i § 2 nævnte bidrag, betalinger m.v.
+- 2\) Ordning: De i § 2 nævnte modtagere af bidrag, betalinger m.v.
+
+### § 2.
+
+Arbejdsmarkedets Tillægspension opkræver fra arbejdsgivere følgende bidrag m.v. i den fælles opkrævning:
+
+- 1\) Bidrag til Arbejdsmarkedets Tillægspension, jf. § 17, stk. 1, i lov om Arbejdsmarkedets Tillægspension.
+- 2\) Bidrag til Arbejdsgivernes Uddannelsesbidrag, jf. § 18, stk. 1 og 2, i lov om Arbejdsgivernes Uddannelsesbidrag.
+- 3\) Bidrag til Arbejdsmarkedets Erhvervssikring, jf. § 55, stk. 1, i lov om arbejdsskadesikring.
+- 4\) Bidrag til Arbejdsmarkedets Fond for Udstationerede, jf. § 3, stk. 1, i lov om Arbejdsmarkedets Fond for Udstationerede.
+- 5\) Bidrag til Lønmodtagernes Fond for Tilgodehavende Feriemidler, jf. § 19, stk. 2, i lov om forvaltning og administration af tilgodehavende feriemidler.
+- 6\) Betaling for FerieKontos administration, jf. § 35, stk. 1 og 2, i lov om ferie.
+- 7\) Bidrag til barselsudligning på det private arbejdsmarked (Barsel.dk), jf. § 4, stk. 1 og 2, i lov om barselsudligning på det private arbejdsmarked.
+- 8\) Bidrag og tilskud, som opkræves eller udbetales af Arbejdsgivernes Uddannelsesbidrag efter en samlet opgørelse omfattende merbidragsordningen efter § 21 a, fritagelsesordningerne efter §§ 21 b, 21 i og 21 k, tilskudsordningen efter § 21 j og overskudsdelingsordningen efter § 21 d, i lov om Arbejdsgivernes Uddannelsesbidrag og § 21 f, stk. 1, i lov om Arbejdsgivernes Uddannelsesbidrag. Det samme gælder opkrævning eller udbetaling som følge af efterregulering af bidrag og tilskud som nævnt i 1. pkt.
+- 9\) Finansieringsbidrag, jf. § 9, stk. 1, i lov om Lønmodtagernes Garantifond, § 85 c, stk. 12, i lov om arbejdsløshedsforsikring m.v., § 66, stk. 3, i lov om sygedagpenge, § 13, stk. 11, i lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse, § 80 a, stk. 3, i lov om aktiv socialpolitik, og § 45, stk. 3, i barselsloven.
+
+## Opkrævning, indbetaling og tilbagebetaling
+
+### § 3.
+
+Arbejdsmarkedets Tillægspension opkræver fire gange årligt den fælles opkrævning. Den fælles opkrævning forfalder til betaling på de tidspunkter, der følger af bilag 1.
+
+*Stk. 2.* Arbejdsmarkedets Tillægspension opkræver og udbetaler én gang årligt bidrag efter § 2, nr. 8, 1. pkt., sammen med den fælles opkrævning for 1. kvartal, jf. bilag 1. Opkrævning eller udbetaling som følge af efterregulering af bidrag nævnt i § 2, nr. 8, 2. pkt., sker fire gange årligt sammen med den kvartalsvise opkrævning af øvrige bidrag.
+
+*Stk. 3.* Såfremt den fælles opkrævning, jf. stk. 1 eller bidrag, jf. stk. 2, forfalder til betaling på en banklukkedag, anses forfald for den førstkommende bankdag.
+
+### § 4.
+
+Overskydende bidrag m.v., der indgår i den fælles opkrævning, tilbagebetales til arbejdsgiveren, hvis den overskydende samlede sum af bidrag m.v. er på 300 kr. eller derover.
+
+*Stk. 2.* Overskydende bidrag m.v., der indgår i den fælles opkrævning, modregnes i det følgende kvartals forventede krav på bidrag, når det overskydende bidrag er på under 300 kr., medmindre arbejdsgiveren anmoder om at få det overskydende beløb tilbagebetalt. Er der intet forventet krav til den samlede opkrævning i det følgende kvartal, tilbagebetales beløbet til arbejdsgiveren uden anmodning herom.
+
+*Stk. 3.* Arbejdsmarkedets Tillægspension tilbagebetaler ikke overskydende bidrag m.v., der indgår i den fælles opkrævning, jf. stk. 2, på under 30 kr. for et kvartal.
+
+*Stk. 4.* Arbejdsmarkedets Tillægspension opkræver ikke bidrag m.v., der indgår i den fælles opkrævning, når det samlede skyldige beløb ikke overstiger 30 kr. for et kvartal. Beløbet vil i stedet blive opkrævet, når det samlede skyldige beløb for et kvartal overstiger 30 kr.
+
+*Stk. 5.* Ved efterregulering af bidrag m.v. til den fælles opkrævning, anvendes de bidragssatser, der blev anvendt ved beregning af de oprindelige bidrag m.v.
+
+## Betaling til den fælles opkrævning
+
+### § 5.
+
+Den fælles opkrævning kan betales på følgende måder:
+
+- 1\) En arbejdsgiver kan efter aftale med et lønservicebureau få indbetalt den fælles opkrævning til Arbejdsmarkedets Tillægspension, hvis lønservicebureauet har indgået aftale herom med Arbejdsmarkedets Tillægspension.
+- 2\) En arbejdsgiver kan indbetale via Betalingsservice. Beløbet overføres automatisk til Arbejdsmarkedets Tillægspension.
+
+*Stk. 2.* Arbejdsmarkedets Tillægspension sender en opkrævning med betalingsoplysninger via Digital Post, såfremt en arbejdsgiver ikke anvender de nævnte betalingsformer i stk. 1, nr. 1 og 2.
+
+*Stk. 3.* Arbejdsmarkedets Tillægspension sender en opkrævning med betalingsoplysninger, såfremt en arbejdsgiver er undtaget for Digital Post efter lov om Digital Post fra offentlige afsendere.
+
+## Særskilt betaling af ATP-bidrag
+
+### § 6.
+
+Arbejdsgivere kan vælge at indbetale ATP-bidrag, jf. § 2, nr. 1, særskilt ved at benytte Informationsservice, LetLøn eller en tilsvarende betalingsløsning anvist af Arbejdsmarkedets Tillægspension. Beløbet overføres automatisk til Arbejdsmarkedets Tillægspension.
+
+*Stk. 2.* ATP-bidrag, der er indbetalt særskilt, jf. stk. 1, indgår ikke i den fælles opkrævning, jf. dog § 8, stk. 4.
+
+## Renter, henstand og eftergivelse
+
+### § 7.
+
+Sker indbetaling af bidrag ikke rettidigt betales renter efter reglerne om renter i lov om Arbejdsmarkedets Tillægspension, lov om Arbejdsgivernes Uddannelsesbidrag, lov om arbejdsskadesikring, lov om Arbejdsmarkedets Fond for Udstationerede, lov om forvaltning og administration af tilgodehavende feriemidler, lov om ferie, lov om barselsudligning på det private arbejdsmarked, lov om arbejdsløshedsforsikring m.v., lov om sygedagpenge, lov om godtgørelse og tilskud til befordring ved deltagelse i erhvervsrettet voksen- og efteruddannelse, i lov om Lønmodtagernes Garantifond, lov om aktiv socialpolitik og lov om ret til orlov og dagpenge ved barsel**.**
+
+*Stk. 2.* Arbejdsmarkedets Tillægspension har udpantningsret for bidrag, renter og omkostninger forbundet med inddrivelse heraf.
+
+*Stk. 3.* Arbejdsmarkedets Tillægspension kan give henstand med indbetaling og eftergive bidrag, renter og omkostninger forbundet med inddrivelse heraf, når særlige omstændigheder taler herfor.
+
+## Afregning og kontering
+
+### § 8.
+
+Arbejdsmarkedets Tillægspension overfører de indbetalte bidrag til ordningerne nævnt i § 2.
+
+*Stk. 2.* Arbejdsmarkedets Tillægspension konterer det samlede indbetalte beløb i følgende rækkefølge, hvis en arbejdsgiver ikke betaler det fulde opkrævede beløb, jf. § 3:
+
+- 1\) Bidrag m.v. med ældst forfaldsdato dækkes først.
+- 2\) ATP-bidrag, jf. § 2, nr. 1, dækkes forud for øvrige bidrag med samme forfaldsdato.
+- 3\) Arbejdsmarkedets Tillægspension konterer det samlede indbetalte beløb forholdsmæssigt til ordningerne med en procentvis lige stor dækning af ordningernes krav på bidrag.
+- 4\) Renter og gebyrer dækkes i henhold til deres forfaldsdato.
+
+*Stk. 3.* Arbejdsmarkedets Tillægspension fordeler eventuelt konstaterede tab ved den fælles opkrævning, jf. § 3, til de enkelte ordninger i forhold til de udækkede fordringers størrelse.
+
+*Stk. 4.* Såfremt ATP-bidraget betales særskilt jf. § 6, og der efter dækning af forfaldent ATP-bidrag er overskydende midler, kan disse anvendes til at dække skyldige forfaldne bidrag, jf. stk. 1, efter den i stk. 2, nr. 1 og 3-4, nævnte rækkefølge samt stk. 3. Er der herudover overskydende midler, finder reglerne i § 4 anvendelse.
+
+## Modregning
+
+### § 9.
+
+Arbejdsmarkedets Tillægspension kan foretage modregning i overskydende bidrag, renter m.v., der indgår i den fælles opkrævning.
+
+*Stk. 2.* Arbejdsmarkedets Tillægspension kan foretage modregning i modkrav på ydelser til arbejdsgiver, der ydes efter lov om Arbejdsgivernes Uddannelsesbidrag og lov om godtgørelse og tilskud ved deltagelse i erhvervsrettet voksen- og efteruddannelse samt refusion, der ydes efter lov om barselsudligning på det private arbejdsmarked.
+
+*Stk. 3.* Arbejdsmarkedets Tillægspension foretager modregning efter stk. 1 og 2 i den nævnte rækkefølge:
+
+- 1\) Modregning foretages i skyldige bidrag til den ordning, som modregningen vedrører, uanset forfaldsdato.
+- 2\) Modregning foretages forholdsmæssigt i de øvrige ordningers krav på bidrag.
+- 3\) Modregning foretages til dækning af ATP-bidrag, jf. § 2, nr. 1.
+- 4\) Modregning foretages i renter og gebyrer i henhold til deres forfaldsdato.
+
+## Klageadgang
+
+### § 10.
+
+Afgørelser kan påklages efter reglerne om klageadgang i lov om Arbejdsmarkedets Tillægspension, lov om Arbejdsgivernes Uddannelsesbidrag, lov om arbejdsskadesikring, lov om Arbejdsmarkedets Fond for Udstationerede, lov om forvaltning og administration af tilgodehavende feriemidler, lov om ferie, lov om barselsudligning på det private arbejdsmarked, lov om arbejdsløshedsforsikring m.v., lov om sygedagpenge, lov om godtgørelse og tilskud til befordring ved deltagelse i erhvervsrettet voksen- og efteruddannelse, i lov om Lønmodtagernes Garantifond, lov om aktiv socialpolitik og lov om ret til orlov og dagpenge ved barsel.
+
+## Ikrafttrædelse m.v.
+
+### § 11.
+
+Bekendtgørelsen træder i kraft den 1. januar 2024.
+
+*Stk. 2.* Bekendtgørelsen har virkning for indberettede ATP-bidrag, jf. § 2, nr. 1, for lønperioder, der ophører efter den 1. januar 2024. Videre har bekendtgørelsen virkning for indberettede ATP-bidrag, der vedrører lønperioder før 1. januar 2024, hvis indberetning sker fra den 15. februar 2024.
+
+*Stk. 3.* Bekendtgørelsen har virkning for opkrævning af bidrag m.v., jf. § 2, nr. 2-9, med forfald til betaling den 1. juli 2024.
+
+*Stk. 4.* Bekendtgørelse nr. 1360 af 2. december 2019 om fællesopkrævning af visse arbejdsgiverbidrag m.v. ophæves.
+
+*Stk. 5.* Bidrag m.v., jf. § 2, nr. 2-9, med forfald til betaling den 1. april 2024 opkræves dog efter bekendtgørelse nr. 1360 af 2. december 2019 om fællesopkrævning af visse arbejdsgiverbidrag m.v.
+
+Beskæftigelsesministeriet, den 12. december 2023
+
+Ane Halsboe-Jørgensen
+
+/ Simon Gravers Jacobsen
+
+## Bilag 1
+
+Forfaldsdatoer for betaling til den fælles opkrævning
+
+| **Kvartal** | **Forfalder til betaling** |
+|---|---|
+| 1. kvartal | 1. juli |
+| 2. kvartal | 1. oktober |
+| 3. kvartal | 1. januar |
+| 4. kvartal Bilag | 1. april |

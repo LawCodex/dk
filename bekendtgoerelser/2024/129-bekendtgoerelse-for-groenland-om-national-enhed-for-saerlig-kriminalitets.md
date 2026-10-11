@@ -1,0 +1,50 @@
+---
+title: "Bekendtgørelse for Grønland om National Enhed for Særlig Kriminalitets kompetenceområde og det operative samarbejdes behandling af andre kriminalitetsområder end hvidvask og terrorfinansiering"
+identifier: "BEK nr 129 af 01/02/2024"
+eli: "https://www.retsinformation.dk/eli/lta/2024/129"
+accession_number: "B20240012905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2024-02-01
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2024/129/Pdf"
+text_source: "Lovtidende PDF (text extracted automatically)"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse for Grønland om National Enhed for Særlig Kriminalitets kompetenceområde og det operative samarbejdes behandling af andre kriminalitetsområder end hvidvask og terrorfinansiering
+
+*BEK nr 129 af 01/02/2024*
+
+I medfør af § 62 h, stk. 2, og § 62 i, stk. 8, i retsplejelov for Grønland, jf. lovbekendtgørelse nr. 1186 af 18. september 2023, som ændret ved lov nr. 1781 af 28. december 2023, fastsættes: National Enhed for Særlig Kriminalitet
+
+## § 1.
+
+I henhold til retsplejelovens § 62 h, stk. 1, varetager National Enhed for Særlig Kriminalitet efterforskning og kriminalretlig forfølgning vedrørende:
+
+- 1\) Økonomiske forbrydelser, herunder overtrædelse af lovgivning, der regulerer erhvervslivets eller de finansielle markeders forhold, når der kan være grund til at antage, at overtrædelsen har et særligt betydeligt omfang, er et led i organiseret kriminalitet, er udført ved anvendelse af særegne forretningsmetoder, eller på anden måde er af særlig kvalificeret karakter.
+- 2\) Grove internationale kriminalsager, herunder navnlig sager om folkedrab, forbrydelser mod menneskeheden, krigsforbrydelser og andre alvorlige forbrydelser begået i udlandet, herunder sager om overtrædelser af kriminallovens § 26, hvor efterforskningen og den kriminalretlige forfølgning som følge af sagens kompleksitet og internationale aspekter forudsætter en særlig viden om og indsigt i forholdene i udlandet, samt forudsætter, at der etableres et samarbejde med myndigheder i andre lande, internationale institutioner, organisationer mv.
+- 3\) Organiseret kriminalitet, herunder navnlig bandekriminalitet, narkotikahandel og -smugling, ulovlig våbenhandel samt menneskehandel og -smugling, når der kan være grund til at antage, at overtrædelsen har et særligt betydeligt omfang, eller på anden måde er af særlig kvalificeret karakter.
+
+*Stk. 2.* National Enhed for Særlig Kriminalitet kan yde kriminalteknisk samt anden assistance til bekæmpelsen eller forebyggelsen af andre kriminalitetsområder end de, der er nævnt i stk. 1.
+
+*Stk. 3.* Rigspolitichefen kan efter drøftelse med rigsadvokaten fastsætte den nærmere fordeling mellem National Enhed for Særlig Kriminalitet og Grønlands Politi. Opstår der tvivl om, hvorvidt en konkret sag henhører under National Enhed for Særlig Kriminalitet, afgøres spørgsmålet af Statsadvokaten for Særlig Kriminalitet.
+
+## § 2.
+
+Sager, som efter § 1 er omfattet af National Enhed for Særlig Kriminalitets kompetence, kan overføres (tilbageføres) til Grønlands Politi, når:
+
+- 1\) indsigt i lokale forhold er af særlig betydning for sagen, og
+- 2\) behandlingen af sagen ved Grønlands Politi ikke kan antages at påvirke øvrige dele af rigsfællesskabet i nævneværdig grad, herunder tilfælde omfattet af retsplejelovens § 61 h, stk. 3.
+
+*Stk. 2.* Overførsel (tilbageførsel) af sager efter stk. 1 sker ved indgåelse af en skriftlig individuel aftale mellem Grønlands Politi og National Enhed for Særlig Kriminalitet. Opstår der tvivl om, hvorvidt en konkret sag kan overføres (tilbageføres) til Grønlands Politi, afgøres spørgsmålet af Statsadvokaten for Særlig Kriminalitet. Det operative samarbejdes behandling af andre kriminalitetsområder end hvidvask og terrorfinansiering
+
+## § 3.
+
+Det operative samarbejde, jf. retsplejelovens § 62 i, stk. 1, kan ud over hvidvask og terrorfinansiering også behandle sager om fjernovergreb, hvor internettet bruges til at bestille og livestreame seksuelle overgreb på mindreårige i udlandet, jf. retsplejelovens § 62 i, stk. 8. Lovtidende A 2024 Udgivet den 8. februar 2024 Justitsmin., j.nr. 2022-01751 Ikrafttræden
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. marts 2024. Justitsministeriet, den 1. februar 2024 Peter Hummelgaard / Marie Mølsted

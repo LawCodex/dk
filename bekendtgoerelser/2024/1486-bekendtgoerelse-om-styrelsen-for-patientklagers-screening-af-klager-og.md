@@ -1,0 +1,71 @@
+---
+title: "Bekendtgørelse om Styrelsen for Patientklagers screening af klager og videregivelse af sagsakter og sagsoplysninger fra klagesager til Styrelsen for Patientsikkerhed"
+identifier: "BEK nr 1486 af 06/12/2024"
+eli: "https://www.retsinformation.dk/eli/lta/2024/1486"
+accession_number: "B20240148605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2024-12-06
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2024/1486"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om Styrelsen for Patientklagers screening af klager og videregivelse af sagsakter og sagsoplysninger fra klagesager til Styrelsen for Patientsikkerhed
+
+*BEK nr 1486 af 06/12/2024*
+
+I medfør af § 1, stk. 10, § 2, stk. 5, og § 12, stk. 5, i lov om klage og erstatningsadgang inden for sundhedsvæsenet, jf. lovbekendtgørelse nr. 962 af 16. august 2024, fastsættes:
+
+## Sundhedsfaglig screening af klager
+
+### § 1.
+
+Styrelsen for Patientklager foretager en sundhedsfaglig screening af de klager, som styrelsen modtager, og inddeler på baggrund heraf klagerne i en af følgende kategorier baseret på sagernes vurderede betydning for den fremadrettede patientsikkerhed:
+
+- 1\) Rød/meget kritisk: begrundet mistanke om aktuel, overhængende fare for patientsikkerheden.
+- 2\) Orange/kritisk: begrundet mistanke om alvorligere fare for patientsikkerheden.
+- 3\) Gul/mindre kritisk: ingen umiddelbar mistanke om væsentlig patientsikkerhedsmæssig brist.
+- 4\) Grøn/ikke kritisk: ingen mistanke om patientsikkerhedsmæssig brist.
+
+## Videregivelse af sagsakter og sagsoplysninger fra klagesager
+
+### § 2.
+
+Styrelsen for Patientklager videregiver uden unødigt ophold alle modtagne klager omfattet af § 1, nr. 1 og 2, til Styrelsen for Patientsikkerhed til brug for Styrelsen for Patientsikkerheds tilsyn med sundhedsvæsenet efter sundhedsloven og tilsyn med sundhedspersoner efter lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, og til brug for Styrelsen for Patientsikkerheds læringsaktiviteter.
+
+### § 3.
+
+Styrelsen for Patientklager videregiver uden unødigt ophold alle afgørelser i klagesager til Styrelsen for Patientsikkerhed. Fra sager, hvori der er givet kritik, videregives også eventuelle sagkyndige vurderinger.
+
+### § 4.
+
+Styrelsen for Patientsikkerhed henter dagligt et dataudtræk af sagsoplysninger om samtlige klagesager omfattet af §§ 1 og 2 i lov om klage og erstatningsadgang inden for sundhedsvæsenet fra Styrelsen for Patientklagers sagsbehandlingssystem. Dataudtrækket omfatter generelle oplysninger om sagen, herunder identifikationsoplysninger om sagens parter i form af navn, kontaktoplysninger, autorisationsID, CPR-nummer og CVR-nummer.
+
+*Stk. 2.* Styrelsen for Patientklager videregiver viden fra klager om problemområder, der kan bidrage til Styrelsen for Patientsikkerheds læringsaktiviteter.
+
+## Videregivelse af sagsakter og sagsoplysninger fra klagesager* *efter anmodning
+
+### § 5.
+
+Styrelsen for Patientklager videregiver efter anmodning fra Styrelsen for Patientsikkerhed sagsakter og sagsoplysninger i klagesager til Styrelsen for Patientsikkerhed, hvis Styrelsen for Patientsikkerhed vurderer, at sagsakterne og sagsoplysningerne er relevante for Styrelsen for Patientsikkerheds tilsyn med sundhedsfaglig virksomhed og behandlingssteder efter sundhedsloven eller tilsyn med sundhedspersoner efter lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed.
+
+## Adgang til sagsakter og sagsoplysninger
+
+### § 6.
+
+Styrelsen for Patientklager giver Styrelsen for Patientsikkerhed adgang til konkrete sager i Styrelsen for Patientklagers sagsbehandlingssystem med henblik på at indhente sagsakter og sagsoplysninger efter § 5, hvis Styrelsen for Patientsikkerhed vurderer, at det er nødvendigt for behandlingen af en tilsynssag.
+
+## Ikrafttræden
+
+### § 7.
+
+Bekendtgørelsen træder i kraft den 1. januar 2025.
+
+Indenrigs- og Sundhedsministeriet, den 6. december 2024
+
+Sophie Løhde
+
+/ Emma Midjord

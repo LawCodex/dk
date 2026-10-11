@@ -1,0 +1,76 @@
+---
+title: "Bekendtgørelse om adgang for selvstændige erhvervsdrivende til at bevare medlemskab af Arbejdsmarkedets Tillægspension"
+identifier: "BEK nr 1375 af 27/11/2023"
+eli: "https://www.retsinformation.dk/eli/lta/2023/1375"
+accession_number: "B20230137505"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2023-11-27
+status: "in_force"
+ministry: "Beskæftigelses- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2023/1375"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om adgang for selvstændige erhvervsdrivende til at bevare medlemskab af Arbejdsmarkedets Tillægspension
+
+*BEK nr 1375 af 27/11/2023*
+
+I medfør af § 2, stk. 2, i lov om Arbejdsmarkedets Tillægspension, jf. lovbekendtgørelse nr. 1110 af 10. oktober 2014, fastsættes:
+
+## Bevarelse af medlemskab
+
+### § 1.
+
+Et medlem kan bevare sit medlemskab af Arbejdsmarkedets Tillægspension, hvis vedkommende bliver selvstændig erhvervsdrivende, jf. stk. 2 og 3.
+
+*Stk. 2.* Medlemmet skal dokumentere at have etableret sig som selvstændig erhvervsdrivende, hvis Arbejdsmarkedets Tillægspension anmoder herom.
+
+*Stk. 3.* Fortsat medlemskab forudsætter, at medlemmet har været medlem af Arbejdsmarkedets Tillægspension, enten som lønmodtager eller som modtager af en ydelse nævnt i ATP-lovens § 2 a, stk. 1-3, i sammenlagt mindst 3 år, og derudover har betalt bidrag svarende til mindst 3 årsbidrag, samt at medlemmet som selvstændig erhvervsdrivende har opnået en indtægt svarende til mindst 9 timers ugentlig beskæftigelse til den timeløn, der anvendes ved beregning af bidrag for lønmodtagere, hvis arbejdstid ikke kendes.
+
+## Bidragspligt
+
+### § 2.
+
+En selvstændig erhvervsdrivende, som bevarer medlemskabet, skal betale bidrag fra den 1. i den førstkommende måned efter, at anmodningen er modtaget i Arbejdsmarkedets Tillægspension.
+
+*Stk. 2.* Bidragsbetalingen ophører, hvis den selvstændige erhvervsdrivende fritages fra medlemskab efter § 4, stk. 1, eller udelukkes fra medlemskab efter § 4, stk. 2.
+
+*Stk. 3.* Der betales ikke bidrag for måneder, hvor den selvstændige er ude af erhverv.
+
+## Indbetaling af bidrag
+
+### § 3.
+
+Den selvstændig erhvervsdrivende skal anvende en af Arbejdsmarkedets Tillægspension anviste betalingskanal. Det kan være Betalingsservice, Informationsservice eller en anden tilsvarende betalingsløsning. Arbejdsmarkedets Tillægspension sender via Digital Post en opkrævning, hvis der ikke betales via en af de nævnte metoder.
+
+*Stk. 2.* Bidraget forfalder til betaling den 1. februar, 1. maj, 1. august og 1. november for det forudgående kvartal. Såfremt bidragene forfalder til betaling på en banklukkedag, anses forfald for den førstkommende bankdag.
+
+## Ophør af medlemskab
+
+### § 4.
+
+Den selvstændige erhvervsdrivende kan fritages for medlemskabet med virkning fra udløbet af den måned, hvor en anmodning herom er modtaget i Arbejdsmarkedets Tillægspension.
+
+*Stk. 2.* En selvstændig erhvervsdrivende, der ikke indbetaler skyldige bidrag, udelukkes fra fortsat medlemskab som selvstændig erhvervsdrivende, jf. dog stk. 5. Udelukkelsen sker efter 2. betalingsrykker og meddeles skriftligt af Arbejdsmarkedets Tillægspension. Udelukkelsen har virkning fra det tidspunkt, hvor der er betalt bidrag til.
+
+*Stk. 3.* Arbejdsmarkedets Tillægspension kan ikke tilbagebetale bidrag, der med rette er indbetalt af en selvstændig erhvervsdrivende.
+
+*Stk. 4.* En person, som er fritaget for medlemskab i henhold til bestemmelsen i stk. 1, kan genindtræde som selvstændig erhvervsdrivende den 1. i måneden efter, at Arbejdsmarkedets Tillægspension har modtaget en anmodning herom. Genindtræden forudsætter, at den selvstændige erhvervsdrivende i hele fritagelsesperioden har indbetalt til Arbejdsmarkedets Tillægspension enten som lønmodtager eller som modtager af en ydelse nævnt i § 2 a, stk. 1-3, i lov om Arbejdsmarkedets Tillægspension.
+
+*Stk. 5.* Hvis en person er udelukket fra medlemskab i medfør af stk. 2, kan vedkommende kun genindtræde som selvstændig erhvervsdrivende, hvis personen i tiden efter udelukkelsen på ny i samlet mindst 3 år har været enten i beskæftigelse som lønmodtager eller har modtaget en ydelse nævnt i § 2 a, stk. 1-3, i lov om Arbejdsmarkedets Tillægspension, og der er indbetalt bidrag svarende til mindst 3 årsbidrag. Arbejdsmarkedets Tillægspension kan i særlige tilfælde tillade genindtræden, selv om disse vilkår ikke er opfyldt.
+
+## Ikrafttræden m.v.
+
+### § 5.
+
+Bekendtgørelsen træder i kraft den 1. januar 2024.
+
+*Stk. 2.* Bekendtgørelse nr. 1059 af 11. november 2009 om adgang for selvstændige erhvervsdrivende til at bevare medlemskab af Arbejdsmarkedets Tillægspension ophæves.
+
+Arbejdsmarkedets Tillægspension, den 27. november 2023
+
+Torben M. Andersen
+
+/ Martin Præstegaard

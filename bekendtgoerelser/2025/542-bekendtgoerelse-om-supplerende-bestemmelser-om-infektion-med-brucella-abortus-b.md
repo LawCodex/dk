@@ -1,0 +1,110 @@
+---
+title: "Bekendtgørelse om supplerende bestemmelser om infektion med Brucella abortus, B. melitensis og B. suis hos kvæg, bison, bøfler, får og geder"
+identifier: "BEK nr 542 af 22/05/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/542"
+accession_number: "B20250054205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2025-05-22
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2025/542"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om supplerende bestemmelser om infektion med Brucella abortus, B. melitensis og B. suis hos kvæg, bison, bøfler, får og geder
+
+*BEK nr 542 af 22/05/2025*
+
+I medfør af § 29, § 30, § 32, § 33, § 34, stk. 1, § 35, § 53, stk. 1, § 62, § 67 og § 70, stk. 3, i lov om hold af dyr, jf. lovbekendtgørelse nr. 62 af 19. januar 2024, fastsættes efter bemyndigelse i henhold til § 7, nr. 1, og § 10, stk. 1, nr. 1 og 4, i bekendtgørelse nr. 1721 af 30. november 2020 om Fødevarestyrelsens opgaver og beføjelser:
+
+## Anvendelsesområde og definitioner
+
+### § 1.
+
+Denne bekendtgørelse finder anvendelse på opdrættet kvæg, bison, bøfler, får og geder (hhv. *Bos* ssp., *Bison* ssp., *Bubalus* ssp., *Ovis* ssp. og *Capra* ssp.).
+
+*Stk. 2.* Bekendtgørelsen supplerer:
+
+- 1\) Europa-Parlamentets og Rådets forordning (EU) 2016/429 af 9. marts 2016 om overførbare dyresygdomme og om ændring og ophævelse af visse retsakter på området for dyresundhed (“dyresundhedsloven”).
+- 2\) Kommissionens delegerede forordning (EU) 2020/689 af 17. december 2019 om supplerende regler til Europa-Parlamentets og Rådets forordning (EU) 2016/429 for så vidt angår regler om overvågning, udryddelsesprogrammer og status som sygdomsfri for visse listeopførte og nye sygdomme.
+
+### § 2.
+
+I denne bekendtgørelse forstås ved:
+
+- 1\) Besætning: Dyr, herunder avlsmateriale på en virksomhed, som er af samme dyreart, som anvendes til samme formål, og som har samme operatør.
+- 2\) Brucellose: Infektion med hhv. *Brucella abortus*, *B melitensis* og *B.* *suis*.
+- 3\) Lentivirus-program: Erhvervets frivillige Maedi-Visna bekæmpelsesprogram for får og geder.
+- 4\) Definitionerne i de i § 1 nævnte forordninger finder anvendelse i denne bekendtgørelse.
+
+## Mistænkte og smittede virksomheder
+
+### § 3.
+
+Opretholdes en mistanke om brucellose, eller får en dyrlæge i øvrigt i forbindelse med sit arbejde mistanke om forekomst af brucellose, skal dyrlægen straks underrette Fødevarestyrelsen og efter styrelsens anvisning indsende prøver til undersøgelse på det nationale referencelaboratorium eller et officielt laboratorium, der er udpeget af Fødevarestyrelsen til at foretage den pågældende analyse.
+
+### § 4.
+
+Når der i en virksomhed er mistanke om eller konstateret smitte med brucellose, pålægges relevante besætninger på virksomheden et offentligt tilsyn, der foruden restriktioner i henhold til Europa-Parlamentets og Rådets forordning nr. 2016/429 af 9. marts 2016 om overførbare dyresygdomme og om ændring og ophævelse af visse retsakter på området for dyresundhed (»dyresundhedsloven«) og Kommissionens delegerede forordning (EU) nr. 2020/689 af 17. december 2019 kan omfatte følgende:
+
+- 1\) Påbud om at lade dyr slagte, bl.a. i diagnostisk øjemed, eller slagte eller aflive som led i bekæmpelse af brucellose.
+- 2\) Forbud mod at dyr holdes på udearealer uden Fødevarestyrelsen tilladelse.
+- 3\) Påbud om, at mælk fra mistænkte eller smittede virksomheder tilbageholdes på virksomheden og anvendes efter Fødevarestyrelsens anvisning.
+- 4\) Påbud om særlige forholdsregler ved håndtering og udbringning af husdyrgødning.
+- 5\) Påbud om anvendelsen af kontaminerede arealer og foderafgrøder.
+- 6\) Påbud om behandling og fjernelse af foder og halm fra virksomheden.
+- 7\) Påbud om at foretage gnaver- og insektbekæmpelse på virksomheden.
+
+*Stk. 2.* Efter bortsanering af besætningen, jf. stk. 1, nr. 1, må operatøren tidligst indsætte dyr, der er modtagelige for smitte med brucellose, i virksomhedens bygninger, når disse har stået tomme i 30 dage efter, at rengøring og desinfektion af virksomheden er godkendt af Fødevarestyrelsen.
+
+*Stk. 3.* Operatøren må tidligst indsætte dyr, der er modtagelige for smitte med brucellose, på græsgange og andre arealer, der har været benyttet til den bortsanerede besætning, et år efter saneringen. Tilsvarende må genindsættelse tidligst ske et år efter, at der er udbragt gødning fra den bortsanerede besætning på arealerne.
+
+## Flytning af dyr fra mistænkte og smittede virksomheder
+
+### § 5.
+
+Operatøren skal sikre, at dyr fra en virksomhed, der er mistænkt for eller konstateret smittet med brucellose, kun flyttes fra virksomheden efter tilladelse fra Fødevarestyrelsen, hvis de føres direkte til slagteri.
+
+*Stk. 2.* Flyttes et dyr direkte til slagtning, skal det være ledsaget af en af Fødevarestyrelsen udstedt passerseddel påført hvert dyrs identifikationskode. For får og geder, der er født i Danmark og slagtes inden 12 måneder efter fødslen, kan identifikationskoden dog erstattes af et CHR-nummer.
+
+*Stk. 3.* Transporten af dyr til slagtning skal tilrettelægges sådan, at dyrene hverken kommer i direkte eller indirekte kontakt med dyr fra virksomheder, der anses som værende fri for brucellose.
+
+## Anvendelse af prøver til overvågning for andre sygdomme
+
+### § 6.
+
+Fødevarestyrelsen kan lade blodprøver udtaget fra får og geder i forbindelse med det frivillige Lentivirus-program undersøge for brucellose.
+
+*Stk. 2.* Prøver udtaget i henhold til artikel 73 i Europa-Parlamentets og Rådets forordning nr. 2016/429 af 9. marts 2016 kan anvendes til overvågning for andre sygdomme.
+
+## Godtgørelse og erstatning
+
+### § 7.
+
+Godtgørelse af afholdte udgifter til udførelse af foranstaltninger truffet i medfør af denne bekendtgørelse og erstatning kan kun findes sted i den udstrækning og på de betingelser, der er fastsat i bekendtgørelse om erstatning og udgifter ved bekæmpelse og forebyggelse af husdyrsygdomme.
+
+## Straffe- og ikrafttrædelsesbestemmelser
+
+### § 8.
+
+Med bøde straffes den, der
+
+- 1\) overtræder § 4, stk. 2 og 3 og § 5, eller
+- 2\) undlader at efterkomme påbud eller forbud udstedt i medfør af § 4, stk. 1.
+
+*Stk. 2.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+### § 9.
+
+Bekendtgørelsen træder i kraft den 1. juli 2025.
+
+*Stk. 2.* Bekendtgørelse nr. 1152 af 25. juli 2022 om supplerende bestemmelser om infektion med Brucella abortus, B. melitensis og B. suis hos kvæg, bison, bøfler, får og geder ophæves.
+
+Fødevarestyrelsen, den 22. maj 2025
+
+P.D.V.\
+Charlotte Vilstrup Castle
+
+/ Yasmin Maria Rubio Fernandez

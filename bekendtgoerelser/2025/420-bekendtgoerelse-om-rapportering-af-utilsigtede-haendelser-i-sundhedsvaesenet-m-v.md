@@ -1,0 +1,162 @@
+---
+title: "Bekendtgørelse om rapportering af utilsigtede hændelser i sundhedsvæsenet m.v."
+identifier: "BEK nr 420 af 29/04/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/420"
+accession_number: "B20250042005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2025-04-29
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2025/420"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om rapportering af utilsigtede hændelser i sundhedsvæsenet m.v.
+
+*BEK nr 420 af 29/04/2025*
+
+I medfør af § 199, stk. 2 og 3, og § 202, stk. 1, i sundhedsloven, jf. lovbekendtgørelse nr. 275 af 12. marts 2025, som ændret ved lov nr. 406 af 29. april 2025, fastsættes:
+
+## Kapitel 1 — Anvendelsesområde
+
+#### § 1.
+
+Utilsigtede hændelser, der forekommer i forbindelse med sundhedsfaglig virksomhed, herunder præhospital indsats, eller i forbindelse med forsyning af og information om lægemidler, rapporteres i Dansk Patientsikkerhedsdatabase efter reglerne i denne bekendtgørelse, jf. dog § 2.
+
+*Stk. 2.* Ved præhospital indsats forstås i denne bekendtgørelse sundhedsfaglig virksomhed på vagtcentraler og en sundhedsfaglig indsats inden ankomst til sygehus eller mellem sygehuse ved transport i ambulance, lægebil, lufttransport eller lign. transportmidler.
+
+*Stk. 3.* Ved forsyning af og information om lægemidler forstås i denne bekendtgørelse ydelser fra apotekssektoren.
+
+#### § 2.
+
+Denne bekendtgørelse gælder ikke for utilsigtede hændelser, der forekommer i forbindelse med
+
+- 1\) frivillig og ulønnet sundhedsfaglig behandling i akutte situationer,
+- 2\) lejlighedsvis og ulønnet sundhedsfaglig behandling af familie og venner,
+- 3\) sundhedsfaglig virksomhed, der foretages på statslige institutioner eller lign., eller
+- 4\) sundhedsfaglig virksomhed ved festivaler, landsstævner, spejderlejre, sportslige begivenheder og lign. samt i humanitære organisationer, sportsklubber m.v.
+
+## Kapitel 2 — Utilsigtede hændelser
+
+#### § 3.
+
+Ved utilsigtede hændelser forstås på forhånd kendte og ukendte hændelser og fejl, som ikke skyldes patientens sygdom, og som enten er skadevoldende eller kunne have været skadevoldende, men forinden blev afværget eller i øvrigt ikke indtraf på grund af andre omstændigheder.
+
+### Rapporteringspligtige personer
+
+#### § 4.
+
+Sundhedspersoner, jf. sundhedslovens § 6, stk. 1, ambulancebehandlere og apotekere samt apotekspersonale har i de tilfælde, der er nævnt i § 1, jf. dog § 2, pligt til at rapportere utilsigtede hændelser efter § 5.
+
+### Rapporteringspligtige utilsigtede hændelser
+
+#### § 5.
+
+Utilsigtede hændelser, der medførte eller bidrog til alvorlige eller dødelige konsekvenser for patienten, er rapporteringspligtige.
+
+*Stk. 2.* Utilsigtede hændelse, der kunne have haft eller ville kunne få alvorlige eller dødelige konsekvenser for patienten, er rapporteringspligtige.
+
+*Stk. 3.* Utilsigtede hændelser, som ikke er omfattet af stk. 1-2, men som efter den rapporteringspligtige persons vurdering kan bidrage til læring og forbedring af patientsikkerheden, er rapporteringspligtige, selv om konsekvenserne af de enkelte utilsigtede hændelser ikke er eller kunne have været alvorlige eller dødelige for patienten.
+
+### Rapporteringsform og -frist
+
+#### § 6.
+
+Når en rapporteringspligtig person, jf. § 4, i forbindelse med udøvelse af sin faglige virksomhed er involveret i, observerer eller efterfølgende bliver opmærksom på en rapporteringspligtig utilsigtet hændelse, jf. § 5, skal hændelsen rapporteres til Dansk Patientsikkerhedsdatabase, snarest muligt og senest 7 dage efter, at den rapporteringspligtige person er blevet opmærksom på, at hændelsen har fundet sted.
+
+*Stk. 2.* Hvis en rapporteringspligtig utilsigtet hændelse undtagelsesvist ikke er rapporteret inden for den frist, der er angivet i stk. 1, skal rapportering ske straks efter, at det er konstateret, at fristen ikke er overholdt.
+
+### Rapporteringsmulighed
+
+#### § 7.
+
+En patient eller dennes pårørende kan rapportere en utilsigtet hændelse til Dansk Patientsikkerhedsdatabase, jf. §§ 9-14.
+
+## Kapitel 3 — Rapportering til regioner, kommuner og private sygehuse
+
+#### § 8.
+
+Regionerne, kommunerne og de private sygehuse, herunder hospicer, modtager, registrerer og analyserer rapporteringer om utilsigtede hændelser, jf. §§ 9-14, til brug for forbedring af patientsikkerheden og fremsendelse af oplysninger efter §§ 15, stk. 1, og § 16.
+
+### Utilsigtede hændelser i den kommunale sundhedssektor
+
+#### § 9.
+
+Utilsigtede hændelser, der er sket i den kommunale sundhedssektor, skal rapporteres til den kommune, der har driftsansvaret for den institution, hvor hændelsen er forekommet.
+
+*Stk. 2.* Private behandlingsinstitutioner, der leverer kommunale sundhedsydelser, skal rapportere utilsigtede hændelser til den kommune, hvor hændelsen fandt sted, uanset om der er indgået aftale mellem den private behandlingsinstitution og kommunen.
+
+### Utilsigtede hændelser på private sygehuse
+
+#### § 10.
+
+Utilsigtede hændelser, der er sket på et privat sygehus, herunder på et hospice, skal rapporteres til det private sygehus eller hospice, hvor hændelsen er forekommet.
+
+### Utilsigtede hændelser i sektorovergange
+
+#### § 11.
+
+Utilsigtede hændelser, der er sket i forbindelse med sektorovergange, skal rapporteres til den region, kommune, private sygehus eller hospice, hvor hændelsen er forekommet.
+
+### Utilsigtede hændelser under patienttransport
+
+#### § 12.
+
+Utilsigtede hændelser, der er sket under transport af en patient i forbindelse med sundhedsfaglig virksomhed, skal rapporteres til den region, den kommune, det private sygehus eller hospice, der har forestået transporten.
+
+*Stk. 2.* Utilsigtede hændelser, der er sket i den præhospitale indsats i forbindelse med transport af en patient, skal rapporteres til den region, der har forestået transporten.
+
+### Utilsigtede hændelser i det regionale sundhedsvæsen, på private behandlingssteder, apoteker og vagtcentraler
+
+#### § 13.
+
+Utilsigtede hændelser, der er sket i det regionale sundhedsvæsen, skal rapporteres til den region, der har driftsansvaret for den institution, hvor hændelsen er forekommet.
+
+*Stk. 2.* Utilsigtede hændelser, der er sket på private behandlingssteder, herunder i privatpraktiserendes sundhedspersoners virksomheder, skal rapporteres til den region, hvor hændelsen er forekommet.
+
+*Stk. 3.* Utilsigtede hændelser, der er sket i forbindelse med forsyning af og information om lægemidler, skal rapporteres til den region, hvor hændelsen er forekommet.
+
+*Stk. 4.* Utilsigtede hændelser, der er sket på vagtcentraler i forbindelse med præhospital indsats, skal rapporteres til den region, hvor vagtcentralen er beliggende.
+
+#### § 14.
+
+Utilsigtede hændelser, der ikke er omfattet af §§ 9-13, skal rapporteres til den region, hvor hændelsen er forekommet.
+
+## Kapitel 4 — *Fremsendelse til det regionsråd, der er udpeget af regionsrådene i* forening
+
+#### § 15.
+
+Den region eller kommune eller det private sygehus eller hospice, som har ansvar for at modtage, registrere og analysere utilsigtede hændelser, jf. §§ 5, 7 og 9-14, skal ved brug af Dansk Patientsikkerhedsdatabase fremsende de modtagne rapporteringer til det regionsråd, der er udpeget af regionsrådene i forening, snarest muligt efter, at regionen, kommunen, det private sygehus eller hospicet har færdiggjort analysen i anledning af den enkelte utilsigtede hændelse, dog senest 90 dage efter at rapporteringen er modtaget. Regionerne, kommunerne, de private sygehuse og hospicer skal samtidig fremsende relevante modtagne og indhentede oplysninger til belysning af den utilsigtede hændelse.
+
+*Stk. 2.* Kravet om fremsendelse til det regionsråd, der er udpeget af regionsrådene i forening, gælder ikke for rapporteringer, når
+
+- 1\) rapporteringen omhandler personalets arbejdsmiljøforhold, mangelfuldt serviceniveau eller i øvrigt omhandler en episode, der ikke er en utilsigtet hændelse,
+- 2\) rapporteringen er omfattet af en tidligere rapportering, er mangelfuldt oplyst eller lign.,
+- 3\) rapporteringen vedrører en hændelse fra et hændelsessted eller geografisk område, der ikke er omfattet af rapporteringsordningen, eller
+- 4\) rapporteringen er oprettet som led i undervisning, test eller lign.
+
+#### § 16.
+
+Fremsendelse af rapporteringer og øvrige oplysninger til det regionsråd, der er udpeget af regionsrådene i forening, ved brug af Dansk Patientsikkerhedsdatabase, jf. § 15, stk. 1, skal ske i anonymiseret form. Rapporteringerne må således ikke indeholde navne, adresser, personnumre eller lign. oplysninger, som giver mulighed for direkte at identificere de involverede sundhedspersoner og patienter.
+
+#### § 17.
+
+Hvis regioner, kommuner, private sygehuse eller hospicer har udarbejdet handlings- og opfølgningsplaner eller faglige udmeldinger eller lign. på baggrund af rapporterede utilsigtede hændelser, skal disse på anmodning fra det regionsråd, der er udpeget af regionsrådene i forening, fremsendes i anonymiseret form.
+
+## Kapitel 5 — Ikrafttræden m.v.
+
+#### § 18.
+
+Bekendtgørelsen træder i kraft den 1. maj 2025.
+
+*Stk. 2.* Bekendtgørelsen finder anvendelse på rapporteringer, der foretages efter bekendtgørelsens ikrafttræden.
+
+*Stk. 3.* Bekendtgørelse nr. 867 af 20. juni 2023 om rapportering af utilsigtede hændelser i sundhedsvæsenet m.v. ophæves.
+
+Indenrigs- og Sundhedsministeriet, den 29. april 2025
+
+Sophie Løhde
+
+/ Katrine Bisballe

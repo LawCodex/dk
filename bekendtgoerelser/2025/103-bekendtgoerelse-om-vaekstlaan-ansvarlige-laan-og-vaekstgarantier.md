@@ -1,0 +1,96 @@
+---
+title: "Bekendtgørelse om vækstlån, ansvarlige lån og vækstgarantier"
+identifier: "BEK nr 103 af 27/01/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/103"
+accession_number: "B20250010305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2025-01-27
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2025/103"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om vækstlån, ansvarlige lån og vækstgarantier
+
+*BEK nr 103 af 27/01/2025*
+
+I medfør af § 10 i lov nr. 871 af 22. juni 2022 om Danmarks Eksport- og Investeringsfond fastsættes:
+
+### § 1.
+
+Bekendtgørelsen finder anvendelse for Danmarks Eksport- og Investeringsfonds vækstlån, ansvarlige lån og vækstgarantier.
+
+## Ordningens rammer
+
+### § 2.
+
+Danmarks Eksport- og Investeringsfond kan anvende den tilgængelige ramme, jf. § 4, til vækstlån, ansvarlige lån og vækstgarantier.
+
+*Stk. 2.* Ordningen kan anvendes på følgende måder:
+
+- 1\) Danmarks Eksport- og Investeringsfond kan yde vækstlån som et supplement til øvrig finansiering, når en virksomhed ikke kan opnå fuld privat finansiering, f.eks. gennem sit pengeinstitut.
+- 2\) Danmarks Eksport- og Investeringsfond kan udstede vækstgarantier. Udstedelse af vækstgarantier er ikke likviditetskrævende på indgåelsestidspunktet.
+- 3\) Danmarks Eksport- og Investeringsfond kan yde ansvarlige lån.
+
+*Stk. 3.* Vækstlån, ansvarlige lån og vækstgarantier er målrettet små og mellemstore virksomheder, jf. Kommissionens henstilling af 6. maj 2003 om definitionen af mikrovirksomheder, små og mellemstore virksomheder (2003/361/EF).
+
+*Stk. 4.* Vækstlån, ansvarlige lån og vækstgarantier skal indgå i en samlet finansieringsløsning, der som hovedregel inkluderer privat medfinansiering fra pengeinstitutter og/eller andre långivere.
+
+*Stk. 5.* Danmarks Eksport- og Investeringsfond skal sikre, at den samlede portefølje af vækstlån, ansvarlige lån og vækstgarantier, jf. § 3, stk. 1, til enhver tid modsvares af privat medfinansiering, der som minimum udgør samme beløb.
+
+*Stk. 6.* Danmarks Eksport- og Investeringsfond kan trække likviditet til at dække eventuelle udbetalinger på tabsgivende vækstgarantier ved at optage lån inden for den afsatte låneramme, jf. § 4, stk. 1, om end samlede tab på ordningen dækkes af Danmarks Eksport- og Investeringsfond, jf. §4, stk. 3. Ved udstedelse af vækstgarantier skal Danmarks Eksport- og Investeringsfond inkludere det samlede garantibeløb i den anvendte låneramme, som ikke må overskride adgangen til låneoptag i § 4.
+
+*Stk. 7.* Løbetiden på vækstlån, ansvarlige lån og vækstgarantier kan maksimalt udgøre 30 år.
+
+## Statsstøtte
+
+### § 3.
+
+Vækstlån, ansvarlige lån og vækstgarantier skal ydes på markedsvilkår i overensstemmelse med EU’s statsstøtteregler, jf. Kommissionens meddelelse om begrebet statsstøtte i artikel 107, stk. 1, i traktaten om Den Europæiske Unions funktionsmåde (2016/C 262/01).
+
+## Økonomi
+
+### § 4.
+
+Der kan udstedes vækstlån, ansvarlige lån og vækstgarantier inden for en samlet ramme på 6 mia. kr. i 2022, 6,75 mia. kr. i 2023 og 7,5 mia. kr. i 2024 og frem, hvoraf 1 mia. kr. reserveres til nye lån og garantier ydet efter bekendtgørelsens ikrafttræden i landdistrikter. Ved definition af landdistrikter tages der udgangspunkt i Danmarks Statistiks Kommunegruppering på hhv. hovedstads-, land-, oplands-, provinsby- og storbykommuner, hvor ”landkommuner” defineres som landdistrikter. Med nye lån og garantier forstås lån og garantier, hvor der indgås endelig aftale om finansiering, som ydes, efter denne bekendtgørelses ikrafttræden.
+
+*Stk. 2.* Finansieringsrammen består af en adgang til at optage lån svarende til rammen til at udstede vækstlån, ansvarlige lån og vækstgarantier, jf. stk. 1.
+
+*Stk. 3.* Danmarks Eksport- og Investeringsfond hæfter for eventuelle tab på ordningen, ligesom et eventuelt overskud tilfalder Danmarks Eksport- og Investeringsfond.
+
+*Stk. 4.* Danmarks Eksport- og Investeringsfonds administrationsomkostninger afholdes inden for afkastet på investeringerne.
+
+## Tilsyn og revision
+
+### § 5.
+
+Erhvervsministeriet fører tilsyn med Danmarks Eksport- og Investeringsfonds anvendelse af vækstlån, ansvarlige lån og vækstgarantier som del af det almindelige tilsyn med Danmarks Eksport- og Investeringsfond.
+
+*Stk. 2.* Danmarks Eksport- og Investeringsfonds vækstlån, ansvarlige lån og vækstgarantier skal indgå i Danmarks Eksport- og Investeringsfonds årsrapport, der revideres.
+
+*Stk. 3.* Danmarks Eksport- og investeringsfond skal løbende opgøre de aktiviteter, der er foretaget under faciliteten.
+
+*Stk. 4.* Danmarks Eksport- og Investeringsfond har pligt til at holde erhvervsministeren orienteret om alle væsentlige forhold, herunder væsentlige afvigelser fra den forventede udvikling i ordningen.
+
+## Efterregulering
+
+### § 6.
+
+Der foretages ikke efterregulering af resultatet på Danmarks Eksport- og Investeringsfonds vækstlån, ansvarlige lån og vækstgarantier, da Danmarks Eksport- og Investeringsfond hæfter for eventuelle tab på ordningen, ligesom et eventuelt overskud tilfalder Danmarks Eksport- og Investeringsfond, jf. § 4, stk. 3.
+
+## Ikrafttræden
+
+### § 7.
+
+Bekendtgørelsen træder i kraft den 6. februar 2025.
+
+*Stk. 2.* Bekendtgørelse nr. 463 af 14. maj 2024 om vækstlån, ansvarlige lån og vækstgarantier ophæves.
+
+Erhvervsministeriet, den 27. januar 2025
+
+Morten Bødskov
+
+/ Julie Sonne

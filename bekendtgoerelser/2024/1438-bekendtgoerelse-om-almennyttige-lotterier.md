@@ -1,0 +1,285 @@
+---
+title: "Bekendtgørelse om almennyttige lotterier"
+identifier: "BEK nr 1438 af 06/12/2024"
+eli: "https://www.retsinformation.dk/eli/lta/2024/1438"
+accession_number: "B20240143805"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2024-12-06
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2024/1438"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om almennyttige lotterier
+
+*BEK nr 1438 af 06/12/2024*
+
+I medfør af § 10, stk. 7, § 36, stk. 2, § 41, stk. 1, og § 60 i lov om spil, jf. lovbekendtgørelse nr. 1303 af 4. september 2020, som ændret ved lov nr. 467 af 8. maj 2024 og lov nr. 1177 af 19. november 2024, fastsættes:
+
+## Kapitel 1 — Anvendelsesområde og definitioner
+
+### § 1.
+
+Bekendtgørelsen finder anvendelse på almennyttige lotterier og lotterier afholdt af et politisk parti, som er opstillingsberettiget til Folketinget eller et nationalt parlament i et andet EU eller EØS-land, og som afholder lotteri til fordel for sig selv, jf. § 10 i lov om spil.
+
+### § 2.
+
+I denne bekendtgørelse forstås ved:
+
+- 1\) Lotteri med forhåndstrækning: Lotteri, hvor deltagerne straks efter, at købet er foretaget, kan se, om der er gevinst.
+- 2\) Lotteri uden forhåndstrækning: Lotteri, hvor deltageren ikke straks efter, at købet er foretaget, kan se, om der er gevinst, og hvor vindertrækningen sker efter salgsperiodens afslutning.
+- 3\) Bingo: Lotteri, hvor spillepladen består af fem gange fem felter og 25 numre eller symboler, fire gange fire felter og 16 numre eller symboler, eller tre gange ni felter og 15 numre eller symboler. Trækningen foregår med henholdsvis 75, 80 eller 90 numre eller symboler. Udtrukne numre eller symboler trækkes og præsenteres ét ad gangen. Spilleren har mulighed for løbende at foretage manuel markering (dupning) af udtrukne numre eller symboler.
+- 4\) Hovedlotteri: Hvert enkelt lotteri, der afholdes på en tilladelse, og det lotteri, hvor hovedparten af gevinsterne kan vindes.
+- 5\) Sidelotteri: Lotteri, der udbydes i forbindelse med bingo, og hvor der kan betales en særskilt indsats.
+- 6\) Ekstratrækning: En trækning, som er afhængig af deltagelse i et hovedlotteri, der ikke afvikles som bingo, og som sker uden opkrævning af yderligere indsats.
+- 7\) Afviklingsperiode: For et lotteri uden forhåndstrækning er det perioden fra lotteriets første salgsdag til og med offentliggørelse af trækningen. For et lotteri med forhåndstrækning er det perioden fra lotteriets første salgsdag til og med lotteriets sidste salgsdag.
+- 8\) Salgsperiode: Perioden fra lotteriets første salgsdag, herunder periode med eventuelt forsalg, til og med sidste salgsdag.
+
+## Kapitel 2 — Generelle regler for afholdelse af lotteri
+
+### § 3.
+
+Lotteriet må udelukkende bero på tilfældighed og skal afholdes på betryggende vis.
+
+*Stk. 2.* Deltagerne i lotteriet må ikke selv medbringe eller sammensætte lodder.
+
+### § 4.
+
+Der må ikke opstilles elektroniske spilleterminaler i lokaler, hvor der afholdes almennyttigt lotteri i form af bingo.
+
+*Stk. 2.* Lodder i et lotteri uden forhåndstrækning må sælges og udleveres til deltageren ved brug af fjernkommunikation.
+
+*Stk. 3.* Lodder i et lotteri med forhåndstrækning må sælges ved brug af fjernkommunikation, men skal udleveres i fysisk form til deltageren.
+
+### § 5.
+
+Afviklingsperioden for det enkelte lotteri må ikke overstige 6 måneder, jf. dog stk. 2.
+
+*Stk. 2.* Spillemyndigheden kan undtagelsesvist forlænge afviklingsperioden.
+
+### § 6.
+
+Der må alene modtages kontante betalinger og betalinger formidlet af en udbyder af betalingstjenester, der i henhold til lov om betalinger udbydes lovligt her i landet.
+
+### § 7.
+
+Gevinstsummen fra en ekstratrækning må kun udgøre en ubetydelig og accessorisk del af den samlede gevinstsum fra hovedlotteriet.
+
+*Stk. 2.* Der må maksimalt afholdes én ekstratrækning per hovedlotteri. Deltagelse skal ske uden opkrævning af yderligere indsats. Ekstratrækningen skal tilbydes alle deltagere på lige vilkår.
+
+### § 8.
+
+Deltagelse i sidelotteri er betinget af samtidig deltagelse i hovedlotteriet. Den samlede salgssum skal hovedsageligt stamme fra hovedlotteriet.
+
+*Stk. 2.* Værdien af hver enkelt gevinst i sidelotteriet må ikke overstige 5.000 kr.
+
+### § 9.
+
+Ved afvikling af lotteri, der afholdes som bingo, må lotteriafviklingen finde sted mellem kl. 07.00 og 24.00, med undtagelse af salgsperioden.
+
+### § 10.
+
+Ansøgning om tilladelse skal indgives til Spillemyndigheden.
+
+*Stk. 2.* Tilladelsesindehaver modtager digital notifikation om udløb af igangværende tilladelse.
+
+*Stk. 3.* Der kan kun opnås én tilladelse ad gangen.
+
+*Stk. 4.* En ny tilladelse kan ikke udstedes, hvis tilladelsesindehaver har afholdt lotteri i strid med reglerne, jf. dog stk. 5.
+
+*Stk. 5.* Spillemyndigheden kan i særlige tilfælde give dispensation til udstedelse af ny tilladelse, selv om tilladelsesindehaver har afholdt lotteri på en måde, som ikke er i overensstemmelse med reglerne.
+
+## Kapitel 3 — Tilladelse til lotteri uden krav til overskuddets størrelse
+
+### § 11.
+
+Foreninger skal have et cvr-nummer eller SE-nummer for at få meddelt en tilladelse, som gives ved registrering af foreningen hos Spillemyndigheden. Offentligt støttede enheder er undtaget fra kravet om et cvr-nummer eller SE-nummer.
+
+### § 12.
+
+Tilladelsesindehaver skal sikre, at vindertrækningen sker tilfældigt og på betryggende vis.
+
+### § 13.
+
+Tilladelsesindehaver skal på dansk oplyse om følgende til deltageren, inden en indsats i et lotteri foretages:
+
+- 1\) hvem der afholder lotteriet, og
+- 2\) lotteriets formål.
+
+*Stk. 2.* Tilladelsesindehaver skal på deltagerens forespørgsel kunne oplyse om følgende:
+
+- 1\) gevinsterne,
+- 2\) hvordan man kan vinde,
+- 3\) hvornår og hvordan trækningen foretages,
+- 4\) relevante retningslinjer gældende for lotteriet,
+- 5\) hvor og hvornår offentliggørelse af trækningens resultat finder sted,
+- 6\) afviklingsperiode for lotteriet,
+- 7\) sted og seneste frist for gevinstudlevering,
+- 8\) hvor og hvornår opgørelsen over indtægter og udgifter for tilladelsen er offentlig tilgængelig, og
+- 9\) hvornår udlodningen foretages.
+
+### § 14.
+
+Gevinsterne fra et lotteri kan udgøre varegevinster og gavekort. Gevinsterne må ikke kunne omveksles til kontanter.
+
+*Stk. 2.* Værdien af hver enkelt gevinst i et lotteri må ikke overstige 750 kr. for varegevinster og 200 kr. for gavekort.
+
+## Kapitel 4 — Tilladelse til lotteri med krav til overskuddets størrelse
+
+### § 15.
+
+Foreninger, fonde, selvejende institutioner og virksomheder skal have et cvr-nummer eller SE-nummer for at få meddelt en tilladelse.
+
+### § 16.
+
+Tilladelsesindehaver skal sikre, at vindertrækningen sker tilfældigt og på betryggende vis.
+
+*Stk. 2.* For lotterier uden forhåndstrækning skal trækning ske ved brug af enten:
+
+- 1\) notar,
+- 2\) mulig deltageroverværelse af trækningen eller
+- 3\) en certificeret tilfældighedsgenerator.
+
+*Stk. 3.* Spillemyndigheden kan i særlige tilfælde pålægge tilladelsesindehaver, at trækningen skal ske ved brug af en certificeret tilfældighedsgenerator.
+
+### § 17.
+
+Tilladelsesindehaver skal skriftligt og på dansk oplyse om følgende til deltageren, inden køb af lotteri foretages:
+
+- 1\) gevinsternes art, antal og deres værdi, evt. fordelt i puljer afhængig af antal deltagere,
+- 2\) tilladelsesindehavers navn og cvr-nummer eller SE-nummer,
+- 3\) lotteriets formål,
+- 4\) prisen for deltagelse,
+- 5\) relevante retningslinjer for lotteriet,
+- 6\) afviklingsperiode for lotteriet,
+- 7\) sted og seneste frist for gevinstudlevering,
+- 8\) hvor og hvornår regnskab er offentligt tilgængeligt, og
+- 9\) hvor og hvornår udlodningen offentliggøres.
+
+*Stk. 2.* Informationer som nævnt i stk. 1 skal være let tilgængelige for deltageren til og med seneste frist for gevinstudlevering.
+
+### § 18.
+
+Ved afvikling af lotteri, der afholdes som bingo, må værdien af hver enkelt kontantgevinst ikke overstige 5.000 kr.
+
+### § 19.
+
+Ved afvikling af lotteri, der ikke afholdes som bingo, må der maksimalt afholdes 12 lotterier årligt, jf. dog § 20.
+
+### § 20.
+
+Uanset § 19 kan der afholdes yderligere to lotteriarrangementer, når:
+
+- 1\) lotterierne er tilknyttet ét arrangement af højst 7 dages varighed,
+- 2\) lotterierne afholdes i forbindelse med et landsdækkende radio- eller tv-program til fordel for almennyttige formål eller et politisk parti, og
+- 3\) salg kun sker i samme periode som arrangementet.
+
+*Stk. 2.* Lotterier efter stk. 1 er undtaget kravene i § 4, stk. 3, og § 16, stk. 2.
+
+## Kapitel 5 — Markedsføring
+
+### § 21.
+
+Tilladelsesindehaver med tilladelse efter kapitel 4 skal ved markedsføring på en klar og tydelig måde oplyse om følgende:
+
+- 1\) tilladelsesindehavers navn, og
+- 2\) regler og vilkår for eventuelle rabatter, ekstratrækninger eller andre salgsfremmende foranstaltninger.
+
+### § 22.
+
+Tilladelsesindehaver skal ved afholdelse af lotteri og markedsføring af et lotteri anvende Spillemyndighedens mærkningsordning, jf. dog stk. 6.
+
+*Stk. 2.* Mærket skal være let synligt for deltageren.
+
+*Stk. 3.* Tilladelsesindehaver skal til enhver tid benytte sig af den senest offentliggjorte version af mærket, der er udarbejdet af Spillemyndigheden.
+
+*Stk. 4.* Mærket må ikke anvendes på en måde, der giver indtryk af, at Spillemyndigheden er medarrangør eller sponsor.
+
+*Stk. 5.* Mærket må ikke benyttes af tilladelsesindehavers samarbejdspartnere eller andre parter, der ikke har en tilladelse fra Spillemyndigheden.
+
+*Stk. 6.* Tilladelsesindehaver med tilladelse efter kapitel 3 er undtaget kravet om brug af Spillemyndighedens mærkningsordning i forbindelse med afholdelse af lotteri og markedsføring af et lotteri. Hvis tilladelsesindehaver vælger at anvende Spillemyndighedens mærkningsordning, skal dette ske i overensstemmelse med kravene i stk. 2-5.
+
+## Kapitel 6 — Regnskab
+
+### § 23.
+
+Indtægter fra lotteriafviklingen skal indsættes på en konto i et pengeinstitut. Posteringerne vedrørende lotteri skal kunne adskilles fra andre posteringer.
+
+*Stk. 2.* Spillemyndigheden kan pålægge tilladelsesindehaver, at indtægter fra lotteriafviklingen skal indsættes på en særskilt konto i et pengeinstitut.
+
+### § 24.
+
+Der kan alene fratrækkes rimelige udgifter, der er direkte forbundet med lotteriet, til dækning af omkostninger i forbindelse med afholdelsen af lotteriet.
+
+### § 25.
+
+Overskuddet skal senest ved regnskabsaflæggelsen være udloddet.
+
+*Stk. 2.* Udlodning skal ske via bankoverførsel, medmindre foreningen er almennyttig, og udlodning sker til foreningen selv.
+
+*Stk. 3.* Der må ikke hensættes midler fra lotteriafviklingen til tilladelsesindehavers egenkapital.
+
+### § 26.
+
+Tilladelsesindehaver med tilladelse efter kapitel 3 skal pr. 12 måneder udarbejde en opgørelse over indtægter og udgifter forbundet med lotteriafviklingen. Den 12 måneders periode løber fra tilladelsens starttidspunkt.
+
+*Stk. 2.* Opgørelsen skal offentliggøres senest 3 måneder efter tilladelsens udløb.
+
+### § 27.
+
+Tilladelsesindehaver med tilladelse efter kapitel 4 til lotterier med en samlet årlig salgssum fra 15.000 kr. til og med 5.000.000 kr. skal pr. 12 måneder udarbejde et regnskab. Den 12 måneders periode løber fra tilladelsens starttidspunkt.
+
+*Stk. 2.* Regnskabet skal efterses og attesteres af mindst to personer hos tilladelsesindehaver.
+
+*Stk. 3.* Regnskabet skal offentliggøres og indsendes til Spillemyndigheden senest 6 måneder efter tilladelsens udløb.
+
+*Stk. 4.* Spillemyndigheden kan pålægge tilladelsesindehaver, at regnskabet skal påtegnes af en registreret eller statsautoriseret revisor.
+
+### § 28.
+
+Tilladelsesindehaver med tilladelse efter kapitel 4 med en samlet årlig salgssum over 5.000.000 kr. til og med 100.000.000 kr. skal pr. 12 måneder udarbejde et regnskab. Den 12 måneders periode løber fra tilladelsens starttidspunkt.
+
+*Stk. 2.* Regnskabet skal påtegnes af en registreret eller statsautoriseret revisor, som samtidig skal udarbejde en revisorerklæring.
+
+*Stk. 3.* Regnskabet og revisorerklæringen skal offentliggøres på tilladelsesindehavers hjemmeside eller ved andet offentligt opslag og indsendes til Spillemyndigheden senest 6 måneder efter regnskabsperiodens udløb.
+
+### § 29.
+
+Regnskab udarbejdet efter §§ 27 og 28 skal som minimum indeholde oplysninger om:
+
+- 1\) antallet af lotterier, der er afholdt i tilladelsesperioden,
+- 2\) lotteriernes samlede indtægter,
+- 3\) lotteriernes samlede udgifter,
+- 4\) overskuddets størrelse, og
+- 5\) hvem der er udloddet til.
+
+### § 30.
+
+Fristerne for offentliggørelse og indsendelse af opgørelse, regnskab og revisorerklæring efter §§ 26-28 kan undtagelsesvis forlænges af Spillemyndigheden.
+
+## Kapitel 7 — Straf
+
+### § 31.
+
+Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der forsætligt eller groft uagtsomt overtræder §§ 3 og 4, § 5, stk. 1, §§ 6-9, §§12-14, § 16, stk. 1 og 2, §§ 17-19, 21 og 22, § 23, stk. 1, §§ 24-26, § 27, stk. 1-3 og §§ 28 og 29.
+
+*Stk. 2.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens kapitel 5.
+
+## Kapitel 8 — Ikrafttræden m.v.
+
+### § 32.
+
+Bekendtgørelsen træder i kraft den 1. januar 2025.
+
+*Stk. 2.* For tilladelser til udbud af almennyttigt lotteri udstedt før den 1. januar 2025 finder de hidtil gældende regler i bekendtgørelse nr. 1288 af 29. november 2019 om almennyttige lotterier anvendelse til og med den 30. juni 2025.
+
+*Stk. 3.* Bekendtgørelse nr. 1288 af 29. november 2019 om almennyttige lotterier ophæves.
+
+Skatteministeriet, den 6. december 2024
+
+Rasmus Stoklund
+
+/ Jeanette Rose Hansen

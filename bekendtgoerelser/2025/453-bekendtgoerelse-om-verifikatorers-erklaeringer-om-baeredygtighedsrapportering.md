@@ -1,0 +1,106 @@
+---
+title: "Bekendtgørelse om verifikatorers erklæringer om bæredygtighedsrapportering"
+identifier: "BEK nr 453 af 05/05/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/453"
+accession_number: "B20250045305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2025-05-05
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2025/453"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om verifikatorers erklæringer om bæredygtighedsrapportering
+
+*BEK nr 453 af 05/05/2025*
+
+I medfør af § 22, stk. 3, og § 65, stk. 2, i lov nr. 52 af 28. januar 2025 om uafhængige erklæringsudbydere vedrørende bæredygtighedsrapportering fastsættes:
+
+## Kapitel 1 — Indledende bestemmelser
+
+### § 1.
+
+Verifikator er offentlighedens tillidsrepræsentant ved afgivelse af erklæringer om bæredygtighedsrapportering.
+
+*Stk. 2.* Verifikator skal udforme erklæringen uafhængigt af hvervgiver og under hensyn til de forhold, som modtagerne må forventes normalt at tillægge betydning, når de træffer beslutninger. Verifikator skal derfor tage stilling til alle forhold, medmindre de er uvæsentlige for formålet med erklæringen og andet ikke fremgår af lovgivningen m.v.
+
+*Stk. 3.* Verifikator skal udforme erklæringerne og udtalelserne i et entydigt og let forståeligt sprog.
+
+*Stk. 4.* Modtagerne forudsættes i denne bekendtgørelse at være de personer, virksomheder og offentlige myndigheder m.v., hvis beslutninger normalt må forventes at blive påvirket af erklæringerne og udtalelserne.
+
+## Kapitel 2 — Erklæring om bæredygtighedsrapportering
+
+### § 2.
+
+Erklæringen om bæredygtighedsrapportering skal i det mindste indeholde:
+
+- 1\) En identifikation af den bæredygtighedsrapportering, hvorom der afgives erklæring, jf. stk. 2.
+- 2\) En omtale af verifikators ansvar og det udførte arbejde, jf. stk. 3.
+- 3\) Modifikationer, jf. § 3.
+- 4\) En konklusion om det udførte arbejde, jf. stk. 4-6.
+- 5\) Fremhævelser, jf. § 4.
+
+*Stk. 2.* I identifikationen skal angives den virksomhed, hvis bæredygtighedsrapportering er genstand for erklæringen, den balancedato og periode bæredygtighedsrapporteringen dækker samt den rapporteringsmæssige begrebsramme, der er anvendt ved udarbejdelse af bæredygtighedsrapporteringen.
+
+*Stk. 3.* Omtalen af det udførte arbejde skal indeholde en beskrivelse af erklæringsopgavens formål og karakter, herunder oplysning om anvendte standarder. Når Europa-Kommissionen har vedtaget en standard for erklæringsopgaver om bæredygtighedsrapportering, skal erklæringsopgaven udføres efter denne erklæringsstandard.
+
+*Stk. 4.* Konklusionen om det udførte arbejde skal gives i et særskilt afsnit med overskriften »Konklusion«, jf. dog § 3, stk. 3-5.
+
+*Stk. 5.* Verifikators konklusion skal i det mindste være baseret på en erklæringsopgave med begrænset sikkerhed. Ved en erklæringsopgave med begrænset sikkerhed skal verifikators konklusion udtrykke, hvorvidt verifikator ved udførelsen af erklæringsopgaven er blevet opmærksom på forhold, der giver anledning til at konkludere,
+
+- 1\) at bæredygtighedsrapporteringen ikke i alle væsentlige henseender er udarbejdet i overensstemmelse med lovgivningens krav, herunder de for virksomheden gældende standarder for bæredygtighedsrapportering, og rapporteringskravene i artikel 8 i Europa-Parlamentets og Rådets forordning (EU) 2020/852 om fastlæggelse af en ramme til fremme af bæredygtige investeringer,
+- 2\) at bæredygtighedsrapporteringen ikke i alle væsentlige henseender er udarbejdet i overensstemmelse med den proces, som virksomheden har gennemført for at identificere de oplysninger, som skal medtages i bæredygtighedsrapporteringen efter standarderne for bæredygtighedsrapportering, og
+- 3\) at bæredygtighedsrapporteringen ikke i alle væsentlige henseender er opmærket i overensstemmelse med Kommissionens delegerede forordning (EU) 2019/815 af 17. december 2018 om supplerende regler til Europa-Parlamentets og Rådets direktiv 2004/109/EF for så vidt angår reguleringsmæssige tekniske standarder til præcisering af et fælles elektronisk rapporteringsformat.
+
+*Stk. 6.* Uanset stk. 5 kan verifikator afgive en konklusion baseret på en erklæringsopgave med høj grad af sikkerhed. Ved en erklæringsopgave med høj grad af sikkerhed skal verifikators konklusion udtrykke, hvorvidt
+
+- 1\) virksomhedens bæredygtighedsrapportering i alle væsentlige henseender er udarbejdet i overensstemmelse med lovgivningens krav, herunder de for virksomheden gældende standarder for bæredygtighedsrapportering, og rapporteringskravene i artikel 8 i Europa-Parlamentets og Rådets forordning (EU) 2020/852 om fastlæggelse af en ramme til fremme af bæredygtige investeringer,
+- 2\) bæredygtighedsrapporteringen i alle væsentlige henseender er udarbejdet i overensstemmelse med den proces, som virksomheden har gennemført for at identificere de oplysninger, som skal medtages i bæredygtighedsrapporteringen efter standarderne for bæredygtighedsrapportering, og
+- 3\) bæredygtighedsrapporteringen i alle væsentlige henseender er opmærket i overensstemmelse med Kommissionens delegerede forordning (EU) 2019/815 af 17. december 2018 om supplerende regler til Europa-Parlamentets og Rådets direktiv 2004/109/EF for så vidt angår reguleringsmæssige tekniske standarder til præcisering af et fælles elektronisk rapporteringsformat.
+
+*Stk. 7.* Erklæringen skal dateres og underskrives af den eller de verifikatorer, som den uafhængige erklæringsudbyder har valgt til at forestå og have det endelige ansvar for erklæringsopgaven. Den uafhængige erklæringsudbyders navn og verifikators navn skal tydeligt fremgå af erklæringen.
+
+### § 3.
+
+Verifikator skal modificere konklusionen, hvis bæredygtighedsrapporteringen er behæftet med væsentlige fejl eller mangler, eller verifikator ikke er i stand til at opnå tilstrækkeligt og egnet bevis til at konkludere, at bæredygtighedsrapporteringen er uden væsentlige fejl. Desuden skal verifikator modificere konklusionen, hvis usikkerhed ikke er tilstrækkeligt oplyst, og denne usikkerhed ikke er uvæsentlig.
+
+*Stk. 2.* Modificerer verifikator konklusionen efter stk. 1, skal verifikator afgive en konklusion med forbehold, afgive en afkræftende konklusion, jf. stk. 7, eller undlade at udtrykke en konklusion.
+
+*Stk. 3.* Afgiver verifikator en konklusion med forbehold, skal verifikator beskrive forholdet i et særskilt afsnit med overskriften: »Grundlag for konklusion med forbehold«, og overskriften efter § 2, stk. 4, ændres til: »Konklusion med forbehold«.
+
+*Stk. 4.* Afgiver verifikator en afkræftende konklusion, skal verifikator beskrive forholdet i et særskilt afsnit med overskriften: »Grundlag for afkræftende konklusion«, og overskriften efter § 2, stk. 4, ændres til: »Afkræftende konklusion«.
+
+*Stk. 5.* Kan verifikator ikke udtrykke en konklusion, skal verifikator beskrive forholdet i et særskilt afsnit med overskriften: »Grundlag for manglende konklusion«, og overskriften efter § 2, stk. 4, ændres til: »Manglende konklusion«.
+
+*Stk. 6.* Verifikator skal i erklæringen tydeligt begrunde ethvert forhold, der har ført til en modifikation af konklusionen.
+
+*Stk. 7.* En afkræftende konklusion indeholder oplysning om, at bæredygtighedsrapporteringen ikke giver en retvisende redegørelse i overensstemmelse med den anvendte regnskabsmæssige begrebsramme.
+
+### § 4.
+
+Verifikator skal i erklæringen give oplysninger om eventuelle forhold, som verifikator fremhæver uden at modificere konklusionen.
+
+*Stk. 2.* Oplysninger efter stk. 1 må ikke erstatte en modifikation til konklusionen.
+
+## Kapitel 3 — Straffebestemmelser
+
+### § 5.
+
+Overtrædelse af § 1, stk. 2, og §§ 2-4 straffes med bøde.
+
+*Stk. 2.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+## Kapitel 4 — Ikrafttræden
+
+### § 6.
+
+Bekendtgørelsen træder i kraft den 15. maj 2025.
+
+Erhvervsstyrelsen, den 5. maj 2025
+
+Jørgen Wissing Jensen
+
+/ Peter Krogslund Jensen

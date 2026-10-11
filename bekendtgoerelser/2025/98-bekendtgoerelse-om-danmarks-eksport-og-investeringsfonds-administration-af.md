@@ -1,0 +1,102 @@
+---
+title: "Bekendtgørelse om Danmarks Eksport- og Investeringsfonds administration af midlerne under Danmarks Grønne Fremtidsfond"
+identifier: "BEK nr 98 af 27/01/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/98"
+accession_number: "B20250009805"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2025-01-27
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2025/98"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om Danmarks Eksport- og Investeringsfonds administration af midlerne under Danmarks Grønne Fremtidsfond
+
+*BEK nr 98 af 27/01/2025*
+
+I medfør af § 10 i lov nr. 871 af 21. juni 2022 om Danmarks Eksport- og Investeringsfond fastsættes:
+
+## Danmarks Grønne Fremtidsfond
+
+### § 1.
+
+Danmarks Eksport- og Investeringsfond administrerer de midler, der blev indskudt som egenkapital i Danmarks Eksport- og Investeringsfond i forbindelse med overtagelsen af opgaver i Danmarks Grønne Fremtidsfond, der tidligere blev varetaget af Vækstfonden.
+
+*Stk. 2.* Kapitaltilførslen som følge af indsatsen beskrevet i stk. 1 udgør i alt 4 mia. kr. tilført Vækstfonden i perioden 2020-2022.
+
+*Stk. 3.* Endvidere administrerer Danmarks Eksport- og Investeringsfond de midler, der indskydes som egenkapital i Danmarks Eksport- og Investeringsfond til styrkelse af virksomheders adgang til blandt andet grøn venturefinansiering som følge af indgåelsen af Aftale om Iværksætterpakken af 21. juni 2024, hvor en del af den samlede indsats administreres som en del af under nærværende mandat for Danmarks Grønne Fremtidsfond.
+
+*Stk. 4.* Kapitaltilførslen som følge af indsatsen beskrevet i stk. 3 udgør yderligere 400 mio. kr. i 2025 og 400 mio. kr. i 2026, jf. Finansloven for 2025 § 08.33.12.10.
+
+*Stk. 5.* Danmarks Eksport- og Investeringsfonds administration af midler under Danmarks Grønne Fremtidsfond, jf. stk. 1 og stk. 3, sker i henhold til bestemmelserne i lov om Danmarks Eksport- og Investeringsfond samt de for Danmarks Eksport- og Investeringsfond i øvrigt gældende regler og politikker med de ændringer og tilpasninger, der følger af denne bekendtgørelse.
+
+## Formål
+
+### § 2.
+
+Finansiering ved anvendelsen af midler under Danmarks Grønne Fremtidsfond skal ydes på markedsvilkår og have til formål at fremme national og global grøn omstilling, herunder udvikling og udbredelse af nye teknologier, omlægning af energisystemer til vedvarende energi, lagring og effektiv anvendelse af energi mv. og fremme af global eksport af grøn teknologi, eksempelvis inden for vind og energieffektiviseringsløsninger. Fremtidsfondens investeringer/finansiering skal bidrage til opfyldelse af Parisaftalens temperaturmål samt realisering af nationale klimamål og skal således aktivt finansiere og investere i tiltag, der reducerer belastningen for klima, natur og miljø, herunder tiltag rettet mod vandknaphed, fødevaremangel og bæredygtig fødevareproduktion.
+
+*Stk. 2.* Ved udvælgelsen af projekter og initiativer, der bidrager til den nationale og internationale grønne omstilling, og som kan finansieres af Danmarks Eksport- og Investeringsfond i medfør af denne bekendtgørelse, jf. stk. 1, foretager Danmarks Eksport- og Investeringsfond en samlet vurdering af det kommercielle og det omstillingsmæssige potentiale af det enkelte projekt eller initiativ. Til brug for denne vurdering inddrager Danmarks Eksport- og Investeringsfond dels EU’s klassificeringssystem (taksonomi) for bæredygtige økonomiske investeringer og dels andre vurderingsprincipper og kriterier af relevans for vurderingen af projektet eller initiativets potentiale til at bidrage til den grønne omstilling. De nærmere kriterier for vurderingen af det omstillingsmæssige potentiale fastlægges ved Politik for finansiering/investering omfattet af Danmarks Grønne Fremtidsfond.
+
+## Finansieringssegmenter
+
+### § 3.
+
+Ved administrationen af midlerne under Danmarks Grønne Fremtidsfond anvender Danmarks Eksport- og Investeringsfond finansieringsformerne, tjenesteydelser og de andre aktiviteter omhandlet i kapitel 2 i lov om Danmarks Eksport- og Investeringsfond med henblik på at investere i virksomhederne omfattet af § 2 i lov om Danmarks Eksport- og Investeringsfond, jf. dog stk. 2.
+
+*Stk. 2.* Op til en tredjedel af de under § 1, stk. 1, nævnte midler kan anvendes til investeringer i virksomheder, enten direkte eller indirekte via fonde, der ikke opfylder definitionen på små eller mellemstore virksomheder, jf. Kommissionens henstilling af 6. maj 2003 om definitionen af mikrovirksomheder, små og mellemstore virksomheder (2003/361/EF).
+
+*Stk. 3.* De i stk. 2 nævnte virksomheder, der ikke opfylder definitionen på små og mellemstore virksomheder, jf. Kommissionens henstilling af 6. maj 2003 om definitionen af mikrovirksomheder, små og mellemstore virksomheder (2003/361/EF), kan omfatte
+
+- 1\) accelerationsvirksomheder, der er faldet uden for SMV-definitionen, og som har en aggressiv vækstplan, der ikke kan finde tilstrækkelig finansiering i det private marked,
+- 2\) iværksættere og vækstvirksomheder, der falder uden for SMV-definitionen, fordi en større etableret virksomhed har en ejerandel på 25 pct. eller over i virksomheden og
+- 3\) små midcaps, hvilket skal muliggøre investeringssamarbejder med pensionsselskaberne og tiltrækning af grønne EU-midler.
+
+*Stk. 4.* Med mindre særlige forhold gør sig gældende, herunder f.eks. et hensyn til at kunne sikre tilstrækkelige opfølgende investeringer, og til at sikre et acceptabelt afkast, skal de i stk. 3, nr. 3, nævnte små midcaps have et antal ansatte på nyinvesteringstidspunktet på maksimalt 1.500 ansatte, og tilsvarende kan der ikke, medmindre særlige forhold gør sig gældende, investeres mere end 200 mio. kr. per virksomhed i de i stk. 3, nr. 3, nævnte små midcaps.
+
+## Politikker
+
+### § 4.
+
+Investering af midlerne under Danmarks Grønne Fremtidsfond i henhold til § 3 sker i overensstemmelse med de for Danmarks Eksport- og Investeringsfond til enhver tid gældende regler og politikker.
+
+## Tilsyn og revision
+
+### § 5.
+
+Erhvervsministeren fører tilsyn med Danmarks Eksport- og Investeringsfonds administration af midler under Danmarks Grønne Fremtidsfond som del af det almindelige tilsyn med Danmarks Eksport- og Investeringsfond.
+
+*Stk. 2.* Danmarks Eksport- og Investeringsfonds administration af midlerne under Danmarks Grønne Fremtidsfond skal indgå i Danmarks Eksport- og Investeringsfonds årsrapport, der revideres årligt.
+
+*Stk. 3.* Danmarks Eksport- og Investeringsfond skal løbende opgøre, hvilke investeringer og finansieringer, der er foretaget under faciliteten.
+
+*Stk. 4.* Danmarks Eksport- og Investeringsfond har pligt til at holde erhvervsministeren orienteret om alle væsentlige forhold om administrationen af midler efter denne bekendtgørelse, herunder om væsentlige afvigelser fra den forventede udvikling af administrationen af midlerne under Danmarks Grønne Fremtidsfond.
+
+*Stk. 5.* Danmarks Eksport- og Investeringsfonds indtægter og udgifter, herunder administrationsomkostninger, vedrørende kapitalindskuddet indgår i Danmarks Eksport- og Investeringsfonds generelle forretning.
+
+## Rådgivning og koordinering
+
+### § 6.
+
+Danmarks Eksport- og Investeringsfond kan indhente råd og sparring fra et rådgivende udvalg nedsat af erhvervsministeren i relation til investerings- og finansieringsindsatser inden for grøn omstilling. Kompetencen til at træffe konkrete finansierings- eller investeringsbeslutninger i medfør af denne bekendtgørelse og ansvaret herfor ligger, uanset rådgivningen, hos Danmarks Eksport- og Investeringsfond.
+
+*Stk. 2.* Danmarks Eksport- og Investeringsfond skal løbende samarbejde og bidrage til koordineringen vedrørende administrationen af midlerne under Danmarks Grønne Fremtidsfond med Investeringsfonden for Udviklingslande samt i forhold til et eventuelt nedsat rådgivende udvalg, jf. stk. 1.
+
+*Stk. 3.* Danmarks Eksport- og Investeringsfond bidrager som en del af de samlede administrationsomkostninger ved administrationen af de midler, Danmarks Eksport- og Investeringsfond tilføres, jf. §1, stk. 1, til finansiering af udgifterne i forbindelse med et eventuelt rådgivende udvalg, jf. stk. 1.
+
+## Ikrafttræden
+
+### § 7.
+
+Bekendtgørelsen træder i kraft den 6. februar 2025.
+
+*Stk. 2.* Bekendtgørelse nr. 1734 af 11. december 2023 om Danmarks Eksport- og Investeringsfonds administration af midlerne under Danmarks Grønne Fremtidsfond ophæves.
+
+Erhvervsministeriet, den 27. januar 2025
+
+Morten Bødskov
+
+/ Julie Sonne

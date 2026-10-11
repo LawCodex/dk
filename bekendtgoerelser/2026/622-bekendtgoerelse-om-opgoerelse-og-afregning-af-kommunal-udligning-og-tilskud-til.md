@@ -1,0 +1,896 @@
+---
+title: "Bekendtgørelse om opgørelse og afregning af kommunal udligning og tilskud til kommunerne for 2027"
+identifier: "BEK nr 622 af 30/06/2026"
+eli: "https://www.retsinformation.dk/eli/lta/2026/622"
+accession_number: "B20260062205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2026-06-30
+status: "in_force"
+ministry: "Økonomi- og Indenrigsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2026/622"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om opgørelse og afregning af kommunal udligning og tilskud til kommunerne for 2027
+
+*BEK nr 622 af 30/06/2026*
+
+I medfør af § 20, stk. 3, 2. pkt., § 21, stk. 2, 3. pkt., § 23 c, stk. 3, § 24, stk. 6, § 26, stk. 2-4, § 29, 2. pkt., § 30, § 31, § 33 og § 35, stk. 1, i lov om kommunal udligning og generelle tilskud til kommuner, jf. lovbekendtgørelse nr. 63 af 19. januar 2021, som ændret ved lov nr. 679 af 3. juni 2023 og lov nr. 562 af 27. maj 2025, fastsættes:
+
+### Beskatningsgrundlag, beskatningsniveauer m.m.
+
+#### § 1.
+
+Ved opgørelsen af beskatningsgrundlaget efter § 2 i lov om kommunal udligning og generelle tilskud til kommuner beregnes udskrivningsgrundlaget for kommuner som den beregnede skat for kommunen i tilskudsåret divideret med udskrivningsprocenten i beregningsåret.
+
+*Stk. 2.* Ved opgørelsen af beskatningsgrundlaget for en kommune indgår endvidere beregningstekniske grundværdier, som for 2027 opgøres som seneste skøn for beregningstekniske grundværdier vedr. 2024 fremskrevet med stigningen i seneste skøn for de afgiftspligtige grundværdier fra 2024 til 2027 opgjort af Skatteministeriet. Den enkelte kommunes beskatningsgrundlag opgøres i perioden 2024 til 2028 som summen af den enkelte kommunes udskrivningsgrundlag samt en andel af kommunens beregningstekniske grundværdier for henholdsvis produktionsjord og øvrige ejendomme. Den nævnte andel opgøres for henholdsvis produktionsjord og øvrige ejendomme som forholdet mellem det samlede skønnede provenu fra grundskyld i forhold til summen over alle kommuner af de beregningstekniske grundværdier divideret med den landsgennemsnitlige udskrivningsprocent. De beregningstekniske grundværdier indgår for kommunerne i beregningen med 3,06 pct. for produktionsjord og med 9,93 pct. for øvrige ejendomme. Procenterne indgår uafrundede i beregningen.
+
+*Stk. 3.* Ved Økonomi- og Indenrigsministeriets foreløbige beregning af tilskud og udligning for de kommuner, som har valgt at budgettere med deres eget skøn over udskrivningsgrundlaget efter § 24, stk. 3, i lov om kommunal udligning og generelle tilskud til kommuner, og i beregningen for de kommuner, som har valgt at budgettere med det statsgaranterede udskrivningsgrundlag efter § 24, stk. 2, i lov om kommunal udligning og generelle tilskud til kommuner, anvendes de af økonomi- og indenrigsministeren udmeldte udskrivningsgrundlag efter § 7 i lov om kommunal indkomstskat samt skøn over de beregningstekniske grundværdier for tilskudsåret i henhold til stk. 2.
+
+#### § 2.
+
+Det gennemsnitlige kommunale beskatningsniveau efter § 2 i lov om kommunal udligning og generelle tilskud til kommuner beregnes som summen af den samlede beregnede kommunale skat og provenuet af grundskyld, divideret med beskatningsgrundlaget for tilskudsåret.
+
+*Stk. 2.* Ved Økonomi- og Indenrigsministeriets foreløbige beregning af tilskud og udligning for de kommuner, som har valgt at budgettere med deres eget skøn over udskrivningsgrundlaget efter § 24, stk. 3, i lov om kommunal udligning og generelle tilskud til kommuner, og i beregningen for de kommuner, som har valgt at budgettere med det statsgaranterede udskrivningsgrundlag efter § 24, stk. 2, i lov om kommunal udligning og generelle tilskud til kommuner, beregnes det gennemsnitlige kommunale beskatningsniveau som summen af den samlede beregnede kommunale skat og provenuet af grundskyld divideret med beskatningsgrundlaget for beregningsåret.
+
+#### § 3.
+
+Ved opgørelsen af overudligningen efter § 13 i lov om kommunal udligning og generelle tilskud til kommuner anvendes de efter § 1, stk. 1 og 2, opgjorte beskatningsgrundlag, det gennemsnitlige beskatningsniveau i henhold til § 2 samt kommunens udskrivningsprocent i tilskudsåret.
+
+*Stk. 2.* Ved den foreløbige beregning af overudligningen efter § 13 i lov om kommunal udligning og generelle tilskud til kommuner, anvendes de efter § 1, stk. 3, opgjorte beskatningsgrundlag, udskrivningsgrundlag og grundværdier samt kommunens udskrivningsprocent og grundskyldspromille i beregningsåret.
+
+#### § 4.
+
+For de kommuner, hvor der fra og med 2026 efter § 24, stk. 3, i lov om kommunal udligning og generelle tilskud til kommuner, foretages en foreløbig afregning af tilskud og udligning på baggrund af kommunens egen beregning ved budgetvedtagelsen, skal beregningen af beskatningsgrundlaget til den foreløbige afregning ske på grundlag af det budgetterede provenu af indkomstskat for tilskudsåret, grundværdierne for tilskudsåret fra den statsgaranterede tilskudsudmelding og et af kommunen skønnet folketal pr. 1. januar i tilskudsåret opgjort i henhold til § 5, stk. 1.
+
+*Stk. 2.* Ved den endelige afregning af tilskud og udligning for de kommuner, som for 2024 har valgt selvbudgettering, anvendes et endeligt beskatningsgrundlag baseret på grundværdier fra tilskudsudmeldingen for 2024 for alle kommuner.
+
+### Befolkningstal
+
+#### § 5.
+
+Ved opgørelse af tilskud og udligning foretages opgørelsen over befolkningen i de enkelte kommuner og i de enkelte alderstrin på grundlag af en af Danmarks Statistik foretaget opgørelse over befolkningen med bopæl i de enkelte kommuner pr. 1. januar i det pågældende år.
+
+*Stk. 2.* Ved Økonomi- og Indenrigsministeriets foreløbige beregning af tilskud og udligning for de kommuner, som har valgt at budgettere med deres eget skøn over udskrivningsgrundlaget efter § 24, stk. 3, i lov om kommunal udligning og generelle tilskud til kommuner, og i beregningen for de kommuner, som har valgt at budgettere med det statsgaranterede udskrivningsgrundlag efter § 24, stk. 2, i lov om kommunal udligning og generelle tilskud til kommuner, anvendes en prognoseopgørelse over befolkningen med bopæl i de enkelte kommuner og i de enkelte alderstrin pr. 1. januar i tilskudsåret udarbejdet af Danmarks Statistik.
+
+### Opgørelse af udgiftsbehov
+
+#### § 6.
+
+Ved opgørelsen af aldersbestemte udgiftsbehov i henhold til §§ 3 og 4 i lov om kommunal udligning og generelle tilskud til kommuner, opgøres aldersgrupper og kriterier på følgende måde:
+
+- 1\) Antallet af indbyggere i de enkelte aldersgrupper, jf. § 5, opgøres på grundlag af en af Danmarks Statistik foretaget opgørelse over befolkningen i de enkelte kommuner fordelt efter alder pr. 1. januar i tilskudsåret som henholdsvis prognosefolketal og det faktiske folketal i den endelige opgørelse for de kommuner, der har valgt selvbudgettering, jf. § 12.
+- 2\) Et gennemsnit af de seneste tre år opgjorte nedgange i befolkningstallet i kommuner, som i året har et beskatningsgrundlag pr. indbygger mindre end 125 pct. af det landsgennemsnitlige beskatningsgrundlag pr. indbygger. Nedgangen i befolkningstallet opgøres i hvert af de tre år for kommuner med en samlet nedgang i befolkningstallet over de seneste 5 år som summen af de årlige nedgange over den 5-årige periode. De tre år svarer til tilskudsåret 2027 samt de to foregående år. Nedgangen i befolkningstallet for tilskudsåret 2027 opgøres på baggrund af befolkningstallet i perioden 2021-2026 samt perioderne 2020-2025 og 2019-2024 i beregningen af befolkningstilbagegangen i de to foregående år.
+
+*Stk. 2.* En kommunes samlede aldersbestemte udgiftsbehov opgøres som summen af antal indbyggere i kommunen i de enkelte aldersgrupper ganget med det beregnede enhedsbeløb for hver aldersgruppe, jf. bilag 1.
+
+*Stk. 3.* Enhedsbeløbene bestemmes ud fra de samlede nettodrifts- og anlægsudgifter for 2027, jf. § 28 i lov om kommunal udligning og generelle tilskud til kommuner, og fordelingen af de kommunale udgifter i de enkelte aldersgrupper divideret med det skønnede indbyggertal pr. 1. januar 2027 i hver aldersgruppe, jf. stk. 1, nr. 1.
+
+*Stk. 4.* Vægtningen af de enkelte aldersgrupper bestemmes ud fra de budgetterede nettodriftsudgifter, korrigeret for afskaffelse af den kommunale medfinansiering af sundhedsområdet, for kommunerne for 2026 og følgende statistik for fordelingen af kommunale udgifter på alder med en vægtfordeling, der fremgår af bilag 2:
+
+- 1\) Indbyggertallet i de enkelte aldersgrupper og udvalgte aldersgrupper pr. 1. januar i beregningsåret, der opgøres af Danmarks Statistik.
+- 2\) Aldersfordelingen for børn og unge indskrevet i klubber i 2024, der opgøres af Danmarks Statistik.
+- 3\) Aldersfordelingen for børn og unge, som modtager forebyggende foranstaltninger pr. 31. december 2025 samt aldersfordelingen for børn og unge på døgninstitutioner og opholdssteder samt for børn og unge i plejefamilier pr. 31. december 2024, der opgøres af Danmarks Statistik.
+- 4\) Aldersfordelingen for beboere i almene ældreboliger og plejeboliger, samt for beboere på plejehjem, beskyttede boliger, plejeboliger og friplejeboliger i 2022, der opgøres af Danmarks Statistik. Aldersfordelingen for 65+-årige modtagere af leveret hjemmehjælp og modtagere af hjemmesygepleje et år forud for beregningsåret, samt aldersfordelingen for handicapydelser i 4. kvartal 2023, der opgøres af Danmarks Statistik.
+- 5\) Aldersfordelingen for genoptræningsplaner i 2025, der opgøres af Sundhedsdatastyrelsen.
+- 6\) Aldersfordelingen for udgifter til vederlagsfri fysioterapi i 2025, der opgøres af Danmarks Statistik.
+- 7\) Aldersfordelt udgift til kontanthjælp, hjælp i særlige tilfælde og revalidering i 2025, der opgøres af Danmarks Statistik.
+- 8\) Aldersfordelt udgift til førtidspension i december 2025, der opgøres af Danmarks Statistik.
+- 9\) Aldersfordelt udgift til sygedagpenge i 2025, der offentliggøres af Styrelsen for Arbejdsmarked og Rekruttering på Jobindsats.dk.
+- 10\) Aldersfordelingen for antal fuldtidsaktiverede i vejledning og opkvaliﬁcering i 2025, der offentlig gøres af Styrelsen for Arbejdsmarked og Rekruttering på Jobindsats.dk.
+- 11\) Aldersfordelingen for antal fuldtidsforsikrede ledige i 2025, der offentliggøres af Styrelsen for Arbejdsmarked og Rekruttering på Jobindsats.dk.
+- 12\) Aldersfordelingen for antal fuldtidspersoner i ﬂeksjob, ressource- og jobafklaringsforløb samt fuldtidspersoner med ledighedsydelse i 2025, der offentliggøres af Styrelsen for Arbejdsmarked og Rekruttering på Jobindsats.dk.
+- 13\) Aldersfordelingen for antal fuldtidsmodtagere af seniorpension i 2025, der offentliggøres af Styrelsen for Arbejdsmarked og Rekruttering på Jobindsats.dk.
+
+#### § 7.
+
+Ved opgørelsen af det socioøkonomiske udgiftsbehov i henhold til § 5 i lov om kommunal udligning og generelle tilskud til kommuner opgøres kriterier på følgende måde:
+
+- 1\) Antal 20-59-årige, der er uden beskæftigelse og ligger ud over 5 pct. af antallet af 20-59-årige i kommunen ganget med antallet i aldersgruppen, opgøres ud fra data på antallet af 20-59-årige fordelt på socioøkonomisk status som opgjort af Danmarks Statistik baseret på den registerbaserede arbejdsstyrkestatistik. Kriteriet opgøres som det største antal 20-59-årige, som på optællingstidspunktet var arbejdsløse eller uden for arbejdsstyrken, eksklusive uddannelsessøgende, i enten ultimo november i det senest opgjorte år (2024) eller ultimo november 3 år forud for dette år. Hvis det seneste opgjorte år anvendes, bruges befolkningens arbejdsmarkedsoplysninger opgjort ultimo november i 2024 og folketallet pr. 1 januar i året før beregningsåret. Hvis 2021 anvendes, bruges befolkningens arbejdsmarkedsoplysninger opgjort ultimo november i 2021 og folketallet pr. 1. januar i 2022.
+- 2\) Antallet af personer uden erhvervsuddannelse opgøres som antallet af 25-49-årige, der på optællingstidspunktet ikke har afsluttet anden længerevarende uddannelse end grundskole eller har uoplyst uddannelse. Populationen opgøres af Danmarks Statistik pr. 30. september i året før beregningsåret med uddannelsesoplysninger pr. 30. september i året før beregningsåret. Kriteriet opgøres uden personer, som var over 20 år på indvandringstidspunktet.
+- 3\) Antallet af billige private udlejningsboliger samt familier i visse boliger i yderområder og beboede sommerhuse opgøres på grundlag af data fra Social- og Boligstyrelsen og fra Danmarks Statistik. Billige private udlejningsboliger opgøres som antal privat udlejede boliger, der ikke er enkeltværelser og udlejede andelsboliger, og med en husleje ekskl. udgifter til forbrug, på maksimalt 5.750 kr., hvor huslejegrænsen er opreguleret med huslejeudviklingen i nettoprisindekset. Opgørelsen af huslejerne i de private udlejningsboliger baseres på huslejeoplysninger for beboelsesejendomme med mindst 3 boliger, hvor mindst en bolig er beboet af en husstand, der modtager boligstøtte, i boligstøtteregistret pr. 1. januar i beregningsåret. Familier i visse boliger i yderområder opgøres som antal familier, der den 1. januar i beregningsåret bor i privat udlejning fra før 1970 beliggende i landdistrikter eller i byer med færre end 5.000 indbyggere, og beboede sommerhuse på baggrund af Danmarks Statistiks Boligopgørelse og Husstands- og Familie-statistik og Danmarks Statistiks E-familiebegreb.
+- 4\) Antallet af diagnosticerede psykiatriske patienter, der i en periode på 10 år har været i kontakt med det psykiatriske sygehusvæsen, opgøres på grundlag af data fra Sundhedsdatastyrelsen. Kriteriet omfatter personer, der i perioden 2016-2025 har været i kontakt med det psykiatriske sygehusvæsen. Dette er deﬁneret ved diagnosekoderne F00-29 i aktionsdiagnosen. Personer henregnes til den bopælskommune den pågældende bor i den seneste gang, denne har været i kontakt med det psykiatriske sygehusvæsen.
+- 5\) Antallet af almene familieboliger opgøres på baggrund af bestanden af almene boliger baseret på Landsbyggefondens huslejeregister opgjort pr. 1. januar i beregningsåret. Statistikken leveres af Social- og Boligstyrelsen.
+- 6\) Antallet af børn i familier, hvor forsørgerne har kort uddannelse, opgøres ud fra en af Danmarks Statistik foretaget opgørelse af antal børn mellem 0 og 16 år pr. 30. september i året før beregningsåret i familier, hvor den højeste fuldførte uddannelse pr. 30. september i året før beregningsåret for forsørgerne er grundskole eller uoplyst, og forsørgerne ikke er studerende. Opgørelsen baseres på Danmarks Statistiks Uddannelsesregister og Befolkningsstatistikken og Danmarks Statistiks E-familie-begreb. I opgørelsen medtages ikke personer, som var over 20 år på indvandringstidspunktet.
+- 7\) Antallet af enlige over 65 år, opgjort af Danmarks Statistik pr. 1. januar i beregningsåret. Enlige deﬁneres som ugift, fraskilt, enke/enkemand, ophævet registreret partnerskab og længstlevende af to registrerede partnere.
+- 8\) Antallet af personer med lav indkomst i tre ud af ﬁre år opgøres ud fra en af Danmarks Statistik foretaget opgørelse over antal 18-64-årige i kommunen pr. 31. december, der i året to år før beregningsåret og i mindst to af de foregående tre år har haft en ækvivaleret disponibel indkomst på mindre end 60 pct. af medianindkomsten på landsplan samt en formue på under 10.000 kr. og været bosat i Danmark i mindst tre af de seneste ﬁre år. Endvidere medtages ikke studerende uden børn og deres familiemedlemmer samt selvstændige og medarbejdende ægtefæller i opgørelsen. Populationen til beregning af medianindkomsten er alle E-familier, hvor ældste person er ældre end 14 år og fuldt skattepligtig.
+- 9\) Antallet af udviklingshæmmede på 65 år og derunder samt antallet af 20-59-årige uden for arbejdsstyrken med øvrige handicap opgøres på grundlag af data fra Danmarks Statistik. Kriteriet opgøres som de personer, som inden for en 5-årig periode fra 2020-2024 er diagnosticeret inden for sygehusvæsenet med en aktions- eller bidiagnose, som vil kunne medføre et handicap. Ved opgørelsen henregnes personer til folketallet i kommunen i det første diagnoseår. I de tilfælde, personen er indskrevet i sygehusvæsenet før 1. januar i den 5-årige periode, henregnes personen til bopælskommunen på indskrivningstidspunktet.
+- 10\) Antallet af indvandrere og efterkommere fra ikke- vestlige lande opgøres på grundlag af en af Danmarks Statistik foretaget opgørelse af antallet af indvandrere og efterkommere fra ikke-vestlige lande pr. 1. januar i beregningsåret. Indvandrere med opholdsgrundlag som studie-au pair med første indvandringsdato 1. januar tre år før beregningsåret eller senere indgår ikke i opgørelsen.
+- 11\) Befolkningstæthed opgøres af Danmarks Statistik som den gennemsnitlige afstand for borgere i kommunen til de nærmeste 2.000 medborgere som fugleﬂugtslinje ganget antal indbyggere i kommunen. Antal indbyggere opgøres pr. 1. januar i beregningsåret.
+- 12\) Antallet af 0-15-årige børn af enlige forsørgere opgøres af Danmarks Statistik. Data er baseret på statistikken om enlige forsørgere, der modtager ordinært børnetilskud og opgøres pr. 4. kvartal i året før beregningsåret. Kriteriet opgøres som det gennemsnitlige antal af 0-15-årige af enlige forsørgere over 3 år.
+- 13\) Antallet af 0-17-årige børn, som er ﬂyttet over en kommunegrænse mindst 3 gange, opgøres af Danmarks Statistik og baseres på Danmarks Statistiks befolkningsstatistik og register med mellemkommunale ﬂytninger. Kriteriet opgøres pr. 1. januar i beregningsåret. Ved opgørelsen henregnes personer, der er bopælsregistreret i kommunen, til folketallet i kommunen.
+- 14\) Antallet af 20-59-årige lønmodtagere på grundniveau opgøres af Danmarks Statistik som antal lønmodtagere i arbejde, der forudsætter færdigheder på grundniveau. Kriteriet er baseret på Danmarks Statistiks registerbaserede arbejdsstyrkestatistik, og populationen og arbejdsmarkedstilknytning opgøres ultimo november to år før beregningsåret.
+- 15\) Lav middellevetid baseres på en opgørelse af den gennemsnitlige levetid for perioden 2016-2025 fra Danmarks Statistik. Kriteriet beregnes ved, at forskellen i middellevetiden mellem den kommune, som har den højeste middellevetid, og den enkelte kommune ganges med antallet af personer i kommunen, som er 65 år eller derover.
+- 16\) Antallet af 45-64-årige med begrænset erhvervserfaring opgøres af Danmarks Statistik som antallet af 45-64-årige med mindre end 10 års erhvervserfaring, ingen ind- eller udvandring til/fra Danmark i den seneste 10-årige periode og som ikke har været selvstændige i den seneste 10-årige periode. Populationen opgøres pr. 1 januar året før beregningsåret og oplysninger om erhvervserfaring opgøres ultimo november to år før beregningsåret.
+- 17\) Regional ledighed for forsikrede ledige baseres på data fra Danmarks Statistik for fuldtidsledige i året før beregningsåret og arbejdsstyrken ultimo november to år før beregningsåret. Kriteriet beregnes ved at gange den regionale ledighedsprocent for bruttoledige dagpengemodtagere med arbejdsstyrken i kommunen. Den regionale ledighedsprocent opgøres for følgende 8 geograﬁske områder baseret på Danmarks Statistiks inddeling i landsdele: 1) København og Østsjælland 2) Nordsjælland 3) Vest-, Sydsjælland og Bornholm 4) Fyn 5) Sydjylland 6) Østjylland 7) Vestjylland og 8) Nordjylland.
+- 18\) Afstand til arbejdspladser opgøres ud fra data for den gennemsnitlige afstand som opgjort af Danmarks Statistik. Kriteriet beregnes ved at gange den gennem- snitlige afstand for borgere i kommunen til de nærmeste 500 arbejdspladser målt i fugleﬂugtlinje med kommunens antal af 18-64-årige. Antal personer er opgjort ultimo november to år før beregningsåret.
+
+### Tilskud vedr.* *indvandrere, ﬂygtninge og efterkommere
+
+#### § 8.
+
+Antal indvandrere og ﬂygtninge som nævnt i § 22, stk. 1, 2. pkt., i lov om kommunal udligning og generelle tilskud til kommuner opgøres på grundlag af en af Danmarks Statistik foretaget opgørelse af antallet af indvandrere fra ikke-vestlige lande pr. 1. januar i beregningsåret. Indvandrere med opholdstid på mere end 10 år samt indvandrere med opholdsgrundlag som studie-au pair med første indvandringsdato 1. januar tre år før beregningsåret eller senere indgår ikke i opgørelsen.
+
+*Stk. 2.* Antal indvandrere, ﬂygtninge og efterkommere i aldersgrupperne 0-5-årige og 6-16-årige som nævnt i § 22, stk. 1, 3. pkt., i lov om kommunal udligning og generelle tilskud til kommuner opgøres på grundlag af en af Danmarks Statistik foretaget opgørelse af antallet af indvandrere og efterkommere fra ikke-vestlige lande pr. 1. januar i beregningsåret.
+
+### Tilskud til Læsø, Samsø og Ærø Kommuner
+
+#### § 9.
+
+Tilskuddet efter § 21, stk. 2, i lov om kommunal udligning og generelle tilskud til kommuner, for tilskudsåret 2027 udgør 54,3 mio. kr. til Læsø Kommune, 62,1 mio. kr. til Samsø Kommune og 62,8 mio. kr. til Ærø Kommune.
+
+### Tilskud til kommuner med mindre øer
+
+#### § 10.
+
+Tilskuddet i henhold til § 20 i lov om kommunal udligning og generelle tilskud til kommuner fordeles til kommuner, som modtager tilskud efter lovens § 20, stk. 2, efter følgende kriterier:
+
+- 1\) 94,8 mio. kr. fordeles forholdsmæssigt efter de gennemsnitlige kommunale nettodriftsudgifter vedrørende færgedriften til de mindre øer i perioden 2007-2012. Tilskuddet til den enkelte kommune kan dog ikke være mindre end eller maksimalt 75 pct. højere end det tilskud, der i 2013 blev ydet efter § 11, stk. 1, 1. pkt., i bekendtgørelse nr. 719 af 27. juni 2012 om opgørelse og afregning af kommunal udligning og tilskud til kommunerne for 2013. Tilskuddet efter 2. pkt. reguleres fra og med tilskudsåret 2014 en gang årligt med den forventede pris- og lønudvikling for den kommunale sektor.
+- 2\) 17,4 mio. kr. fordeles forholdsmæssigt efter befolkningstallet på de mindre øer.
+- 3\) 5,5 mio. kr. fordeles som grundtilskud, således at øer med mindre end 50 indbyggere modtager 150.000 kr., øer med mellem 50 og 200 indbyggere modtager 250.000 kr. og øer med mere end 200 indbyggere modtager 300.000 kr.
+- 4\) Af resttilskuddet fordeles 45 pct. forholdsmæssigt efter folketal, 50 pct. forholdsmæssigt efter sejlafstand i km og 5 pct. efter øernes areal.
+
+### Opgørelse af provenu af dækningsafgift af offentlige ejendomme
+
+#### § 11.
+
+Provenu af dækningsafgift af offentlige ejendomme opgøres på baggrund af oplysninger fra Skatteministeriet om hver kommunes samlede realiserede provenu fra dækningsafgift af offentlige ejendomme for regnskabsåret 2025, ekskl. eventuelle reguleringer af dækningsafgift vedrørende andre år end regnskabsåret.
+
+### Opgørelse og afregning
+
+#### § 12.
+
+For de kommuner, som har valgt at budgettere med deres eget skøn over udskrivningsgrundlaget efter § 24, stk. 3, i lov om kommunal udligning og generelle tilskud til kommuner, foretages en foreløbig afregning af tilskud og udligning på baggrund af kommunens egen indberetning til Økonomi- og Indenrigsministeriet. Beregnede tilskud og udligning opgøres i hele 1.000 kr. og afrundes af Økonomi- og Indenrigsministeriet til et med 12 deleligt beløb.
+
+*Stk. 2.* Økonomi- og indenrigsministeren kan korrigere en kommunes beregning af tilskud og udligning efter stk. 1, såfremt beregningen ikke er foretaget korrekt.
+
+*Stk. 3.* For de kommuner, hvor der efter § 24, stk. 3, i lov om kommunal udligning og generelle tilskud til kommuner foretages en foreløbig afregning af tilskud og udligning på baggrund af kommunens egen beregning ved budgetvedtagelsen, skal den endelige beregning af tilskud og udligning, jf. § 24, stk. 7, i lov om generelle tilskud og udligning for kommuner, ske på baggrund af kommunens samlede udgiftsbehov som summen af antal indbyggere i kommunen i de enkelte aldersgrupper ganget med enhedsbeløbet for hver aldersgruppe i tilskudsåret, jf. bilag 3.
+
+#### § 13.
+
+Tilskud og bidrag efter §§ 2 og 3, 13-23, 23 b og 23 c i lov om kommunal udligning og generelle tilskud til kommuner opgøres i hele 1.000 kroner og afrundes til et med 12 deleligt beløb.
+
+*Stk. 2.* Ved Økonomi- og Indenrigsministeriets beregning af tilskud og udligning, jf. § 24, stk. 1, i lov om kommunal udligning og generelle tilskud til kommuner, indgår de af økonomi- og indenrigsministeren udmeldte udskrivningsgrundlag efter § 7 i lov om kommunal indkomstskat omregnet til indkomstskatteprovenu, som afrundet til hele 1.000 kr.
+
+#### § 14.
+
+I forbindelse med de månedlige forskudsudbetalinger fra Skattestyrelsen af kommunal indkomstskat m.v. afregnes i overensstemmelse med Økonomi- og Indenrigsministeriets beregninger af tilskud og bidrag efter §§ 2 og 3, 13-15, 16 a-23, 23 b og 23 c i lov om kommunal udligning og generelle tilskud til kommuner samt den del af tilskuddet efter § 16 i lov om kommunal udligning og generelle tilskud til kommuner, der meddeles i beregningsåret.
+
+#### § 15.
+
+Afregningen, dog bortset fra afregning i medfør af stk. 2 og 3, sker ved, at 1/12 af de beløb, der efter de bestemmelser, som er nævnt i § 14, på årsbasis tilkommer (tilskud) eller påhviler (bidrag) vedkommende kommune, tillægges henholdsvis fradrages det månedlige beløb, som udbetales af Skattestyrelsen efter § 15 i lov om kommunal indkomstskat.
+
+*Stk. 2.* Afregning af midtvejsregulering sker ved, at 1/3 af de beløb, der tilkommer (tilskud) eller påhviler (bidrag) vedkommende kommune, tillægges henholdsvis fradrages det månedlige beløb, som udbetales af Skattestyrelsen i månederne oktober-december i tilskudsåret. Tilskud og bidrag efter § 23 b i lov om kommunal udligning og generelle tilskud afregnes ligeledes i månederne oktober-december i tilskudsåret.
+
+*Stk. 3.* Efterregulering af forskellen mellem de foreløbigt opgjorte tilskud og bidrag og de endeligt beregnede beløb efter §§ 2, 3, 13, 14 og 22, jf. § 24, stk. 7, i lov om kommunal udligning og generelle tilskud til kommuner afregnes med 1/3 i månederne januar-marts i året tre år efter tilskudsåret.
+
+### Særligt om kommuner, der er delt som led i kommunalreformen
+
+#### § 16.
+
+For de kommuner, der er delt som led i kommunalreformen, foretages en opdeling af kriterierne efter § 7 på basis af en af Danmarks Statistik opgjort nøgle mellem gamle og nye kommuner baseret på folketal pr. 1. januar 2007.
+
+*Stk. 2.* For de kommuner, der er delt som led i kommunalreformen, foretages en opdeling af kommunens provenu af selskabsskat på basis af en af Danmarks
+
+Statistik opgjort nøgle mellem gamle og nye kommuner baseret på folketal pr. 1. januar 2007.
+
+### Ikrafttræden
+
+#### § 17.
+
+Bekendtgørelsen træder i kraft den 1. juli 2026 og ﬁnder anvendelse for beregning af tilskud og bidrag for tilskudsåret 2027.
+
+Økonomi- og Indenrigsministeriet, den 30. juni 2026
+
+P.M.V.\
+Aske Gade Jeppesen
+
+/ Dorte Lemmich Madsen
+
+## Bilag 1
+
+## Enhedsbeløb ved opgørelse af aldersbestemt udgiftsbehov
+
+## Enhedsbeløb for kommunerne til brug for den foreløbige beregning af tilskud og udligning for tilskudsåret 2027
+
+| Beløb i kr. pr. person | Generel udligning af udgiftsbehov |
+|---|---|
+| 1. 0-5-årige | 81.643,12 |
+| 2. 6-16-årige | 104.897,97 |
+| 3. 17-19-årige | 35.989,41 |
+| 4. 20-24-årige | 29.474,23 |
+| 5. 25-29-årige | 35.978,15 |
+| 6. 30-34-årige | 36.921,61 |
+| 7. 35-39-årige | 34.386,10 |
+| 8. 40-44-årige | 37.879,07 |
+| 9. 45-49-årige | 40.365,05 |
+| 10. 50-54-årige | 43.285,82 |
+| 11. 55-59-årige | 47.508,95 |
+| 12. 60-64-årige | 50.735,61 |
+| 13. 65-74-årige | 36.993,88 |
+| 14. 75-84-årige | 46.938,42 |
+| 15. 85+ årige | 132.392,65 |
+| 16. Befolkningstilbagegang | 81.615,34 |
+
+## Bilag 2
+
+## Omkostningsvægte i procent ved opgørelse af aldersbestemt udgiftsbehov for tilskudsåret 2027
+
+<table>
+<tr>
+<td colspan="9">Tabel 1</td>
+</tr>
+<tr>
+<td></td>
+<td>Indbyggertal</td>
+<td>0-5-årige</td>
+<td>0-16-årige</td>
+<td>6-16-årige</td>
+<td>17-19-årige</td>
+<td>17-34-årige</td>
+<td>65 år og derover</td>
+<td>0-21-årige</td>
+</tr>
+<tr>
+<td>0-5-årige</td>
+<td>6</td>
+<td>100</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>26</td>
+</tr>
+<tr>
+<td>6-16-årige</td>
+<td>12</td>
+<td></td>
+<td>66</td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td>49</td>
+</tr>
+<tr>
+<td>17-19-årige</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td>20-24-årige</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>27</td>
+<td></td>
+<td>10</td>
+</tr>
+<tr>
+<td>25-29-årige</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>29</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30-34-årige</td>
+<td>7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>29</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>35-39-årige</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40-44-årige</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>45-49-årige</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+| 50-54-årige | 7 |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|---|
+| 55-59-årige | 7 |  |  |  |  |  |  |  |
+| 60-64-årige | 6 |  |  |  |  |  |  |  |
+| 65-74-årige | 10 |  |  |  |  |  | 50 |  |
+| 75-84-årige | 8 |  |  |  |  |  | 38 |  |
+| 85+ årige | 2 |  |  |  |  |  | 12 |  |
+| I alt | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
+
+<table>
+<tr>
+<td colspan="5">Tabel 2</td>
+</tr>
+<tr>
+<td></td>
+<td>Klubber m.m.</td>
+<td>Døgninst. og opholdssteder</td>
+<td>Plejefamilier</td>
+<td>Forebyggende foranstaltninger</td>
+</tr>
+<tr>
+<td>0-5-årige</td>
+<td></td>
+<td>2</td>
+<td>17</td>
+<td>12</td>
+</tr>
+<tr>
+<td>6-16-årige</td>
+<td>96</td>
+<td>58</td>
+<td>63</td>
+<td>73</td>
+</tr>
+<tr>
+<td>17-19-årige</td>
+<td>4</td>
+<td>32</td>
+<td>14</td>
+<td>13</td>
+</tr>
+<tr>
+<td>20-24-årige</td>
+<td></td>
+<td>8</td>
+<td>6</td>
+<td>2</td>
+</tr>
+<tr>
+<td>25-29-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>30-34-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>35-39-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>40-44-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>45-49-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>50-54-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>55-59-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>60-64-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+| 65-74-årige |  |  |  |  |
+|---|---|---|---|---|
+| 75-84-årige |  |  |  |  |
+| 85+ årige |  |  |  |  |
+| I alt | 100 | 100 | 100 | 100 |
+
+<table>
+<tr>
+<td colspan="6">Tabel 3</td>
+</tr>
+<tr>
+<td></td>
+<td>Ældreboliger m.m.</td>
+<td>Plejehjem, beskyttede boliger, plejeboliger og friplejeboliger</td>
+<td>Handicapydelser</td>
+<td>Hjemmehjælp til 65+ årige</td>
+<td>Hjemmesygepleje</td>
+</tr>
+<tr>
+<td>0-5-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6-16-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17-19-årige</td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20-24-årige</td>
+<td></td>
+<td></td>
+<td>11</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>25-29-årige</td>
+<td></td>
+<td></td>
+<td>13</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>30-34-årige</td>
+<td>1</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>35-39-årige</td>
+<td>1</td>
+<td></td>
+<td>9</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>40-44-årige</td>
+<td>2</td>
+<td>1</td>
+<td>8</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>45-49-årige</td>
+<td>2</td>
+<td>1</td>
+<td>8</td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>50-54-årige</td>
+<td>1</td>
+<td>1</td>
+<td>9</td>
+<td></td>
+<td>3</td>
+</tr>
+<tr>
+<td>55-59-årige</td>
+<td>1</td>
+<td>1</td>
+<td>9</td>
+<td></td>
+<td>4</td>
+</tr>
+<tr>
+<td>60-64-årige</td>
+<td>4</td>
+<td>2</td>
+<td>8</td>
+<td></td>
+<td>6</td>
+</tr>
+<tr>
+<td>65-74-årige</td>
+<td>17</td>
+<td>13</td>
+<td>9</td>
+<td>18</td>
+<td>17</td>
+</tr>
+</table>
+
+| 75-84-årige | 33 | 34 | 2 | 38 | 33 |
+|---|---|---|---|---|---|
+| 85+ årige | 38 | 47 |  | 44 | 30 |
+| I alt | 100 | 100 | 100 | 100 | 100 |
+
+<table>
+<tr>
+<td colspan="6">Tabel 4</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Genoptræningsplaner</td>
+<td>Vederlagsfri fysioterapi</td>
+<td>Kontanthjælp</td>
+<td>Revalidering</td>
+<td>Førtidspension</td>
+<td>Sygedagpenge</td>
+</tr>
+<tr>
+<td>0-5-årige</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6-16-årige</td>
+<td>3</td>
+<td>3</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17-19-årige</td>
+<td>2</td>
+<td>1</td>
+<td>3</td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20-24-årige</td>
+<td>3</td>
+<td>2</td>
+<td>10</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>25-29-årige</td>
+<td>3</td>
+<td>2</td>
+<td>11</td>
+<td>8</td>
+<td>4</td>
+<td>7</td>
+</tr>
+<tr>
+<td>30-34-årige</td>
+<td>3</td>
+<td>2</td>
+<td>14</td>
+<td>21</td>
+<td>5</td>
+<td>11</td>
+</tr>
+<tr>
+<td>35-39-årige</td>
+<td>3</td>
+<td>3</td>
+<td>12</td>
+<td>26</td>
+<td>6</td>
+<td>11</td>
+</tr>
+<tr>
+<td>40-44-årige</td>
+<td>3</td>
+<td>3</td>
+<td>10</td>
+<td>18</td>
+<td>7</td>
+<td>10</td>
+</tr>
+<tr>
+<td>45-49-årige</td>
+<td>4</td>
+<td>4</td>
+<td>9</td>
+<td>13</td>
+<td>10</td>
+<td>11</td>
+</tr>
+<tr>
+<td>50-54-årige</td>
+<td>6</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>15</td>
+<td>12</td>
+</tr>
+<tr>
+<td>55-59-årige</td>
+<td>7</td>
+<td>7</td>
+<td>5</td>
+<td>4</td>
+<td>19</td>
+<td>15</td>
+</tr>
+<tr>
+<td>60-64-årige</td>
+<td>9</td>
+<td>9</td>
+<td>4</td>
+<td>1</td>
+<td>23</td>
+<td>15</td>
+</tr>
+<tr>
+<td>65-74-årige</td>
+<td>19</td>
+<td>22</td>
+<td>1</td>
+<td></td>
+<td>8</td>
+<td>5</td>
+</tr>
+</table>
+
+| 75-84-årige | 23 | 26 |  |  |  |  |
+|---|---|---|---|---|---|---|
+| 85+ årige | 11 | 9 |  |  |  |  |
+| I alt | 100 | 100 | 100 | 100 | 100 | 100 |
+
+Tabel 5
+
+|  | Førtidspension | Sygedagpenge | Fuldtidsaktiverede i vejledning og opkvaliﬁcering |
+|---|---|---|---|
+| 0-5-årige |  |  |  |
+| 6-16-årige |  |  | 2 |
+| 17-19-årige | 1 |  | 5 |
+| 20-24-årige | 2 | 3 | 14 |
+| 25-29-årige | 4 | 7 | 14 |
+| 30-34-årige | 5 | 11 | 14 |
+| 35-39-årige | 6 | 11 | 12 |
+| 40-44-årige | 7 | 10 | 10 |
+| 45-49-årige | 10 | 11 | 8 |
+| 50-54-årige | 15 | 12 | 7 |
+| 55-59-årige | 19 | 15 | 7 |
+| 60-64-årige | 23 | 15 | 6 |
+| 65-74-årige | 8 | 5 | 1 |
+| 75-84-årige |  |  |  |
+| 85+ årige |  |  |  |
+| I alt | 100 | 100 | 100 |
+
+<table>
+<tr>
+<td colspan="6">Tabel 6</td>
+</tr>
+<tr>
+<td></td>
+<td>Forsikrede ledige</td>
+<td>Fleksjob</td>
+<td>Ressource- og jobafklaringsforløb</td>
+<td>Ledighedsydelse</td>
+<td>Seniorpension</td>
+</tr>
+<tr>
+<td>0-5-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6-16-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>17-19-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20-24-årige</td>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>25-29-årige</td>
+<td>19</td>
+<td>3</td>
+<td>10</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td>30-34-årige</td>
+<td>18</td>
+<td>6</td>
+<td>16</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>35-39-årige</td>
+<td>13</td>
+<td>8</td>
+<td>16</td>
+<td>12</td>
+<td></td>
+</tr>
+<tr>
+<td>40-44-årige</td>
+<td>9</td>
+<td>10</td>
+<td>13</td>
+<td>12</td>
+<td></td>
+</tr>
+<tr>
+<td>45-49-årige</td>
+<td>8</td>
+<td>14</td>
+<td>12</td>
+<td>13</td>
+<td></td>
+</tr>
+<tr>
+<td>50-54-årige</td>
+<td>8</td>
+<td>17</td>
+<td>11</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>55-59-årige</td>
+<td>9</td>
+<td>19</td>
+<td>10</td>
+<td>17</td>
+<td></td>
+</tr>
+<tr>
+<td>60-64-årige</td>
+<td>9</td>
+<td>17</td>
+<td>7</td>
+<td>13</td>
+<td>49</td>
+</tr>
+<tr>
+<td>65-74-årige</td>
+<td>3</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td>51</td>
+</tr>
+<tr>
+<td>75-84-årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>85+ årige</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>I alt</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+</tr>
+</table>
+
+## Bilag 3
+
+## Enhedsbeløb ved opgørelse af aldersbestemt udgiftsbehov
+
+## Enhedsbeløb for kommunerne til brug for den endelige beregning af tilskud og udligning for tilskudsåret 2024
+
+| Beløb i kr. pr. person | Generel udligning af udgiftsbehov |
+|---|---|
+| 1. 0-5-årige | 73.054,09 |
+| 2. 6-16-årige | 92.607,10 |
+| 3. 17-19-årige | 31.450,78 |
+| 4. 20-24-årige | 28.843,57 |
+| 5. 25-29-årige | 33.713,24 |
+| 6. 30-34-årige | 33.905,40 |
+| 7. 35-39-årige | 32.272,11 |
+| 8. 40-44-årige | 36.040,30 |
+| 9. 45-49-årige | 36.301,27 |
+| 10. 50-54-årige | 39.369,65 |
+| 11. 55-59-årige | 42.634,07 |
+| 12. 60-64-årige | 48.202,00 |
+| 13. 65-74-årige | 40.715,15 |
+| 14. 75-84-årige | 52.197,76 |
+| 15. 85+ årige | 142.827,06 |
+| 16. Befolkningstilbagegang | 79.006,64 |

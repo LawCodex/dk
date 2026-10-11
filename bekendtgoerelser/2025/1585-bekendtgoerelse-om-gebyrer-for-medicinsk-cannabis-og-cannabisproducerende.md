@@ -1,0 +1,134 @@
+---
+title: "Bekendtgørelse om gebyrer for medicinsk cannabis og cannabisproducerende virksomheder m.v."
+identifier: "BEK nr 1585 af 05/12/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/1585"
+accession_number: "B20250158505"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2025-12-05
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2025/1585"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om gebyrer for medicinsk cannabis og cannabisproducerende virksomheder m.v.
+
+*BEK nr 1585 af 05/12/2025*
+
+I medfør af § 64 a, stk. 1, i lov nr. 1668 af 26. december 2017 om ordning med medicinsk cannabis, som ændret ved lov nr. 1519 af 18. december 2018, lov nr. 2392 af 14. december 2021 og lov nr. 439 af 6. maj 2025, og § 2 b i lov om euforiserende stoffer, jf. lovbekendtgørelse nr. 1334 af 9. december 2019, fastsættes:
+
+## Gebyrer for virksomhedstilladelser
+
+### § 1.
+
+Den, der ansøger om en tilladelse til fremstilling af cannabisbulk og cannabisudgangsprodukter, skal betale gebyr til Lægemiddelstyrelsen for behandling af ansøgningen.
+
+*Stk. 2.* Indehaveren af en tilladelse efter stk. 1 skal betale gebyr til Lægemiddelstyrelsen for løbende virksomhedskontrol (årsgebyr).
+
+### § 2.
+
+Den, der søger om tilladelse til fremstilling af cannabismellemprodukter, skal betale gebyr til Lægemiddelstyrelsen for behandling af ansøgningen.
+
+*Stk. 2.* Indehaveren af en tilladelse efter stk. 1 skal betale gebyr til Lægemiddelstyrelsen for løbende virksomhedskontrol (årsgebyr).
+
+### § 3.
+
+Den, der søger om tilladelse til dyrkning og håndtering af cannabis med henblik på at udvikle cannabis til medicinsk brug, skal betale gebyr til Lægemiddelstyrelsen for behandling af ansøgningen.
+
+*Stk. 2.* Indehaveren af en tilladelse efter stk. 1 skal betale gebyr til Lægemiddelstyrelsen for løbende virksomhedskontrol (årsgebyr).
+
+### § 4.
+
+Hvis en virksomhed er indehaver af flere tilladelser, skal den betale fuldt årsgebyr for hver enkelt tilladelse.
+
+### § 5.
+
+Hvis Lægemiddelstyrelsen udsteder tilladelse til en virksomhed inden for årets første 9 måneder, hvorefter virksomheden skal betale årsgebyr, jf. §§ 1-3, skal virksomheden betale fuldt årsgebyr for dette år. Hvis tilladelsen bliver udstedt inden for årets sidste 3 måneder, skal virksomheden ikke betale årsgebyr for dette år.
+
+*Stk. 2.* En virksomhed, der ved årets start er i besiddelse af en virksomhedstilladelse for hvilken, der skal betales et årsgebyr, jf. §§ 1-3, skal betale fuldt årsgebyr for det pågældende år.
+
+### § 6.
+
+Størrelsen af de i §§ 1-3 nævnte gebyrer fremgår af bilag 1. Gebyrerne gælder for én geografisk lokalitet. Hvis en virksomhed er fordelt på flere geografiske lokaliteter, skal virksomheden betale et gebyr pr. lokalitet.
+
+## Gebyrer for cannabisproduktoptag
+
+### § 7.
+
+Den, der søger om optagelse af et cannabismellemprodukt fremstillet af et importeret cannabisudgangsprodukt på Lægemiddelstyrelsens liste over cannabismellemprodukter med tilhørende cannabisudgangsprodukter optaget i ordningen om medicinsk cannabis, skal betale gebyr for behandling af ansøgningen.
+
+### § 8.
+
+Den, der søger om optagelse af et cannabismellemprodukt fremstillet af et fremstillet cannabisudgangsprodukt på Lægemiddelstyrelsens liste over cannabismellemprodukter med tilhørende cannabisudgangsprodukter optaget i ordningen med medicinsk cannabis, skal betale gebyr for behandling af ansøgningen.
+
+### § 9.
+
+Den virksomhed, der har et produkt optaget på listen, skal betale et årsgebyr for løbende produktovervågning og -kontrol.
+
+### § 10.
+
+Hvis en virksomhed har flere produkter optaget på listen, skal den betale fuldt årsgebyr for hvert enkelt cannabismellemprodukt med tilhørende cannabisudgangsprodukt.
+
+### § 11.
+
+Hvis Lægemiddelstyrelsen optager et produkt på listen inden for årets første 9 måneder, hvorefter virksomheden skal betale årsgebyr, jf. §§ 7-9, skal virksomheden betale fuldt årsgebyr for dette år. Hvis produktet bliver optaget inden for årets sidste 3 måneder, skal virksomheden ikke betale årsgebyr for dette år.
+
+*Stk. 2.* En virksomhed, der ved årets start har et produkt på listen for hvilket, der skal betales et årsbebyr, jf. § 9, skal betale fuldt årsgebyr for dette år.
+
+### § 12.
+
+Størrelsen af de i §§ 7-9 nævnte gebyrer fremgår af bilag 1.
+
+## Betaling og regulering af gebyrer
+
+### § 13.
+
+Lægemiddelstyrelsen meddeler fremgangsmåden ved indbetaling af gebyrer i henhold til denne bekendtgørelse. Gebyret indbetales til Lægemiddelstyrelsen senest en måned efter påkrav.
+
+*Stk. 2.* Lægemiddelstyrelsen kan undlade at igangsætte behandling af en ansøgning eller bringe behandling til ophør, hvis et gebyr for behandling af ansøgningen ikke bliver betalt rettidigt.
+
+### § 14.
+
+Gebyrerne i denne bekendtgørelse bliver reguleret en gang årligt den 1. januar med den af Finansministeriet fastsatte sats for det generelle pris- og lønindeks. Det herefter fremkomne beløb afrundes til nærmeste hele kronebeløb.
+
+*Stk. 2.* De aktuelle gebyrer offentliggøres på Lægemiddelstyrelsens hjemmeside (lmst.dk).
+
+## Ikrafttrædelsesbestemmelse
+
+### § 15.
+
+Bekendtgørelsen træder i kraft den 1. januar 2026.
+
+*Stk. 2.* Bekendtgørelse nr. 2553 af 20. december 2021 om gebyrer for medicinsk cannabis og cannabisproducerende virksomheder ophæves.
+
+Indenrigs- og Sundhedsministeriet, den 5. december 2025
+
+Sophie Løhde
+
+/ Emil Otbo
+
+## Bilag 1
+
+Gebyrer
+
+Bilaget indeholder gebyrsatser for ansøgnings- og årsgebyrer efter bekendtgørelse om gebyrer for medicinsk cannabis og cannabisproducerende virksomheder m.v.
+
+| **Ansøgningstype** | **Forklaring** | **Lægemiddelstyrelsens varenummer** | **Gebyr** |
+|---|---|---|---|
+| Ansøgning om fremstillertilladelse | Fremstilling af cannabisbulk og cannabisudgangsprodukter | 7001/7002 | 130.301 kr. |
+| Ansøgning om mellemproduktfremstillertilladelse | Fremstilling af cannabismellemprodukter | 7003 | 70.432 kr. |
+| Ansøgning om tilladelse under udviklingsordningen | Dyrkning og håndtering af cannabis med henblik på at udvikle cannabis til medicinsk brug | 7004 | 43.690 kr. |
+| Årsgebyr for fremstillertilladelse | Fremstilling af cannabisbulk og cannabisudgangsprodukter | 7005/7006 | 53.603 kr. |
+| Årsgebyr for mellemproduktfremstillertilladelse | Fremstilling af cannabismellemprodukter | 7007 | 41.579 kr. |
+| Årsgebyr for tilladelse under udviklingsordningen | Dyrkning og håndtering af cannabis med henblik på at udvikle cannabis til medicinsk brug | 7008 | 13.304 kr. |
+| Ansøgning om optagelse af et cannabismellemprodukt fremstillet af et importeret cannabisudgangsprodukt |  | 7009 | 49.385 kr. |
+| Ansøgning om optagelse af et cannabismellemprodukt fremstillet af et fremstillet cannabisudgangsprodukt |  | 7010 | 126.533 kr. |
+| Årsgebyr for cannabismellemprodukt med tilhørende udgangsprodukt optaget på listen |  | 7011 | 35.371 kr. |
+
+## Officielle noter
+
+**EU Noter**
+
+1\) Bekendtgørelsen har som udkast været notificeret i overensstemmelse med Europa-Parlamentets og Rådets direktiv 2015/1535/EU om en informationsprocedure med hensyn til tekniske forskrifter samt forskrifter for informationssamfundets tjenester (kodifikation).

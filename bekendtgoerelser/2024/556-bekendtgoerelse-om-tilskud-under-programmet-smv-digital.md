@@ -1,0 +1,188 @@
+---
+title: "Bekendtgørelse om tilskud under programmet SMV:Digital"
+identifier: "BEK nr 556 af 28/05/2024"
+eli: "https://www.retsinformation.dk/eli/lta/2024/556"
+accession_number: "B20240055605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2024-05-28
+status: "in_force"
+ministry: "Forsknings-, Uddannelses- og Digitaliseringsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2024/556"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om tilskud under programmet SMV:Digital
+
+*BEK nr 556 af 28/05/2024*
+
+I medfør af § 3, stk. 1, og § 7, stk. 3, i lov om erhvervsfremme, jf. lovbekendtgørelse nr. 230 af 29. februar 2024, fastsættes:
+
+## Kapitel 1 — Bekendtgørelsens anvendelsesområde
+
+#### § 1.
+
+Efter denne bekendtgørelse ydes økonomisk støtte til små og mellemstore virksomheder til rådgivning om digital omstilling, automatisering og e-handel, investeringsstøtte til indkøb af teknologi og IT og støtte til afprøvning af robotter via programmet SMV:Digital.
+
+## Kapitel 2 — Definitioner
+
+#### § 2.
+
+I denne bekendtgørelse forstås ved:
+
+- 1\) Virksomhed: Enhver juridisk enhed med dansk CVR-nummer uanset dens retlige form, der udøver en økonomisk aktivitet.
+- 2\) SMV: En dansk virksomhed, som beskæftiger op til 249 fuldtidsansatte, og som enten har en årlig omsætning på maksimalt 50 mio. euro eller en årlig balance på maksimalt 43 mio. euro.
+- 3\) Partnervirksomheder: Virksomheder, som selskabsmæssigt er forbundet med hinanden, ved at den ene besidder 25 pct. eller derover af kapitalen eller stemmerettighederne i en anden virksomhed. Partnervirksomheders ansatte og finansielle oplysninger indgår forholdsmæssigt på grundlag af ejerandelen ved opgørelsen af, hvorvidt en ansøgervirksomhed opfylder SMV-definitionen.
+- 4\) Fuldtidsansatte: Antallet af ansatte i virksomheden omregnet til årsværk. Årsværk opgøres ved at tage et gennemsnit af de registrerede årsværk på cvr.dk, som indgår i virksomhedens seneste regnskabsperiode. Ejere, som er fuldtidsbeskæftiget i virksomheden, men som ikke modtager fast løn, kan tilsammen maksimalt tillægge ét årsværk i beregningen.
+- 5\) Rådgiver: Person ansat i en virksomhed, der opererer på kommercielle vilkår, og besidder relevante kompetencer og erfaring inden for et eller flere områder omhandlende digitalisering, automatisering og e-handel.
+- 6\) Systemintegrator: En virksomhed, der opererer på kommercielle vilkår, og som sælger og integrerer maskiner samt besidder relevante kompetencer og erfaring inden for integration og rådgivning om ibrugtagning af robotter.
+- 7\) Robot: Maskine som kan programmeres til at udføre forskellige opgaver og med forskellige formål.
+- 8\) Operatør: Leverandør, som efter offentligt udbud har indgået kontrakt med Digitaliseringsstyrelsen om SMV:Digital og opgaverne: sagsforberedende arbejde, ansøgningssystem og kommunikation.
+
+## Kapitel 3 — SMV:Digitals målgruppe
+
+#### § 3.
+
+En SMV kan efter reglerne i denne bekendtgørelse ansøge om støtte gennem SMV:Digital.
+
+*Stk. 2.* Digitaliseringsstyrelsen kan fastsætte supplerende kriterier for, hvilke SMV’er og hvilke projekttyper der kan opnå støtte ved de enkelte tilskudspuljer.
+
+*Stk. 3.* En SMV kan alene opnå støtte til ét projekt ved hver tilskudspulje. Ved sammenfaldende ejerforhold blandt ansøgervirksomhederne kan der alene ydes støtte til én af disse, hvis en ejer eller partnervirksomheds ejerandel overstiger 25 pct. i de pågældende SMV’er.
+
+*Stk. 4.* Der kan ikke ydes støtte til SMV’er, som på ansøgningstidspunktet har uafsluttede projekter, som har opnået tilsagn om støtte fra SMV:Digital, medmindre andet fremgår af beskrivelsen for den konkrete tilskudspulje på SMV:Digitals hjemmeside.
+
+*Stk. 5.* En SMV kan alene opnå støtte, hvis den er omfattet af selskabslovens § 1, stk. 1, lov om visse erhvervsdrivende virksomheder § 1, stk. 1, eller lov om erhvervsdrivende fonde § 1, stk. 1.
+
+*Stk. 6.* En SMV kan alene opnå støtte, hvis dens indtægter fra offentlige tilskud, bidrag, donationer, medlemskontingenter og lignende udgør under 25 pct. af dens samlede indtægter. En SMV skal ved ansøgning om støtte i SMV:Digital oplyse, om den har modtaget de minimis-støtte i løbet af de seneste tre år. En SMV skal ved accept af Digitaliseringsstyrelsens tilsagn om støtte udfylde en tro- og loveerklæring om, at oplysningerne angivet om de minimis-støtte er korrekte.
+
+## Kapitel 4 — Støtteberettigede projekter og omkostninger
+
+#### § 4.
+
+En SMV kan opnå støtte til investering, til rådgivning i digitalisering og til afprøvning af robotter.
+
+*Stk. 2.* Der kan ydes støtte til rådgivning vedrørende aktiviteter inden for områderne digital omstilling, automatisering eller e-handel, herunder kortlægning af arbejdsprocesser, udarbejdelse af kravspecifikation, bistand til valg af leverandører mv.
+
+*Stk. 3.* Der kan ydes støtte til investering ved anskaffelse af digitale systemer, automatiserings- eller e-handelsløsninger, herunder installation og konfigurering af den nyindkøbte teknologi, samt eventuel tilpasning af den nyindkøbte teknologi i forhold til integration med eksisterende IT-systemer.
+
+*Stk. 4.* Der kan ydes støtte til investeringer i hardware og software samt ydes støtte til forudbetalt hardware og software via leasing og abonnement i op til to år.
+
+*Stk. 5.* Der kan ydes støtte til afprøvning af robotter, herunder til lån af robotter og rådgivning om ibrugtagning af robotter, service og opsætning af robotter samt oplæring af medarbejdere i SMV’en og nedtagning af robot. Der kan ydes støtte til op til 3 måneders lån. Der kan ydes støtte til SMV’ens udgifter til systemintegrators rådgivning forud for ansøgning til Digitaliseringsstyrelsen, hvis SMV’en opnår tilsagn om afprøvning af robot, og hvis systemintegrator har tilknytning til projektet.
+
+#### § 5.
+
+Støtte til investering til indkøb af teknologi og IT eller rådgivning om digital omstilling, automatisering og e-handel er betinget af, at SMV’en selv bidrager til finansieringen.
+
+*Stk. 2.* Støtten til investeringer til indkøb af teknologi og IT udgør 25 pct. af projektets støtteberettigede faktiske udgifter. Medfinansiering af investeringer kan alene ske i form af kontantbidrag.
+
+*Stk. 3.* Støtten til rådgivning om digital omstilling, automatisering og e-handel udgør 50 pct. af projektets støtteberettigede faktiske udgifter. Medfinansieringen af rådgivning kan ske i form af egne løntimer, kontantbidrag eller en kombination heraf.
+
+*Stk. 4.* Støtte til afprøvning af robotter udgør op til 100 pct. af projektets tilskudsberettigede faktiske udgifter. Eventuel medfinansiering af afprøvning af robotter kan ske i form af egne løntimer, kontantbidrag eller en kombination heraf.
+
+#### § 6.
+
+Støtte fra SMV:Digital kan kun anvendes til dækning af udgifter, som er i overensstemmelse med projektbeskrivelsen og afholdt inden for tilsagnsperioden.
+
+*Stk. 2.* Der ydes ikke støtte til moms.
+
+*Stk. 3.* Digitaliseringsstyrelsen kan fastsætte supplerende vilkår for tilsagn om støtte.
+
+#### § 7.
+
+Støtte efter denne bekendtgørelse kan fordeles mellem virksomheder inden for de seks erhvervshusområder ud fra en fordelingsnøgle baseret på den procentvise geografiske fordeling af SMV’er.
+
+*Stk. 2.* De enkelte erhvervshusområder tildeles en tidsbegrænset forhåndsreservation af støttemidler. Inden for hvert erhvervshusområde behandles ansøgningerne i den rækkefølge, de er modtaget.
+
+*Stk. 3.* Efter forhåndsreservationens udløb fordeles eventuelle uforbrugte støttemidler mellem ansøgere fra de øvrige erhvervshusområder i den rækkefølge, ansøgningerne er modtaget.
+
+## Kapitel 5 — Rådgivere
+
+#### § 8.
+
+Operatøren for SMV:Digital kan godkende en rådgiver til at udføre rådgivningsarbejde i SMV:Digital. Kun godkendte rådgivere, som er optaget i SMV:Digitals rådgiverdatabase, må udføre rådgivningsopgaver i SMV:Digital.
+
+*Stk. 2.* Rådgiverdatabasen administreres af operatøren for SMV:Digital, der har til opgave at godkende rådgivere, § 2, nr. 5, til at udføre rådgivningsarbejde i SMV:Digital. Godkendte rådgivere optages i rådgiverdatabasen.
+
+*Stk. 3.* En rådgiver skal yde uvildig rådgivning og må ikke have sammenfaldende økonomiske eller personlige interesser med virksomheden som rådgives.
+
+*Stk. 4.* En rådgiver skal, med afsæt i støttemodtagers konkrete behov, rådgive om it-sikkerhedsmæssige foranstaltninger som en del af projektet.
+
+*Stk. 5.* En rådgiver skal bekræfte eller opdatere sit CV mindst hver 6. måned.
+
+*Stk. 6.* En rådgiver skal have deltaget i SMV:Digitals obligatoriske informationsmøde for rådgivere inden for 3 måneder efter optagelse i rådgiverdatabasen for at kunne udføre rådgivningsopgaver i SMV:Digital.
+
+*Stk. 7.* Operatøren for SMV:Digital kan ekskludere en godkendt rådgiver fra databasen, hvis rådgiveren tilsidesætter sine forpligtelser i henhold til denne bekendtgørelse, samt pligter over for enten støttemodtager eller over for SMV:Digital. En ekskluderet rådgiver kan ansøge om fornyet godkendelse og optagelse i SMV:Digitals rådgiverdatabase efter 12 måneder. Operatøren for SMV:Digital kan nægte at godkende en rådgiver, som ikke besidder de fornødne kompetencer og erfaring, eller som groft eller i gentagne tilfælde har tilsidesat sine forpligtelser.
+
+### Systemintegratorer
+
+#### § 9.
+
+Operatøren for SMV:Digital kan godkende en systemintegrator til at tilbyde låneforløb med afprøvning af robotter i SMV:Digital. Kun godkendte systemintegratorer må tilbyde låneforløb med afprøvning af robotter i SMV:Digital.
+
+*Stk. 2.* En systemintegrator må ikke have sammenfaldende økonomiske eller personlige interesser med virksomheden, som modtager støtte til afprøvning af robot.
+
+*Stk. 3.* En systemintegrator skal, med afsæt i støttemodtagers konkrete behov, rådgive om it-sikkerhedsmæssige foranstaltninger som en del af projektet.
+
+*Stk. 4.* Operatøren for SMV:Digital kan ekskludere en godkendt systemintegrator fra at kunne tilbyde låneforløb med afprøvning af robotter i SMV:Digital, hvis systemintegrator tilsidesætter sine forpligtelser i henhold til denne bekendtgørelse, samt pligter over for enten støttemodtager eller over for SMV:Digital. En ekskluderet systemintegrator kan ansøge om fornyet godkendelse i SMV:Digital efter 12 måneder. Operatøren for SMV:Digital kan nægte at godkende en systemintegrator, som ikke besidder de fornødne kompetencer og erfaring, eller som groft eller i gentagne tilfælde har tilsidesat sine forpligtelser.
+
+## Kapitel 6 — Projektændringer, fristforlængelser og bortfald om tilsagn af støtte
+
+#### § 10.
+
+Digitaliseringsstyrelsen kan træffe afgørelse om, at et meddelt tilsagn om støtte helt eller delvist bortfalder samt kræve allerede udbetalt støtte helt eller delvist tilbagebetalt, hvis
+
+- 1\) støttemodtager har givet urigtige eller vildledende oplysninger eller fortiet oplysninger af betydning for sagen,
+- 2\) forudsætningerne for tilsagn om støtte er væsentligt ændrede,
+- 3\) støttemodtager har anvendt en rådgiver, som ikke er optaget i SMV:Digitals rådgiverdatabase, eller en systemintegrator, som ikke er godkendt til at tilbyde låneforløb med afprøvning af robotter i SMV:Digital,
+- 4\) støttemodtager har sammenfaldende økonomiske eller personlige interesser med den anvendte rådgiver eller systemintegrator,
+- 5\) støttemodtager ikke har accepteret sit tilsagn inden for 3 måneder efter, at tilsagnet er givet,
+- 6\) støttemodtager ikke har udfyldt tro- og loveerklæring eller ikke har afgivet korrekte oplysninger om tidligere modtaget de minimis-støtte,
+- 7\) støttemodtager har accepteret sit tilsagn og registreret en godkendt rådgiver eller systemintegrator, men ikke påbegyndt sit projekt inden for tilsagnsperioden, eller
+- 8\) tilsagnsvilkårene i øvrigt er tilsidesat.
+
+*Stk. 2.* På anmodning fra støttemodtager kan Digitaliseringsstyrelsen træffe afgørelse om, hvorvidt en ændring af et projekt kan godkendes.
+
+*Stk. 3.* På anmodning fra støttemodtager kan Digitaliseringsstyrelsen træffe afgørelse om, hvorvidt en fristforlængelse for projektafslutning og afrapportering kan godkendes.
+
+## Kapitel 7 — Afslutning af projektet
+
+#### § 11.
+
+Udbetaling af støtte fra SMV:Digital sker bagudrettet og er betinget af, at virksomheden indsender en afrapportering ved projektets afslutning.
+
+*Stk. 2.* Afrapporteringen skal indeholde en redegørelse af projektforløbet, regnskab for projektet, ledelseserklæring samt bilags-/fakturadokumentation for projektets faktiske udgifter.
+
+*Stk. 3.* Digitaliseringsstyrelsen kan fastsætte supplerende kriterier for indholdet i afrapporteringen.
+
+*Stk. 4.* Afrapporteringen skal indsendes senest 3 måneder efter projektets afslutning.
+
+*Stk. 5.* Udbetaling af støtte sker til virksomhedens NemKonto.
+
+*Stk. 6.* Støttemodtageren er forpligtet til at besvare en opsamlende evaluering efter afslutning af projektet, samt en efterfølgende evaluering, som Digitaliseringsstyrelsen udsender inden for to år efter projektets afslutning.
+
+## Kapitel 8 — Henlæggelse af beføjelser, klage og ikrafttræden
+
+#### § 12.
+
+Digitaliseringsstyrelsen kan henlægge sine beføjelser efter § 10, stk. 3, og § 11 til Erhvervsstyrelsen i overensstemmelse med § 7, stk. 2, i lov om erhvervsfremme.
+
+*Stk. 2.* Digitaliseringsstyrelsens afgørelser i henhold til denne bekendtgørelse kan ikke påklages til anden administrativ myndighed.
+
+*Stk. 3.* Operatørens afgørelser efter §§ 8-9 kan påklages til Digitaliseringsstyrelsen.
+
+*Stk. 4.* Klage indgivet i henhold til stk. 3 fremsendes til operatøren, som, hvis afgørelsen fastholdes, snarest efter modtagelsen af klagen videresender denne til Digitaliseringsstyrelsen sammen med en udtalelse i anledning af klagen.
+
+*Stk. 5.* Erhvervsstyrelsens afgørelser efter stk. 1 kan påklages til Digitaliseringsstyrelsen og uanset stk. 2 derefter til Digitaliseringsministeren.
+
+#### § 13.
+
+Bekendtgørelsen træder i kraft den 1. juli 2024.
+
+*Stk. 2.* Bekendtgørelse nr. 1377 af 27. november 2023 om tilskud under programmet SMV:Digital ophæves.
+
+Ministeriet for Digitalisering og Ligestilling, den 28. maj 2024
+
+Marie Bjerre
+
+/ Tanja Franck

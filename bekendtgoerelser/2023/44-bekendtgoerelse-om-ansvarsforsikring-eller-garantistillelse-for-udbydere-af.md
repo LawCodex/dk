@@ -1,0 +1,162 @@
+---
+title: "Bekendtgørelse om ansvarsforsikring eller garantistillelse for udbydere af betalingsinitieringstjenester og kontooplysningstjenester"
+identifier: "BEK nr 44 af 16/01/2023"
+eli: "https://www.retsinformation.dk/eli/lta/2023/44"
+accession_number: "B20230004405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2023-01-16
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2023/44"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ansvarsforsikring eller garantistillelse for udbydere af betalingsinitieringstjenester og kontooplysningstjenester
+
+*BEK nr 44 af 16/01/2023*
+
+I medfør af § 10, stk. 4, § 60, stk. 8, og § 152, stk. 7, i lov om betalinger, jf. lovbekendtgørelse nr. 2710 af 7. december 2021, fastsættes:
+
+## Anvendelsesområde
+
+### § 1.
+
+Denne bekendtgørelse finder anvendelse på følgende virksomheder:
+
+- 1\) Virksomheder, der er meddelt tilladelse til at udbyde betalingsinitieringstjenester, jf. § 9, i lov om betalinger, jf. bilag 1, nr. 7, i lov om betalinger.
+- 2\) Virksomheder, der er meddelt tilladelse til at udbyde kontooplysningstjenester, jf. § 60, stk. 1, i lov om betalinger, jf. bilag 1, nr. 8, i lov om betalinger.
+
+## Ansvarsforsikring eller garantistillelse
+
+### § 2.
+
+En virksomhed, der udbyder betalingsinitieringstjenester eller kontooplysningstjenester, skal enten
+
+- 1\) have en ansvarsforsikring fra et forsikringsselskab, eller
+- 2\) have en garanti fra et forsikringsselskab, et pengeinstitut eller en garantistiller, der indebærer en tilsvarende sikkerhed som en ansvarsforsikring fra et forsikringsselskab.
+
+### § 3.
+
+En ansvarsforsikring eller garanti efter § 2 skal opfylde følgende betingelser:
+
+- 1\) Ansvarsforsikringen eller garantien for en virksomhed, der udbyder betalingsinitieringstjenester, skal sikre, at forsikringsselskabet, pengeinstituttet eller anden garantistiller hæfter umiddelbart for det erstatningsansvar, som virksomheden ifalder efter § 99 og §§ 104-106 i lov om betalinger.
+- 2\) Ansvarsforsikringen eller garantien for en virksomhed, der udbyder kontooplysningstjenester, skal sikre, at forsikringsselskabet, pengeinstituttet eller anden garantistiller hæfter umiddelbart for det erstatningsansvar, som virksomheden ifalder over for de kontoførende udbydere og brugerne som følge af uautoriseret eller svigagtig adgang til eller uautoriseret brug af betalingsoplysninger.
+- 3\) Ansvarsforsikringen eller garantien skal omfatte krav, der rejses og anmeldes senest 26 måneder efter ansvarsforsikringens eller garantiens ophør, i det omfang der ikke er tegnet en ny ansvarsforsikring i andet forsikringsselskab eller stillet en ny garanti for virksomheden med fuld retroaktiv dækning.
+- 4\) Ansvarsforsikringen eller garantien skal dække de geografiske områder i alle lande inden for Den Europæiske Union og lande, som Fællesskabet har indgået aftale med på det finansielle område, hvor virksomheden tilbyder kontooplysningstjenester eller betalingsinitieringstjenester.
+
+*Stk. 2.* Indeholder ansvarsforsikringen eller garantien efter § 2 en selvrisiko eller anden beløbsbegrænsning, skal virksomheden, der udbyder betalingsinitieringstjenester eller kontooplysningstjenester, træffe supplerende foranstaltninger, der sikrer, at begrænsningen ikke påvirker tilbagebetalinger som følge af krav mod virksomheden. Virksomheden skal sikre dette ved f.eks. at deponere et beløb, tegne en supplerende forsikring eller indgå aftale om anden sammenlignelig garanti, der som minimum dækker et beløb svarende til selvrisikoen eller beløbsbegrænsningen.
+
+## Dækningssummen for ansvarsforsikring eller garantistillelse
+
+### § 4.
+
+For en virksomhed, der udbyder betalingsinitieringstjenester, skal ansvarsforsikringen eller garantien, jf. § 2, have en dækningssum, der som minimum svarer til det beløb, der fremkommer på baggrund af beregningsmetoden i bilag 1.
+
+*Stk. 2.* For en virksomhed, der udbyder kontooplysningstjenester, skal ansvarsforsikringen eller garantien, jf. § 2, have en dækningssum, der som minimum svarer til det beløb, der fremkommer på baggrund af beregningsmetoden i bilag 2.
+
+*Stk. 3.* For en virksomhed, der både udbyder betalingsinitieringstjenester og kontooplysningstjenester, skal ansvarsforsikringen eller garantien, jf. § 2, have en dækningssum, der som minimum svarer til det beløb, der fremkommer ved at akkumulere beløbene på baggrund af beregningsmetoden i bilag 1 og 2.
+
+*Stk. 4.* Udøver virksomheden tillige forretningsaktiviteter omfattet af § 18, stk. 1, nr. 4, eller § 18, stk. 3, nr. 3, i lov om betalinger, skal et ekstra beløb svarende til 50.000 euro tilføjes dækningssummen på virksomhedens ansvarsforsikring eller garanti som nævnt i stk. 1-3, jf. dog stk. 5.
+
+*Stk. 5.* Stk. 4 finder ikke anvendelse i følgende tilfælde:
+
+- 1\) Såfremt virksomheden kan dokumentere, at den er dækket af en anden forsikring eller tilsvarende garanti imod krav, der kan rejses mod virksomheden som følge af aktiviteterne efter § 18, stk. 1, nr. 4, eller efter § 18, stk. 3, nr. 3, i lov om betalinger.
+- 2\) Såfremt Finanstilsynet har besluttet, at virksomhedens aktiviteter efter § 18, stk. 1, nr. 4, eller efter § 18, stk. 3, nr. 3, i lov om betalinger skal udøves i et særskilt selskab, jf. § 10, stk. 3, i lov om betalinger.
+
+*Stk. 6.* En virksomhed, der udbyder betalingsinitierings-tjenester eller kontooplysningstjenester, skal vurdere, om dækningssummen på virksomhedens ansvarsforsikring eller garanti og eventuelle supplerende foranstaltninger, jf. § 3, opfylder kravene i stk. 1-5, når dette er nødvendigt og mindst en gang årligt.
+
+## Erklæring om ansvarsforsikring eller garantistillelse
+
+### § 5.
+
+En virksomhed, der udbyder betalingsinitieringstjenester eller kontooplysningstjenester, skal have en erklæring fra et forsikringsselskab, et pengeinstitut eller en anden garantistiller om, at virksomheden er dækket af en ansvarsforsikring eller en garanti, der opfylder betingelserne i § 2.
+
+*Stk. 2.* Erklæringen, jf. stk. 1, skal afgives på blanket udarbejdet af Finanstilsynet og indsendes til Finanstilsynet samtidig med indsendelse af ansøgning om tilladelse til at udbyde betalingsinitieringstjenester eller kontooplysningstjenester.
+
+*Stk. 3.* Når en virksomhed er meddelt tilladelse til at udbyde betalingsinitieringstjenester eller kontooplysningstjenester, skal en ny erklæring om fortsat dækning, jf. stk. 1, efterfølgende indsendes til Finanstilsynet en gang om året senest den 1. maj.
+
+## Straffebestemmelser
+
+### § 6.
+
+Overtrædelse af § 2, § 3, § 4, stk. 1-4 og 6, og § 5, stk. 3, straffes med bøde.
+
+*Stk. 2.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+## Ikrafttræden
+
+### § 7.
+
+Bekendtgørelsen træder i kraft den 1. februar 2023.
+
+*Stk. 2.* Bekendtgørelse nr. 1277 af 28. november 2017 om ansvarsforsikring eller garantistillelse for udbydere af betalingsinitieringstjenester og kontooplysningstjenester ophæves.
+
+Finanstilsynet, den 16. januar 2023
+
+Jesper Berg
+
+/ Tobias Thygesen
+
+## Bilag 1
+
+**Beregningsmetode for dækningssum på ansvarsforsikring eller garantistillelse for virksomheder, der udbyder betalingsinitieringstjenester**
+
+En ansvarsforsikrings eller en garantis dækningssum, jf. § 4, stk. 1, skal som minimum svare til det beløb, der er lig med summen af elementerne i nr. 1-3:
+
+- 1\. Første element er summen af alle de krav, der er rejst mod en virksomhed, der udbyder betalingsinitieringstjenester, jf. § 1, nr. 1, i henhold til § 99 og §§ 104-106 i lov om betalinger, i løbet af de foregående 12 måneder. Har virksomheden endnu ikke gennemført 12 måneders drift på datoen for beregningen, anvendes det estimat for de kommende 12 måneder, som fremgår af virksomhedens egen vurdering. Estimatet skal dog som minimum udgøre et beløb svarende til 50.000 euro.
+- 2\. Andet element er et beløb, som afspejler antallet af betalinger. I beregningen indgår én betaling med værdien én euro, hvor N er antallet af betalinger iværksat i løbet af de foregående 12 måneder. Andet element beregnes som summen af følgende:
+
+|  | a) | 40 pct. af den del af N som er i intervallet 0 til 10.000 betalinger, |
+|---|---|---|
+|  | b) | 25 pct. af den del af N som er i intervallet 10.000 indtil 100.000 betalinger, |
+|  | c) | 10 pct. af den del af N som er i intervallet 100.000 indtil 1.000.000 betalinger, |
+|  | d) | 5 pct. af den del af N som er i intervallet 1.000.000 indtil 10.000.000 betalinger, og |
+|  | e) | 0,025 pct. af den del af N som overstiger 10.000.000 betalinger. |
+
+Har en virksomhed endnu ikke gennemført 12 måneders drift på datoen for beregningen, anvendes det estimat for de kommende 12 måneder, som fremgår af virksomhedens egen vurdering. Estimatet skal dog som minimum udgøre et beløb svarende til 50.000 euro.
+
+- 3\. Tredje element er summen af følgende, hvor V udgør værdien af betalinger iværksat i løbet af de foregående 12 måneder:
+
+|  | a) | 40 pct. af den del af V som er i intervallet 0 til 500.000 euro, |
+|---|---|---|
+|  | b) | 25 pct. af den del af V som er i intervallet 500.000 euro indtil 1.000.000 euro, |
+|  | c) | 10 pct. af den del af V som er i intervallet 1.000.000 euro indtil 5.000.000 euro, |
+|  | d) | 5 pct. af den del af V som er i intervallet 5.000.000 euro indtil 10.000.000 euro, |
+|  | e) | 0,025 pct. af den del af V som overstiger 10.000.000 euro. |
+
+Har en virksomhed endnu ikke gennemført 12 måneders drift på datoen for beregningen, anvendes det estimat for de kommende 12 måneder, som fremgår af virksomhedens egen vurdering. Estimatet skal dog som minimum udgøre et beløb svarende til 50.000 euro.
+
+## Bilag 2
+
+**Beregningsmetode for dækningssum på ansvarsforsikring eller garantistillelse for virksomheder, der udbyder kontooplysningstjenester**
+
+En ansvarsforsikrings eller en garantis dækningssum, jf. § 4, stk. 2, skal som minimum svare til det beløb, der er lig med summen af elementerne i nr. 1-3:
+
+- 1\. Første element er summen af alle de krav, der er rejst mod en virksomhed, der udbyder kontooplysningstjenester, jf. § 1, stk. 1, nr. 2, af kontoførende udbydere og brugerne som følge af uautoriseret eller svigagtig adgang til eller uautoriseret brug af betalingsoplysninger i løbet af de foregående 12 måneder. Har virksomheden endnu ikke gennemført 12 måneders drift på datoen for beregningen, anvendes det estimat for de kommende 12 måneder, som fremgår af virksomhedens egen vurdering. Estimatet skal dog som minimum udgøre et beløb svarende til 50.000 euro.
+- 2\. Andet element er et beløb, som afspejler antallet af betalingskonti. I beregningen indgår én betalings- konto med værdien én euro, hvor N er antallet af unikke betalingskonti, der er tilgået i løbet af de foregående 12 måneder. Andet element beregnes som summen af følgende:
+
+|  | a) | 40 pct. af den del af N som er i intervallet 0 til 10.000 betalingskonti, |
+|---|---|---|
+|  | b) | 25 pct. af den del af N som er i intervallet 10.000 indtil 100.000 betalingskonti, |
+|  | c) | 10 pct. af den del af N som er i intervallet 100.000 indtil 1.000.000 betalingskonti, |
+|  | d) | 5 pct. af den del af N som er i intervallet 1.000.000 indtil 10.000.000 betalingskonti, og |
+|  | e) | 0,025 pct. af den del af N som overstiger 10.000.000 betalingskonti. |
+
+Har en virksomhed endnu ikke gennemført 12 måneders drift på datoen for beregningen, anvendes det estimat for de kommende 12 måneder, som fremgår af virksomhedens egen vurdering. Estimatet skal dog som minimum udgøre et beløb svarende til 50.000 euro.
+
+- 3\. Tredje element er et beløb, som afspejler antallet af brugere. I beregningen indgår én bruger med værdien én euro, hvor K er antallet af brugere, som virksomheden har indgået aftale med, om udbud af kontooplysningstjenester i løbet af de foregående 12 måneder. Tredje element beregnes som summen af følgende:
+
+|  | a) | 40 pct. af den del af K som er i intervallet 0 til 100 brugere, |
+|---|---|---|
+|  | b) | 25 pct. af den del af K som er i intervallet 100 indtil 10.000 brugere, |
+|  | c) | 10 pct. af den del af K som er i intervallet 10.000 indtil 100.000 brugere, |
+|  | d) | 5 pct. af den del af K som er i intervallet 100.000 indtil 1.000.000 brugere, |
+|  | e) | 0,025 pct. af den del af K som overstiger 1.000.000 brugere. |
+
+Har virksomheden endnu ikke gennemført 12 måneders drift på datoen for beregningen, anvendes det estimat for de kommende 12 måneder, som fremgår af virksomhedens egen vurdering. Estimatet skal dog som minimum udgøre et beløb svarende til 50.000 euro.
+
+## Officielle noter
+
+1\) Bekendtgørelsen indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2015/2366/EU af 25. november 2015 om betalingstjenester i det indre marked, om ændring af direktiv 2002/65/EF, 2009/110/EF og 2013/36/EU og forordning (EU) nr. 1093/2010 og om ophævelse af direktiv 2007/64/EF, EU-tidende 2015, nr. L 337, side 35.

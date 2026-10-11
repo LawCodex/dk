@@ -1,0 +1,109 @@
+---
+title: "Bekendtgørelse om arbejdstid for selvstændige vognmænd, der udfører mobile vejtransportaktiviteter"
+identifier: "BEK nr 1192 af 21/11/2024"
+eli: "https://www.retsinformation.dk/eli/lta/2024/1192"
+accession_number: "B20240119205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2024-11-21
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2024/1192"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om arbejdstid for selvstændige vognmænd, der udfører mobile vejtransportaktiviteter
+
+*BEK nr 1192 af 21/11/2024*
+
+I medfør af § 2, stk. 2, og § 17, stk. 2, i lov om godskørsel, jf. lovbekendtgørelse nr. 327 af 23. marts 2024, og § 18, stk. 1, nr. 1, og § 22, stk. 2, i lov om buskørsel, jf. lovbekendtgørelse nr. 542 af 15. maj 2023, fastsættes efter bemyndigelse i henhold til § 6 og § 7 i bekendtgørelse nr. 373 af 9. april 2024 om Færdselsstyrelsens opgaver og beføjelser samt klageadgang:
+
+## Indledende bestemmelser
+
+### § 1.
+
+Denne bekendtgørelse finder anvendelse for mobile selvstændige vognmænd, der deltager i vejtransportaktiviteter, som er omfattet af Europa-Parlamentets og Rådets forordning (EF) nr. 561/2006 eller, hvis denne ikke finder anvendelse, af AETR-overenskomsten.
+
+## Definitioner
+
+### § 2.
+
+Ved selvstændig vognmand forstås enhver person, hvis erhvervsmæssige hovedaktivitet er at udføre erhvervsmæssig personbefordring ad vej eller vejgodstransport for fremmed regning i henhold til en fællesskabstilladelse eller enhver anden erhvervsmæssig bemyndigelse til at udføre den nævnte transport, og som arbejder for egen regning og ikke er bundet til en arbejdsgiver ved ansættelseskontrakt eller noget andet arbejdsmæssigt hierarkisk afhængighedsforhold, som frit kan tilrettelægge den pågældende erhvervsaktivitet, og hvis indkomst afhænger direkte af overskuddet, og som alene eller i samarbejde med andre selvstændige vognmænd frit kan have erhvervsmæssige forbindelse med flere kunder.
+
+*Stk. 2.* Ved arbejdsplads forstås det sted, hvor det primære forretningssted for den virksomhed, som den selvstændige vognmand udfører sin virksomhed fra, er beliggende, herunder virksomhedens sekundære forretningssteder, og det køretøj, som den selvstændige vognmand bruger ved udførelse af sit arbejde samt et hvert andet sted, hvor de aktiviteter, der er forbundet med gennemførelsen af en transport, foregår.
+
+*Stk. 3.* Ved arbejdstid forstås det tidsrum, hvor den selvstændige vognmand er på sin arbejdsplads og udfører sin beskæftigelse eller sine opgaver bortset fra generelt administrativt arbejde, der ikke specifikt knytter sig til den pågældende transport. Der er navnlig tale om følgende aktiviteter:
+
+- 1\) Kørsel.
+- 2\) På- og aflæsning.
+- 3\) Hjælp i forbindelse med passagerers ind- og udstigning af køretøjet.
+- 4\) Rengøring og teknisk vedligeholdelse.
+- 5\) Ethvert andet arbejde, der har til formål at sikre køretøjets, lastens og passagerernes sikkerhed eller at opfylde lov- eller forskriftsmæssige forpligtelser, der specifikt knytter sig til den pågældende transport, herunder opsyn med på- og aflæsning, administrative formaliteter med politi, toldvæsen, indrejsemyndigheder osv.
+
+*Stk. 4.* Ved natperiode forstås ethvert tidsrum på mindst 4 timer mellem kl. 00.00 og kl. 07.00.
+
+*Stk. 5.* Ved natarbejde forstås alt arbejde, der udføres i natperioden.
+
+## Arbejdstid
+
+### § 3.
+
+Den gennemsnitlige ugentlige arbejdstid må ikke overstige 48 timer beregnet over en periode på 6 måneder. Der kan desuden højst arbejdes 60 timer i en enkelt uge, medmindre der er tale om vejtransporter, der er omfattet af artikel 8, stk. 6 a, i forordning (EF) nr. 561/2006 eller, hvis denne ikke finder anvendelse, af AETR-overenskomsten.
+
+*Stk. 2.* Pauser, jf. § 4, stk. 2, og hviletid, jf. forordning (EF) nr. 561/2006 eller, hvis denne ikke finder anvendelse, jf. AETR-overenskomsten, medregnes ikke til arbejdstiden.
+
+*Stk. 3.* Den selvstændige vognmand skal registrere sin arbejdstid.
+
+*Stk. 4.* Den selvstændige vognmand skal opbevare de i stk. 3 nævnte oplysninger i 2 år efter udløbet af den periode, der udgør grundlaget for beregningen af den selvstændige vognmands gennemsnitlige ugentlige arbejdstid.
+
+*Stk. 5.* Den selvstændige vognmand har pligt til efter anmodning fra Færdselsstyrelsen at indsende oplysninger om registreret arbejdstid samt dokumentation i form af oplysninger fra takografen.
+
+### § 4.
+
+Selvstændige vognmænd må ikke arbejde mere end 6 timer i træk uden pause.
+
+*Stk. 2.* Arbejdet skal afbrydes med en pause med en samlet længde på mindst:
+
+- 1\) 30 minutter, hvis den samlede arbejdstid er på 6-9 timer.
+- 2\) 45 minutter, hvis den samlede arbejdstid er på mere end 9 timer.
+
+*Stk. 3.* Pauserne kan opdeles i perioder på mindst 15 minutter.
+
+*Stk. 4.* Bestemmelserne i forordning (EF) nr. 561/2006 eller, hvis denne ikke finder anvendelse, i AETR-overenskomsten om pauser i kørslen for førere finder samtidig anvendelse.
+
+### § 5.
+
+Selvstændige vognmænds daglige arbejdstid må ikke overstige 15 timer inden for et tidsrum på 24 timer, hvor der udføres natarbejde.
+
+## Straffebestemmelser
+
+### § 6.
+
+Overtrædelse af § 3, stk. 1 og 3-5, § 4, stk. 1-3, og § 5 straffes med bøde eller fængsel indtil 4 måneder.
+
+*Stk. 2.* Har nogen ved én eller flere handlinger begået flere overtrædelser af denne bekendtgørelse, og medfører overtrædelserne idømmelse af bøde, sammenlægges bødestraffen for hver overtrædelse. Har nogen ved én eller flere handlinger overtrådt denne bekendtgørelse og én eller flere andre love, og medfører overtrædelserne idømmelse af bøde, sammenlægges bødestraffen for hver overtrædelse af denne bekendtgørelse og bødestraffen for overtrædelsen af den eller de andre love.
+
+*Stk. 3.* Har nogen ved én eller flere handlinger begået flere overtrædelser af denne bekendtgørelse, og medfører én af overtrædelserne idømmelse af frihedsstraf, mens en anden medfører idømmelse af bøde, idømmer retten en bøde ved siden af frihedsstraffen. Det samme gælder, såfremt nogen ved én eller flere handlinger har overtrådt denne bekendtgørelse og én eller flere andre love og overtrædelsen af denne bekendtgørelse medfører bødestraf og overtrædelsen af den eller de andre love medfører frihedsstraf.
+
+*Stk. 4.* Stk. 2 og 3 kan fraviges, når særlige grunde taler herfor.
+
+*Stk. 5.* Bøde efter stk. 1-4 udmåles dog kun, i det omfang den sammenlagt med en samtidig udmålt bøde vedrørende samme kontrolperiode efter færdselslovens § 118 a, stk. 5, 1. og 2. pkt., ikke overstiger bødeloftet nævnt i § 118 a, stk. 5, 4. pkt., medmindre § 118 a, stk. 5, 5. pkt., finder anvendelse.
+
+## Ikrafttrædelse
+
+### § 7.
+
+Bekendtgørelsen træder i kraft den 1. januar 2025.
+
+*Stk. 2.* Bekendtgørelse nr. 450 af 11. maj 2012 om arbejdstid for selvstændige vognmænd, der udfører mobile vejtransportaktiviteter ophæves.
+
+Færdselsstyrelsen, den 21. november 2024
+
+Jacob Karkov Buch
+
+/ Heidi Osmann Pedersen
+
+## Officielle noter
+
+1\) Bekendtgørelsen indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2002/15/EF af 11. marts 2002 om tilrettelæggelse af arbejdstid for personer, der udfører mobile vejtransportaktiviteter, EU-Tidende 2002, nr. L 80, side 35 og dele af Europa-Parlamentets og Rådets direktiv (EU) 2020/1057 af 15. juli 2020 om fastsættelse af særlige regler med hensyn til direktiv 96/71/EF og direktiv 2014/67/EU om udstationering af førere i vejtransportsektoren og om ændring af direktiv 2006/22/EF, for så vidt angår håndhævelseskravene, og af forordning (EU) nr. 1024/2012, EU-Tidende 2020, nr. L 249, side 49.
