@@ -1,0 +1,44 @@
+---
+title: "Bekendtgørelse om ophævelse af bekendtgørelse om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19)"
+identifier: "BEK nr 833 af 10/06/2020"
+eli: "https://www.retsinformation.dk/eli/lta/2020/833"
+accession_number: "B20200083305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2020-06-10
+status: "in_force"
+ministry: "Social- og Boligministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2020/833"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ophævelse af bekendtgørelse om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19)
+
+*BEK nr 833 af 10/06/2020*
+
+## § 1.
+
+Bekendtgørelse nr. 559 af 30. april 2020 om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19) ophæves.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft ved bekendtgørelsen i Lovtidende.
+
+*Stk. 2.* Afgørelser og beslutninger, der er truffet efter §§ 3-7 i bekendtgørelse nr. 559 af 30. april 2020 om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19), gælder i maksimalt 7 dage efter denne bekendtgørelses ikrafttræden.
+
+*Stk. 3.* Den hidtil gældende § 8 i bekendtgørelse nr. 559 af 30. april 2020 om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19) finder fortsat anvendelse i 7 dage efter denne bekendtgørelses ikrafttræden for så vidt angår situationer, hvor et sagsskridt i kommunens sager om voksne med særlige sociale problemer eller psykiske lidelser eller i sager om børn, unge eller voksne med betydelig og varigt nedsat fysisk eller psykisk funktionsevne almindeligvis forudsætter fysisk fremmøde, f.eks. i form af besøg, samtale, møde eller personrettet tilsyn.
+
+*Stk. 4.* Beslutninger, der er truffet efter § 11, stk. 1, 2 eller 9, i bekendtgørelse nr. 559 af 30. april 2020 om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19) før denne bekendtgørelses ikrafttræden, er fortsat gældende efter dette tidspunkt.
+
+*Stk. 5.* For beslutninger omfattet af stk. 4 finder de hidtil gældende regler i bekendtgørelse nr. 559 af 30. april 2020 om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19) fortsat anvendelse.
+
+*Stk. 6.* Proceduren i de hidtil gældende § 11, stk. 3, og § 11, stk. 8, 1. pkt., i bekendtgørelse nr. 559 af 30. april 2020 om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19) finder fortsat anvendelse i 7 dage efter denne bekendtgørelses ikrafttræden.
+
+*Stk. 7.* For afgørelser, der før denne bekendtgørelses ikrafttræden er truffet efter proceduren i det hidtil gældende § 11, stk. 4 eller 5, eller § 11, stk. 8, 2. pkt., i bekendtgørelse nr. 559 af 30. april 2020 om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19), finder det hidtil gældende § 11, stk. 6, i bekendtgørelse nr. 559 af 30. april 2020 om mulighed for midlertidig fravigelse af forpligtelser for det offentlige og af privates rettigheder over for det offentlige på socialområdet som led i håndtering af Coronavirussygdom 2019 (COVID-19) fortsat anvendelse.
+
+Social- og Indenrigsministeriet, den 10. juni 2020
+
+Astrid Krag
+
+/ Anita Hørby

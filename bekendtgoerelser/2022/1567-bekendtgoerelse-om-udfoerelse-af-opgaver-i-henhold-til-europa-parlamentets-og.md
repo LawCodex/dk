@@ -1,0 +1,50 @@
+---
+title: "Bekendtgørelse om udførelse af opgaver i henhold til Europa-Parlamentets og Rådets forordning (EU) nr. 2019/1021 om persistente organiske miljøgifte"
+identifier: "BEK nr 1567 af 19/12/2022"
+eli: "https://www.retsinformation.dk/eli/lta/2022/1567"
+accession_number: "B20220156705"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2022-12-19
+status: "in_force"
+ministry: "Miljø- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2022/1567"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om udførelse af opgaver i henhold til Europa-Parlamentets og Rådets forordning (EU) nr. 2019/1021 om persistente organiske miljøgifte
+
+*BEK nr 1567 af 19/12/2022*
+
+I medfør af § 7 a, § 45, stk. 1, § 46, stk. 1 og 2, og § 47 i lov om kemikalier, jf. lovbekendtgørelse nr. 244 af 17. februar 2022, fastsættes:
+
+## § 1.
+
+Miljøministeriet og dets institutioner udfører de opgaver, som tildeles de kompetente myndigheder i henhold til Europa-Parlamentets og Rådets forordning (EU) nr. 2019/1021 af 20. juni 2019 om persistente organiske miljøgifte med senere ændringer (POP-forordningen), jf. forordningens artikel 19, jf. dog § 3, stk. 1.
+
+## § 2.
+
+Miljøstyrelsen fører tilsyn og kontrol med overholdelsen af reglerne i POP-forordningen i overensstemmelse med reglerne i lov om kemikalier, kapitel 9 i lov om miljøbeskyttelse og POP-forordningen, jf. dog § 3, stk. 2. Miljøstyrelsen fungerer i den forbindelse som markedsovervågningsmyndighed i overensstemmelse med Europa-Parlamentets og Rådets forordning (EU) nr. 2019/1020 af 20. juni 2019 om markedsovervågning og produktoverensstemmelse og om ændring af direktiv 2004/42/EF og forordning (EF) nr. 765/2008 og (EU) nr. 305/2011.
+
+*Stk. 2.* Miljøstyrelsens afgørelser efter stk. 1 kan ikke påklages til anden administrativ myndighed.
+
+## § 3.
+
+Kommunalbestyrelsen udfører de opgaver, som tildeles de kompetente myndigheder i henhold til POP-forordningens artikel 7, stk. 4, litra b.
+
+*Stk. 2.* Kommunalbestyrelsen fører tilsyn og kontrol med overholdelse af reglerne i POP-forordningens artikel 7 i overensstemmelse med reglerne i kapitel 9 i lov om miljøbeskyttelse og POP-forordningen.
+
+*Stk. 3.* Kommunalbestyrelsens afgørelser efter stk. 1 og 2 kan ikke påklages til anden administrativ myndighed.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. januar 2023.
+
+*Stk. 2.* Bekendtgørelse nr. 1894 af 4. oktober 2021 om udførelse af opgaver i henhold til Europa-Parlamentets og Rådets forordning (EU) nr. 2019/1021 om persistente organiske miljøgifte ophæves.
+
+Miljøministeriet, den 19. december 2022
+
+Magnus Heunicke
+
+/ Henrik Søren Larsen

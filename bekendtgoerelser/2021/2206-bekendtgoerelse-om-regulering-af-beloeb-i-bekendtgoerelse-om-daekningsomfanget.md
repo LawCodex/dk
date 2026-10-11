@@ -1,0 +1,36 @@
+---
+title: "Bekendtgørelse om regulering af beløb i bekendtgørelse om dækningsomfanget for ejerskifteforsikringer i henhold til lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v."
+identifier: "BEK nr 2206 af 29/11/2021"
+eli: "https://www.retsinformation.dk/eli/lta/2021/2206"
+accession_number: "B20210220605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2021-11-29
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2021/2206"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om regulering af beløb i bekendtgørelse om dækningsomfanget for ejerskifteforsikringer i henhold til lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v.
+
+*BEK nr 2206 af 29/11/2021*
+
+I medfør af § 5, stk. 3, i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v., jf. lovbekendtgørelse nr. 1123 af 22. september 2015, fastsættes:
+
+## § 1.
+
+De beløb, som er nævnt i § 1, nr. 2, i bekendtgørelse nr. 13 af 12. januar 2012 om dækningsomfanget for ejerskifteforsikringer i henhold til lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v. og som efter reglerne i bekendtgørelsens § 2 reguleres hvert 3. år, udgør henholdsvis 5.400 kr., 54.000 kr. og 5.400 kr.
+
+*Stk. 2.* Det beløb, som er nævnt i bekendtgørelsens bilag 1, nr. 4, litra a, udgør 1.400.000 kr.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. januar 2022 og har virkning for oplysninger om tilbud på ejerskifteforsikring, som sælgeren afgiver efter dette tidspunkt.
+
+Justitsministeriet, den 29. november 2021
+
+Nick Hækkerup
+
+/ Lennart Houmann

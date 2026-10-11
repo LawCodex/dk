@@ -1,0 +1,57 @@
+---
+title: "Bekendtgørelse om opgørelsen af den særlige tilskudsordning for 2022"
+identifier: "BEK nr 1061 af 28/06/2022"
+eli: "https://www.retsinformation.dk/eli/lta/2022/1061"
+accession_number: "B20220106105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2022-06-28
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2022/1061"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om opgørelsen af den særlige tilskudsordning for 2022
+
+*BEK nr 1061 af 28/06/2022*
+
+I medfør af § 23 b, stk. 4, i lov om kommunal udligning og generelle tilskud til kommuner, jf. lovbekendtgørelse nr. 63 af 19. januar 2021, og efter forhandling med beskæftigelsesministeren fastsættes:
+
+## Kapitel 1 — Anvendelsesområde
+
+### § 1.
+
+Bekendtgørelsen finder anvendelse ved opgørelsen af den særlige tilskudsordning for 2022 efter § 23 b i lov om kommunal udligning og generelle tilskud til kommuner.
+
+## Kapitel 2 — Den særlige tilskudsordning for 2022
+
+### § 2.
+
+Det særlige tilskud for 2022 ydes til kommuner, hvor udviklingen i antallet af dagpengemodtagere opgjort i fuldtidspersoner ifølge opgørelser fra Styrelsen for Arbejdsmarked og Rekrutterings målesystem Jobindsats.dk i perioden 1. kvartal 2021 til 1. kvartal 2022 overstiger udviklingen i landsdelen tillagt 3 procentpoint, jf. § 23 b, stk. 1, i lov om kommunal udligning og generelle tilskud til kommuner.
+
+### § 3.
+
+Tilskuddet udgør 142.400 kr. pr. bruttoledig ganget med det antal ledige, hvormed udviklingen i ledigheden i kommunen overstiger udviklingen i landsdelen, tillagt 3 procentpoint dog fratrukket 0,01 pct. af kommunens budgetterede beskatningsgrundlag for tilskudsåret.
+
+*Stk. 2.* Tilskuddet pr. bruttoledig er fastsat på grundlag af de skønnede kommunale nettoudgifter for tilskudsåret 2022 og antallet af bruttoledige dagpengemodtagere (ledige og aktiverede), der ligger til grund for dette skøn.
+
+### § 4.
+
+Samtlige kommuner bidrager til den særlige tilskudsordning i forhold til den enkelte kommunes andel af det samlede befolkningstal som opgjort af Danmarks Statistik.
+
+*Stk. 2.* Ved befolkningsopgørelsen henregnes personer, for hvilken en kommune har den generelle betalingsforpligtelse til folketallet i kommunen.
+
+## Kapitel 3 — Ikrafttræden
+
+### § 5.
+
+Bekendtgørelsen træder i kraft den 1. juli 2022.
+
+Indenrigs- og Boligministeriet, den 28. juni 2022
+
+P.M.V.\
+Ingrid J. Melchiorsen
+
+/ Dorte Lemmich Madsen

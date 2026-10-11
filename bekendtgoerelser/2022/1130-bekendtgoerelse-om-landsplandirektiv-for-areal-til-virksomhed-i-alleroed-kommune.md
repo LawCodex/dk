@@ -1,0 +1,82 @@
+---
+title: "Bekendtgørelse om landsplandirektiv for areal til virksomhed i Allerød Kommune"
+identifier: "BEK nr 1130 af 27/06/2022"
+eli: "https://www.retsinformation.dk/eli/lta/2022/1130"
+accession_number: "B20220113005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2022-06-27
+status: "in_force"
+ministry: "By-, Land- og Kirkeministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2022/1130"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om landsplandirektiv for areal til virksomhed i Allerød Kommune
+
+*BEK nr 1130 af 27/06/2022*
+
+I medfør af § 3, stk. 1, i lov om planlægning, jf. lovbekendtgørelse nr. 1157 af 1. juli 2020, fastsættes:
+
+## Kapitel 1 — Formål
+
+### § 1.
+
+Bekendtgørelsens formål er at muliggøre udvidelse af en eksisterende virksomhed af national interesse på et areal i Lynge i Allerød Kommune.
+
+## Kapitel 2 — Afgrænsning
+
+### § 2.
+
+Bekendtgørelsen gælder for det på bilag 1 viste område, som omfatter matr.nr. 25p og 25s Lynge By, Lynge samt matr. nr. 8b og 3u Vassingerød By, Uggeløse.
+
+## Kapitel 3 — Anvendelse
+
+### § 3.
+
+Det i § 2 afgrænsede område må kun anvendes til produktionserhverv, som ikke medfører en væsentlig miljømæssig påvirkning af omgivelserne. I tilknytning hertil må der etableres forskning og udvikling, administration, lager og forsendelse, tekniske anlæg og én bolig. Området må ikke udstykkes og anvendes til flere selvstændige erhverv.
+
+## Kapitel 4 — Hovedstadsområdets planlægning
+
+### § 4.
+
+Området indgår i det ydre storbyområde, jf. bekendtgørelse nr. 312 af 28. marts 2019 om hovedstadsområdets planlægning (Fingerplan 2019 – landsplandirektiv for hovedstadsområdets planlægning).
+
+### § 5.
+
+Den kommunale planlægning skal sikre, at byudvikling og byomdannelse er af regional betydning inden for dette område.
+
+### § 6.
+
+Den kommunale planlægning skal indeholde en redegørelse for, hvordan kommunen vil arbejde med supplerende virkemidler med henblik på at sikre trafikale effekter svarende til i det stationsnære kerneområde.
+
+## Kapitel 5 — Retsvirkning
+
+### § 7.
+
+Udnyttelse af de i landsplandirektivet beskrevne rammer kræver forudgående kommunal planlægning efter bestemmelserne i planloven.
+
+## Kapitel 6 — Ikrafttræden og ophævelse
+
+### § 8.
+
+Bekendtgørelsen træder i kraft den 12. juli 2022.
+
+### § 9.
+
+Nærværende bekendtgørelse erstatter, for det i bilag 1 viste område, bekendtgørelse nr. 312 af 28. marts 2019 om hovedstadsområdets planlægning (Fingerplan 2019 – landsplandirektiv for hovedstadsområdets planlægning).
+
+Indenrigs- og Boligministeriet, den 27. juni 2022
+
+Christian Rabjerg Madsen
+
+/ Lise Aaen Kobberholm
+
+## Bilag 1
+
+Afgrænsning af området
+
+![zz](https://www.retsinformation.dk/image.aspx?id=232251&img=DE288_3_0.png)
+
+Kilde: Datafordeleren (ortofoto 2021, skærmkort grå, udtræk maj 2022), Kortforsyningen (matrikelkort, udtræk oktober 2021).

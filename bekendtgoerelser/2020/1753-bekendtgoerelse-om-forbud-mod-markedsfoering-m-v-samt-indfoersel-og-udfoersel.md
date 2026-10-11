@@ -1,0 +1,58 @@
+---
+title: "Bekendtgørelse om forbud mod markedsføring m.v. samt indførsel og udførsel af skind og skindprodukter fra hunde og katte"
+identifier: "BEK nr 1753 af 30/11/2020"
+eli: "https://www.retsinformation.dk/eli/lta/2020/1753"
+accession_number: "B20200175305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2020-11-30
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2020/1753"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om forbud mod markedsføring m.v. samt indførsel og udførsel af skind og skindprodukter fra hunde og katte
+
+*BEK nr 1753 af 30/11/2020*
+
+I medfør af § 36, § 56, stk. 1, og § 58, stk. 8-11, i lov nr. 133 af 25. februar 2020 om dyrevelfærd (dyrevelfærdsloven) fastsættes efter bemyndigelse i henhold til § 7, nr. 6, i bekendtgørelse nr. 1721 af 30. november 2020 om Fødevarestyrelsens opgaver og beføjelser:
+
+## § 1.
+
+Bestemmelserne i denne bekendtgørelse supplerer Europa-Parlamentets og Rådets forordning (EF) Nr. 1523/2007 af 11. december 2007 om forbud mod markedsføring og indførsel i og udførsel fra Fællesskabet af pelsskind fra hunde og katte samt produkter, hvori sådanne pelsskind indgår.
+
+## § 2.
+
+Det er forbudt erhvervsmæssigt at indføre, producere samt handle med andre skind fra hunde »Canis lupus familiaris« og katte »Felis silvestris« end de pelsskind og pelsskindsprodukter, der er omfattet af Europa-Parlamentets og Rådets forordning om forbud mod markedsføring og indførsel i og udførsel fra Fællesskabet af pelsskind fra hunde og katte samt produkter, hvori sådanne pelsskind indgår.
+
+*Stk. 2.* Fødevarestyrelsen kan i særlige tilfælde dispensere fra bestemmelsen i stk. 1.
+
+## § 3.
+
+Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde eller fængsel indtil 4 måneder den, der overtræder
+
+- 1\) § 2, stk. 1, eller
+- 2\) artikel 3 i Europa-Parlamentets og Rådets forordning om forbud mod markedsføring og indførsel i og udførsel fra Fællesskabet af pelsskind fra hunde og katte samt produkter, hvori sådanne pelsskind indgår.
+
+*Stk. 2.* Forsøg på overtrædelser omfattet af stk. 1 kan straffes med bøde eller fængsel indtil 4 måneder.
+
+*Stk. 3.* Ved udmåling af straf efter stk. 1 anses det som en skærpende omstændighed, hvis overtrædelsen er begået i forbindelse med udøvelse af erhverv, jf. § 58, stk. 12, 1. pkt., i dyrevelfærdsloven.
+
+*Stk. 4.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. januar 2021.
+
+Fødevarestyrelsen, den 30. november 2020
+
+P.D.V.\
+Hanne Larsen
+
+/ Christian Strøyer
+
+## Officielle noter
+
+1\) Lov nr. 390 af 28. maj 2003 om forbud mod markedsføring m.v. samt indførsel og udførsel af skind og skindprodukter fra hunde og katte, der som udkast har været notificeret i overensstemmelse med Europa-Parlamentets og Rådets direktiv 98/34/EF (informationsproceduredirektivet) som ændret ved direktiv 98/48/EF, er ophævet, men indholdet er videreført uændret i nærværende bekendtgørelse, som er udstedt i medfør af lov nr. 133 af 25. februar 2020 om dyrevelfærd(dyrevelfærdsloven).

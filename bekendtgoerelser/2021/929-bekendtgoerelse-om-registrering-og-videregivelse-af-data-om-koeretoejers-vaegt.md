@@ -1,0 +1,42 @@
+---
+title: "Bekendtgørelse om registrering og videregivelse af data om køretøjers vægt, længde og akseltryk m.v."
+identifier: "BEK nr 929 af 17/05/2021"
+eli: "https://www.retsinformation.dk/eli/lta/2021/929"
+accession_number: "B20210092905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2021-05-17
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2021/929"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om registrering og videregivelse af data om køretøjers vægt, længde og akseltryk m.v.
+
+*BEK nr 929 af 17/05/2021*
+
+I medfør af § 130, stk. 1, i lov nr. 1520 af 27. december 2014 om offentlige veje m.v., som ændret ved lov nr. 658 af 8. juni 2016, fastsættes efter bemyndigelse i henhold til § 5, nr. 1, i bekendtgørelse nr. 121 af 8. februar 2016 om Vejdirektoratets opgaver og beføjelser:
+
+## § 1.
+
+Til brug for administration og drift af statsvejnettet og til varetagelse af trafiksikkerhed og trafikafvikling på statsvejnettet samt planlægning for et kommende statsvejnet, kan Vejdirektoratet indsamle og registrere data om køretøjers vægt, længde og akseltryk m.v., herunder personoplysninger i forbindelse hermed.
+
+## § 2.
+
+Vejdirektoratet kan videregive de i § 1 nævnte data til politiet med henblik på politiets kontrol af de gældende bestemmelser om køretøjers vægt, længde og akseltryk m.v.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 27. maj 2021.
+
+Vejdirektoratet, den 17. maj 2021
+
+Jens Holmboe
+
+/ Helga Theil Thomsen
+
+## Officielle noter
+
+1\) Bekendtgørelsen indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv (EU) 2015/719 af 29. april 2015 om ændring af Rådets direktiv 96/53/EF om fastsættelse af de største tilladte dimensioner i national og international trafik og største tilladte vægt i national trafik for visse køretøjer i brug i Fællesskabet, EU-Tidende 2015, nr. L 115, side 1.

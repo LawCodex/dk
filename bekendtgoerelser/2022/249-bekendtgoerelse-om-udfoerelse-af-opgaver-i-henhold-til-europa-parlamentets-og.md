@@ -1,0 +1,42 @@
+---
+title: "Bekendtgørelse om udførelse af opgaver i henhold til Europa-Parlamentets og Rådets forordning (EF) nr. 1005/2009 af 16. september 2009 om stoffer, der nedbryder ozonlaget"
+identifier: "BEK nr 249 af 23/02/2022"
+eli: "https://www.retsinformation.dk/eli/lta/2022/249"
+accession_number: "B20220024905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2022-02-23
+status: "in_force"
+ministry: "Miljø- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2022/249"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om udførelse af opgaver i henhold til Europa-Parlamentets og Rådets forordning (EF) nr. 1005/2009 af 16. september 2009 om stoffer, der nedbryder ozonlaget
+
+*BEK nr 249 af 23/02/2022*
+
+I medfør af § 7 a, § 45, stk. 1, og § 47 i lov om kemikalier, jf. lovbekendtgørelse nr. 244 af 17. februar 2022, fastsættes:
+
+## § 1.
+
+Miljøministeriet og dets institutioner udfører de opgaver, som tildeles medlemsstaternes kompetente myndigheder i henhold til Europa-Parlamentets og Rådets forordning (EF) nr. 1005/2009 af 16. september 2009 om stoffer, der nedbryder ozonlaget, med senere ændringer (ozonforordningen), jf. forordningens artikel 10, stk. 7 og 8, artikel 11, stk. 8, artikel 12, stk. 1 og 3, artikel 14, stk. 2-4, artikel 15, stk. 2, litra g, artikel 17, stk. 2, litra e, og stk. 3, artikel 18, stk. 3, litra i, og stk. 6 og 7, artikel 23, stk. 3, artikel 27, stk. 1 og 7, og artikel 28, stk. 1-3, jf. dog stk. 2.
+
+*Stk. 2.* Stk. 1 berører ikke toldmyndighedernes status som kompetent myndighed efter ozonforordningens artikel 18, stk. 3, litra e, og artikel 21.
+
+## § 2.
+
+Miljøstyrelsen fører tilsyn og kontrol med overholdelsen af reglerne i ozonforordningen i overensstemmelse med reglerne i loven og ozonforordningen. Miljøstyrelsen fungerer i den forbindelse som markedsovervågningsmyndighed i overensstemmelse med Europa-Parlamentets og Rådets forordning (EU) nr. 2019/1020 af 20. juni 2019 om markedsovervågning og produktoverensstemmelse og om ændring af direktiv 2004/42/EF og forordning (EF) nr. 765/2008 og (EU) nr. 305/2011.
+
+*Stk. 2.* Miljøstyrelsens afgørelser efter stk. 1 kan ikke påklages til anden administrativ myndighed.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. april 2022.
+
+Miljøministeriet, den 23. februar 2022
+
+Lea Wermelin
+
+/ Henrik Søren Larsen

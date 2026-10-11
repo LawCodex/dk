@@ -1,0 +1,42 @@
+---
+title: "Bekendtgørelse om afskæring af klageadgange i forbindelse med anlæg af Lynetteholm"
+identifier: "BEK nr 1927 af 12/10/2021"
+eli: "https://www.retsinformation.dk/eli/lta/2021/1927"
+accession_number: "B20210192705"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2021-10-12
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2021/1927"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om afskæring af klageadgange i forbindelse med anlæg af Lynetteholm
+
+*BEK nr 1927 af 12/10/2021*
+
+I medfør af § 6, stk. 1 og 2, i lov nr. 1157 af 11. juni 2021 om anlæg af Lynetteholm fastsættes:
+
+## § 1.
+
+Bekendtgørelsen finder anvendelse i forbindelse med anlægsfasen af anlæg af Lynetteholm, jf. § 1 i lov om anlæg af Lynetteholm.
+
+## § 2.
+
+Afgørelser truffet efter byggeloven, lov om naturbeskyttelse, lov om vandforsyning m.v., lov om miljøbeskyttelse, lov om beskyttelse af havmiljøet, lov om råstoffer, lov om forurenet jord eller lov om bygningsfredning og bevaring af bygninger og bymiljøer eller regler udstedt i medfør af disse love kan ikke påklages til anden administrativ myndighed, hvis afgørelsen træffes i forbindelse med Udviklingsselskabet By & Havn I/S’ gennemførelse af projektet, som beskrevet i § 1, stk. 1, i lov om anlæg af Lynetteholm.
+
+## § 3.
+
+De kommunale tilsynsmyndigheder fører ikke tilsyn med kommunalbestyrelsens afgørelser omfattet af § 2.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 14. oktober 2021.
+
+Transportministeriet, den 12. oktober 2021
+
+Benny Engelbrecht
+
+/ Lasse Winterberg

@@ -1,0 +1,51 @@
+---
+title: "Bekendtgørelse om straffebestemmelser for overtrædelse af forordning om de særlige krav til sammensætning af og oplysning om kosterstatning til vægtkontrol"
+short_title: "Kosterstatningsbekendtgørelsen"
+identifier: "BEK nr 1413 af 24/10/2022"
+eli: "https://www.retsinformation.dk/eli/lta/2022/1413"
+accession_number: "B20220141305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2022-10-24
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2022/1413"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om straffebestemmelser for overtrædelse af forordning om de særlige krav til sammensætning af og oplysning om kosterstatning til vægtkontrol
+
+*BEK nr 1413 af 24/10/2022*
+
+I medfør af § 60, stk. 3, i lov om fødevarer, jf. lovbekendtgørelse nr. 8 af 6. januar 2022, fastsættes efter bemyndigelse i henhold til § 7, nr. 3, i bekendtgørelse nr. 1721 af 30. november 2020 om Fødevarestyrelsens opgaver og beføjelser:
+
+## § 1.
+
+Medmindre højere straf er forskyldt efter anden lovgivning, straffes med bøde den, der overtræder følgende bestemmelser i Kommissionens delegerede forordning (EU) 2017/1798 af 2. juni 2017 om supplerende regler til Europa-Parlamentets og Rådets forordning (EU) nr. 609/2013 for så vidt angår de særlige krav til sammensætning af og oplysning om kosterstatning til vægtkontrol:
+
+- 1\) Artikel 2.
+- 2\) Artikel 3.
+- 3\) Artikel 4.
+- 4\) Artikel 5, stk. 1 eller stk. 3-10.
+- 5\) Artikel 6.
+- 6\) Artikel 7.
+
+*Stk. 2.* Straffen kan stige til fængsel i 2 år, hvis den ved handlingen eller undladelsen skete overtrædelse er begået med forsæt eller grov uagtsomhed, og der ved overtrædelsen er
+
+- 1\) forvoldt skade på sundheden eller fremkaldt fare herfor, eller
+- 2\) opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre.
+
+*Stk. 3.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 27. oktober 2022.
+
+*Stk. 2.* Bekendtgørelse nr. 590 af 24. maj 2017 om kosterstatninger til vægtkontrol ophæves.
+
+Fødevarestyrelsen, den 24. oktober 2022
+
+Nikolaj Veje
+
+/ Maria Magelund Madsen

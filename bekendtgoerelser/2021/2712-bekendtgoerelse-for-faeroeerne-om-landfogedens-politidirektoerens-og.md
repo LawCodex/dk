@@ -1,0 +1,58 @@
+---
+title: "Bekendtgørelse for Færøerne om landfogedens (politidirektørens) og statsadvokatens adgang til at frafalde tiltale"
+identifier: "BEK nr 2712 af 21/12/2021"
+eli: "https://www.retsinformation.dk/eli/lta/2021/2712"
+accession_number: "B20210271205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2021-12-21
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2021/2712/Pdf"
+text_source: "Lovtidende PDF (text extracted automatically)"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse for Færøerne om landfogedens (politidirektørens) og statsadvokatens adgang til at frafalde tiltale
+
+*BEK nr 2712 af 21/12/2021*
+
+I medfør af § 725, stk. 1, nr. 7, og stk. 3, i retsplejelov for Færøerne, lov nr. 964 af 26. juni 2020, fastsættes efter bemyndigelse:
+
+## § 1.
+
+Landfogeden (politidirektøren) kan i følgende tilfælde frafalde tiltale, når omstændighederne taler for det:
+
+- 1\) I sager om overtrædelser af ringe strafværdighed af
+- a) straffelovens § 291, stk. 1, og § 293,
+- b) lov om euforiserende stoffer,
+- c) lagtingslov om forbud mod visse dopingmidler,
+- d) udlændingelovens § 59, stk. 1, nr. 1, nr. 3 og nr. 4, og
+- e) lagtingslov om våben mv.
+- 2\) I sager mod asylansøgere eller mod deres nære slægtninge i forbindelse med første indrejse på Færøerne for toldlovsovertrædelser med hensyn til værdigenstande og for overtrædelse af straffelovens § 171 og § 174 med hensyn til pas, identitetspapirer eller lignende.
+- 3\) I sager om overtrædelse af straffelovens § 222, stk. 1, og § 225, jf. § 222, stk. 1, når det på baggrund af oplysningerne om sigtedes og forurettedes udvikling og alder samt deres indbyrdes aldersforskel må antages, at der har været tale om et fuldt ud frivilligt seksuelt forhold, og forholdet mellem parterne i øvrigt må anses for tilstrækkeligt jævnbyrdigt. Tiltalefrafald kan ikke meddeles, hvis forurettede er under 12 år, eller hvis sigtede er fyldt 22 år.
+- 4\) I sager om overtrædelse af straffelovens § 119, stk. 1, og § 244, når der er tale om meget begrænset voldsanvendelse mv., og der ikke er sket betydelig skade på den forurettede. Tiltalefrafald kan betinges af, at den sigtede vedtager en bøde eller betaler erstatning.
+- 5\) Når den forurettede begærer det i sager om
+- a) overtrædelse af straffelovens § 213,
+- b) overtrædelse af straffelovens § 261, stk. 3, og
+- c) tyveri, ulovlig omgang med hittegods, underslæb, bedrageri og hæleri, som er begået mod den sigtedes nærmeste.
+- 6\) I sager mod enkeltpersoner, der har begået en lovovertrædelse inden for virksomheden af en juridisk person, hvis det findes tilstrækkeligt at strafforfølge den juridiske person for lovovertrædelsen, idet
+- a) lovgivningen ikke pålægger enkeltpersoner et selvstændigt og individuelt ansvar for overholdelsen af reglerne, eller
+- b) det ikke følger af administrative retningslinjer, at der tillige skal ske strafforfølgning af enkeltpersoner.
+
+*Stk. 2.* Landfogeden (politidirektøren) kan endvidere, medmindre særlige omstændigheder taler imod det, frafalde tiltale i sager om lovovertrædelser begået af personer, der er undergivet foranstaltninger i medfør af straffelovens § 74 a.
+
+## § 2.
+
+Statsadvokaten kan, medmindre særlige omstændigheder taler imod det, frafalde tiltale i sager om:
+
+- 1\) lovovertrædelser begået af personer, der er udskrevet på prøve fra forvaring, når det er bestemt, at der skal ske genindsættelse,
+- 2\) lovovertrædelser begået af personer under undvigelse eller andet fravær, herunder udgang eller lignende fra forvaring, når der er sket tilbageførelse, og
+- 3\) lovovertrædelser begået af personer, der er undergivet foranstaltninger i medfør af straffelovens § 68 eller § 69.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. februar 2022.
+
+*Stk. 2.* Bekendtgørelse nr. 555 af 21. december 1979 om beføjelse for landfogeden (politimesteren) på Færøerne til at frafalde påtale ophæves. Rigsadvokaturen, den 21. december 2021 Jan Reckendorff / Kirstine Troldborg Lovtidende A 2021 Udgivet den 6. januar 2022 Justitsmin., Rigsadvokaten, j.nr. RA-2020-3200506-29

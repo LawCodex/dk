@@ -1,0 +1,88 @@
+---
+title: "Bekendtgørelse om opgørelse for øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering af sundhedsvæsenet for 2021"
+identifier: "BEK nr 2469 af 15/12/2021"
+eli: "https://www.retsinformation.dk/eli/lta/2021/2469"
+accession_number: "B20210246905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2021-12-15
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2021/2469"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om opgørelse for øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering af sundhedsvæsenet for 2021
+
+*BEK nr 2469 af 15/12/2021*
+
+I medfør af § 14 a i lov om regionernes finansiering, jf. lovbekendtgørelse nr. 64 af 19. januar 2021, fastsættes:
+
+## Forudsat niveau for kommunale udgifter til kommunal aktivitetsbestemt medfinansiering af sundhedsvæsenet
+
+### § 1.
+
+Det forudsatte niveau for de kommunale udgifter til kommunal aktivitetsbestemt medfinansiering, jf. § 14 a, stk. 2, i lov om regionernes finansiering, er samlet opgjort til 23.318.400 tusinde kr. for året 2021, jf. stk. 2-4. Niveauet opgjort på regionsniveau efter 1. pkt. udgør:
+
+- 1\) Region Nordjylland: 2.263.659 tusinde kr.
+- 2\) Region Midtjylland: 4.825.757 tusinde kr.
+- 3\) Region Syddanmark: 5.323.731 tusinde kr.
+- 4\) Region Hovedstaden: 7.280.025 tusinde kr.
+- 5\) Region Sjælland: 3.625.228 tusinde kr.
+
+*Stk. 2.* Det forudsatte niveau for de kommunale udgifter til kommunal aktivitetsbestemt medfinansiering for 2021 er fastlagt med udgangspunkt i det forudsatte niveau for de kommunale udgifter til kommunal aktivitetsbestemt medfinansiering for 2020 på 23.016.600 tusinde kr., jf. bekendtgørelse nr. 1027 af 9. oktober 2019.
+
+*Stk. 3.* Værdien efter stk. 2 er tillagt korrektion, der følger af DUT-princippet mv., på 2.600 tusinde kr.
+
+*Stk. 4.* Værdien efter stk. 3 er pris- og lønreguleret med 1,3 pct. for året 2021.
+
+## Fordeling på regioner af forudsat niveau for kommunale udgifter
+
+### § 2.
+
+Det forudsatte niveau for de kommunale udgifter til kommunal aktivitetsbestemt medfinansiering, jf. § 1, er for året 2021 fordelt mellem regionerne på baggrund af aktiviteten i sundhedsvæsenet i 2017, som kan henføres til betalingskommunen. Betalingskommunen er den kommune, som i henhold til § 9 a, stk. 4, 1.-3. pkt., samt § 9 c, stk. 2, 4-6 og 12, i lov om retssikkerhed på det sociale område, har den generelle betalingsforpligtelse.
+
+## Øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering af sundhedsvæsenet
+
+### § 3.
+
+Den øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering, jf. § 14 a, stk. 2, i lov om regionernes finansiering, er samlet opgjort til 20.181.900 tusinde kr. for året 2021, jf. stk. 2-4. Den øvre grænse efter 1. pkt. udgør:
+
+- 1\) Region Nordjylland: 2.084.563 tusinde kr.
+- 2\) Region Midtjylland 4.354.056 tusinde kr.
+- 3\) Region Syddanmark: 4.320.943 tusinde kr.
+- 4\) Region Hovedstaden: 6.318.586 tusinde kr.
+- 5\) Region Sjælland: 3.103.752 tusinde kr.
+
+*Stk. 2.* Den øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering for 2021 er fastlagt med udgangspunkt i den øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering for 2020 på 19.920.300 tusinde kr., jf. bekendtgørelse nr. 1027 af 9. oktober 2019.
+
+*Stk. 3.* Værdien efter stk. 2 er tillagt korrektion, der følger af DUT-princippet mv., på 2.600 tusinde kr.
+
+*Stk. 4.* Værdien efter § 3, stk. 3, er pris- og lønreguleret med 1,3 pct. for året 2021.
+
+## Fordeling af øvre grænse på regioner
+
+### § 4.
+
+Den øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering for året 2021, jf. § 3, er fordelt mellem regionerne efter samme fordeling som det generelle tilskud til regionerne for året 2021.
+
+## Afrunding
+
+### § 5.
+
+Den øvre grænse og det forudsatte niveau opgøres i hele 1.000 kr.
+
+## Ikrafttræden
+
+### § 6.
+
+Bekendtgørelsen træder i kraft den 19. december 2021 og finder anvendelse for beregning af tilskud og bidrag fra og med tilskudsåret 2021.
+
+*Stk. 2.* Bekendtgørelse nr. 1838 af 1. december 2020 om opgørelse for øvre grænse for regionernes indtægter fra kommunal aktivitetsbestemt medfinansiering af sundhedsvæsenet for 2021 ophæves.
+
+Sundhedsministeriet, den 15. december 2021
+
+Magnus Heunicke
+
+/ Pernille Tougaard
