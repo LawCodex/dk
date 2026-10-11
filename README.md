@@ -17,11 +17,11 @@ as currently in force (*gældende*, i.e. not *historisk*) are included.
 | Directory | Retsinformation type | Content | Files |
 |---|---|---|---:|
 | `grundloven/` | LOV | Danmarks Riges Grundlov (1953), Tronfølgeloven (1953) and the 2009 act amending it | 3 |
-| `love/<year>/` | LOV H, LBK H | Acts (*love*) and consolidated acts (*lovbekendtgørelser*) in force | _TBD_ |
-| `aendringslove/<year>/` | LOV Æ | Amending acts (*ændringslove*) still listed as in force | _TBD_ |
-| `bekendtgoerelser/<year>/` | BEK H | Executive orders (*bekendtgørelser*) in force | _TBD_ |
-| `anordninger/<year>/` | AND H | Royal ordinances (*anordninger*), mostly putting acts into force for Greenland / the Faroe Islands | _TBD_ |
-| | | **Total** | _TBD_ |
+| `love/<year>/` | LOV H, LBK H | Acts (*love*, 824) and consolidated acts (*lovbekendtgørelser*, 689) in force | 1,513 |
+| `aendringslove/<year>/` | LOV Æ | Amending acts (*ændringslove*) still listed as in force | 1,296 |
+| `bekendtgoerelser/<year>/` | BEK H | Executive orders (*bekendtgørelser*) in force | 8,199 |
+| `anordninger/<year>/` | AND H | Royal ordinances (*anordninger*), mostly putting acts into force for Greenland / the Faroe Islands | 123 |
+| | | **Total** | **11,134** |
 
 ### Consolidated vs. original acts
 
@@ -36,7 +36,16 @@ Tronfølgeloven (lov nr. 170 af 27/03/1953) and its amendment (lov nr. 528 af 12
 flagged *historisk* by Retsinformation (no consolidated text has been published), but both are
 in force; they are included in `grundloven/` with `status: in_force`.
 
+Of these, 666 documents (38 in `love/`, 47 in `aendringslove/`, 575 in `bekendtgoerelser/`,
+6 in `anordninger/`) concern only Greenland and/or the Faroe Islands and were converted from
+the Lovtidende PDF (see below).
+
 ### Not covered
+
+- **272 Greenland/Faroe-only documents published before 1 January 2008** (29 acts/consolidated
+  acts, 19 amending acts, 217 executive orders, 7 ordinances): Retsinformation lists them as in
+  force but has neither their text nor a PDF ("findes derfor kun i den trykte udgave af
+  Lovtidende A"), so no file was generated for them.
 
 - Repealed / historical documents and earlier versions.
 - Amending executive orders (*ændringsbekendtgørelser*, BEK Æ), commencement orders

@@ -912,7 +912,7 @@ def main():
             print(f"ERROR {it['retsinfoLink']}: {e!r}", file=sys.stderr)
             st, rel = "error", None
         stats[st] = stats.get(st, 0) + 1
-        if st in ("missing", "empty"):
+        if st in ("missing", "missing-pdf", "empty"):
             print(f"{st}: {it['retsinfoLink']}", file=sys.stderr)
         if rel:
             index.append(rel)
