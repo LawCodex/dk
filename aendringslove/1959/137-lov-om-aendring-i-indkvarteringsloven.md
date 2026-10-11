@@ -1,0 +1,52 @@
+---
+title: "Lov om ændring i indkvarteringsloven"
+identifier: "LOV nr 137 af 20/04/1959"
+eli: "https://www.retsinformation.dk/eli/lta/1959/137"
+accession_number: "A19590013730"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 1959-04-20
+status: "in_force"
+ministry: "Ministeriet for Samfundssikkerhed og Beredskab"
+source: "https://www.retsinformation.dk/eli/lta/1959/137"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring i indkvarteringsloven
+
+*LOV nr 137 af 20/04/1959*
+
+VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+I lov nr. 91 af 29. marts 1924 om indkvartering, således som denne er ændret ved lov nr. 64 af 27. marts 1929 og lov nr.475 af 22. december 1939, ophæves kap. 1 (§§ 1-17) og § 28 med virkning fra 1. april 1959.
+
+## § 2.
+
+I kapitel 3 indsættes som nye §§ 33 og 34:
+
+**»§ 33.** Forsvarets og civilforsvarets personel er berettiget til indlæggelse på de kommunale sygehuse på sådanne vilkår, som fastsættes i en mellem forsvarsministeriet og indenrigsministeriet på den ene side og vedkommende kommunale organisationer på den anden side indgået overenskomst.
+
+**§ 34.** De kommunale kaserneetablissementer, der i medfør af de hidtil gældende regler om kommunernes indkvarteringsforpligtelser er stillet til forsvarets rådighed, overtages den 1. april 1959 af staten. Overtagelsen finder sted på de mellem vedkommende kommunalbestyrelse og staten derom aftalte vilkår. De respektive købesummer udredes - for så vidt de ikke erlægges kontant ved statsovertagelsen eller berigtiges ved statens indtræden i de af kommunerne til kaserneformål optagne lån - i løbet af højst 10 år med mindst 1/20 halvårligt, første gang den 1. april 1959. Det til enhver tid skyldige beløb forrentes med 6 pct. p.a. Staten er berettiget til med 3 måneders varsel til en 1. april eller 1. oktober at opsige restgælden helt eller delvis.
+
+*Stk. 2.* De med overtagelsen forbundne udgifter afholdes af statskassen og bevilges på finansloven. Dokumenter, udskrifter, attester etc., der udfærdiges i forbindelse med statsovertagelsen, er fritaget for stempel- og tinglysningsafgifter samt for alle andre afgifter til det offentlige.«
+
+## § 3.
+
+Lovens §§ 33 og 34 ændres til §§ 35 og 36.
+
+*GIVET På AMALIENBORG, DEN 20. APRIL 1959.*
+
+Under Vor Kongelige Hånd og Segl.
+
+MARGRETHE
+
+Tronfølger.
+
+/Søren Olesen.
+
+## Officielle noter
+
+Ingen

@@ -1,0 +1,95 @@
+---
+title: "Lov om ændring af lov om spil, lov om afgifter af spil og lov for Grønland om visse spil (Justering af gebyrskalaen for væddemål og onlinekasino, månedsafregning for væddemål og onlinekasino m.v.)"
+identifier: "LOV nr 1573 af 15/12/2015"
+eli: "https://www.retsinformation.dk/eli/lta/2015/1573"
+accession_number: "A20150157330"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2015-12-15
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2015/1573"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om spil, lov om afgifter af spil og lov for Grønland om visse spil (Justering af gebyrskalaen for væddemål og onlinekasino, månedsafregning for væddemål og onlinekasino m.v.)
+
+*LOV nr 1573 af 15/12/2015*
+
+(Justering af gebyrskalaen for væddemål og onlinekasino, månedsafregning for væddemål og onlinekasino m.v.)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov nr. 848 af 1. juli 2010 om spil, som ændret ved § 51 i lov nr. 223 af 22. marts 2011, § 9 i lov nr. 277 af 27. marts 2012 og § 11 i lov nr. 649 af 12. juni 2013, foretages følgende ændringer:
+
+1\. I *§ 42, stk. 1,* indsættes efter 1. pkt.:
+
+»For indgivelse af ansøgning om tilladelse til udbud af væddemål, jf. § 11, eller onlinekasino, jf. § 18, skal ansøgere, som på ansøgningstidspunktet har tilladelse fra spillemyndigheden, betale et gebyr på 100.000 kr. (2010-niveau) til spillemyndigheden, jf. dog stk. 5 og 6.«
+
+2\. I *§ 42, stk. 2,* indsættes efter 1. pkt.:
+
+»For indgivelse af ansøgning om tilladelse til udbud af både væddemål, jf. § 11, og onlinekasino, jf. § 18, skal ansøgere, som på ansøgningstidspunktet har tilladelse fra spillemyndigheden, betale et gebyr på 125.000 kr. (2010-niveau) til spillemyndigheden, jf. dog stk. 5.«
+
+3\. *§ 42, stk. 3, 2. pkt.,* affattes således:
+
+»Gebyret skal betales, senest 1 måned efter at tilladelsen træder i kraft, efter følgende skala:
+
+<table>
+<tr>
+<td><table><br><tr><br><td>Spilleindtægtens størrelse</td><br><td>Gebyr</td><br></tr><br><tr><br><td></td><br><td>(2010-niveau)</td><br></tr><br><tr><br><td>Under 5.000.000 kr.</td><br><td>50.000 kr.</td><br></tr><br><tr><br><td>5.000.000 kr. indtil 10.000.000 kr.</td><br><td>125.000 kr.</td><br></tr><br><tr><br><td>10.000.000 kr. indtil 25.000.000 kr.</td><br><td>225.000 kr.</td><br></tr><br><tr><br><td>25.000.000 kr. indtil 50.000.000 kr.</td><br><td>450.000 kr.</td><br></tr><br><tr><br><td>50.000.000 kr. indtil 100.000.000 kr.</td><br><td>800.000 kr.</td><br></tr><br><tr><br><td>100.000.000 kr. indtil 200.000.000 kr.</td><br><td>1.500.000 kr.</td><br></tr><br><tr><br><td>200.000.000 kr. indtil 500.000.000 kr.</td><br><td>2.500.000 kr.</td><br></tr><br><tr><br><td>500.000.000 kr. og derover</td><br><td>4.500.000 kr.</td><br></tr><br></table></td>
+<td>«</td>
+</tr>
+</table>
+
+4\. I *§ 43, stk. 2,* ændres »2 måneder« til: »5 måneder«, og »offentliggøre en årsredegørelse« ændres til: »sende en årsredegørelse til spillemyndigheden«.
+
+## § 2
+
+I lov nr. 698 af 25. juni 2010 om afgifter af spil, som ændret ved § 53 i lov nr. 223 af 22. marts 2011, foretages følgende ændringer:
+
+1\. I *§ 21, stk. 1, 1. pkt.,* ændres »§§ 7, 10, 12« til: »§§ 6, 7, 10-12«.
+
+2\. I *§ 22, 1. pkt.,* ændres »§§ 2, 6 og 11« til: »§ 2«.
+
+## § 3
+
+I lov nr. 223 af 22. marts 2011 for Grønland om visse spil foretages følgende ændringer:
+
+1\. I *§ 22, stk. 2,* ændres »2 måneder« til: »5 måneder«, og **»**offentliggøre en årsredegørelse« ændres til: »sende en årsredegørelse til spillemyndigheden«.
+
+2\. I *§ 28, stk. 1,* udgår »og for væddemål og spil i onlinekasino nævnt i § 25«.
+
+3\. Efter § 28 indsættes:
+
+**»§ 28 a.** For væddemål på heste- og hundevæddeløb nævnt i § 24 a og væddemål og onlinekasino nævnt i § 25 er afgiftsperioden kalendermåneden.
+
+*Stk. 2.* Afgiften skal angives og betales senest den 15. i måneden efter udløbet af afgiftsperioden. Skal en spiludbyder, der er afgiftspligtig efter denne lov, angive og betale afgift af tilsvarende væddemål og onlinekasino udbudt i Danmark, skal afgiften efter denne lov angives og betales sammen med afgiften for væddemål og onlinekasino udbudt i Danmark.
+
+*Stk. 3.* Told- og skatteforvaltningen kan afkorte afgiftsperioden og betalingsfristen for en registreret virksomhed med kalendermåneden som afgiftsperiode, såfremt afgift ikke er betalt rettidigt.«
+
+4\. I *§ 45, stk. 1, nr. 2,* indsættes efter »§ 28, stk. 2,«: »§ 28 a, stk. 2,«.
+
+## § 4
+
+*Stk. 1.* Loven træder i kraft den 1. januar 2016, jf. dog stk. 2 og 3.
+
+*Stk. 2.* Skatteministeren fastsætter tidspunktet for ikrafttrædelsen af § 1, nr. 3.
+
+*Stk. 3.* § 2, nr. 1 og 2, og § 3, nr. 2, 3 og 4, træder i kraft den 1. februar 2016.
+
+Givet på Christiansborg Slot, den 15. december 2015
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Karsten Lauritzen
+
+## Officielle noter
+
+1\) Loven har som udkast været notificeret i overensstemmelse med Europa-Parlamentets og Rådets direktiv 98/34/EF (informationsproceduredirektivet), som ændret ved direktiv 98/48/EF.

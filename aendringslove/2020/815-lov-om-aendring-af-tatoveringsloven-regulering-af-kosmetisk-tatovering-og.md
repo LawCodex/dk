@@ -1,0 +1,54 @@
+---
+title: "Lov om ændring af tatoveringsloven (Regulering af kosmetisk tatovering og undtagelser fra loven for personer i exitforløb)"
+identifier: "LOV nr 815 af 09/06/2020"
+eli: "https://www.retsinformation.dk/eli/lta/2020/815"
+accession_number: "A20200081530"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2020-06-09
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2020/815"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af tatoveringsloven (Regulering af kosmetisk tatovering og undtagelser fra loven for personer i exitforløb)
+
+*LOV nr 815 af 09/06/2020*
+
+(Regulering af kosmetisk tatovering og undtagelser fra loven for personer i exitforløb)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I tatoveringsloven, lov nr. 695 af 8. juni 2018, foretages følgende ændringer:
+
+1\. I *§ 10, stk. 1,* indsættes efter »under 18 år«: », jf. dog stk. 3«.
+
+2\. I *§ 10, stk. 2,* indsættes efter »jf. dog stk. 3«: »og 4«.
+
+3\. I *§ 10* indsættes efter stk. 2 som nyt stykke*:*
+
+*»Stk. 3.* Stk. 1 og 2 finder ikke anvendelse ved tatovering af en person, der er i exitforløb under myndighedernes nationale exitprogram for personer med tilknytning til bandemiljøet, når Det Nationale Exitkontaktpunkt vurderer, at det er påkrævet at udføre en tatovering under hensyn til exitkandidatens sikkerhed m.v.«
+
+Stk. 3 bliver herefter stk. 4.
+
+4\. *§ 10, stk. 3,* der bliver stk. 4, affattes således:
+
+*»Stk. 4.* Sundheds- og ældreministeren kan fastsætte regler om, at personer, som har gennemført en uddannelse i kosmetisk tatovering med praktisk og teoretisk indhold fastsat af en brancheforening, må udføre kosmetisk tatovering af øjenbryn, hårbund, øvre og nedre øjenlåg og læber. Sundheds- og ældreministeren kan endvidere fastsætte regler om krav til uddannelse i kosmetisk tatovering og krav til de brancheforeninger, der forestår uddannelserne.«
+
+## § 2
+
+Loven træder i kraft den 1. juli 2020.
+
+Givet på Christiansborg Slot, den 9. juni 2020
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Magnus Heunicke

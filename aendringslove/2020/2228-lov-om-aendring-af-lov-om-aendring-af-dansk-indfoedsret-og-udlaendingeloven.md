@@ -1,0 +1,46 @@
+---
+title: "Lov om ændring af lov om ændring af dansk indfødsret og udlændingeloven (Ophævelse af solnedgangsklausul)"
+identifier: "LOV nr 2228 af 29/12/2020"
+eli: "https://www.retsinformation.dk/eli/lta/2020/2228"
+accession_number: "A20200222830"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2020-12-29
+status: "in_force"
+ministry: "Udlændinge- og Integrationsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2020/2228"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om ændring af dansk indfødsret og udlændingeloven (Ophævelse af solnedgangsklausul)
+
+*LOV nr 2228 af 29/12/2020*
+
+(Ophævelse af solnedgangsklausul)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov nr. 1057 af 24. oktober 2019 om ændring af lov om dansk indfødsret og udlændingeloven (Fratagelse af statsborgerskab fra fremmedkrigere m.v.) foretages følgende ændring:
+
+1\. *§ 3, stk. 2,* ophæves.
+
+## § 2
+
+Loven træder i kraft den 1. januar 2021.
+
+## § 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger.
+
+Givet på Marselisborg Slot, den 29. december 2020
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Mattias Tesfaye

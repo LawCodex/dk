@@ -233,6 +233,16 @@ def rows_of(t):
     return rows
 
 
+def md_to_html_inline(s):
+    """Markdown produced by inline() -> HTML, for text inside HTML table cells."""
+    s = s.replace("\\\n", "<br>").replace("\n", "<br>")
+    s = re.sub(r"(?<!\\)\*\*(.+?)(?<!\\)\*\*", r"<strong>\1</strong>", s)
+    s = re.sub(r"(?<![\\*])\*(?!\*)(.+?)(?<!\\)\*", r"<em>\1</em>", s)
+    s = re.sub(r"!\[([^\]]*)\]\(([^)]+)\)", r'<img src="\2" alt="\1">', s)
+    s = re.sub(r"\\([\\*_`\[\]#+\-.)>])", r"\1", s)
+    return s
+
+
 def table_to_html(t):
     rows = rows_of(t)
     out = ["<table>"]
@@ -246,7 +256,7 @@ def table_to_html(t):
                 v = c.get(a)
                 if v and v != "1":
                     attrs += f' {a}="{v}"'
-            txt = cell_text(c).replace("\\\n", "<br>").replace("\n", "<br>")
+            txt = md_to_html_inline(cell_text(c))
             tg = c.tag.lower()
             out.append(f"<{tg}{attrs}>{txt}</{tg}>")
         out.append("</tr>")
@@ -310,26 +320,50 @@ def has_block_children(el):
     return False
 
 
-def heading_rank(el):
-    """Return the hierarchy rank if el is a structural heading, else None."""
+HEAD_CLASSES = {
+    # class: (rank, is_title_part)  -- is_title_part: the text that follows a number heading
+    "bog": (RANK_DEL, False), "del": (RANK_DEL, False),
+    "bogoverskrift": (RANK_DEL, True), "deloverskrift": (RANK_DEL, True),
+    "afsnit": (RANK_AFSNIT, False), "afsnitsnummer": (RANK_AFSNIT, False),
+    "atitle1": (RANK_AFSNIT, False),
+    "afsnitoverskrift": (RANK_AFSNIT, True), "afsnitsoverskrift": (RANK_AFSNIT, True),
+    "atitle2": (RANK_AFSNIT, True),
+    "kapitel": (RANK_KAPITEL, False), "kapitelnummer": (RANK_KAPITEL, False),
+    "ktitle1": (RANK_KAPITEL, False),
+    "kapiteloverskrift": (RANK_KAPITEL, True), "kapiteloverskrift2": (RANK_KAPITEL, True),
+    "ktitle2": (RANK_KAPITEL, True),
+    "paragrafgruppeoverskrift": (RANK_GRUPPE, False), "paragrafoverskrift": (RANK_GRUPPE, False),
+    "overskriftsnummer1": (RANK_GRUPPE, False), "overskriftstekst1": (RANK_GRUPPE, True),
+    "tekstoverskrift": (RANK_GRUPPE, False), "tekstoverskriftb": (RANK_GRUPPE, False),
+    "tekstoverskriftvb": (RANK_GRUPPE, False), "tekstoverskriftvenstre": (RANK_GRUPPE, False),
+    "tekstoverskriftvenstren": (RANK_GRUPPE, False),
+    "overskriftsnummer2": (RANK_GRUPPE + 1, False), "overskriftstekst2": (RANK_GRUPPE + 1, True),
+    "overskriftstekst3": (RANK_GRUPPE + 2, False),
+}
+BILAG_CLASSES = {"bilag", "bilagoverskrift", "bilagsoverskrift", "bilagstitel"}
+
+
+def heading_info(el):
+    """Return (rank, is_title_part) if el is a structural heading, else None."""
     cls = classes(el)
-    tag = el.tag.lower()
     for c in cls:
-        if c in OLD_HEAD_CLASSES:
-            return OLD_HEAD_CLASSES[c]
-    if cls & {"bog", "del", "deloverskrift", "bogoverskrift", "deloverskrift2", "bogoverskrift2"}:
-        return RANK_DEL
-    if cls & {"afsnit", "afsnitoverskrift", "afsnitoverskrift2"}:
-        return RANK_AFSNIT
-    if cls & {"kapitel", "kapiteloverskrift2", "kapiteloverskrift", "underkapitel",
-              "underkapiteloverskrift2"}:
-        return RANK_KAPITEL
-    if cls & {"paragrafgruppeoverskrift", "overskriftsnummer1", "overskriftstekst1",
-              "overskriftsnummer2", "overskriftstekst2"}:
-        return RANK_GRUPPE
-    if tag in ("h2", "h3", "h4", "h5", "h6") and not cls & {"title"}:
-        return RANK_KAPITEL if tag in ("h2", "h3") else RANK_GRUPPE
+        if c in HEAD_CLASSES:
+            return HEAD_CLASSES[c]
+    tag = el.tag.lower()
+    if tag in ("h2", "h3", "h4", "h5", "h6") and not cls & {"title", "undertitel2"}:
+        return (RANK_KAPITEL if tag in ("h2", "h3") else RANK_GRUPPE, False)
     return None
+
+
+def is_heading_wrapper(el):
+    total = re.sub(r"\s+", "", el.text_content())
+    head = ""
+    for d in el.iter():
+        if d is el or not isinstance(d.tag, str):
+            continue
+        if heading_info(d) is not None and not has_block_children(d):
+            head += re.sub(r"\s+", "", d.text_content())
+    return head == total
 
 
 def is_title(el):
@@ -433,25 +467,27 @@ def walk(doc, el):
     if not doc.skipped_title and is_title(el):
         doc.skipped_title = True
         return
-    rank = heading_rank(el)
-    if rank is not None and has_block_children(el) and not tag.startswith("h"):
+    hi = heading_info(el)
+    if hi is not None and has_block_children(el) and not tag.startswith("h"):
         # a heading wrapper (e.g. <div class="Kapitel"><div><h2>..</h2></div></div>) is a
-        # heading only if it does not contain body text
-        if el.xpath(".//p[not(contains(@class,'Overskrift') or contains(@class,'Kapitel'))]|.//table"):
-            rank = None
-    if rank is not None:
+        # heading only if all of its text sits in heading elements
+        if not is_heading_wrapper(el):
+            hi = None
+    if hi is not None:
+        rank, is_title_part = hi
         text = tidy(inline(el)).replace("\\\n", " ")
         text = re.sub(r"^\*\*(.*)\*\*$", r"\1", text)
         text = re.sub(r"^\*(.*)\*$", r"\1", text)
         if text:
-            doc.blocks.append(("h", (rank, text, "overskrift" in " ".join(cls))))
+            doc.blocks.append(("h", (rank, text, is_title_part)))
         return
-    if cls & {"centreretparagraf", "aendringcentreretparagraf"} and not has_block_children(el):
+    if cls & {"centreretparagraf", "aendringcentreretparagraf", "cparagrafnummer"} \
+            and not has_block_children(el):
         label = tidy(inline(el)).replace("\\\n", " ")
         if PARA_RE.match(re.sub(r"\\", "", label)):
             doc.blocks.append(("para", (label, "")))
             return
-    if "bilag" in cls and tag == "p":
+    if cls & BILAG_CLASSES and not has_block_children(el):
         text = tidy(inline(el)).replace("\\\n", " ")
         if text:
             doc.blocks.append(("h", (-1, text)))
@@ -485,6 +521,10 @@ def walk(doc, el):
                 txt = el.text_content().strip("\n")
                 if txt.strip():
                     doc.blocks.append(("raw", "```\n" + txt + "\n```"))
+                return
+            plain = norm_ws(el.text_content()).strip()
+            if PARA_RE.match(plain):
+                doc.blocks.append(("para", (esc_inline(plain), "")))
                 return
             emit_paragraph(doc, el)
             return

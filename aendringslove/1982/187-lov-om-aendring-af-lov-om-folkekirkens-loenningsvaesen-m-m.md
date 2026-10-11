@@ -1,0 +1,58 @@
+---
+title: "Lov om ændring af lov om folkekirkens lønningsvæsen m.m."
+identifier: "LOV nr 187 af 11/05/1982"
+eli: "https://www.retsinformation.dk/eli/lta/1982/187"
+accession_number: "A19820018730"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 1982-05-11
+status: "in_force"
+ministry: "By-, Land- og Kirkeministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1982/187"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om folkekirkens lønningsvæsen m.m.
+
+*LOV nr 187 af 11/05/1982*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov om folkekirkens lønningsvæsen m.m., jfr. lovbekendtgørelse nr. 384 af 25. august 1980, foretages følgende ændringer:
+
+**1.** § 16 ophæves.
+
+**2.** I § 18 udgår »de beløb, som efter § 16 skal svares til fonden«.
+
+**3.** Efter § 20 indsættes i kapitel 4:
+
+**»§ 20 a.** Kirkeministeren kan bestemme, at fællesfonden yder tilskud til hel eller delvis dækning af udgifterne i forbindelse med kurser for ansatte ved folkekirkens kirker og kirkegårde og for personer, der ønsker en sådan ansættelse.«
+
+**4.** § 29, stk. 1, affattes således:
+
+»Provstiudvalgets endelige behandling af de kirkelige kassers årlige overslag sker i offentlige møder. Bortset herfra bestemmer udvalget selv, i hvilket omfang dets møder skal være offentlige, og fastsætter selv sin forretningsorden. I tvivlstilfælde kan spørgsmål om forretningsgangen forelægges stiftsøvrigheden til afgørelse.«
+
+**5.** § 29, stk. 2, affattes således:
+
+*»Stk. 2.* Efter modtagelsen af foreløbige overslag for de kirkelige kasser kan provstiudvalget indkalde en eller to repræsentanter for hvert menighedsråd i områder med fælles ligning til budgetsamråd, der afholdes senest 1. juni. Indkaldelse til budgetsamråd skal finde sted, såfremt et menighedsråd i ligningsområdet anmoder om det.«
+
+## § 2
+
+*Stk. 1.* Loven træder i kraft den 15. maj 1982.
+
+*Stk. 2.* § 1, nr. 1 og 2, har virkning fra den 1. januar 1982.
+
+*Givet på Fredensborg slot, den 11. maj 1982*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/Tove Lindbo Larsen
+
+## Officielle noter
+
+Ingen

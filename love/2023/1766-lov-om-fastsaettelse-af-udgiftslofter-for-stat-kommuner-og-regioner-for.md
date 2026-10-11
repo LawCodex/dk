@@ -1,0 +1,54 @@
+---
+title: "Lov om fastsættelse af udgiftslofter for stat, kommuner og regioner for finansåret 2027"
+identifier: "LOV nr 1766 af 28/12/2023"
+eli: "https://www.retsinformation.dk/eli/lta/2023/1766"
+accession_number: "A20230176630"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 2023-12-28
+status: "in_force"
+ministry: "Finansministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2023/1766"
+retrieved: 2026-10-11
+---
+
+# Lov om fastsættelse af udgiftslofter for stat, kommuner og regioner for finansåret 2027
+
+*LOV nr 1766 af 28/12/2023*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Det statslige udgiftsloft for finansåret 2027 fastsættes til 607,1 mia. kr., hvoraf det statslige delloft for driftsudgifter udgør 291,7 mia. kr. og det statslige delloft for indkomstoverførsler udgør 315,4 mia. kr., jf. dog § 2, stk. 1.
+
+*Stk. 2.* Det kommunale udgiftsloft for finansåret 2027 fastsættes til 306,1 mia. kr.
+
+*Stk. 3.* Det regionale udgiftsloft for finansåret 2027 fastsættes til 139,6 mia. kr., hvoraf det regionale delloft for sundhedsområdet udgør 136,6 mia. kr. og det regionale delloft for de regionale udviklingsopgaver udgør 3,0 mia. kr.
+
+## § 2.
+
+Finansministeren kan foretage en omfordeling mellem det statslige delloft for driftsudgifter og det statslige delloft for indkomstoverførsler for finansåret 2027, i det omfang det er begrundet i permanente ændringer i fordelingen af udgifter omfattet af det statslige delloft for driftsudgifter og det statslige delloft for indkomstoverførsler.
+
+*Stk. 2.* Finansministeren orienterer Folketingets Finansudvalg om omfordelinger efter stk. 1 og offentliggør oplysninger herom på Finansministeriets hjemmeside.
+
+## § 3.
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+*Stk. 2.* Loven har virkning for finansåret 2027.
+
+## § 4.
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Givet på Marselisborg Slot, den 28. december 2023
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Nicolai Wammen

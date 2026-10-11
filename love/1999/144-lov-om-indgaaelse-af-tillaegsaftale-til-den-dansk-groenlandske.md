@@ -1,0 +1,88 @@
+---
+title: "Lov om indgåelse af tillægsaftale til den dansk-grønlandske dobbeltbeskatningsaftale"
+identifier: "LOV nr 144 af 17/03/1999"
+eli: "https://www.retsinformation.dk/eli/lta/1999/144"
+accession_number: "A19990014430"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1999-03-17
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1999/144"
+retrieved: 2026-10-11
+---
+
+# Lov om indgåelse af tillægsaftale til den dansk-grønlandske dobbeltbeskatningsaftale
+
+*LOV nr 144 af 17/03/1999*
+
+Lov om indgåelse af tillægsaftale til den dansk-grønlandske\
+dobbeltbeskatningsaftale
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:\
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Tillægsaftale af 5. november 1998 til den mellem den danske regering og det grønlandske landsstyre indgåede aftale af 18. oktober 1979 til undgåelse af dobbeltbeskatning, for så vidt angår indkomst- og formueskat samt om bistand i skattesager, kan tiltrædes. Tillægsaftalen er optaget som bilag til denne lov.
+
+*Stk. 2.* Tillægsaftalen træder i kraft og finder anvendelse i Danmark efter tillægsaftalens artikel 2.
+
+## § 2.
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+## § 3.
+
+Loven gælder ikke for Færøerne og Grønland.
+
+*Givet på Christiansborg slot, den 17. marts 1999*
+
+Under Vor Kongelige Hånd og Segl
+
+Margrethe R.
+
+/Ole Stavad
+
+Bilag
+
+Tillægsaftale
+
+til
+
+den dansk-grønlandske dobbeltbeskatningsaftale
+
+Tillægsaftale til den mellem den danske regering og det grønlandske landsstyre indgåede aftale af 18. oktober 1979 til undgåelse af dobbeltbeskatning, for så vidt angår indkomst- og formueskat samt om bistand i skattesager.
+
+Den danske regering og det grønlandske landsstyre er blevet enige om følgende:
+
+Artikel 1
+
+Artikel 15, stk. 2, affattes således:
+
+»Uanset stk. 1 kan vederlag for personligt arbejde i tjenesteforhold udøvet om bord på dansk eller grønlandsk skib kun beskattes i den del af riget, hvor den pågældende person er bosat. Vederlag for personligt arbejde i tjenesteforhold, som udføres om bord på et luftfartøj, der anvendes i international trafik, kan beskattes i den del af riget, i hvilken foretagendets virkelige ledelse har sit sæde.«
+
+Artikel 2
+
+Stk. 1. Denne tillægsaftale træder i kraft den dag, som begge parter har undertegnet den.
+
+Stk. 2. Tillægsaftalen skal dog tidligst træde i kraft den dag, hvor det danske Folketing tiltræder aftalen.
+
+Stk. 3. Tillægsaftalen finder anvendelse fra 1. januar 1998. Såfremt en person kan dokumentere, at skatten i kildelandet for indkomståret 1998 som følge af denne aftale overstiger skatten i bopælslandet af vederlag for personligt arbejde i tjenesteforhold, som udføres om bord på et luftfartøj, der anvendes i international trafik, skal kildelandet give et tilsvarende nedslag.
+
+Artikel 3
+
+Denne tillægsaftale skal forblive i kraft, så længe aftalen af 18. oktober 1979 er i kraft.
+
+Til bekræftelse heraf har de undertegnede underskrevet denne tillægsaftale.
+
+Udfærdiget i Nuuk den 5. november1998 i et eksemplar på dansk og et eksemplar på grønlandsk, hvilke tekster har lige gyldighed.
+
+For det grønlandske landsstyre
+
+Daniel Skifte
+
+For den danske regering
+
+Ole Stavad

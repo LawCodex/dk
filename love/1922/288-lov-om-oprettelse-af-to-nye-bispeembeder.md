@@ -1,0 +1,64 @@
+---
+title: "Lov om Oprettelse af to nye Bispeembeder"
+identifier: "LOV nr 288 af 30/06/1922"
+eli: "https://www.retsinformation.dk/eli/lta/1922/288"
+accession_number: "A19220028830"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1922-06-30
+status: "in_force"
+ministry: "By-, Land- og Kirkeministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1922/288"
+retrieved: 2026-10-11
+---
+
+# Lov om Oprettelse af to nye Bispeembeder
+
+*LOV nr 288 af 30/06/1922*
+
+VI Christian den Tiende, af Guds Nåde Konge til Danmark og Island, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gøre vitterligt: Rigsdagen har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I Anledning af den sønderjydske Landskirkes Indlemmelse i den danske Folkekirke oprettes der et nyt jydsk Stift med Bispesæde i Haderslev.
+
+Stiftets Omfang m.v. fastsættes ved kgl. Resolution.
+
+## § 2
+
+Der oprettes et Embede som Biskop i Roskilde. Det fastsættes ved kongelig Resolution, hvilken Del af Sjællands Stift der skal henlægges til dette Embede, samt om en Del af nævnte Stift - i bekræftende Fald hvilken - skal henlægges til Lolland-Falster Stift.
+
+## § 3
+
+Angående Stiftsøvrighedsforretningernes Besørgelse i de nyoprettede Stifter saavel som om Ansættelse af Stiftsprovster m.v. bestemmes det fornødne ved kgl. Resolution.
+
+De hidtidige Embeder som 2den og 3die Stiftsprovst over Sjællands Stift nedlægges ved indtrædende ledighed i disse Embeder.
+
+## § 4
+
+Biskopperne i de nyoprettede Bispeembeder lønnes som de øvrige Biskopper udenfor København.
+
+Indtil en ny Lov om Godtgørelse for Kontorhold til Biskopperne er givet, bevilges Godtgørelserne for Kontorhold paa Finansloven.
+
+Stiftsøvrighedernes Udgifter til Medhjælp og Kontorfornødenheder godtgøres dem paa den i Lov om Godtgørelse for Kontorhold til Stiftsøvrighederne af 1. April 1921 fastsatte Maade.
+
+## § 5
+
+Tidspunktet for denne Lovs Ikrafttræden fastsættes ved kgl. Anordning.
+
+Hvorefter alle vedkommende sig have at rette.
+
+*Givet på Amalienborg, den 30. Juni 1922.*
+
+Under Vor Kongelige Haand og Segl.
+
+Christian R
+
+(L.S.)
+
+/J.C. Christensen.
+
+## Officielle noter
+
+(\* 1) Udfærdiget gennem Kirkeministeriet. Se Rigsdagstidenden for 1921-22: Folket. Tid. Sp. 4825, 5239, 6922, 7324, 8830; Landst. Tid. Sp. 1994, 2285, 2336; Till. A. Sp. 6243; Till. B. Sp. 1807, 1943, 3593, 3631; Till. C. Sp. 1725, 2177, 2681.

@@ -1,0 +1,56 @@
+---
+title: "Lov om ændring af lov om midlertidig udskydelse af betalingsfristerne for indeholdt A-skat og arbejdsmarkedsbidrag samt moms (Forlængelse af den midlertidige udskydelse af betalingsfristerne for A-skat og arbejdsmarkedsbidrag samt moms)"
+identifier: "LOV nr 526 af 12/06/2009"
+eli: "https://www.retsinformation.dk/eli/lta/2009/526"
+accession_number: "A20090052630"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2009-06-12
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2009/526"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om midlertidig udskydelse af betalingsfristerne for indeholdt A-skat og arbejdsmarkedsbidrag samt moms (Forlængelse af den midlertidige udskydelse af betalingsfristerne for A-skat og arbejdsmarkedsbidrag samt moms)
+
+*LOV nr 526 af 12/06/2009*
+
+(Forlængelse af den midlertidige udskydelse af betalingsfristerne for A-skat og arbejdsmarkedsbidrag samt moms)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov nr. 175 af 12. marts 2009 om midlertidig udskydelse af betalingsfristerne for indeholdt A-skat og arbejdsmarkedsbidrag samt moms foretages følgende ændringer:
+
+1\. I *§ 1, stk. 1,* indsættes som *2.-5. pkt.:*
+
+»Indeholdt A-skat og arbejdsmarkedsbidrag for august 2009 forfalder den 1. september 2009 og skal indbetales senest den 5. oktober 2009. Indeholdt A-skat og arbejdsmarkedsbidrag for september 2009 forfalder den 1. oktober og skal indbetales senest den 28. oktober 2009. Indeholdt A-skat og arbejdsmarkedsbidrag for oktober 2009 forfalder den 1. november 2009 og skal indbetales senest den 23. november 2009. Indeholdt A-skat og arbejdsmarkedsbidrag for november 2009 forfalder den 1. december 2009 og skal indbetales senest den 16. december 2009.«
+
+2\. I *§ 2, stk. 1,* indsættes som *2.-6. pkt.:*
+
+»Indeholdt A-skat og arbejdsmarkedsbidrag for august 2009 forfalder den 1. september 2009 og skal indbetales senest den 24. september 2009. Indeholdt A-skat og arbejdsmarkedsbidrag for september 2009 forfalder den 1. oktober 2009 og skal indbetales senest den 19. oktober 2009. Indeholdt A-skat og arbejdsmarkedsbidrag for oktober 2009 forfalder den 1. november 2009 og skal indbetales senest den 12. november 2009. Indeholdt A-skat og arbejdsmarkedsbidrag for november 2009 forfalder den 1. december 2009 og skal indbetales senest den 7. december 2009. Betales beløb efter 2.-5. pkt. ikke rettidigt, finder opkrævningslovens § 7, stk. 1, 1. pkt., anvendelse.«
+
+3\. I *§ 5, stk. 1,* indsættes som *2.-5. pkt.:*
+
+»Virksomhedens angivelse for juli 2009 skal foretages senest den 21. september 2009. Virksomhedens angivelse for august 2009 skal foretages senest den 13. oktober 2009. Virksomhedens angivelse for september 2009 skal foretages senest den 9. november 2009. Virksomhedens angivelse for oktober 2009 skal foretages senest den 1. december 2009.«
+
+4\. I *§ 7* indsættes som *3. pkt.:*
+
+»For juli kvartal 2009 udskydes fristen til den 1. december 2009.«
+
+## § 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Givet på Christiansborg Slot, den 12. juni 2009
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Kristian Jensen

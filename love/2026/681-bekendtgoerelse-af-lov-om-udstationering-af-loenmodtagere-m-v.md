@@ -1,0 +1,533 @@
+---
+title: "Bekendtgørelse af lov om udstationering af lønmodtagere m.v."
+identifier: "LBK nr 681 af 03/07/2026"
+eli: "https://www.retsinformation.dk/eli/lta/2026/681"
+accession_number: "A20260068129"
+type: "consolidated_act"
+jurisdiction: "dk"
+language: "da"
+date: 2026-07-03
+last_amended: 2026-07-03
+status: "in_force"
+ministry: "Beskæftigelses- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2026/681"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse af lov om udstationering af lønmodtagere m.v.
+
+*LBK nr 681 af 03/07/2026*
+
+Herved bekendtgøres lov om udstationering af lønmodtagere m.v., jf. lovbekendtgørelse nr. 38 af 2. januar 2024, med de ændringer, der følger af § 13 i lov nr. 1445 af 10. december 2024, § 1 i lov nr. 1458 af 10. december 2024 og § 2 i lov nr. 302 af 24. februar 2026.
+
+## Kapitel 1 — Lovens område
+
+### § 1.
+
+§§ 2-6 b, § 7 a, stk. 1, 3-6 og 8, og §§ 7 b-7 e finder anvendelse i situationer, hvor virksomheder i forbindelse med levering af tjenesteydelser udstationerer lønmodtagere til Danmark.
+
+*Stk. 2.* § 7 a, stk. 2 og 3, og §§ 7 b-7 e, finder anvendelse i situationer, hvor virksomheder ved udførelse af arbejde i Danmark leverer tjenesteydelser, uden at betingelserne for at udstationere lønmodtagere er opfyldt, jf. § 4.
+
+*Stk. 3.* § 7 finder anvendelse i situationer, hvor personer er eller har været udstationeret til et andet land, der har gennemført Europa-Parlamentets og Rådets direktiv 96/71/EF om udstationering af arbejdstagere som led i udveksling af tjenesteydelser.
+
+*Stk. 4.* § 7 a, stk. 4-8, og §§ 7 b-7 e finder anvendelse i situationer, hvor en tjenesteydelse leveres ved udførelse af arbejde i Danmark af en udenlandsk selvstændig virksomhed, som ikke udstationerer lønmodtagere til Danmark.
+
+*Stk. 5.* Loven finder ikke anvendelse på virksomheder inden for handelsflåden, for så vidt angår besætningen.
+
+### § 2.
+
+Denne lov berører ikke anvendelsen af ILO-konvention nr. 94 af 1949 om arbejdsklausuler i offentlige kontrakter.
+
+## Kapitel 2 — Udstationering i Danmark
+
+### § 3.
+
+Ved en i Danmark udstationeret lønmodtager forstås en lønmodtager, som sædvanligvis udfører sit arbejde i et andet land end Danmark, og som midlertidigt udfører arbejde i Danmark.
+
+### § 4.
+
+En virksomhed anses for at udstationere lønmodtagere til Danmark i følgende situationer:
+
+- 1\) Når virksomheden for egen regning og under egen ledelse udstationerer en lønmodtager i forbindelse med udførelse af en tjenesteydelse for en modtager af denne i Danmark.
+- 2\) Når virksomheden udstationerer en lønmodtager på et forretningssted, i en virksomhed inden for samme koncern eller i en virksomhed, der på lignende måde har tilknytning til den virksomhed, der foretager udstationeringen.
+- 3\) Når virksomheden i sin egenskab af vikarbureau eller anden virksomhed, der stiller lønmodtagere til rådighed, udstationerer en lønmodtager i en brugervirksomhed.
+
+*Stk. 2.* Det er en betingelse for, at en udstationering er omfattet af stk. 1, at der består et ansættelsesforhold mellem lønmodtageren og den udstationerende virksomhed eller en anden virksomhed, der har stillet lønmodtageren til rådighed for den udstationerende virksomhed.
+
+*Stk. 3.* Det er ligeledes en betingelse for, at en udstationering er omfattet af stk. 1, at den pågældende udstationerende virksomhed er reelt etableret i etableringslandet og således har andre væsentlige aktiviteter i etableringslandet end udelukkende intern forvaltning eller administrative aktiviteter.
+
+### § 4 a.
+
+Arbejdstilsynet kan undersøge, om en virksomhed opfylder betingelserne for at være omfattet af udstationeringsreglerne, herunder betingelsen om reel etablering i etableringslandet, jf. § 4, stk. 3.
+
+### § 4 b.
+
+Arbejdstilsynet kan berigtige en virksomheds anmeldelse i Register for Udenlandske Tjenesteydere (RUT), jf. § 7 a, hvis det ud fra en samlet vurdering fastslås, at virksomheden ikke opfylder betingelserne for at være omfattet af udstationeringsreglerne, herunder betingelsen om reel etablering i etableringslandet, jf. § 4, stk. 3. Arbejdstilsynet underretter i disse tilfælde etableringslandets kompetente myndigheder og de relevante danske myndigheder om berigtigelsen.
+
+*Stk. 2.* Berigtiges en anmeldelse til Register for Udenlandske Tjenesteydere (RUT) på baggrund af en anmodning fra en faglig organisation, jf. § 4 d, underretter Arbejdstilsynet den pågældende faglige organisation om berigtigelsen.
+
+### § 4 c.
+
+Arbejdstilsynet kan til brug for en undersøgelse efter § 4 a indhente oplysninger fra etableringslandets myndigheder om en udstationerende virksomhed og dennes aktiviteter i etableringslandet. Arbejdstilsynet kan endvidere indhente oplysninger, som kan belyse en udstationeringssituations midlertidige karakter.
+
+### § 4 d.
+
+En faglig organisation, der har indgået kollektiv overenskomst med en udenlandsk virksomhed, kan, når der er indledt en fagretlig sag om fortolkning af eller brud på overenskomsten, til brug for denne sag anmode Arbejdstilsynet om at undersøge den udenlandske virksomhed og dennes aktiviteter i etableringslandet. I sådanne tilfælde indhenter Arbejdstilsynet oplysningerne og undersøger, om virksomheden er reelt etableret i etableringslandet. Arbejdstilsynet kan endvidere indhente oplysninger, som kan belyse en udstationeringssituations midlertidige karakter.
+
+### § 4 e.
+
+Beskæftigelsesministeren fastsætter nærmere regler om Arbejdstilsynets undersøgelse, adgang til at indhente oplysninger og adgang til at berigtige en virksomheds anmeldelse til Register for Udenlandske Tjenesteydere (RUT) samt om faglige organisationers mulighed for at anmode Arbejdstilsynet om at undersøge en udenlandsk virksomhed og dennes aktiviteter i etableringslandet, jf. §§ 4 a-4 d.
+
+### § 5.
+
+Når en virksomhed udstationerer en lønmodtager i Danmark, finder følgende regler anvendelse, uanset hvilket lands ret der i øvrigt regulerer ansættelsesforholdet:
+
+- 1\) Lov om arbejdsmiljø, offshoresikkerhedslov og kapitel 4 A i lov om luftfart.
+- 2\) Lov om ligebehandling af mænd og kvinder med hensyn til beskæftigelse og barselorlov m.v., bortset fra de bestemmelser i denne lovs kapitel 3, der vedrører ret til fravær for andre end gravide kvinder eller kvinder, der lige har født.
+- 3\) Lov om lige løn til mænd og kvinder.
+- 4\) Funktionærlovens § 7 og § 9, stk. 1, for så vidt den pågældende opfylder betingelserne i funktionærlovens § 1.
+- 5\) Lov om forbud mod forskelsbehandling på arbejdsmarkedet m.v.
+- 6\) Lov om gennemførelse af dele af arbejdstidsdirektivet.
+- 7\) Lov om vikarers retsstilling ved udsendelse af et vikarbureau m.v.
+- 8\) § 6 i lov om visse arbejdsforhold i landbruget m.v., for så vidt den pågældende lønmodtager opfylder betingelserne i § 1 i lov om visse arbejdsforhold i landbruget m.v.
+- 9\) Lov om indkvartering af ansatte.
+
+*Stk. 2.* Når en lønmodtager har været udstationeret i mere end 12 måneder i Danmark, skal virksomheden ud over de krav, der er anført i stk. 1, og uanset hvilket lands ret der i øvrigt finder anvendelse på ansættelsesforholdet, sikre lønmodtageren de yderligere ansættelses- og arbejdsvilkår, som i henhold til dansk lovgivning finder anvendelse for en lønmodtager i en tilsvarende situation, der er ansat hos en dansk arbejdsgiver, jf. dog stk. 3. Dette forhindrer ikke virksomheden i at anvende vilkår, der er mere gunstige for lønmodtageren.
+
+*Stk. 3.* Stk. 2, 1. pkt., omfatter ikke lovgivning, der vedrører procedurer, formaliteter og betingelser i forbindelse med indgåelse og opsigelse af ansættelseskontrakter, herunder konkurrenceklausuler, og indbetaling til erhvervstilknyttede tillægspensionsordninger.
+
+*Stk. 4.* Perioden nævnt i stk. 2 forlænges i op til 18 måneder, hvis virksomheden sender en meddelelse til Registret for Udenlandske Tjenesteydere (RUT), jf. § 7 a. Virksomheden skal sende en meddelelse senest den dag, hvor lønmodtageren har været udstationeret i Danmark i 12 måneder.
+
+*Stk. 5.* Ved en successiv udstationering, hvor en udstationeret lønmodtager erstatter en anden udstationeret lønmodtager til at udføre samme arbejdsopgave på samme sted, er det varigheden af den samlede udstationeringsperiode for udførelsen af arbejdsopgaven, som skal lægges til grund efter stk. 2 og 4.
+
+*Stk. 6.* Erhvervsstyrelsen kan fastsætte nærmere regler om, hvordan en forlængelse af perioden efter stk. 4 skal meddeles til Erhvervsstyrelsens IT-system og brugen af dette system.
+
+### § 5 a.
+
+En brugervirksomhed, hvortil lønmodtagere i overensstemmelse med § 4, stk. 1, nr. 3, udstationeres som vikarer, skal underrette den udstationerende virksomhed om de vilkår, der i medfør af § 3, stk. 1 og 2, i lov om vikarers retsstilling ved udsendelse af et vikarbureau m.v. skal sikres lønmodtageren under udstationeringen.
+
+*Stk. 2.* En brugervirksomhed skal i rimelig tid inden en videreudstationering til et andet EU- eller EØS-land underrette den i § 4, stk. 1, nr. 3, nævnte udstationerende virksomhed om videreudstationeringen.
+
+### § 5 b.
+
+(Ophævet)
+
+### § 5 c.
+
+(Ophævet)
+
+### § 6.
+
+Hvis den lovgivning, der i øvrigt finder anvendelse på ansættelsesforholdet, er mindre gunstig for lønmodtageren med hensyn til længden af ferie og betaling herfor end ferielovens §§ 5 og 16-19, skal arbejdsgiveren sikre lønmodtageren supplerende ferie og betaling herfor, så vedkommende bliver stillet lige så gunstigt som efter de nævnte bestemmelser.
+
+*Stk. 2.* Det er en betingelse for ret til supplerende ferie efter stk. 1, at udstationeringen varer over 8 dage. Dette gælder dog ikke for udstationering i henhold til § 4, nr. 3, medmindre der er tale om udstationering af en specialiseret eller kvalificeret lønmodtager fra en leverandørvirksomhed til arbejde med første montering eller installation af et gode, som udgør en integrerende del af en leveringsaftale, og som er nødvendig for idrifttagning af det leverede gode.
+
+*Stk. 3.* Ved beregningen af udstationeringens varighed efter stk. 2 medtages alle perioder inden for de seneste 12 måneder, hvor lønmodtageren har været udstationeret i Danmark. Endvidere medregnes alle perioder, hvor en anden lønmodtager har været udstationeret til det pågældende arbejde.
+
+## Kapitel 2 a — Anvendelse af kollektive kampskridt, aflønning m.v.
+
+### § 6 a.
+
+Med henblik på at sikre udstationerede lønmodtagere løn og godtgørelse for udgifter til rejse, kost og logi svarende til, hvad danske arbejdsgivere er forpligtet til at betale for udførelsen af tilsvarende arbejde, kan der på samme måde som over for danske arbejdsgivere anvendes kollektive kampskridt over for udenlandske tjenesteydere til støtte for et krav om indgåelse af en kollektiv overenskomst, jf. dog stk. 2.
+
+*Stk. 2.* Det er en betingelse for iværksættelse af kollektive kampskridt som nævnt i stk. 1, at der forinden over for den udenlandske tjenesteyder er henvist til bestemmelser i de kollektive overenskomster, der indgås af de mest repræsentative arbejdsmarkedsparter i Danmark, og som gælder på hele det danske område. Det skal af disse overenskomster, sammenholdt med det centrale officielle nationale websted, med den fornødne klarhed fremgå, hvilken aflønning, herunder aflønningens bestanddele, der efter overenskomsterne skal betales.
+
+### § 6 b.
+
+Hvis de arbejds- og ansættelsesvilkår, der gælder for ansættelsesforholdet, ikke angiver, om der er, og i bekræftende fald hvilke, bestanddele af ydelsen, som specifikt vedrører udstationeringen, der betales som godtgørelse for udgifter, som reelt er afholdt i forbindelse med udstationeringen, eller som er en del af aflønningen, anses hele ydelsen for at være betalt som godtgørelse for udgifter.
+
+## Kapitel 3 — Udstationering fra Danmark til andre EU- og EØS-lande
+
+### § 7.
+
+En person, som er eller har været udstationeret til et EU-land eller et andet land inden for det Europæiske Økonomiske Samarbejdsområde (EØS), og som under arbejdet i dette land har været omfattet af regler, der gennemfører Europa-Parlamentets og Rådets direktiv 96/71/EF om udstationering af arbejdstagere som led i udveksling af tjenesteydelser, kan ved anlæggelsen af en sag her i landet vedrørende en retstvist opstået i forbindelse med udstationeringen vælge, at sagen skal afgøres efter disse regler, uanset at dansk ret i øvrigt finder anvendelse.
+
+## Kapitel 3 a — Registret for Udenlandske Tjenesteydere (RUT)
+
+### § 7 a.
+
+En udenlandsk virksomhed, der udstationerer lønmodtagere til Danmark i forbindelse med levering af tjenesteydelser, skal anmelde følgende oplysninger til Erhvervsstyrelsen:
+
+- 1\) Virksomhedens navn, forretningsadresse og kontaktoplysninger.
+- 2\) Dato for påbegyndelse og afslutning af tjenesteydelsen.
+- 3\) Sted for levering af tjenesteydelsen.
+- 4\) Kontaktperson for virksomheden. Kontaktpersonen skal udpeges af virksomheden blandt de personer, der arbejder i Danmark i forbindelse med levering af tjenesteydelsen.
+- 5\) Virksomhedens branchekode.
+- 6\) Identiteten af lønmodtagere, som virksomheden udstationerer, og udstationeringsperiodens varighed.
+- 7\) Oplysninger om eventuel momsregistrering i hjemlandet.
+- 8\) Oplysninger om socialsikringsforhold for de lønmodtagere, der er anmeldt oplysninger om efter nr. 6.
+- 9\) Oplysninger om dansk hvervgiver i forbindelse med tjenesteydelsen, hvis hvervgiveren ikke er en privatperson.
+
+*Stk. 2.* En udenlandsk virksomhed, der ved udførelse af arbejde i Danmark leverer tjenesteydelser, uden at betingelserne for udstationering er opfyldt, jf. § 4, skal anmelde følgende oplysninger til Erhvervsstyrelsen:
+
+- 1\) Virksomhedens navn, forretningsadresse og kontaktoplysninger.
+- 2\) Dato for påbegyndelse og afslutning af tjenesteydelsen.
+- 3\) Sted for levering af tjenesteydelsen.
+- 4\) Kontaktperson for virksomheden. Kontaktpersonen skal udpeges af virksomheden blandt de personer, der arbejder i Danmark i forbindelse med levering af tjenesteydelsen.
+- 5\) Virksomhedens branchekode.
+- 6\) Identiteten af de lønmodtagere, der udfører den pågældende tjenesteydelse, og varigheden af beskæftigelsen.
+- 7\) Oplysninger om eventuel momsregistrering i hjemlandet.
+- 8\) Oplysninger om socialsikringsforhold i hjemlandet for de lønmodtagere, der er anmeldt oplysninger om efter nr. 6.
+- 9\) Oplysninger om dansk hvervgiver i forbindelsen med tjenesteydelsen, hvis hvervgiveren ikke er en privatperson.
+
+*Stk. 3.* En udenlandsk virksomhed, der er anmeldelsespligtig efter stk. 1 eller 2, og som beskæftiger tredjelandsstatsborgere i den forbindelse, skal desuden uploade kopi af tjenesteydelsesaftalen og kopi af ansættelseskontrakter og opholds- og arbejdstilladelser for de pågældende personer.
+
+*Stk. 4.* Anmeldelse efter stk. 1-3 og regler fastsat i medfør af stk. 7 skal ske efter lov om fremgangsmåden ved anmeldelse m.v. af visse oplysninger hos Erhvervsstyrelsen.
+
+*Stk. 5.* Oplysninger, der er anmeldt efter stk. 1-3 og regler fastsat i medfør af stk. 7 kan alene anvendes til
+
+- 1\) danske myndigheders kontrol af, om virksomheder overholder lovgivningen i forbindelse med arbejde i Danmark,
+- 2\) danske myndigheders kontrol af overholdelse af betingelserne for at udstationere til Danmark,
+- 3\) sagsbehandling i Arbejdsmarkedets Fond for Udstationerede og
+- 4\) statistik om udenlandske virksomheder og udstationerede lønmodtagere.
+
+*Stk. 6.* Oplysningerne efter stk. 1-3 og regler fastsat i medfør af stk. 7 skal anmeldes, senest samtidig med at leveringen af tjenesteydelsen i Danmark påbegyndes. Ændringer vedrørende oplysningerne skal anmeldes senest førstkommende hverdag efter ændringen.
+
+*Stk. 7.* Beskæftigelsesministeren kan fastsætte regler om, at udenlandske selvstændigt erhvervsdrivende uden ansatte, der leverer tjenesteydelser i nærmere bestemte risikobrancher, skal anmelde oplysninger til Erhvervsstyrelsen. Beskæftigelsesministeren fastsætter i den forbindelse regler om, hvilke oplysninger der skal anmeldes, om fristen for anmeldelse og ændring af oplysninger, samt om myndighedernes adgang til de anmeldte oplysninger.
+
+*Stk. 8.* Erhvervsstyrelsen kan fastsætte regler om anmeldelse af oplysninger efter stk. 1-3 og regler fastsat i medfør af stk. 7, herunder om, hvilke forhold anmeldere kan eller skal registrere i styrelsens it-system, og brugen af dette system.
+
+### § 7 b.
+
+En virksomhed skal ikke foretage anmeldelse efter § 7 a, hvis
+
+- 1\) levering af tjenesteydelsen ikke varer over 8 dage,
+- 2\) levering af tjenesteydelsen sker som led i levering af et teknisk anlæg eller en teknisk installation og
+- 3\) lønmodtageren har til opgave og er specialiseret i eller kvalificeret til at montere, installere, efterse, reparere eller informere om et teknisk anlæg eller en teknisk installation i Danmark.
+
+*Stk. 2.* Beskæftigelsesministeren kan fastsætte regler om, at visse kortvarige leveringer af tjenesteydelser undtages fra anmeldelsespligten efter § 7 a.
+
+### § 7 c.
+
+Der kan gives offentlig adgang til de oplysninger, der er nævnt i § 7 a, stk. 1, nr. 1-5 og 7, og stk. 2, nr. 1-5 og 7. Der kan endvidere gives offentlig adgang til oplysninger om, hvor mange udstationerede lønmodtagere der er på et arbejdssted.
+
+*Stk. 2.* En faglig organisation, der har indgået kollektiv overenskomst med en udenlandsk virksomhed, kan, når der er indledt en fagretlig sag om fortolkning af eller brud på overenskomsten, til brug for denne sag få adgang til de oplysninger, der er anmeldt efter § 7 a, stk. 1, nr. 6 og 9, og stk. 2, nr. 6 og 9, og oplysninger om, hvor mange af de anmeldte lønmodtagere der er anmeldt som socialsikret i hjemlandet efter § 7 a, stk. 1, nr. 8. Er en arbejdsgiverorganisation part i overenskomsten, har arbejdsgiverorganisationen ligeledes adgang til oplysningerne nævnt i 1. pkt.
+
+*Stk. 3.* Erhvervsstyrelsen kan fastsætte nærmere regler om faglige organisationers og arbejdsgiverorganisationers adgang til oplysninger efter stk. 2.
+
+*Stk. 4.* Erhvervsstyrelsen kan fastsætte regler om betaling for oplysninger, der videregives efter stk. 1. I det omfang oplysningerne stammer fra CVR-registeret, skal betaling for oplysningerne og videregivelse heraf ske i overensstemmelse med reglerne i lov om Det Centrale Virksomhedsregister.
+
+*Stk. 5.* Beskæftigelsesministeren kan fastsætte regler om offentlige myndigheders adgang til oplysninger i Registret for Udenlandske Tjenesteydere (RUT), når adgangen er sagligt begrundet i hensynet til overholdelsen af regler og vilkår på arbejdsmarkedet, herunder hensynet til at sikre ordentlige løn- og ansættelsesvilkår, eller når adgangen i øvrigt er sagligt begrundet i samfundsmæssige hensyn.
+
+### § 7 d.
+
+Tjenesteyderen har pligt til, senest samtidig med at levering af tjenesteydelsen påbegyndes, at give dokumentation til hvervgiver for, at anmeldelse er foretaget, jf. § 7 a, stk. 1-3, hvis tjenesteydelsen angår bygge- og anlægsvirksomhed eller landbrug, skovbrug og gartneri.
+
+*Stk. 2.* En hvervgiver, der modtager en tjenesteydelse fra en anmeldelsespligtig virksomhed inden for de i stk. 1 nævnte brancher, skal, senest 3 dage efter at levering af tjenesteydelsen er påbegyndt, rette henvendelse til Arbejdstilsynet, såfremt hvervgiver ikke har modtaget dokumentation for, at virksomheden har foretaget anmeldelse til Erhvervsstyrelsen, eller hvis oplysninger om sted for levering af tjenesteydelsen eller dato for påbegyndelse og afslutning af tjenesteydelsen er mangelfulde eller forkerte.
+
+*Stk. 3.* Beskæftigelsesministeren kan fastsætte regler om, at pligten for tjenesteydere og hvervgivere, jf. stk. 1 og 2, udvides til at omfatte andre brancher end de i stk. 1 nævnte.
+
+*Stk. 4.* Beskæftigelsesministeren kan fastsætte regler om, at pligten for tjenesteydere og hvervgivere, jf. stk. 1 og 2, finder anvendelse i relation til tjenesteydelser leveret af udenlandske selvstændigt erhvervsdrivende uden ansatte i nærmere bestemte risikobrancher.
+
+### § 7 e.
+
+Tilsynet med overholdelsen af anmeldelsespligten efter § 7 a varetages af Arbejdstilsynet.
+
+*Stk. 2.* Enhver tjenesteyder, der er pålagt anmeldelsespligt efter denne lov eller regler fastsat i medfør heraf, og dennes kontaktperson, jf. § 7 a, stk. 1, nr. 4, eller § 7 a, stk. 2, nr. 4, skal efter anmodning give Arbejdstilsynet oplysninger, der kan tjene til at identificere virksomheden, udstationerede lønmodtagere og arbejdssted, jf. § 7 a, stk. 1-3, og regler fastsat i medfør af § 7 a, stk. 7. Tjenesteyderen skal sørge for, at enhver, der beskæftiges af virksomheden, kan fremvise gyldig legitimation til Arbejdstilsynet.
+
+*Stk. 3.* Enhver, der udfører arbejde i Danmark, skal efter anmodning fra Arbejdstilsynet fremvise gyldig legitimation og oplyse navnet på den virksomhed, den pågældende udfører arbejde for, til brug for Arbejdstilsynets tilsyn med udenlandske virksomheders overholdelse af anmeldelsespligten efter § 7 a, stk. 1-3.
+
+*Stk. 4.* Beskæftigelsesministeren kan efter forhandling med vedkommende minister fastsætte regler om, at tilsyn med anmeldelsespligten efter § 7 a inden for bestemte sektorer skal varetages af den myndighed, der i øvrigt fører tilsyn med overholdelse af regler om arbejdsmiljø inden for den pågældende sektor.2)
+
+### § 7 f.
+
+Har en virksomhed undladt at foretage anmeldelse efter § 7 a, kan Arbejdstilsynet påbyde virksomheden, at anmeldelse sker straks.
+
+*Stk. 2.* Kan tjenesteyderen eller dennes ansatte ikke fremvise gyldig legitimation efter § 7 e, stk. 2 og 3, kan Arbejdstilsynet påbyde virksomheden at bringe forholdet i orden inden for en nærmere angivet frist.
+
+*Stk. 3.* Undlader en virksomhed at efterkomme et påbud efter stk. 1, kan Arbejdstilsynet pålægge virksomheden daglige bøder, indtil dette påbud efterkommes.
+
+*Stk. 4.* Arbejdstilsynet kan videregive oplysninger om virksomheder, der er givet et påbud efter stk. 1 eller pålagt daglige bøder efter stk. 3, til andre offentlige myndigheder og til faglige organisationer og arbejdsgiverorganisationer. Arbejdstilsynet kan tillige videregive oplysninger om virksomheder, der er givet et påbud efter stk. 2, til andre offentlige myndigheder.
+
+*Stk. 5.* Klager over eller indbringelse for domstolene af påbud efter stk. 1 og 2 eller pålæg af daglige bøder efter stk. 3 har ikke opsættende virkning.
+
+*Stk. 6.* Beskæftigelsesministeren kan fastsætte nærmere regler om videregivelse af oplysninger efter stk. 4.
+
+### § 7 g.
+
+(Ophævet)
+
+## Kapitel 3 b — Klageadgang
+
+### § 7 h.
+
+Arbejdstilsynets afgørelser i henhold til denne lov kan inden for en frist på 4 uger fra den dag, hvor afgørelsen er meddelt virksomheden, indbringes for Arbejdsmiljøklagenævnet.
+
+## Kapitel 4 — Information og administrativt samarbejde med EU- og EØS-lande
+
+### § 8.
+
+Arbejdstilsynet er dansk forbindelseskontor i henhold til artikel 4 i Europa-Parlamentets og Rådets direktiv 96/71/EF om udstationering af arbejdstagere som led i udveksling af tjenesteydelser.
+
+*Stk. 2.* Arbejdstilsynet koordinerer i den forbindelse arbejdet med at informere udenlandske arbejdsgivere og lønmodtagere m.fl. vedrørende de regler, der finder anvendelse under udstationering til Danmark. Arbejdstilsynet samarbejder med andre landes forbindelseskontorer i forbindelse med eventuelle problemer, der måtte opstå i forbindelse med udstationeringer til og fra Danmark.
+
+### § 8 a.
+
+Ved kompetent myndighed forstås enhver myndighed, der er blevet udpeget til eller tillagt kompetence til at varetage opgaver i medfør af direktiv 96/71 af 16. december 1996 om udstationering af arbejdstagere som led i udveksling af tjenesteydelser og direktiv 2014/67/EU af 15. maj 2014 om håndhævelse af direktiv 96/71 om udstationering af arbejdstagere som led i udveksling af tjenesteydelser og om ændring af forordning 1024/2012 om administrativt samarbejde via informationssystemet for det indre marked (»IMI-forordningen«).
+
+### § 8 b.
+
+Kompetente myndigheder i Danmark sender på forespørgsel fra kompetente myndigheder i de øvrige EU- og EØS-lande oplysninger gennem informationssystemet for det indre marked til brug for håndhævelse af udstationeringsreglerne. Oplysninger kan tillige sendes i forbindelse med bilateralt administrativt samarbejde og gensidig bistand.
+
+*Stk. 2.* Kompetente myndigheder i Danmark indhenter oplysninger gennem informationssystemet for det indre marked fra de kompetente myndigheder i de øvrige EU- og EØS-lande til brug for håndhævelse af udstationeringsreglerne. Oplysninger kan tillige indhentes i forbindelse med bilateralt administrativt samarbejde og gensidig bistand.
+
+*Stk. 3.* Beskæftigelsesministeren fastsætter nærmere regler om, hvordan det administrative samarbejde efter stk. 1 og 2 udføres.
+
+## Kapitel 5 — Værneting, håndhævelse af rettigheder og beskyttelse mod ugunstig behandling
+
+### § 9.
+
+En lønmodtager, som er eller har været udstationeret til Danmark, kan anlægge sag her i landet vedrørende de i § 5 nævnte love og vedrørende § 6. En sådan lønmodtager kan endvidere anlægge sag her i landet vedrørende rettigheder, der tilkommer den pågældende udstationerede lønmodtager som følge af kontraktforholdet mellem arbejdsgiveren og den udstationerede lønmodtager, efter de samme regler, som gælder for andre lønmodtagere, der udfører arbejde i Danmark.
+
+*Stk. 2.* Sagen kan anlægges ved den ret eller ved en af de retter, i hvis kreds lønmodtageren har udført det pågældende arbejde. Hvis den udstationerede lønmodtagers ansættelsesforhold er omfattet af en kollektiv overenskomst, kan en sag behandles fagretligt i overensstemmelse med de gældende regler herfor.
+
+### § 9 a.
+
+Lønmodtagere, der under en udstationering til Danmark afskediges eller udsættes for en anden ugunstig behandling, fordi de har rejst en sag om løn- og arbejdsvilkår som omhandlet i §§ 5 og 6 eller en eventuel dansk kollektiv overenskomst, som disse måtte være omfattet af, kan tilkendes en godtgørelse.
+
+*Stk. 2.* Lønmodtagere, der efter en udstationering fra Danmark til et andet EU- eller EØS-land afskediges eller udsættes for anden ugunstig behandling, fordi de har rejst en sag om løn- og arbejdsvilkår, som de i medfør af værtsarbejdslandets lovgivning eller kollektive overenskomster, som gennemfører udstationeringsdirektivets artikel 3, har været berettiget til under udstationeringen i det land, hvortil de er eller har været udstationeret, kan tilkendes en godtgørelse.
+
+## Kapitel 6 — Straffebestemmelser
+
+### § 10.
+
+Med bøde straffes den arbejdsgiver, der trods påkrav uden rimelig grund undlader at yde ferie og betaling herfor efter § 6.
+
+### § 10 a.
+
+Med bøde straffes den, der på følgende måder overtræder lovens bestemmelser:
+
+- 1\) Undlader rettidigt at anmelde oplysninger eller afgiver urigtige eller mangelfulde oplysninger efter § 7 a, stk. 1-3.
+- 2\) Undlader at give dokumentation til hvervgiver i henhold til § 7 d, stk. 1.
+- 3\) Undlader at rette henvendelse til Arbejdstilsynet i henhold til § 7 d, stk. 2.
+- 4\) Undlader at efterkomme påbud om fremvisning af legitimation efter § 7 f, stk. 2.
+
+*Stk. 2.* Overtrædelser efter stk. 1, nr. 2 og 3, straffes dog ikke, såfremt der er sket korrekt anmeldelse efter § 7 a.
+
+*Stk. 3.* Ved straffens udmåling efter stk. 1, nr. 1-4, betragtes det som en skærpende omstændighed, hvis overtrædelsen er begået forsætligt eller ved grov uagtsomhed, eller hvis der ved overtrædelsen er opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre, eller hvis overtrædelsen i øvrigt er af grovere karakter.
+
+### § 10 b.
+
+I forskrifter, der udstedes i medfør af loven, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i forskrifterne.
+
+### § 10 c.
+
+Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+### § 10 d.
+
+Beskæftigelsesministeren kan efter forhandling med justitsministeren fastsætte regler om, at Arbejdstilsynet i nærmere angivne sager om overtrædelser af denne lov kapitel 2 og 3 a og regler udstedt i medfør heraf, der ikke skønnes at medføre højere straf end bøde, i et bødeforelæg kan tilkendegive, at sagen kan afgøres uden retssag, hvis den, der har begået overtrædelsen, erklærer sig skyldig i overtrædelsen og erklærer sig rede til inden en nærmere angiven frist at betale en bøde som angivet i bødeforelægget.
+
+*Stk. 2.* Reglerne i retsplejelovens § 834, stk. 1, nr. 2 og 3, og stk. 2, om krav til indholdet af et anklageskrift og reglerne i retsplejeloven om, at en sigtet ikke er forpligtet til at udtale sig, finder tilsvarende anvendelse på bødeforelæg.
+
+*Stk. 3.* Vedtages bødeforelægget, bortfalder videre forfølgning. Vedtagelsen har samme virkning som en dom.
+
+## Kapitel 7 — Revision
+
+### § 11.
+
+Beskæftigelsesministeren fremsætter i folketingsåret 2026-27 forslag om revision af loven.
+
+## Kapitel 8 — Ikrafttræden m.v.
+
+### § 12.
+
+Loven træder i kraft den 17. december 1999.
+
+### § 13.
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Lov nr. 263 af 23. april 2008 (Anmeldelsespligt i forbindelse med udstationering)3) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 2
+
+Loven træder i kraft den 1. maj 2008.
+
+Lov nr. 1394 af 27. december 2008 (Gennemførelse af anbefalingen fra udredningsarbejdet om Lavalafgørelsen og forlængelse af revisionsfrist)4) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 2
+
+Loven træder i kraft den 1. januar 2009.
+
+Lov nr. 509 af 19. maj 2010 (Udvidelse af anmeldelsespligten for udenlandske tjenesteydere samt pligt for hvervgiver til at medvirke til at sikre, at der sker anmeldelse til RUT)5) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 2
+
+*Stk. 1.* Loven træder i kraft den 1. juni 2010, jf. dog stk. 2.
+
+*Stk. 2.* Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af § 1, stk. 3, § 7 a, stk. 2, § 7 d, § 10 a, stk. 1, nr. 2-4, og § 10 a, stk. 2, i lov om udstationering af lønmodtagere som affattet ved denne lovs § 1, nr. 3, 5 og 10.
+
+Lov nr. 121 af 23. februar 2011 (Forlængelse af revisionsfrist)6) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 2
+
+Loven træder i kraft den 1. marts 2011.
+
+Lov nr. 611 af 12. juni 2013 (Flere oplysninger i Registret for Udenlandske Tjenesteydere (RUT) og ændring af fristen for at anmelde ændringer heri, hjemmel til administrative bødeforelæg m.v.)7) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 2
+
+*Stk. 1.* Loven træder i kraft den 1. juli 2013.
+
+*Stk. 2.* § 1, nr. 5, finder alene anvendelse for offentlig adgang til oplysninger om dato for påbegyndelse og afslutning af tjenesteydelsen og om virksomhedens momsnummer i hjemlandet, som registreres efter lovens ikrafttræden.
+
+Lov nr. 175 af 24. februar 2015 (Forhøjelse af straffen for overtrædelser af grovere karakter af anmeldelsespligten til Register for Udenlandske Tjenesteydere)8) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 2
+
+Loven træder i kraft den 1. marts 2015.
+
+Lov nr. 626 af 8. juni 2016 (Implementering af håndhævelsesdirektivet)9) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 4
+
+*Stk. 1.* Loven træder i kraft den 18. juni 2016, jf. dog stk. 2.
+
+*Stk. 2.* Beskæftigelsesministeren fastsætter tidspunktet for ikrafttræden af udstationeringslovens § 4 b som affattet ved denne lovs § 1, nr. 6, og lovens § 1, nr. 2-4, 8-20, 27 og 28.
+
+Lov nr. 1717 af 27. december 2016 (Ændring af organisering og finansiering af arbejdsmarkedets parters arbejdsmiljøindsats m.v.)10) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 5
+
+*Stk. 1.* Loven træder i kraft den 1. januar 2017.
+
+*Stk. 2-3.* (Udelades)
+
+Lov nr. 60 af 30. januar 2018 om ferie11) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 47.
+
+Loven træder i kraft den 1. september 2020, jf. dog stk. 2.
+
+*Stk. 2.* § 49 træder i kraft den 1. januar 2019.
+
+*Stk. 3-5.* (Udelades)
+
+Lov nr. 702 af 8. juni 2018 (Styrket håndhævelse af Registret for Udenlandske Tjenesteydere (RUT) med mulighed for administrative tvangsbøder)12) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 2
+
+Loven træder i kraft den 1. juli 2018.
+
+Lov nr. 1939 af 15. december 2020 (Implementering af det reviderede udstationeringsdirektiv og målretning af anmeldelsespligten til Registret for Udenlandske Tjenesteydere (RUT) for selvstændigt erhvervsdrivende uden ansatte m.v.)13) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 3
+
+*Stk. 1.* Loven træder i kraft den 1. januar 2021, jf. dog stk. 2.
+
+*Stk. 2.* § 1, nr. 29, træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+*Stk. 3.* I forhold til vejtransportsektoren finder § 1, nr. 8-14, først anvendelse fra den 2. februar 2022. For denne sektor finder de hidtil gældende regler fortsat anvendelse.
+
+*Stk. 4.* For lønmodtagere, der er udstationeret til Danmark fra og med den 30. juli 2020, indgår den samlede udstationeringsperiode fra dette tidspunkt i opgørelsen i henhold til § 5, stk. 2 og 4, i lov om udstationering af lønmodtagere m.v. som affattet ved denne lovs § 1, nr. 10, under forudsætning af at lønmodtageren udfører samme arbejdsopgave på samme sted ved lovens ikrafttræden.
+
+Lov nr. 2098 af 25. november 2021 om arbejdsgiveres adgang til at pålægge lønmodtagere forevisning af coronapas, test for covid-19 m.v.14) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 8.
+
+Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+*Stk. 2.* Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+### § 9.
+
+(Udelades)
+
+### § 10.
+
+Lovens §§ 1-8 og 11 ophæves den 11. december 2021, jf. dog stk. 3.
+
+*Stk. 2.* § 5, stk. 1, nr. 9, § 7 e, stk. 4 og 5, § 7 g og § 10 a, stk. 1, nr. 6, i lov om udstationering af lønmodtagere m.v. som affattet ved denne lovs § 9, nr. 1 og 3-5, ophæves den 11. december 2021.
+
+*Stk. 3.* Beskæftigelsesministeren kan under særlige omstændigheder fastsætte, at ophævelsen af lovens §§ 1-8 og 11 og ophævelsen af § 5, stk. 1, nr. 9, § 7 e, stk. 4 og 5, § 7 g og § 10 a, stk. 1, nr. 6, i lov om udstationering af lønmodtagere m.v. kan ske på et senere tidspunkt. Udskydelse efter 1. pkt. kan ske helt eller delvis, dog ikke senere end til den 31. december 2022. Udskydelsen kan helt eller delvis forlænges.
+
+Lov nr. 159 af 31. januar 2022 om ændring af lov om godskørsel, lov om buskørsel og lov om udstationering af lønmodtagere m.v. (Tilladelsesordning for international godskørsel i varebiler, ændrede betingelser for udøvelse af national godskørsel i varebiler, udstationering af førere i vejtransporten m.v.)15) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 4
+
+*Stk. 1.* Loven træder i kraft den 2. februar 2022, jf. dog stk. 2.
+
+*Stk. 2.* § 1, nr. 2-13, 15, 16, 18-37, 39-41 og 43, og § 2, nr. 3-17, 19-23 og 25-27, træder i kraft den 21. februar 2022.
+
+*Stk. 3.* Kravet om tilladelse i § 1, stk. 3, i lov om godskørsel som affattet ved denne lovs § 1, nr. 2, finder anvendelse fra den 21. maj 2022.
+
+*Stk. 4.* Transportministeren kan fastsætte nærmere regler om overgangsordninger for virksomheder, der på tidspunktet for lovens ikrafttrædelse driver eller tidligere har drevet virksomhed, der er omfattet af tilladelseskravet efter § 1, stk. 1, i lov om buskørsel, § 1, stk. 1, i lov om godskørsel eller § 1, stk. 3, i lov om godskørsel som affattet ved denne lovs § 1, nr. 2, herunder regler om fravigelse af krav, der skal opfyldes for at opnå tilladelse.
+
+*Stk. 5.* Transportministeren kan fastsætte nærmere regler om overgangsordninger for virksomheder, der på tidspunktet for lovens ikrafttrædelse har en midlertidig tilladelse udstedt efter § 16, stk. 3, i lov om buskørsel som ophævet ved denne lovs § 2, nr. 23.
+
+Lov nr. 1445 af 10. december 2024 om indkvartering af ansatte16) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 11.
+
+Loven træder i kraft den 1. juli 2025.
+
+Lov nr. 1458 af 10. december 2024 om ændring af lov om udstationering af lønmodtagere m.v. og udlændingeloven (Krav om fremvisning af legitimation og flere oplysningskrav i Registret for Udenlandske Tjenesteydere (RUT))17) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 3
+
+*Stk. 1.* Loven træder i kraft den 1. januar 2025, jf. dog stk. 2.
+
+*Stk. 2.* § 1, nr. 1-5, 8 og 12, træder i kraft den 1. januar 2026.
+
+*Stk. 3.* Regler udstedt i medfør af § 7 a, stk. 6, i lov om udstationering af lønmodtagere m.v., jf. lovbekendtgørelse nr. 38 af 2. januar 2024, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 7 a, stk. 7, i lov om udstationering af lønmodtagere m.v., jf. denne lovs § 1, nr. 2.
+
+*Stk. 4.* Regler udstedt i medfør af § 7 a, stk. 7, i lov om udstationering af lønmodtagere m.v., jf. lovbekendtgørelse nr. 38 af 2. januar 2024, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 7 a, stk. 8, i lov om udstationering af lønmodtagere m.v., jf. denne lovs § 1, nr. 2.
+
+*Stk. 5.* Regler udstedt i medfør af § 7 f, stk. 5, i lov om udstationering af lønmodtagere m.v., jf. lovbekendtgørelse nr. 38 af 2. januar 2024, forbliver i kraft, indtil de ophæves eller afløses af regler udstedt i medfør af § 7 f, stk. 6, i lov om udstationering af lønmodtagere m.v., jf. denne lovs § 1, nr. 9.
+
+Lov nr. 302 af 24. februar 2026 om ændring af lov om arbejdsmiljø og lov om udstationering af lønmodtagere m.v. (Ansattes adgang til oplysninger fra tredjepart om resultater af asbestprøver, fængselsstraf til personer i ledelsen i særlig grove sager, forhøjelse af bøden for udvalgte formelle overtrædelser m.v.)18) indeholder følgende ikrafttrædelsesbestemmelse:
+
+### § 3
+
+*Stk. 1.* Loven træder i kraft den 1. marts 2026, jf. dog stk. 2.
+
+*Stk. 2.* (Udelades)
+
+Beskæftigelses- og Ligestillingsministeriet, den 3. juli 2026
+
+Ane Halsboe-Jørgensen
+
+/ Marianne Sørensen
+
+## Officielle noter
+
+**EU Noter**
+
+1\) Loven indeholder bestemmelser, der gennemfører Europa-Parlamentets og Rådets direktiv 96/71/EF af 16. december 1996 om udstationering af arbejdstagere som led i udveksling af tjenesteydelser, EF-Tidende 1997 L 18 s. 1, dele af Europa-Parlamentets og Rådets direktiv 2014/67/EU af 15. maj 2014 om håndhævelse af direktiv 96/71/EF om udstationering af arbejdstagere som led i udveksling af tjenesteydelser og om ændring af forordning (EU) nr. 1024/2012 om administrativt samarbejde via informationssystemet for det indre marked (»IMI-forordningen«), EU-tidende 2014, nr. L 159, side 11, og dele af Europa-Parlamentets og Rådets direktiv 2018/957/EU af 28. juni 2018 om ændring af direktiv 96/71/EF om udstationering af arbejdstagere som led i udveksling af tjenesteydelser, EU-Tidende 2018, nr. L 173, side 16.
+
+**Slutnoter**
+
+2\) Stk. 4 og 5 er ophævet som følge af solnedgangsklausul i lov nr. 2098 af 25. november 2021. Stk. 6 er herefter stk. 4.
+
+3\) Lovændringen vedrører § 5 a, § 5 b, § 5 c og § 10.
+
+4\) Lovændringen vedrører § 1, § 11 og kapitel 2 a.
+
+5\) Lovændringen vedrører lovens titel, § 1, § 8, § 10, kapitel 3 a, § 10 a, § 10 b og § 10 c.
+
+6\) Lovændringen vedrører § 11.
+
+7\) Lovændringen vedrører § 5, § 7 a, stk. 1, 2 og 5, § 7 c, stk. 1, § 7 e, stk. 4, og kapitel 6.
+
+8\) Lovændringen vedrører § 10 a, stk. 3.
+
+9\) Lovændringen vedrører fodnoten til lovens titel, § 1, § 4, § 4 a, § 4 b, § 4 c, § 4 d, § 4 e, § 5, § 7 a, § 7 c, § 7 d, § 7 e, overskriften til kapitel 4, § 8 a, § 8 b, overskriften til kapitel 5, § 9, § 9 a, § 10 a og § 11.
+
+10\) Lovændringen vedrører § 1, § 7 a og § 7 b.
+
+11\) Lovændringen vedrører § 6.
+
+12\) Lovændringen vedrører § 7 f og § 7 g.
+
+13\) Lovændringen vedrører fodnoten til lovens titel, § 1, stk. 1, 2 og 4, § 4 b, stk. 1 og 2, § 4 e, § 5, stk. 1-6, § 5 a, § 6 a, stk. 1 og 2, § 6 b, § 7 a, stk. 2, og 4-6, § 7 b, stk. 1 og 2, § 7 c, stk. 2 og 5, § 7 d, stk. 1 og 4, § 7 e, stk. 2-4, § 10 a, stk. 1, og § 11.
+
+14\) Lovændringen vedrører § 5, stk. 1, overskriften til kapitel 3 a, § 7 e, stk. 4 og 5, § 7 g og § 10 a, stk. 1.
+
+15\) Lovændringen vedrører § 1, stk. 5, § 7 b, stk. 2, kapitel 4 a, § 10 a, stk. 1, 3 og 4, § 10 d, stk. 2, og § 10 e.
+
+16\) Lovændringen vedrører § 5.
+
+17\) Lovændringen vedrører § 1, § 7 a, § 7 d, § 7 e, § 7 f, § 10 a og § 11.
+
+18\) Lovændringen vedrører § 11.

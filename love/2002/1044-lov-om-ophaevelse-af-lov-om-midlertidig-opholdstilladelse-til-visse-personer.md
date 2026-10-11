@@ -1,0 +1,92 @@
+---
+title: "Lov om ophævelse af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. samt om ændring af udlændingeloven og forskellige skattelove (Ophævelse af jugoslaverloven)"
+identifier: "LOV nr 1044 af 17/12/2002"
+eli: "https://www.retsinformation.dk/eli/lta/2002/1044"
+accession_number: "A20020104430"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 2002-12-17
+status: "in_force"
+ministry: "Udlændinge- og Integrationsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2002/1044"
+retrieved: 2026-10-11
+---
+
+# Lov om ophævelse af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. samt om ændring af udlændingeloven og forskellige skattelove (Ophævelse af jugoslaverloven)
+
+*LOV nr 1044 af 17/12/2002*
+
+Lov om ophævelse af lov om midlertidig opholdstilladelse til\
+visse personer fra det tidligere Jugoslavien m.v.\
+samt om ændring af udlændingeloven og\
+forskellige skattelove
+
+(Ophævelse af jugoslaverloven)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:\
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+Lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v., jf. lovbekendtgørelse nr. 563 af 30. juni 1995, ophæves.
+
+## § 2
+
+I udlændingeloven, jf. lovbekendtgørelse nr. 608 af 17. juli 2002, foretages følgende ændringer:
+
+1\. *§ 9 e, stk. 1,* ophæves.
+
+Stk. 2 bliver herefter stk. 1.
+
+2\. I *§ 27, stk. 2,* udgår », jf. dog stk. 3«.
+
+3\. *§ 27, stk. 3,* ophæves.
+
+Stk. 4-6 bliver herefter stk. 3-5.
+
+4\. I *§ 27, stk. 4,* der bliver stk. 3, ændres »stk. 1-3« til: »stk. 1 og 2«.
+
+5\. I *§ 33, stk. 12,* ændres »§ 9 e, stk. 2,« til: »§ 9 e«.
+
+6\. I *§ 46, stk. 2,* udgår »§ 9 e, stk. 1,«.
+
+## § 3
+
+I lov om opkrævning af indkomstskat samt kommunal og amtskommunal ejendomsværdiskat for personer m.v. (kildeskat), jf. lovbekendtgørelse nr. 678 af 12. august 2002, som ændret ved § 2 i lov nr. 460 af 31. maj 2000, foretages følgende ændringer:
+
+1\. I *§ 5 A, stk. 5,* udgår », samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. eller lov om midlertidig opholdstilladelse til nødstedte fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien (Kosovonødloven)«.
+
+2\. I *§ 7, stk. 2,* udgår »samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. eller lov om midlertidig opholdstilladelse til nødstedte fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien (Kosovonødloven)«.
+
+3\. I *§ 8, stk. 3,* udgår »samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. eller lov om midlertidig opholdstilladelse til nødstedte fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien (Kosovonødloven)«.
+
+## § 4
+
+I lov om indkomstskat for personer m.v. (personskatteloven), jf. lovbekendtgørelse nr. 683 af 18. august 2002, som ændret ved § 6 i lov nr. 460 af 31. maj 2000, foretages følgende ændring:
+
+1\. I *§ 10, stk. 5, 3. pkt.,* udgår », samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. eller lov om midlertidig opholdstilladelse til nødstedte fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien (Kosovonødloven)«.
+
+## § 5
+
+I lov om påligningen af indkomstskat til staten (ligningsloven), jf. lovbekendtgørelse nr. 791 af 17. september 2002, foretages følgende ændring:
+
+1\. I *§ 9 F, stk. 3,* udgår », samt personer omfattet af lov om midlertidig opholdstilladelse til visse personer fra det tidligere Jugoslavien m.v. eller lov om midlertidig opholdstilladelse til nødstedte fra Kosovoprovinsen i Forbundsrepublikken Jugoslavien (Kosovonødloven)«.
+
+## § 6
+
+Stk. 1. Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+Stk. 2. Loven finder ikke anvendelse for personer, der inden lovens ikrafttræden har indgivet ansøgning om opholdstilladelse efter udlændingelovens § 7.
+
+## § 7
+
+Loven gælder ikke for Færøerne og Grønland.
+
+*Givet på Christiansborg Slot, den 17. december 2002*
+
+Under Vor Kongelige Hånd og Segl
+
+Margrethe R.
+
+/Bertel Haarder

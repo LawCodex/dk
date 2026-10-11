@@ -1,0 +1,56 @@
+---
+title: "Lov om ændring af lov om visse foranstaltninger imod tyveri fra det kgl. bibliotek (Udvidelse af visitationsadgang til visse statslige og statsanerkendte kulturarvsinstitutioner med publikumsadgang til samlingerne)"
+identifier: "LOV nr 1628 af 26/12/2013"
+eli: "https://www.retsinformation.dk/eli/lta/2013/1628"
+accession_number: "A20130162830"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2013-12-26
+status: "in_force"
+ministry: "Kulturministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2013/1628"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om visse foranstaltninger imod tyveri fra det kgl. bibliotek (Udvidelse af visitationsadgang til visse statslige og statsanerkendte kulturarvsinstitutioner med publikumsadgang til samlingerne)
+
+*LOV nr 1628 af 26/12/2013*
+
+(Udvidelse af visitationsadgang til visse statslige og statsanerkendte kulturarvsinstitutioner med publikumsadgang til samlingerne)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov nr. 246 af 8. juni 1978 om visse foranstaltninger imod tyveri fra det kgl. bibliotek foretages følgende ændringer:
+
+1\. Lovens *titel* affattes således:
+
+»Lov om visitation på visse statslige og statsanerkendte kulturarvsinstitutioner med publikumsadgang til samlingerne«.
+
+2\. *§ 1* affattes således:
+
+**»§ 1.** På visse statslige og statsanerkendte kulturarvsinstitutioner med publikumsadgang til samlingerne kan der gennemføres visitation af personer efter bestemmelserne i denne lov.
+
+*Stk. 2.* Kulturministeren kan efter anmodning fra en kulturarvsinstitution bestemme, at den pågældende kulturarvsinstitution skal omfattes af stk. 1.
+
+*Stk. 3.* Visitation foretages efter forskrifter, der godkendes af kulturministeren.«
+
+## § 2
+
+Loven træder i kraft den 1. januar 2014.
+
+## § 3
+
+Loven gælder ikke for Grønland og Færøerne.
+
+Givet på Marselisborg Slot, den 26. december 2013
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Marianne Jelved

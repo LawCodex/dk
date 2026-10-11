@@ -1,0 +1,60 @@
+---
+title: "Lov om ophævelse af lov om et hovedstadsråd"
+identifier: "LOV nr 191 af 29/03/1989"
+eli: "https://www.retsinformation.dk/eli/lta/1989/191"
+accession_number: "A19890019130"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1989-03-29
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1989/191"
+retrieved: 2026-10-11
+---
+
+# Lov om ophævelse af lov om et hovedstadsråd
+
+*LOV nr 191 af 29/03/1989*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Lov om et hovedstadsråd, jf. lovbekendtgørelse nr. 315 af 20. juni 1984, ophæves.
+
+## § 2.
+
+Københavns, Frederiksborg og Roskilde Amtskommuner samt Københavns og Frederiksberg Kommuner overtager fra 1. januar 1990 Hovedstadsrådets aktiver og passiver, herunder garantiforpligtelser m.v., bortset fra de aktiver og passiver, der kan henføres til Hovedstadsområdets Trafikselskab. Fordelingen af aktiverne og passiverne sker i forhold til de indkomster, af hvilke de nævnte amtskommuner og kommuner får indkomstskat for regnskabsåret 1989, medmindre der er enighed om anden fordeling.
+
+*Stk. 2.* Amtskommunernes og kommunernes fordeling af Hovedstadsrådets aktiver og passiver efter stk. 1 skal godkendes af indenrigsministeren. I tilfælde af uenighed om opgørelsen eller fordelingen træffer indenrigsministeren afgørelse herom.
+
+## § 3.
+
+Til tidligere formænd for Hovedstadsrådet ydes pension og efterløn i overensstemmelse med de regler, der er fastsat i henhold til lov om kommunernes styrelse. Udgifterne hertil afholdes efter reglerne i § 2.
+
+## § 4.
+
+Det påhviler Københavns, Frederiksborg og Roskilde Amtsråd samt Københavns og Frederiksberg kommunalbestyrelser at sørge for varetagelsen af opgaverne i forbindelse med gennemførelsen af Hovedstadsrådets nedlæggelse. Når årsregnskabet for 1989 er revideret, forelægges det til godkendelse i de nævnte kommunale råd.
+
+*Stk. 2.* Udgifterne ved varetagelsen af de opgaver, der er nævnt i stk. 1, afholdes efter reglerne i § 2.
+
+## § 5.
+
+Indenrigsministeren kan fastsætte nærmere regler om gennemførelsen af Hovedstadsrådets nedlæggelse. Indenrigsministeren træffer afgørelse om eventuelle tvivlsspørgsmål i forbindelse med nedlæggelsen af Hovedstadsrådet.
+
+## § 6.
+
+Loven træder i kraft den 1. januar 1990.
+
+*Givet på Christiansborg Slot, den 29. marts 1989*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/Thor Pedersen
+
+## Officielle noter
+
+Ingen

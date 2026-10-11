@@ -1,0 +1,96 @@
+---
+title: "Lov om ændring af lov om Statens Husholdningsråd og lov om Forbrugerklagenævnet"
+identifier: "LOV nr 856 af 23/12/1987"
+eli: "https://www.retsinformation.dk/eli/lta/1987/856"
+accession_number: "A19870085630"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 1987-12-23
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1987/856"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om Statens Husholdningsråd og lov om Forbrugerklagenævnet
+
+*LOV nr 856 af 23/12/1987*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov nr. 178 af 29. april 1960 om Statens Husholdningsråd foretages følgende ændringer:
+
+**1.** § 1, stk. 2, 1. pkt., affattes således:
+
+»Husholdningsrådet tager initiativ til iværksættelse af undersøgelser og forsøg på Forbrugerstyrelsens laboratorium eller andetsteds og bidrager til, at der gives befolkningen vejledning på de områder, som er nævnt i stk. 1.«
+
+**2.** § 3, stk. 1, affattes således:
+
+»Husholdningsrådet har følgende sammensætning:
+
+12 medlemmer udpeges af industriministeren efter udtalelse fra:
+
+Arbejdernes Oplysningsforbund
+
+Brugsforeningernes forbrugerudvalg
+
+Danske Husmandsforeninger (Husholdningsudvalget)
+
+Dansk Kvindesamfund
+
+Danske Kvinders Nationalråd
+
+De Danske Husmoderforeninger
+
+De danske Landboforeninger
+
+De husholdningspædagogiske Foreninger (2 medlemmer)
+
+De samvirkende danske Husholdningsforeninger
+
+Forbrugerrådet samt
+
+Landsorganisationen i Danmark.«
+
+**3.** I § 3 indsættes efter stk. 1 som nyt stykke:
+
+*»Stk. 2.* Undervisningsministeriet, Sundhedsstyrelsen, Levnedsmiddelstyrelsen og Specialkursus i Husholdning ved Århus Universitet repræsenteres ved hver 1 medlem, medens Industriministeriet repræsenteres ved 2 medlemmer, som er sagkyndige inden for Husholdningsrådets arbejdsområde. Rådets medlemmer udpeges for en 4-årig periode.«
+
+Stk. 2-5 bliver herefter stk. 3-6.
+
+**4.** § 4 affattes således:
+
+**»§ 4.** Forbrugerstyrelsen fungerer som sekretariat for Statens Husholdningsråd.«
+
+**5.** § 6 ophæves.
+
+## § 2
+
+I lov om Forbrugerklagenævnet, jf. lovbekendtgørelse nr. 105 af 28. februar 1986, som ændret ved § 3 i lov nr. 320 af 4. juni 1986, foretages følgende ændringer:
+
+**1.** I § 4, stk. 1, ændres »Til nævnet knyttes et sekretariat« til: »Forbrugerstyrelsen fungerer som nævnets sekretariat.«
+
+**2.** § 5, stk. 2, ophæves.
+
+**3.** § 12, stk. 4, affattes således:
+
+*»Stk. 4.* Forbrugerklagenævnets afgørelse efter stk. 1-3 kan ikke indbringes for anden administrativ myndighed.«
+
+## § 3
+
+Loven træder i kraft 1. januar 1988.
+
+*Givet på Fredensborg Slot, den 23. december 1987*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/Nils Wilhjelm
+
+## Officielle noter
+
+Ingen

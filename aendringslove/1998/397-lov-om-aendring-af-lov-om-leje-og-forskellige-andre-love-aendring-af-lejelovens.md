@@ -1,0 +1,64 @@
+---
+title: "Lov om ændring af lov om leje og forskellige andre love (Ændring af lejelovens anvendelsesområde og forskellige revisionsbestemmelser)"
+identifier: "LOV nr 397 af 26/06/1998"
+eli: "https://www.retsinformation.dk/eli/lta/1998/397"
+accession_number: "A19980039730"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 1998-06-26
+status: "in_force"
+ministry: "Social- og Boligministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1998/397"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om leje og forskellige andre love (Ændring af lejelovens anvendelsesområde og forskellige revisionsbestemmelser)
+
+*LOV nr 397 af 26/06/1998*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov om leje, jf. lovbekendtgørelse nr. 165 af 10. marts 1998, foretages følgende ændring:
+
+**1.** I *§ 2* indsættes som *stk. 3:*
+
+*»Stk. 3.* Loven gælder ikke for leje af boliger, som er omfattet af § 1 i lov om leje af almene boliger.«
+
+## § 2
+
+I lov nr. 306 af 17. maj 1995 om ændring af lov om leje, lov om boligbyggeri, lov om boliger for ældre og personer med handicap og lov om andelsboligforeninger og andre boligfællesskaber. (Revision af reglerne om udgifter til fællesantenner m.v.) foretages følgende ændring:
+
+**1.** I *§ 6* ændres »1997-98« til: »1998-99«.
+
+## § 3
+
+I lov nr. 361 af 14. juni 1995 om ændring af lov om leje, lov om midlertidig regulering af boligforholdene og lov om boligbyggeri. (Forsøgsordning vedrørende husordensovertrædelser i Københavns og Århus Amter) foretages følgende ændring:
+
+**1.** I *§ 5* ændres »1997-98« til: »1998-99«.
+
+## § 4
+
+I lov nr. 461 af 12. juni 1996 om ændring af lov om midlertidig regulering af boligforholdene. (Lejefastsættelse ved aftalens indgåelse m.v.) foretages følgende ændring:
+
+**1.** I *§ 3* ændres »1997-98« til: »1998-99«.
+
+## § 5
+
+*Stk. 1.* Loven træder i kraft den 1. juli 1998.
+
+*Stk. 2.* Uanset bestemmelsen i § 1, nr. 1, bevarer reglerne i kapitel XII A i lov om leje, jf. lovbekendtgørelse nr. 165 af 10. marts 1998, dog sin gyldighed, for så vidt angår en lejers tilsidesættelse af god skik og orden, der har fundet sted før den 1. juli 1998.
+
+*Givet på Amalienborg, den 26. juni 1998*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Jytte Andersen
+
+## Officielle noter
+
+Ingen

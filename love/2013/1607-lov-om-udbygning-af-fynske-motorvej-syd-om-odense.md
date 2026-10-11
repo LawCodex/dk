@@ -1,0 +1,60 @@
+---
+title: "Lov om udbygning af Fynske Motorvej syd om Odense"
+identifier: "LOV nr 1607 af 26/12/2013"
+eli: "https://www.retsinformation.dk/eli/lta/2013/1607"
+accession_number: "A20130160730"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 2013-12-26
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2013/1607"
+retrieved: 2026-10-11
+---
+
+# Lov om udbygning af Fynske Motorvej syd om Odense
+
+*LOV nr 1607 af 26/12/2013*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Transportministeren bemyndiges til at udbygge hovedlandevej 40, Fynske Motorvej, E20, fra Motorvejskryds Odense til ca. 2 km øst for tilslutningsanlæg nr. 53, Odense Vest, fra fire til seks spor.
+
+*Stk. 2.* Strækningen, der omfattes af stk. 1, fremgår af lovens bilag 1.
+
+## § 2.
+
+På den i § 1, stk. 1, nævnte strækning kan Vejdirektoratet pålægge byggelinjer med en indbyrdes afstand på op til 120 m. Reglerne om byggelinjer, jf. kapitel 4 i lov om offentlige veje, finder tilsvarende anvendelse på byggelinjer pålagt i medfør af denne lov.
+
+## § 3.
+
+Transportministeren kan i særlige tilfælde efter anmodning fra ejeren ekspropriere en ejendom, der berøres særligt indgribende af det i § 1, stk. 1, nævnte projekt, før tidspunktet for de ordinære ekspropriationer.
+
+## § 4.
+
+Vejdirektoratet eller den, som Vejdirektoratet bemyndiger hertil, kan på privat ejendom foretage de arkæologiske forundersøgelser, der er nødvendige for anlægsarbejdet, jf. § 1.
+
+*Stk. 2.* Vejdirektoratet eller den, som Vejdirektoratet bemyndiger hertil, skal mindst 28 dage før gennemførelsen af undersøgelser efter stk. 1 give besked til de berørte grundejere eller brugere. Hvis det ikke er muligt at give besked, skal oplysning herom offentliggøres i lokale medier el.lign.
+
+*Stk. 3.* Erstatning for skade, der måtte blive påført ejeren som følge af de i stk. 1 nævnte undersøgelser, fastsættes, hvis der ikke kan indgås aftale med ejeren herom, ved taksation efter reglerne i lov om fremgangsmåden ved ekspropriation vedrørende fast ejendom.
+
+## § 5.
+
+Loven træder i kraft den 1. januar 2014.
+
+Givet på Marselisborg Slot, den 26. december 2013
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Pia Olsen Dyhr
+
+## Bilag 1
+
+![Fynske-Motorvej Size: (655 X 909)](https://www.retsinformation.dk/image.aspx?id=160929&img=BL875_1_0.png)

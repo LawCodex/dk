@@ -1,0 +1,66 @@
+---
+title: "Lov om ændring af lov om pas til danske statsborgere m.v. (Opretholdelse og styrkelse af indsats mod rekruttering til væbnede konflikter i udlandet samt modernisering af regler om gæsteprotokoller)"
+identifier: "LOV nr 167 af 29/02/2020"
+eli: "https://www.retsinformation.dk/eli/lta/2020/167"
+accession_number: "A20200016730"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2020-02-29
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2020/167"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om pas til danske statsborgere m.v. (Opretholdelse og styrkelse af indsats mod rekruttering til væbnede konflikter i udlandet samt modernisering af regler om gæsteprotokoller)
+
+*LOV nr 167 af 29/02/2020*
+
+(Opretholdelse og styrkelse af indsats mod rekruttering til væbnede konflikter i udlandet samt modernisering af regler om gæsteprotokoller)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov nr. 176 af 24. februar 2015 om ændring af lov om pas til danske statsborgere m.v., udlændingeloven og retsplejeloven (Styrket indsats mod rekruttering til væbnede konflikter i udlandet m.v.) foretages følgende ændring:
+
+1\. *§ 4, stk. 2,* ophæves.
+
+Stk. 3 bliver herefter stk. 2.
+
+## § 2
+
+I lov om pas til danske statsborgere m.v., jf. lovbekendtgørelse nr. 76 af 19. januar 2017, som ændret ved § 2 i lov nr. 1542 af 18. december 2018, foretages følgende ændringer:
+
+1\. *§ 2, stk. 2,* affattes således:
+
+*»Stk. 2.* Politiet skal fastsætte en frist, der ikke kan overstige 3 år, for afgørelser truffet efter stk. 1, nr. 4, og en frist, der ikke kan overstige 1 år, for afgørelser truffet efter stk. 1, nr. 5. Fristen kan i begge tilfælde forlænges med indtil 1 år ad gangen. Dog kan afgørelser truffet efter stk. 1, nr. 5, kun gælde, indtil barnet fylder 18 år.«
+
+2\. *§ 3* affattes således:
+
+**»§ 3.** Justitsministeren kan fastsætte regler om, at den, der mod eller uden vederlag yder logi eller stiller lejrplads el.lign. til rådighed, skal føre fortegnelse over overnattende danske statsborgere. Politiet har til enhver tid adgang til fortegnelsen uden retskendelse.
+
+*Stk. 2.* Justitsministeren kan fastsætte regler om, at overnattende danske statsborgere skal meddele de oplysninger, der er nødvendige til opfyldelse af pligten efter stk. 1.
+
+*Stk. 3.* Justitsministeren kan fastsætte nærmere regler om de i stk. 1 nævnte fortegnelser over overnattende danske statsborgere, herunder om fortegnelsernes udformning, indhold og førelse, om de oplysninger, som den overnattende gæst efter stk. 2 kan pålægges at meddele, og om de dokumenter, som gæsten skal fremvise.«
+
+## § 3
+
+Loven træder i kraft den 1. marts 2020.
+
+## § 4
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og grønlandske forhold tilsiger.
+
+Givet på Amalienborg, den 29. februar 2020
+
+Under Vor Kongelige Hånd og Segl
+
+I Dronningens Navn:\
+FREDERIK\
+Kronprins
+
+/ Nick Hækkerup

@@ -1,0 +1,56 @@
+---
+title: "Lov om ændring af epidemiloven (Overvågning af smitsomme sygdomme via spildevand)"
+identifier: "LOV nr 1441 af 29/06/2021"
+eli: "https://www.retsinformation.dk/eli/lta/2021/1441"
+accession_number: "A20210144130"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2021-06-29
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2021/1441"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af epidemiloven (Overvågning af smitsomme sygdomme via spildevand)
+
+*LOV nr 1441 af 29/06/2021*
+
+(Overvågning af smitsomme sygdomme via spildevand)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I epidemiloven, lov nr. 285 af 27. februar 2021, foretages følgende ændringer:
+
+1\. Efter § 44 indsættes:
+
+**»§ 44 a.** Kommunalbestyrelsen kan iværksætte overvågning af spildevand med henblik på at forebygge og inddæmme udbredelsen af smitsomme sygdomme. Kommunalbestyrelsen skal, inden den træffer beslutning i henhold til 1. pkt., inddrage Styrelsen for Patientsikkerhed og Statens Serum Institut. Sundhedsministeren fastsætter nærmere regler om kommunalbestyrelsens inddragelse af Styrelsen for Patientsikkerhed og Statens Serum Institut. Overvågning efter 1. pkt. skal ske på en sådan måde, at det ikke er muligt at identificere fysiske personer.
+
+*Stk. 2.* Kommunalbestyrelsen underretter Statens Serum Institut om resultaterne af den overvågning, som kommunalbestyrelsen har iværksat efter stk. 1.
+
+*Stk. 3.* Spildevandsforsyningsselskaber, der er omfattet af vandsektorlovens § 2, stk. 1, kan efter aftale med Statens Serum Institut eller en kommunalbestyrelse bistå med og medvirke til aktiviteter, der er forbundet med overvågning af spildevand for smitsomme sygdomme.
+
+*Stk. 4.* Er det ikke muligt at indgå en aftale efter stk. 3, kan Statens Serum Institut eller kommunalbestyrelsen påbyde spildevandsforsyningsselskaber, der er omfattet af vandsektorlovens § 2, stk. 1, at bistå med og medvirke til aktiviteter, der er forbundet med overvågning af spildevand for smitsomme sygdomme.
+
+*Stk. 5.* Stk. 3 og 4 omfatter spildevand, som spildevandsforsyningsselskabet har ansvar for at håndtere.
+
+*Stk. 6.* Den myndighed, der efter stk. 3 har indgået aftale med et spildevandsforsyningsselskab om selskabets bistand og medvirken eller efter stk. 4 har påbudt et spildevandsforsyningsselskab at bistå og medvirke, godtgør alle selskabets omkostninger. Selskabet skal føre selvstændigt regnskab for disse omkostninger og den godtgørelse, som selskabet modtager.«
+
+2\. I *§ 66, stk. 2,* indsættes efter »eller § 50, stk. 1«: », eller et påbud fra Statens Serum Institut eller en kommunalbestyrelse efter § 44 a, stk. 4«.
+
+## § 2
+
+Loven træder i kraft den 1. juli 2021.
+
+Givet på Gråsten Slot, den 29. juni 2021
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Magnus Heunicke

@@ -1,0 +1,46 @@
+---
+title: "Lov om ændring af lov om ændring af lov om politiets virksomhed (Ophævelse af udløbsklausul for udvidet bemyndigelse til at fastsætte regler om zoneforbud)"
+identifier: "LOV nr 288 af 27/02/2021"
+eli: "https://www.retsinformation.dk/eli/lta/2021/288"
+accession_number: "A20210028830"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2021-02-27
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2021/288"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om ændring af lov om politiets virksomhed (Ophævelse af udløbsklausul for udvidet bemyndigelse til at fastsætte regler om zoneforbud)
+
+*LOV nr 288 af 27/02/2021*
+
+(Ophævelse af udløbsklausul for udvidet bemyndigelse til at fastsætte regler om zoneforbud)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov nr. 131 af 27. februar 2018 om ændring af lov om politiets virksomhed (Udvidet bemyndigelse til at fastsætte regler om zoneforbud) foretages følgende ændring:
+
+1\. *§ 2, stk. 2,* ophæves.
+
+## § 2
+
+Loven træder i kraft den 28. februar 2021.
+
+## § 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som henholdsvis de færøske og de grønlandske forhold tilsiger.
+
+Givet i Jagthuset, Trend Skov, den 27. februar 2021
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Nick Hækkerup

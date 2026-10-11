@@ -1,0 +1,49 @@
+---
+title: "Lov om ændring af lov om sygehusvæsenet og sundhedsloven (Frit sygehusvalg til RCT i København)"
+identifier: "LOV nr 1395 af 21/12/2005"
+eli: "https://www.retsinformation.dk/eli/lta/2005/1395"
+accession_number: "A20050139530"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2005-12-21
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2005/1395"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om sygehusvæsenet og sundhedsloven (Frit sygehusvalg til RCT i København)
+
+*LOV nr 1395 af 21/12/2005*
+
+(Frit sygehusvalg til RCT i København)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:\
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov om sygehusvæsenet, jf. lovbekendtgørelse nr. 766 af 28. august 2003, som ændret ved § 1 i lov nr. 441 af 9. juni 2004, lov nr. 1432 af 22. december 2004 og § 277, stk. 2, nr. 3, i lov nr. 546 af 24. juni 2005, foretages følgende ændring:
+
+**1.** I § 5, stk. 3, indsættes efter »rehabiliteringscentrene for traumatiserede flygtninge, OASIS«: », RCT i København«.
+
+## § 2
+
+I sundhedsloven, lov nr. 546 af 24. juni 2005, foretages følgende ændring:
+
+**1.** I § 79, stk. 2, indsættes efter »rehabiliteringscentrene for traumatiserede flygtninge OASIS«: », RCT i København«.
+
+## § 3
+
+Stk. 1 . § 1 træder i kraft den 1. januar 2006.
+
+*Stk. 2.* § 2 træder i kraft den 1. januar 2007.
+
+*Givet på Christiansborg Slot, den 21. december 2005*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/Lars Løkke Rasmussen

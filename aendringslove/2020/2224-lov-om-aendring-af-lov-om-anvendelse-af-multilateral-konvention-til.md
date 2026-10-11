@@ -1,0 +1,72 @@
+---
+title: "Lov om ændring af lov om anvendelse af multilateral konvention til gennemførelse af tiltag i dobbeltbeskatningsoverenskomster til forhindring af skatteudhuling og overskudsflytning (Tilbagetrækning af to forbehold efter den multilaterale konvention til gennemførelse af tiltag i dobbeltbeskatningsoverenskomster til forhindring af skatteudhuling og overskudsflytning)"
+identifier: "LOV nr 2224 af 29/12/2020"
+eli: "https://www.retsinformation.dk/eli/lta/2020/2224"
+accession_number: "A20200222430"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2020-12-29
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2020/2224"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om anvendelse af multilateral konvention til gennemførelse af tiltag i dobbeltbeskatningsoverenskomster til forhindring af skatteudhuling og overskudsflytning (Tilbagetrækning af to forbehold efter den multilaterale konvention til gennemførelse af tiltag i dobbeltbeskatningsoverenskomster til forhindring af skatteudhuling og overskudsflytning)
+
+*LOV nr 2224 af 29/12/2020*
+
+(Tilbagetrækning af to forbehold efter den multilaterale konvention til gennemførelse af tiltag i dobbeltbeskatningsoverenskomster til forhindring af skatteudhuling og overskudsflytning)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## Skatteministeriet
+
+### § 1
+
+I lov nr. 327 af 30. marts 2019 om anvendelse af multilateral konvention til gennemførelse af tiltag i dobbeltbeskatningsoverenskomster til forhindring af skatteudhuling og overskudsflytning foretages følgende ændring:
+
+1\. I *bilag 2* ændres
+
+*»Konventionens artikel 28, stk. 2*
+
+Der tages forbehold efter bestemmelsens litra a på følgende områder:
+
+1\. Konventionens del VI (Voldgift) finder ikke anvendelse på omfattede skatteaftaler indgået mellem Danmark og andre EU-medlemslande.
+
+2\. Konventionens del VI (Voldgift) finder alene anvendelse på omfattede skatteaftaler, i det omfang at den anden part eller de andre parter i den omfattede skatteaftale accepterer, at
+
+(a) formanden for et voldgiftspanel skal være dommer og
+
+(b) Danmark kan offentliggøre et resumé af afgørelser truffet af voldgiftspaneler.
+
+3\. Konventionens del VI (Voldgift) finder ikke anvendelse i sager, hvor en part har pålagt en fysisk eller juridisk person sanktioner for skattesvig, forsætlig forsømmelse eller grov uagtsomhed.«
+
+til:
+
+*»Konventionens artikel 28, stk. 2*
+
+Der tages forbehold efter bestemmelsens litra a på følgende områder:
+
+1\. Konventionens del VI (Voldgift) finder ikke anvendelse på omfattede skatteaftaler indgået mellem Danmark og andre EU-medlemslande.
+
+2\. Konventionens del VI (Voldgift) finder ikke anvendelse i sager, hvor en part har pålagt en fysisk eller juridisk person sanktioner for skattesvig, forsætlig forsømmelse eller grov uagtsomhed.«
+
+### § 2
+
+Loven træder i kraft den 1. januar 2021.
+
+### § 3
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Givet på Marselisborg Slot, den 29. december 2020
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Morten Bødskov

@@ -1,0 +1,46 @@
+---
+title: "Lov om fælles grænseekspedition."
+identifier: "LOV nr 227 af 03/06/1967"
+eli: "https://www.retsinformation.dk/eli/lta/1967/227"
+accession_number: "A19670022730"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1967-06-03
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1967/227"
+retrieved: 2026-10-11
+---
+
+# Lov om fælles grænseekspedition.
+
+*LOV nr 227 af 03/06/1967*
+
+VI FREDERIK DEN NIENDE, af Guds Nåde Konge til Danmark, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Regeringen kan afslutte overenskomster med andre stater om fælles grænseekspedition.
+
+## § 2.
+
+I overensstemmelse med reglerne i sådanne overenskomster kan den ene stats grænsefunktionærer på et afgrænset område af den anden stats territorium udføre grænseekspedition, herunder foretage beslaglæggelse og anholdelse, efter reglerne i den førstnævnte stats lovgivning.
+
+*Stk. 2.* En fremmed stats grænsefunktionærer kan dog ikke anholde danske statsborgere på dansk territorium.
+
+## § 3.
+
+Bestemmelserne i borgerlig straffelovs §§ 119, 120, 121, 122, 124 og 125 om forbrydelser mod den offentlige myndighed finder også anvendelse, når forholdet er begået mod en medkontraherende stats myndighed under udførelse af grænseekspedition på dansk område i henhold til overenskomst.
+
+*Givet på Christiansborg slot, den 3. juni 1967.*
+
+Under Vor Kongelige Hånd og Segl.
+
+FREDERIK R.
+
+/K. Axel Nielsen.
+
+## Officielle noter
+
+Ingen

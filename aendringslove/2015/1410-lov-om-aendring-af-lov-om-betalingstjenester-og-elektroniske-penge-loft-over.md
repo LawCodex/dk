@@ -1,0 +1,60 @@
+---
+title: "Lov om ændring af lov om betalingstjenester og elektroniske penge (Loft over interbankgebyrer, tilsyn med forordningen om interbankgebyrer m.v.)"
+identifier: "LOV nr 1410 af 04/12/2015"
+eli: "https://www.retsinformation.dk/eli/lta/2015/1410"
+accession_number: "A20150141030"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2015-12-04
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2015/1410"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om betalingstjenester og elektroniske penge (Loft over interbankgebyrer, tilsyn med forordningen om interbankgebyrer m.v.)
+
+*LOV nr 1410 af 04/12/2015*
+
+(Loft over interbankgebyrer, tilsyn med forordningen om interbankgebyrer m.v.)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov om betalingstjenester og elektroniske penge, jf. lovbekendtgørelse nr. 613 af 24. april 2015, foretages følgende ændringer:
+
+1\. Efter § 80 indsættes:
+
+**»§ 80 a.** Erhvervs- og vækstministeren kan i overensstemmelse med artikel 3 i Europa-Parlamentets og Rådets forordning nr. 2015/751/EU om interbankgebyrer for kortbaserede betalingstransaktioner fastsætte nærmere regler for størrelsen af det interbankgebyr, som betalingstjenesteudbydere må tilbyde eller kræve i forbindelse med gennemførelse af en indenlandsk debetkorttransaktion.«
+
+2\. I *§ 97, stk. 1, 2. pkt.,* indsættes efter »kapitel 10«: »samt artikel 12 i Europa-Parlamentets og Rådets forordning nr. 2015/751/EU om interbankgebyrer for kortbaserede betalingstransaktioner«.
+
+3\. I *§ 97, stk. 2,* indsættes efter »bestemmelser«: »samt artikel 12 i Europa-Parlamentets og Rådets forordning nr. 2015/751/EU om interbankgebyrer for kortbaserede betalingstransaktioner«.
+
+4\. I *§ 98, stk. 1* og *2,* indsættes efter »(SEPA-forordningen)«: »samt artikel 3-11 i Europa-Parlamentets og Rådets forordning nr. 2015/751/EU om interbankgebyrer for kortbaserede betalingstransaktioner«.
+
+5\. I *§ 107, stk. 2,* indsættes efter »(SEPA-forordningen)«: »samt Europa-Parlamentets og Rådets forordning nr. 2015/751/EU om interbankgebyrer for kortbaserede betalingstransaktioner«.
+
+## § 2
+
+*Stk. 1.* Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+*Stk. 2.* Lovforslaget kan stadsfæstes straks efter dets vedtagelse.
+
+## § 3
+
+Loven gælder ikke for Færøerne og Grønland, men kan ved kongelig anordning helt eller delvis sættes i kraft for Færøerne og Grønland med de ændringer, som de færøske og grønlandske forhold tilsiger.
+
+Givet på Amalienborg, den 4. december 2015
+
+Under Vor Kongelige Hånd og Segl
+
+I Dronningens Navn:\
+FREDERIK\
+Kronprins
+
+/ Troels Lund Poulsen

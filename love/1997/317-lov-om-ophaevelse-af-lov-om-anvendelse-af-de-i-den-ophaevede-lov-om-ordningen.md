@@ -1,0 +1,44 @@
+---
+title: "Lov om ophævelse af lov om anvendelse af de i den ophævede lov om ordningen af Kjøbenhavns Væbning af 28. maj 1870, § 13, omhandlede fonds m.v."
+identifier: "LOV nr 317 af 14/05/1997"
+eli: "https://www.retsinformation.dk/eli/lta/1997/317"
+accession_number: "A19970031730"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1997-05-14
+status: "in_force"
+ministry: "Forsvarsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1997/317"
+retrieved: 2026-10-11
+---
+
+# Lov om ophævelse af lov om anvendelse af de i den ophævede lov om ordningen af Kjøbenhavns Væbning af 28. maj 1870, § 13, omhandlede fonds m.v.
+
+*LOV nr 317 af 14/05/1997*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Lov nr. 38 af 7. marts 1913 om anvendelse af de i den ophævede
+
+lov om ordningen af Kjøbenhavns Væbning af 28. maj 1870, § 13,
+
+omhandlede fonds m.v. ophæves.
+
+## § 2.
+
+Samtidig opløses Københavns Væbnings Fond, og formuen overføres til den overordentlige invalidefonds legat, jf. § 2 i lov nr. 46 af 16. februar 1966 om ophævelse af lov angående pensionering af militæretaternes underklasser samt om invalideforsørgelse.
+
+*Givet på Christiansborg Slot, den 14. maj 1997*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Hans Hækkerup
+
+## Officielle noter
+
+Ingen

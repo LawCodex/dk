@@ -1,0 +1,54 @@
+---
+title: "Lov om ændring af lov om Ørestaden m.v."
+identifier: "LOV nr 1074 af 20/12/1995"
+eli: "https://www.retsinformation.dk/eli/lta/1995/1074"
+accession_number: "A19950107430"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 1995-12-20
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1995/1074"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om Ørestaden m.v.
+
+*LOV nr 1074 af 20/12/1995*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+I lov nr. 477 af 24. juni 1992 om Ørestaden m.v., som ændret ved lov nr. 1091 af 21. december 1994, foretages følgende ændringer:
+
+**1.** *§ 12, stk. 3,* affattes således:
+
+*»Stk. 3.* Det samlede etageareal i Ørestaden nord for Vejlands Alle må ikke overstige 0,8 mio. m2. Det samlede etageareal i Ørestaden syd for Vejlands Alle må ikke overstige 2,3 mio. m2.«
+
+**2.** *§ 12, stk. 5,* ophæves.
+
+*Stk. 6* bliver herefter stk. 5.
+
+**3.** I *§ 13* indsættes som *stk. 5:*
+
+*»Stk. 5.* De på kortbilag 3 viste naturområder, herunder de kanaler og søarealer, som skal etableres inden for disse områder, må ikke bebygges, benyttes til anlæg eller gøres til genstand for andre indgreb bortset fra naturpleje og anlæg af stier. Miljø- og energiministeren kan godkende mindre afvigelser fra afgrænsningen og udformningen af naturområderne.«
+
+## § 2
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+**Kortbilag**
+
+*Givet på Christiansborg Slot, den 20. december 1995*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Mogens Lykketoft
+
+## Officielle noter
+
+Ingen statsgaranti

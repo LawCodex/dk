@@ -1,0 +1,1308 @@
+---
+title: "Lov om indfødsrets meddelelse"
+identifier: "LOV nr 405 af 26/06/1998"
+eli: "https://www.retsinformation.dk/eli/lta/1998/405"
+accession_number: "A19980040530"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1998-06-26
+status: "in_force"
+ministry: "Udlændinge- og Integrationsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1998/405"
+retrieved: 2026-10-11
+---
+
+# Lov om indfødsrets meddelelse
+
+*LOV nr 405 af 26/06/1998*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Indfødsret meddeles:
+
+- 1\) *Ibrahim Ezzeddin Abbas,* Ålborg, født i Irak.
+- 2\) *Kourosh Abbaszadeh,* Vejle, født i Iran.
+- 3\) *Mohammad Shhada Abdalla,* Odense, født i Syrien, dog uden virkning for ansøgerens børn.
+- 4\) *Jamal Abdallah,* Kolding, født i Libanon.
+- 5\) *Mohammed Towfic Abdallah,* Århus, født i Libanon.
+- 6\) *Fouad Abdel Hadi Abdel-Hadi,* Køge, født i Libanon.
+- 7\) *Mahmoud Abdelhadi,* Køge, født i Libanon.
+- 8\) *Mutlaq Qasem Abdel Latif,* Greve, født i Libanon.
+- 9\) *Amal Riad Abdel Razek,* Helsingør, født i Libanon.
+
+10 *Lotfi Ben Hedi Abdessamad,* Vejle, født i Tunesien.
+
+- 11\) *Amal Yusuf Abdillahi,* Brøndby, født i Somalia.
+- 12\) *Nasser Mahmoud Abdoh,* Odense, født i Libanon.
+- 13\) *Masoumeh Abdolghafari,* Bov, født i Iran.
+- 14\) *Ahmad Mahmoud Abdulghani,* Horsens, født i Libanon.
+- 15\) *Jawdat Abdul Majid Abdulla,* København, født i Irak.
+- 16\) *Gian Noreddin Mohamed Rehini Abdullah,* Vejle, født i Irak.
+- 17\) *Saleh Hadin Fehrik Abdullah,* Helsingør, født i Irak.
+- 18\) *Liban Mohamed Abdulle,* Århus, født i Somalia.
+- 19\) *Ghazale Dib Abdul-Rahman,* Århus, født i Libanon.
+- 20\) *Mounir Adib Abdulrazek,* København, født i Libanon.
+- 21\) *Zubayda Abdulrazek,* København, født i Libanon.
+- 22\) *Naghem Makiy Abed Al Amier,* København, født i Irak.
+- 23\) *Amira Amin Abed Ali,* Horsens, født i Irak.
+- 24\) *Ali Abdulwahab Abid-Awne,* København, født i Irak.
+- 25\) *Hayssam Ahmad Abou Atika,* Odense, født i Libanon.
+- 26\) *Khaled Mohammad Abou-Chakra,* Vejle, født i Libanon.
+- 27\) *Majid Abdul-Razaq Al-Kanan Aboud,* Tårnby, født i Irak.
+- 28\) *Isamail Zake, Aboujomeah,* København, født i Libanon.
+- 29\) *Hussein Ali Abou Nawfal,* Hillerød, født i Palæstina.
+- 30\) *Wadih Abou Radwan,* Præstø, født i Libanon.
+- 31\) *Mahmoud Mohamad Abourdeiny,* Odense, født i Libanon.
+- 32\) *Youssef Mahmoud Abou-Saif,* Hillerød, født i Libanon.
+- 33\) *Ibrahim Ahmad Abouzalaf,* København, født i Libanon.
+- 34\) *Tzehainesh Abraham,* Herlev, født i Etiopien.
+- 35\) *Bejtula Adem,* København, født i Jugoslavien, nu Den Tidligere
+
+Jugoslaviske Republik Makedonien.
+
+- 36\) *Abdullahi Mohamed Aden* , Holstebro, født i Somalia.
+- 37\) *Mulki Rabi Aden,* København, født i Somalia.
+- 38\) *Isabel Celine Kjølhede Adriansen,* Dar es Salaam i Tanzania,
+
+født i Tanzania. Indfødsretten kan fortabes i henhold til § 8 i lov
+
+om dansk indfødsret, jf. lovbekendtgørelse nr. 757 af 14. september
+
+1995\.
+
+- 39\) *Adrijana Adzioski,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 40\) *Reza Afshar Ghahremani,* Århus, født i Iran.
+- 41\) *Hina Aftab,* København, født i Danmark.
+- 42\) *Huma Aftab,* København, født i Pakistan.
+- 43\) *Ahmad Abdullah Ahmad,* København, født i Irak.
+- 44\) *Ahmad Taha Ahmad,* Brøndby, født i Libanon.
+- 45\) *Jawhar Ahmad,* Odense, født i Libanon.
+- 46\) *Khadija Ahmad,* København, født i Marokko.
+- 47\) *Mahmoud Awad Ahmad,* Hørsholm, født i Libanon.
+- 48\) *Mahmoud Chkour Ahmad,* Århus, født i Irak.
+- 49\) *Mohamad Ahmad,* Sønderborg, født i Libanon.
+- 50\) *Nasser Kamal Ahmad,* Karlebo, født i Libanon.
+- 51\) *Sabri Ali Ahmad,* Århus, født i Libanon.
+- 52\) *Salih Mohammad Ahmad Abdollah,* Århus, født i Irak.
+- 53\) *Zinat Ahmadi,* Helsingør, født i Iran.
+- 54\) *Mariam Ahmadian,* Århus, født i Iran.
+- 55\) *Aftab Ahmed,* København, født i Pakistan.
+- 56\) *Ali Abdi Ahmed,* Hillerød, født i Somalia.
+- 57\) *Imran Ahmed,* Albertslund, født i Pakistan.
+- 58\) *Nada Hachim Ahmed,* København, født i Irak.
+- 59\) *Shabbir Ahmed,* København, født i Pakistan.
+- 60\) *Murugiah Aiyadurai,* Grindsted, født i Sri Lanka.
+- 61\) *Eman Ismail Ali Akbar,* Greve, født i Bahrain.
+- 62\) *Mehdi Akbari,* Odder, født i Iran.
+- 63\) *Hamza Akkoyun,* København, født i Tyrkiet.
+- 64\) *Bashair Jaafar Al-Ali,* København, født i Irak.
+- 65\) *Fatemeh Alamgir Alam,* Helsingør, født i Iran.
+- 66\) *Josef Omar Al-Ashker,* Århus, født i Libanon.
+- 67\) *Majid Abdul Aziz Mohammad Bakir Al-Atlassi,* København, født i Irak.
+- 68\) *Abd Al-Hussein Mardan Al-Bayate,* København, født i Irak.
+- 69\) *Nabil Fathi Al-Chaer,* København, født i Libanon.
+- 70\) *Mushtak Bahjat Saeed Al-Fatal,* Karlebo, født i Irak.
+- 71\) *Salahulddin Mohamad Al-Fazly,* København, født i Irak.
+- 72\) *Zohdi Mohamed Al-Ghandour,* Ålborg, født i Palæstina.
+- 73\) *Loris Ahmed Al-Haj,* Odense, født i Libanon.
+- 74\) *Adel Abdallah Ali,* Århus, født i Libanon.
+- 75\) *Alawi Abdul Hussein Ali,* København, født i Irak.
+- 76\) *Asghar Ali,* København, født i Pakistan.
+- 77\) *Azra Ali,* København, født i Pakistan.
+- 78\) *Yusuf Mohamed Ali,* Gladsakse, født i Somalia, dog uden
+
+virkning for ansøgerens 2 ældste børn.
+
+- 79\) *Akramolsadat Seyed Alikhani,* Århus, født i Iran.
+- 80\) *Mohamed Al-Imam,* København, født i Syrien.
+- 81\) *Nazila Alizadeh,* København, født i Afghanistan.
+- 82\) *Maamoun Abdulmajid Al-Kassem,* København, født i Libanon.
+- 83\) *Moin Yousef Al-Khatib,* Århus, født i Libanon.
+- 84\) *Walid Youssef Al Madfah,* Slagelse, født i Libanon.
+- 85\) *Julie Feit Almberg,* Fredensborg-Humlebæk, født i Danmark.
+- 86\) *Ahmad Khalil Al-Numairi,* København, født i Libanon.
+- 87\) *Khadija Ahmad Hassan Gharib Alqassab,* Søllerød, født i Bahrain.
+- 88\) *Jalal Hasan Al-Radawi,* København, født i Irak.
+- 89\) *Duna Alrudayni,* København, født i Irak.
+- 90\) *Ravichandiran Alvan Kandiah,* Holstebro, født i Sri Lanka.
+- 91\) *Hanna Abed Al Wahab Abdelkader Al-Zagzali,* Århus, født i Irak.
+- 92\) *Arash Amir Pour Mohrdar,* København, født i Iran.
+- 93\) *Ahmad Mahmoud Ammar,* Århus, født i Algeriet.
+- 94\) *Yasser Mahmoud Ammar,* Århus, født i Algeriet.
+- 95\) *Vehid Ammary,* Tårnby, født i Iran.
+
+96)I *n Ae Amstrup,* Holstebro, født i Republikken Korea.
+
+- 97\) *Phi Coung An,* Århus, født i Vietnam.
+- 98\) *Shahed Andresen,* København, født i Iran.
+- 99\) *Velibor Andrievski,* Helsingør, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 100\) *Morteza Anghaie,* Hvidovre, født i Iran.
+- 101\) *Amir Anoshiravani,* Vejle, født i Iran.
+- 102\) *Mitra Anoshiravani,* Vejle, født i Iran.
+- 103\) *Mohammad Ali Anoshiravani,* Vejle, født i Iran.
+- 104\) *Laila Fadel Anwar,* Århus, født i Irak.
+- 105\) *Panteha Ardalan,* København, født i Iran.
+- 106\) *Majid Arefi,* Ballerup, født i Iran.
+- 107)(Udgået).
+- 108\) *Maria Anthony Yogamala Arulappu,* Sakskøbing, født i Sri Lanka.
+- 109\) *Nirmala Aruliah,* Fredericia, født i Sri Lanka.
+- 110\) *Arulmurugan Arumaithuri,* Holstebro, født i Sri Lanka.
+- 111\) *Sangaralingam Arumugam,* Fredericia, født i Sri Lanka.
+- 112\) *Vinayagamoothy Arumugam,* Karup, født i Sri Lanka.
+- 113\) *Redzep Asani,* København, født i Jugoslavien, nu Den Tidligere Republik Makedonien.
+- 114\) *Hamayun Alamgir Aslam,* København, født i Pakistan.
+- 115\) *Fatima Aslani,* Frederiksberg, født i Jugoslavien, nu Republikken Bosnien-Herzegovina.
+- 116\) *Nidal Assaad,* Næstved, født i Libanon.
+- 117\) *Raafat Assaad,* København, født i Libanon.
+- 118\) *Ramin Assjodi,* København, født i Iran.
+- 119\) *Youssef Mohamad Awad,* Kolding, født i Libanon.
+- 120\) *Rafic Toufic Awada,* København, født i Kuwait.
+- 121\) *Mohammad Ramadhan Awadh,* Søllerød, født i Bahrain.
+- 122\) *Saleh Mahmoud Ayyach,* Vejle, født i Libanon.
+- 123\) *Soghra Azadfar,* Ballerup, født i Iran.
+- 124\) *Sabah Hamad Aziz,* København, født i Irak.
+
+125)Mohamad Zaher Azizi, København, født i Afghanistan.
+
+- 126\) *Al Aznavy,* Vejle, født i Iran.
+- 127\) *Imd Moussa Azzam,* Skive, født i Libanon.
+- 128\) *Kearik Falah Babaroudi,* Århus, født i Iran.
+- 129\) *May Badu,* København, født i Uganda.
+- 130\) *Ali Bagherpour,* Lyngby-Tårbæk, født i Iran.
+- 131\) *Abbas Bahari,* Herning, født i Iran.
+- 132\) *Michael Skov Bahle,* Solrød, født i Forbundsrepublikken Tyskland.
+- 133\) *Erna Bak,* Billund, født i Filippinerne.
+- 134\) *Farida Bakadde,* København, født i Uganda.
+- 135\) *Nasser Bakhsheshi Zanjani,* Esbjerg, født i Iran.
+- 136\) *Bahram Bakhtiari,* Hillerød, født i Iran.
+- 137\) *Sadri Bakiov,* Farum, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 138\) *Sivasothy Balasubramaniam,* Rosenholm, født i Sri Lanka.
+- 139\) *Fada Khalil Baraqji,* København, født i Libanon.
+- 140\) *Kadvi Øzhan Barlas,* Århus, født i Tyrkiet.
+- 141\) *Danuta Battefeld,* Rødekro, født i Forbundsrepublikken Tyskland.
+- 142\) *Louis Gerard Herve Baya,* Rødovre, født i Mauritius.
+- 143\) *Mohammad Bazgoshaeian,* Odense, født i Iran.
+- 144\) *Ismail Beciri,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 145\) *Shekooh Afshar Begeshloo,* Fredericia, født i Iran.
+- 146\) *Wagid Ali Begum,* København, født i Pakistan.
+- 147)(Udgået).
+- 148\) *El Mekki Benabou,* København, født i Marokko.
+- 149\) *Naima Benamar Touhami,* Århus, født i Marokko
+- 150\) *Noureddine Benameur,* København, født i Algeriet.
+- 151\) *El Montacer Bensaid,* Silkeborg, født i Marokko.
+- 152\) *Ana Paula Salvador Bertelsen,* Ledøje-Smørum, født i Portugal.
+- 153\) *Luzonia A Bertelsen,* Høje Tåstrup, født i Filippinerne.
+- 154\) *Ekhlas Bestouh,* Rødovre, født i Irak.
+- 155\) *Safia Bibi,* København, født i Pakistan.
+- 156\) *Ziad Fawzi Bibi,* København, født i Libanon.
+- 157\) *Mathilda Mitay Alvesson Billing,* Gladsakse, født i Vietnam.
+- 158\) *Kim Hoffmann Bjerringgaard,* Bov, født i Sydslesvig (Forbundsrepublikken Tyskland).
+- 159\) *Petar Mihajlovic Bleiziffer,* København, født i Jugoslavien, nu Republikken Kroatien.
+- 160\) *Mohamed Bohammouch,* København, født i Marokko.
+- 161\) *Ali-Reza Bondehi,* København, født i Iran.
+- 162\) *Brahim Boutaf,* København, født i Algeriet.
+- 163\) *Jocelyn Bou-Zeid,* Them, født i Libanon.
+- 164\) *Lars Wolfgang Braun,* Frederiksberg, født i Forbundsrepublikken Tyskland.
+- 165\) *Perpetua Moraa Buch-Olsen,* Skælskør, født i Kenya.
+- 166\) *Nguyen Tho My Bui,* Århus, født i Vietnam.
+- 167)(Udgået).
+- 168\) *Ramiz Bujupaj,* Greve, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 169\) *Sobhieh Burgol,* Vejle, født i Libanon.
+- 170\) *Asif Javaid Butt,* København, født i Pakistan.
+- 171\) *Mohammad Faraz Butt,* København, født i Danmark.
+- 172\) *Rolf Wilhelm Bucking,* Viborg, født i Forbundsrepublikken Tyskland.
+- 173\) *Neim Camili,* Herlev, født i Jugoslavien nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 174\) *Santiago Reinaldo Cautin Arapio,* Århus, født i Chile.
+- 175\) *Anwar Ali Chabayta,* København, født i Libanon.
+- 176\) *Mohamad Ahmad Chabayta,* København, født i Libanon.
+- 177\) *Salah Chehade Chabib,* København, født i Libanon.
+- 178\) *Sarojah Chandrakumaran,* Vejle, født i Sri Lanka.
+- 179\) *My Lien Chau,* Odense, født i Vietnam.
+- 180\) *Hun Chea,* Hjørring, født i Cambodia.
+- 181\) *Bassam Mohammad Chehaiber,* Roskilde, født i Libanon.
+- 182\) *Najwa Cheheiber,* København, født i Libanon.
+- 183\) *Samer Cheheiber,* København, født i Libanon.
+- 184\) *Jian Chen,* Ringsted, født i Folkerepublikken Kina.
+- 185\) *Mei Na Chen,* København, født i Folkerepublikken Kina.
+- 186\) *Qi Chen,* Hvidovre, født i Folkerepublikken Kina.
+- 187\) *Olimpia Chicinas,* Viborg, født i Rumænien.
+- 188\) *Tahseen Moutlak Choheiber,* København, født i Libanon.
+- 189\) *Rasmie Hassan Choubhch,* Sønderborg, født i Libanon.
+- 190\) *Johan Vibe Christensen,* Mc Lean i USA, født i Republikken Letland. Indfødsretten kan fortabes i henhold til § 8 i lov om dansk indfødsret, jf. lovbekendtgørelse nr. 757 af 14. september 1995.
+- 191\) *Meriam Opay Christiansen,* Sabah i Malaysia, født i Filippinerne.
+- 192\) *Norma Lee Christiansen,* Vallø, født i Filippinerne.
+- 193\) *Hang Thang Chung,* Århus, født i Vietnam.
+- 194\) *My Ngoc Chung,* Esbjerg, født i Vietnam.
+- 195\) *Jirapa Clausen,* Odder, født i Thailand.
+- 196\) *Bernhard Jeganathan Constantine,* Frederikshavn, født i Sri Lanka.
+- 197\) *Soghra Dadi,* Silkeborg, født i Iran.
+- 198\) *Birgit Charlotte Daetz,* Gentofte, født i Sydslesvig (Forbundsrepublikken Tyskland).
+- 199\) *Ingrid Juliana Maria Louise Dahl-Jensen,* Ålborg, født i Østrig.
+- 200\) *Khanh Hoang Dang,* Horsens, født i Vietnam.
+- 201\) *Khanh Huy Dang,* Horsens, født i Vietnam.
+- 202\) *The Phong Dang,* Horsens, født i Vietnam.
+- 203\) *Thi Ngoc Dang,* Odense, født i Vietnam.
+- 204\) *Thi Nho Dao,* Århus, født i Vietnam.
+- 205\) *Van Hung Dao,* Skanderborg, født i Vietnam.
+- 206\) *Mohamad Mahmoud Daoud,* Odense, født i Libanon, dog uden virkning for ansøgerens barn født 1982.
+- 207\) *Abdelfattah Daoudi,* Århus, født i Danmark.
+- 208\) *Johnsin Esmat Darbroudi,* Århus, født i Iran.
+- 209\) *Yessra Ahmad Darraj,* Ballerup, født i Libanon.
+- 210\) *Rathin Datta,* Lyngby-Tårbæk, født i Indien.
+- 211\) *Hendrik Frederik de Groot,* Farum, født i Nederlandene.
+- 212\) *Mohsen Dehestani,* Høje Tåstrup, født i Iran.
+- 213\) *Jeanne Marie Delaurent,* Frederiksberg, født i Frankrig.
+- 214\) *Sebukuttige Don Lesley Dharmasena,* København, født i Sri Lanka.
+- 215\) *Youssef Mohamad Dibaje,* Brøndby, født i Libanon.
+- 216\) *Lam Truong Dinh,* Kolding, født i Vietnam.
+- 217\) *Hassan Chehade Diraoui,* København, født i Libanon.
+- 218\) *Chadi Ibrahim Dirawi,* Holstebro, født i Libanon.
+- 219\) *Ba Trung Do,* København, født i Vietnam.
+- 220\) *Hannah Dolor,* København, født i Filippinerne.
+- 221\) *Diarra Dramani,* København, født i Elfenbenskysten.
+- 222\) *Draga Drecic,* Ringe, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 223\) *Wieslaw Szczepan Dubij,* Århus, født i Polen.
+- 224\) *Ismije Durmisi,* Ishøj, født i Jugoslavien, nu den Tidligere Jugoslaviske Republik Makedonien.
+- 225\) *Kenneth Ivan Ejlersen,* Fladså, født i Danmark.
+- 226\) *Khaled Salah El Abdallah,* Århus, født i Libanon.
+- 227\) *Said Elahi,* Århus, født i Iran.
+- 228\) *Ali Khalil El-Ahmad,* Rødekro, født i Libanon.
+- 229\) *Mustapha Ali El-Ahmad,* Århus, født i Libanon.
+- 230\) *Fawaz Mhamoud Elali,* Vejle, født i Libanon.
+- 231\) *Elias Nemr El-Assal,* Frederiksberg, født i Libanon.
+- 232\) *Hamad Wahch El-Awad,* Århus, født i Libanon.
+- 233\) *Mohamed El Bakkali,* Århus, født i Marokko.
+- 234\) *Mohamad Said El Banna,* Odense, født i Libanon, dog uden virkning for ansøgerens barn født 1982.
+- 235\) *Majida Ahmad El Bikai,* Sønderborg, født i Libanon.
+- 236\) *M'Hamed El Bouchaibi,* København, født i Marokko.
+- 237\) *Maher Abdallah Elchami,* København, født i Libanon.
+- 238\) *Mahmoud Hussein El-Chamma,* Århus, født i Libanon.
+- 239\) *Samira Mohamad El-Cheikh Ibrahim,* København, født i Libanon.
+- 240\) *Hassana El Ghiouane,* København, født i Marokko.
+- 241\) *Hanie Ali El-Hage Hassan,* København, født i Libanon.
+- 242\) *Ezzat Mahmoud El-Hassan,* Vejle, født i Libanon.
+- 243\) *Nada El Ibri,* Næstved, født i Libanon.
+- 244\) *Allal El Kaddouri,* København, født i Marokko, dog uden virkning for ansøgerens børn.
+- 245\) *Ahmad Taha El-Khaled,* Køge, født i Libanon.
+- 246\) *Belal El-Khatib,* Greve, født i Libanon.
+- 247\) *Hassan Ahmad El Malti,* København, født i Libanon.
+- 248\) *Mirsat Elmazi,* Gladsakse, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 249\) *Abdelhamid El Maniti,* Karlebo, født i Marokko.
+- 250\) *Siham El-Matari,* Vejle, født i Libanon.
+- 251\) *Nadya Ali Mahsen El-Mohandes,* Søllerød, født i Bahrain.
+- 252\) *Samar El-Onneis,* København, født i Libanon.
+- 253\) *Haitham Mohamad El-Rifai,* Åbenrå, født i Libanon.
+- 254\) *Adnan Hamdi El-Yazouri,* Odense, født i Libanon.
+- 255\) *Mohamed El Aaidi,* København, født i Marokko.
+- 256\) *Reza Eram,* Lyngby-Tårbæk, født i Iran.
+- 257\) *Zahra Eram,* København, født i Iran.
+- 258\) *Halis Mihrac Ergan,* Farum, født i Tyrkiet.
+- 259\) *Heike Marie Erichsen,* Bramming, født i Forbundsrepublikken Tyskland.
+- 260\) *Juan Ramiro Espinoza Galindo,* Gladsakse, født i Peru.
+- 261\) *Babgon Eyvazians-Babroudi,* Århus, født i Iran.
+- 262\) *Mohammed Fadail,* København, født i Marokko.
+- 263)(Udgået).
+- 264\) *Francisca Fajardo,* Kolding, født i Filippinerne.
+- 265\) *Mohammad Ahmad Fakhreddine,* Helsingør, født i Libanon.
+- 266\) *Hayder Fakhril-Din,* Hvidovre, født i Irak.
+- 267\) *Sobhie Faour,* Århus, født i Libanon.
+- 268\) *Mohammed Ahmed Farah,* København, født i Somalia.
+- 269\) *Siman Abdirahaman Farah,* Ålborg, født i Somalia.
+- 270\) *Zohra Faraj Zadeh,* Albertslund, født i Marokko.
+- 271\) *Vida Farhand,* Århus, født i Iran.
+- 272\) *Ghulam Farid,* Høje Tåstrup, født i Pakistan.
+- 273\) *Redzep Farizi,* Herlev, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 274\) *Parivash Farkeash,* Farum, født i Iran.
+- 275\) *Muin Khaled Farmaoui,* Odense, født i Palæstina, nu Israel.
+- 276\) *Antonio Favi,* Frederiksberg, født i Italien.
+- 277\) *Adnan Salim Fayyad,* Ringsted, født i Libanon.
+- 278\) *Salahedin Fazeli-Azar,* Køge, født i Iran.
+- 279\) *Youjian Feng,* Fredericia, født i Folkerepublikken Kina.
+- 280\) *Mohamed Ferraz,* Svendborg, født i Algeriet.
+- 281\) *Meriam Fezzazi,* København, født i Marokko.
+- 282\) *Christophe Emmanuel Thanh Fieschi,* Lyngby-Tårbæk, født i Danmark.
+- 283\) *Sena Filekovic,* Frederiksberg, født i Jugoslavien, nu Republikken Bosnien-Herzegovina.
+- 284\) *Shirin Ali Mohammad Fili,* Århus, født i Irak.
+- 285)(Udgået).
+- 286\) *Dib Mohamad Freije,* Horsens, født i Palæstina.
+- 287\) *Najla Fayez Freije,* København, født i Libanon.
+- 288\) *Mageda Freijeh,* Odense, født i Libanon.
+
+289)I *brahim Ahmad Freiji,* København, født i Libanon.
+
+- 290\) *Guanhua Fu,* København, født i Folkerepublikken Kina.
+- 291\) *Carmen Elisa Galindo,* Roskilde, født i Colombia.
+- 292\) *Thurairajah Ganeshamoorthy,* Middelfart, født i Sri Lanka.
+- 293\) *Maricel Gatbonton,* Herlev, født i Filippinerne.
+- 294\) *Jurgen Horst Georgi,* Børkop, født i Tyskland, nu Forbundsrepublikken Tyskland.
+- 295\) *Thala Nicole Gessner,* Esbjerg, født i Forbundsrepublikken Tyskland.
+- 296\) *Morteza Ghaemi,* Odense, født i Iran.
+- 297\) *Mahmoud Ghafari,* Herning, født i Iran.
+- 298\) *Reza Gharai-Moghadam,* Århus, født i Iran.
+- 299\) *Geles Ghebremichael,* København, født i Etiopien, nu Eritrea.
+- 300\) *Arass Omar Ghfoor,* Odense, født i Irak.
+- 301\) *Rajanthy Gnanachandran,* Nordborg, født i Sri Lanka.
+- 302\) *Afshan Gorgin,* Rødovre, født i Iran.
+- 303\) *Adnan Zaya Goriyeel,* Århus, født i Irak.
+- 304\) *Benjamin Tao Yoxall Graversen,* København, født i Danmark.
+- 305\) *Julia Rose Tabitha Thyra Liv Yoxall Graversen,* København, født i Danmark.
+- 306\) *Alan Gredar,* København, født i Irak.
+- 307\) *Anna Gronowska-Tyszer,* Karlebo, født i Polen.
+- 308\) *Amina Grouleff,* Frederiksberg, født i Marokko.
+- 309\) *Nasser Gueddouh,* København, født i Algeriet.
+- 310\) *Elvino Meneses Guevarra,* København, født i Filippinerne.
+- 311\) *Hasmig Fabienne Guiragossian,* Gladsakse, født i Libanon.
+- 312\) *Parichehr Gurai Tafte,* København, født i Indien.
+- 313\) *Semsiban Gurses,* Herlev, født i Tyrkiet.
+- 314\) *Brian Gutierrez,* København, født i Danmark.
+- 315\) *Mia Elisebeth Gutierrez,* København, født i Danmark.
+- 316\) *Zied Ben Ahmed Habassi,* Århus, født i Tunesien.
+- 317\) *Eid Haddad,* Århus, født i Libanon.
+- 318\) *Kamilia Semaan Haddad,* Køge, født i Libanon.
+- 319\) *Majed Rizk Haddad,* Randers, født i Libanon.
+- 320\) *Mohammad Mahmoud Haddad,* København, født i Libanon.
+- 321\) *Mahmood Khalaf Mohammed Hafath,* Greve, født i Bahrain.
+- 322\) *Bozorgmehr Hakimi,* Århus, født i Iran.
+- 323\) *Mahmoud Sobhi Halawani,* Sønderborg, født i Libanon.
+- 324\) *Ahmad Khalil Hamad,* Holstebro, født i Libanon.
+- 325\) *Youssef Ali Hamad,* Skive, født i Libanon.
+- 326\) *Bushra Hamadi,* Odense, født i Irak.
+- 327\) *Walid Mahmoud Hamdan,* Århus, født i Libanon.
+- 328\) *Akbar Hamel,* København, født i Iran.
+- 329\) *Ali Mohammad Hamid,* Ålborg, født i Libanon.
+- 330\) *Bushra Hassan Hamid,* København, født i Irak.
+- 331\) *Souham Ali Hamood,* Brøndby, født i Irak.
+- 332\) *Ziyad Sobhi Ali Hanafi,* Vejle, født i Libanon.
+- 333\) *Naziha Hanin,* København, født i Marokko.
+- 334\) *Salah Ben Amor Hanini,* Frederiksberg, født i Tunesien.
+- 335\) *Erika Olga Hansen,* Ølstykke, født i Ungarn.
+- 336\) *Lars Hansen,* Ålborg, født i Forbundsrepublikken Tyskland.
+- 337\) *Mahjouba Hansen,* København, født i Marokko.
+- 338\) *Wiebke Hansen,* Kolding, født i Sydslesvig (Forbundsrepublikken Tyskland).
+- 339\) *Yusep Hansen,* København, født i Indonesien.
+- 340\) *Ehsanul Haq,* Birkerød, født i Pakistan.
+- 341\) *Abed Moussa Hassan,* Århus, født i Libanon.
+- 342\) *Ahmad Youssef Hassan,* Odense, født i Libanon.
+- 343\) *Alia Abed-Ali Hassan,* København, født i Irak.
+- 344\) *Karim Abbas Hassan,* Ålborg, født i Irak.
+- 345\) *Rami Ibrahim Hassan,* Århus, født i Libanon.
+- 346\) *Salah Ahmad Hassan,* Greve, født i Palæstina.
+- 347\) *Saad Salman Hassan,* Randers, født i Irak.
+- 348\) *Tarek Mohammad Hassan,* Odense, født i Libanon.
+- 349\) *Phenphorn Have,* Ålborg, født i Thailand.
+- 350\) *Adam Son Traberg Haydon,* Ålborg, født i Vietnam.
+- 351\) *Younatan Leisan Hedarloo,* Århus, født i Iran.
+- 352\) *Juthamat Akrapong Hedegaard,* Vinderup, født i Thailand.
+- 353\) *Nathachai Akrapong Hedegaard,* Vinderup, født i Thailand.
+- 354\) *Morteza Masoumi Hendelani,* Århus, født i Iran.
+- 355\) *Cristy Henningsen,* Esbjerg, født i Filippinerne.
+- 356\) *Sandra del Pilar Herrera Aedo,* København, født i Chile.
+- 357\) *Thi Ngoc Nga Hoang,* Odense, født i Vietnam.
+- 358\) *Thi Thu Huong Hoang,* Ålborg, født i Vietnam.
+- 359\) *Ali Asghar Hojati Far,* Horsens, født i Irak.
+- 360\) *Adam Schall Holberg,* København, født i Danmark.
+- 361\) *Hanan Houmami,* Frederiksberg, født i Marokko.
+- 362\) *Kokouvide Hounou,* København, født i Togo.
+- 363\) *Erfan Husain,* Roskilde, født i Irak.
+- 364\) *Naziha Husain,* Roskilde, født i Tyrkiet.
+- 365\) *Syed Irfan Munawar Gilani Hussain,* Brøndby, født i Danmark.
+- 366\) *Syed Munawar Hussain,* Brøndby, født i Pakistan.
+- 367\) *Fadi Hussein,* København, født i Libanon.
+- 368\) *Hussein Hussein,* København, født i Libanon.
+- 369\) *Issa Hussein Hussein,* København, født i Libanon.
+- 370\) *Wissam Mohamad Hussein,* København, født i Libanon.
+- 371\) *Jabbar Hussein Muhammad,* Frederiksberg, født i Irak.
+- 372\) *Van Can Huynh,* Odder, født i Vietnam.
+- 373\) *Rasmus Leonardo Højland,* Sao Paulo i Brasilien, født i Brasilien. Indfødsretten kan fortabes i henhold til § 8 i lov om dansk indfødsret, jf. lovbekendtgørelse nr. 757 af 14. september 1995.
+- 374\) *Bushra Reda Ibrahim,* København, født i Irak.
+- 375)(Udgået).
+- 376\) *Makarim Khalil Ibrahim,* Roskilde, født i Irak.
+- 377\) *Saga Moaeid Ibrahim,* Helsingør, født i Irak.
+- 378\) *Ayman Mohammad Ibriq,* Århus, født i Libanon.
+- 379\) *Idiris Mohamed Haji Idiris,* København, født i Somalia.
+- 380\) *Sofia Idrees,* København, født i Pakistan.
+- 381\) *Rania Rashid Ikhtiar,* Kolding, født i Kuwait.
+- 382\) *Sevlija Imeroska,* København, født i Jugoslavien, nu Den tidligere Jugoslaviske Republik Makedonien.
+- 383\) *Shaheen Imtiaz,* Albertslund, født i Pakistan.
+- 384\) *Syima Iqbal,* Lyngby-Tårbæk, født i Danmark.
+- 385\) *Miriam Iraki,* Århus, født i Libanon.
+- 386\) *Faredin Iseni,* Herlev, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien, dog uden virkning for ansøgerens barn.
+- 387\) *Hiyam Abdel Salem Iskander,* Århus, født i Libanon.
+- 388\) *Mohamad Osman Iskander,* København, født i Libanon.
+- 389\) *Maha Youssef Issa,* Fredensborg-Humlebæk, født i Libanon.
+- 390\) *Youssef Salim Issa,* Ringsted, født i Libanon.
+- 391\) *Javad Jabbari,* Odense, født i Iran.
+- 392\) *Reza Jabbari,* Odense, født i Iran.
+- 393\) *Michele Andree Jacquelinet,* Egebjerg, født i Frankrig.
+- 394\) *Shamsi Jafari Lati,* Greve, født i Iran.
+- 395\) *Amir Massoud Jalali Moghari,* Kolding, født i Iran.
+- 396\) *Elaheh Jalilian-Jam,* København, født i Iran.
+- 397\) *Ahmed Farah Jama,* København, født i Somalia.
+- 398\) *Nawar Diya Jamal-Alddine,* Frederiksberg, født i Irak.
+- 399\) *Farzaneh Jamei,* Gladsakse, født i Iran.
+- 400\) *Ibrahim Jabr Jammal,* Varde, født i Libanon.
+- 401\) *Osama Jarjis,* Odense, født i Syrien.
+- 402\) *Lertrat Jensen,* Give, født i Thailand.
+- 403\) *Rita Pereras Jensen,* Odense, født i Filippinerne.
+- 404\) *Thomas Rajkumar Ejlskov Jensen,* Birkerød, født i Indien.
+- 405\) *Vinitha Jensen,* Glostrup, født i Sri Lanka.
+- 406\) *Maria Johncock-Larsen,* London, Storbritannien, født i USA. Indfødsretten kan fortabes i henhold til § 8 i lov om dansk indfødsret, jf. lovbekendtgørelse nr. 757 af 14. september 1995.
+- 407\) *Arulnesarasa Seemampillai Joseph,* Egvad, født i Sri Lanka.
+- 408\) *Perijan Jusufovski,* Brøndby, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 409\) *Genevieve Maria Antoinette Pinto Jørgensen,* Hillerød, født i Pakistan.
+- 410\) *Hayat Hamed Kachkouch,* Odense, født i Libanon.
+- 411\) *Mohammad Abdullah Kachkouch,* Odense, født i Libanon.
+- 412\) *Ibrahim Abdul-Rahim Kaddoura,* København, født i Libanon.
+- 413\) *Amina Haj Kalou,* Århus, født i Irak.
+- 414\) *Sivasithamparam Kanagasekaram,* Hals, født i Sri Lanka.
+- 415\) *Jeyakumar Kandiah Muthukumaru,* Sønderborg, født i Sri Lanka.
+- 416\) *Ghasem Karbalaei-Bahram,* Århus, født i Iran.
+- 417\) *Hamid Alwan Kashlook,* København, født i Irak.
+- 418\) *Isabelita N Kassem,* Slagelse, født i Filippinerne.
+- 419\) *Majid Mahoud Kassim,* Vejle, født i Libanon.
+- 420\) *Ali Assad Katirai,* Farum, født i Iran.
+- 421\) *Jaswant Kaur,* Brøndby, født i Indien.
+- 422\) *Mansoreh Kaveie,* København, født i Iran.
+- 423\) *Ghada Mahmoud Kayed,* Århus, født i Libanon.
+- 424\) *Salah Eldin Kayed,* Fredensborg-Humlebæk, født i Libanon.
+- 425\) *Hussein Haidar Kazem,* Frederiksberg, født i Irak.
+- 426\) *Shahla Kazemkhani,* København, født i Iran.
+- 427\) *Alaa Hadi Kerim,* København, født i Irak.
+- 428\) *Parisa Khakpour,* Århus, født i Iran.
+- 429\) *Delberin Ali Khalaf,* Odense, født i Irak.
+- 430\) *Mounir Khalaily,* København, født i Libanon.
+- 431\) *Masoud Khaleghipour,* Århus, født i Iran.
+- 432\) *Abdifataah Osman Khalif,* Esbjerg, født i Somalia.
+- 433\) *Hayat Khan,* København, født i Pakistan.
+- 434\) *Oussama Adel Khaskie,* Ålborg, født i Libanon.
+- 435\) *Elham Khatam,* Århus, født i Iran.
+- 436\) *Amin Saleh Khattab,* København, født i Libanon.
+- 437\) *Andre Khayat,* København, født i Libanon.
+- 438\) *Jassem Mohammad Khazendar,* Greve, født i Irak.
+- 439\) *Saraswathy Kiddnan,* Egvad, født i Sri Lanka.
+- 440\) *Thi My Le Kieu,* Hjørring, født i Vietnam.
+- 441\) *Mulugeta Kifle,* Fåborg, født i Etiopien.
+- 442\) *Oksano Kirilenko,* København, født i Bulgarien.
+- 443\) *Clare-Gabriela Klockmann,* Vejen, født i Rumænien.
+- 444\) *Sibylle Knecht,* Belp i Schweiz, født i Schweiz.
+- 445\) *Usa Kofod-Nielsen,* Allinge-Gudhjem, født i Thailand.
+- 446\) *Sindou Michel Konate* , København, født i Elfenbenskysten.
+- 447\) *Christina Kongsøre,* Holstebro, født i Forbundsrepublikken Tyskland.
+- 448\) *Mieczyslaw Konieczny,* Odense, født i Polen.
+- 449\) *Behzad Kordbacheh,* Odense, født i Iran.
+- 450\) *Mohammadtaghi Kordbacheh,* Odense, født i Iran.
+- 451\) *Aziz Kosovik,* Gladsakse, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 452\) *Samira Kourradi,* Odense, født i Marokko.
+- 453\) *Saer Mohammed Krayem,* København, født i Libanon.
+- 454\) *Sriharan Krishnapillai,* Helsingør, født i Sri Lanka.
+- 455\) *Krishnapapu Krishnappillai,* Viborg, født i Sri Lanka.
+- 456\) *Richard Aril Ghislain Kruk,* Skælskør, født i Belgien.
+- 457\) *Vanathi Kunganesan,* Fåborg, født i Sri Lanka.
+- 458\) *Raj Kumar,* Helsingør, født i Pakistan.
+- 459\) *Rajakumaran Kumarasamy,* Greve, født i Sri Lanka.
+- 460\) *Milton Irose Kumar Kurusumuthu,* Holstebro, født i Sri Lanka.
+- 461\) *Young Sick Kwon,* Århus, født i Republikken Korea.
+- 462\) *Timea Køhalmi,* Pandrup, født i Ungarn.
+- 463\) *Fatima Labrouzi,* København, født i Marokko.
+- 464\) *Carlos Alberto Tomas Lago,* Loule i Portugal, født i Portugal. Indfødsretten kan fortabes i henhold til § 8 i lov om dansk indfødsret, jf. lovbekendtgørelse nr. 757 af 14. september 1995.
+- 465\) *Zudad Samuel Lahdo,* Roskilde, født i Irak.
+- 466\) *Hocine Laib,* København, født i Algeriet.
+- 467\) *Mahin Lajmiri,* København, født i Iran.
+- 468\) *Maria Editha B Larsen,* København, født i Filippinerne.
+- 469\) *Sally Junker Larsen,* Frederiksberg, født i Danmark.
+- 470\) *Khalid Lattef,* København, født i Marokko.
+- 471\) *Cong Van Le,* Kolding, født i Vietnam.
+- 472\) *Kim Loan Le,* Århus, født i Vietnam.
+- 473\) *Minh Hung Le,* Hirtshals, født i Vietnam.
+- 474\) *Mui Thi Le,* Roskilde, født i Vietnam.
+- 475\) *Luis Daniel Abad Lewis,* København, født i Panama.
+- 476\) *Gang Liu,* Brøndby, født i Folkerepublikken Kina.
+- 477\) *Yanni Maria Long,* Ålborg, født i Folkerepublikken Kina.
+- 478\) *Xiao Jie Luan,* Århus, født i Folkerepublikken Kina.
+- 479\) *Ahammed Lubega,* København, født i Uganda.
+- 480\) *Ligaya Ludvigsen,* Sæby, født i Filippinerne.
+- 481\) *Elsa Maria de Jesus Lund,* Holbæk, født i Mexico.
+- 482\) *Zengjie Ma,* Århus, født i Folkerepublikken Kina, dog uden virkning for ansøgerens barn født 1982.
+- 483\) *Nooreng Madsen,* Odder, født i Thailand.
+- 484\) *Rosana I Malayo Madsen,* Løgstør, født i Filippinerne.
+- 485\) *Samer Mahanna,* Sønderborg, født i Syrien.
+- 486\) *Mohammad Mahfoud,* Hillerød, født i Syrien.
+- 487\) *Jamal Mohammad Amin Mahmod,* Høje Tåstrup, født i Irak.
+- 488\) *Bachir Mohammad Mahmoud,* Vejle, født i Libanon.
+- 489\) *Sevim Mahmudovska,* Brøndby, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 490\) *Jihad Ahmad Mahra,* København, født i Libanon.
+- 491\) *Napoleon Neshati Malekians,* København, født i Iran.
+- 492\) *Emad Malikshahi,* Sønderborg, født i Irak.
+- 493\) *Kawther Zaki Malla,* Næstved, født i Libanon.
+- 494\) *Nico Nduu Mangal,* Odense, født i Zaire, nu Den Demokratiske Republik Congo.
+- 495\) *Mohamad Abdallah Mansour,* Odense, født i Libanon.
+- 496\) *Muhammed Atta Mansour,* Vejle, født i Libanon.
+- 497\) *Samir Khalil Mansour,* Nykøbing F, født i Libanon.
+- 498\) *Haiedeh Marashy,* Karlebo, født i Tanzania.
+- 499\) *Annarajalingam Markandu,* Vejle, født i Sri Lanka.
+- 500\) *Jeyaratnam Markandu,* Herning, født i Sri Lanka.
+- 501\) *Kamelia Iossifova Martinova,* Hvidovre, født i Bulgarien.
+- 502\) *Saeed Masoudian,* Frederiksberg, født i Iran.
+- 503\) *Hisham Mohommad Abdel Mawed,* Vejle, født i Libanon.
+- 504\) *Arshad Mehmood,* København, født i Pakistan.
+- 505\) *Yun-Feng Meng,* København, født i Folkerepublikken Kina.
+- 506\) *Fredy Abdon Vilcapaza Mercado,* Århus, født i Peru.
+- 507\) *Najwa Jamal Merhi,* Odense, født i Libanon.
+- 508\) *Ning Miao,* Århus, født i Folkerepublikken Kina.
+- 509\) *Jamal Khaled Miari,* Odense, født i Libanon.
+- 510\) *Thomas Sung Michelsen,* Nuuk, født i Republikken Korea.
+- 511\) *Tarek Naji Mohamad,* København, født i Irak.
+- 512\) *Ali Mohamed,* Odense, født i Somalia.
+- 513\) *Malyuum Ahmed Sheikh Mohamed,* Århus, født i Somalia.
+- 514\) *Ahmad Amin Mohammad,* Karlebo, født i Israel.
+- 515\) *Fatemeh Mahmood Mohammad,* Esbjerg, født i Irak.
+- 516\) *Taimoor Mirza Hassan Mohammad,* København, født i Irak.
+- 517\) *Samy Najat Mohamud,* København, født i Etiopien, nu Eritrea.
+- 518\) *Hamid-Reza Mollaie,* Middelfart, født i Iran.
+- 519\) *Rami Abdal Monem,* København, født i Syrien.
+- 520\) *Hoda Morad,* København, født i Syrien.
+- 521)(Udgået).
+- 522\) *Boguslaw Wlodzimierz Morawski,* Herlev, født i Polen.
+- 523\) *Beatrix Mortensen,* Rødovre, født i Ungarn.
+- 524\) *Kirigo Mortensen,* København, født i Kenya.
+- 525\) *Yvon Luckson Mortensen,* Hørning, født i Cameroun.
+- 526\) *Mardel Lynett Moses,* Århus, født i Belize.
+- 527\) *Saleh Ahmed Mosleh,* København, født i Libanon.
+- 528\) *Panteha Moslehpour,* Århus, født i Iran.
+- 529\) *Mohammed Ben Moumou,* Brøndby, født i Marokko.
+- 530\) *Abdelrhani Mourhrib,* København, født i Marokko.
+- 531\) *Magdy Ahmed Gabr Mousa,* Århus, født i Egypten.
+- 532\) *Mohammad Ibrahim Moussa,* Århus, født i Libanon.
+- 533\) *Razaw A Muhamad,* Gentofte, født i Irak.
+- 534\) *Zahra Muhammad,* København, født i Pakistan, dog uden virkning for ansøgerens børn.
+- 535\) *Sofia Munk,* Skagen, født i Colombia.
+- 536\) *Noura Charade Murad,* Århus, født i Syrien.
+- 537\) *Rahunathan Murukahaj,* Suså, født i Sri Lanka.
+- 538\) *Arslan Ahmad Mustapha,* Århus, født i Irak.
+- 539\) *Haider Mustapha,* Holstebro, født i Libanon.
+- 540\) *Mustapha Abdul-Amir Mustapha,* Holstebro, født i Libanon, dog uden virkning for ansøgerens barn født 1982.
+- 541\) *Mathanarajah Myilavahanam,* Herning, født i Sri Lanka.
+- 542\) *Jamile Ali Maanaki,* København, født i Libanon.
+- 543\) *Mohamad Ali Maanaki,* København, født i Libanon.
+- 544\) *Mounife Ali Maannaki,* København, født i Libanon.
+- 545\) *Homay Ghasemi Nadji,* Gentofte, født i Iran.
+- 546\) *Nemat Bibi Naeimi,* Gladsakse, født i Afghanistan.
+- 547\) *Shoukatullah Naeimi,* Gladsakse, født i Afghanistan.
+- 548\) *Vinajagamoorthy Nagamuttu,* Svendborg, født i Sri Lanka.
+- 549\) *Mohamad Fouad Nahas,* København, født i Libanon.
+- 550\) *Ebrahim Nahimi,* Århus, født i Afghanistan.
+- 551\) *Souad Omar Toufik Najjar,* Århus, født i Irak.
+- 552\) *Selvarajah Nallathamby,* Sønderborg, født i Sri Lanka.
+- 553\) *Behjat Namdarpour,* Århus, født i Iran.
+- 554\) *Mohamad Zuher Nasrallah,* København, født i Irak.
+- 555\) *Mohamed Nasser,* Kolding, født i Libanon.
+- 556\) *Moukarram Faysal Nasser,* Århus, født i Libanon.
+- 557\) *Lorena Garcia Navarro,* København, født i Filippinerne.
+- 558\) *Mahammad Nazeri Jouneghani,* Herning, født i Iran.
+- 559\) *Iraf Mahmoud Nemr,* Århus, født i Libanon.
+- 560\) *Huu Phuoc Nguyen,* Høje Tåstrup, født i Vietnam, dog uden virkning for ansøgerens barn.
+- 561\) *Lan Thi Nguyen,* Skive, født i Vietnam.
+- 562\) *Manh Khoa Nguyen,* Fredericia, født i Vietnam.
+- 563\) *Quoc Viet Nguyen,* Odense, født i Vietnam.
+- 564\) *Thanh Tung Nguyen,* Svendborg, født i Vietnam.
+- 565\) *Thi Hong Nguyen,* København, født i Vietnam.
+- 566\) *Thi Mai Khanh Nguyen,* Århus, født i Vietnam.
+- 567\) *Thi Thuy Huong Nguyen,* Svendborg, født i Vietnam.
+- 568\) *Tuan Hai Nguyen,* Fredericia, født i Vietnam.
+- 569\) *Van Bup Nguyen,* Hjørring, født i Vietnam.
+- 570\) *Van Cuong Nguyen,* Ålborg, født i Vietnam.
+- 571\) *Van Tuan Nguyen,* Hjørring, født i Vietnam.
+- 572\) *Van Vo Dung Nguyen,* Frederiksberg, født i Vietnam.
+- 573\) *Andreas Germans Hoem Nielsen,* Thisted, født i Republikken Letland.
+- 574\) *Emelia Nielsen,* Århus, født i Ghana.
+- 575\) *Heike Hertha Irene Nielsen,* Holmsland, født i Forbundsrepublikken Tyskland.
+- 576\) *Jaroslava Nielsen,* Fjends, født i Tjekkoslovakiet, nu Tjekkiet.
+- 577\) *Sunee Nielsen,* Birkerød, født i Thailand.
+- 578\) *Asmat Nisa,* Frederiksberg, født i Pakistan.
+- 579\) *Angelika Maria Louise Nissen,* Skive, født i Forbundsrepublikken Tyskland.
+- 580\) *Navid Nourani Vatani,* Århus, født i Iran.
+- 581\) *Seyedeh Fatemeh Nouri Abtahi,* Farum, født i Iran.
+- 582\) *Malgorzata Elzbieta Nymann,* Ålborg, født i Polen.
+- 583\) *Naomi Ancheta Nørgaard,* Hvorslev, født i Filippinerne.
+- 584\) *Julie Baldovino Olsen,* Solrød, født i Filippinerne.
+- 585\) *Mohamad Hussein Omer,* Odense, født i Somalia.
+- 586\) *Mohammad Shamin Azim Onib,* København, født i Afghanistan.
+- 587\) *Fadiya Ali Osman,* Århus, født i Libanon.
+- 588\) *Mejreme Osmanovski,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 589\) *Jina Pajman,* Søllerød, født i Afghanistan.
+- 590\) *Mohammad Fahim Pajman,* Søllerød, født i Afghanistan.
+- 591\) *Antoaneta Pamicheva,* Gladsakse, født i Bulgarien.
+- 592\) *Gnanachandran Paramalingham,* Nordborg, født i Sri Lanka.
+- 593\) *Khalid Parvez,* Frederiksberg, født i Pakistan.
+- 594\) *Andre Pastorff,* Århus, født i Sydslesvig (Forbundsrepublikken Tyskland).
+- 595\) *Abdollah Patipa,* Odder, født i Iran.
+- 596\) *Abdolreza Paydar,* Århus, født i Iran.
+- 597\) *David Fungai Sasula Pedersen,* Børkop, født i Botswana.
+- 598\) *Dorothy Elaine Pedersen* , Skagen, født i Jamaica.
+- 599\) *Sunan Pedersen,* København, født i Thailand.
+- 600\) *Rusa Pejkic,* Helsingør, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 601\) *Cesar Delfin Perez Diago,* Allerød, født i Colombia.
+- 602\) *Grazyna Ewa Perko,* Gentofte, født i Polen.
+- 603\) *Mario Jerzy Perko,* Gentofte, født i Polen.
+- 604\) *Azra Perveen,* København, født i Pakistan.
+- 605\) *Mohammad Reza Peyghami-Ashnaei,* Kolding, født i Iran.
+- 606\) *Mohammad Reza Pezeshkinia,* Hvidovre, født i Iran.
+- 607\) *Hien Thi Pham,* Esbjerg, født i Vietnam.
+- 608\) *Thi Ngoc Dung Pham,* Haslev, født i Vietnam.
+- 609\) *Van Hai Pham,* Odense, født i Vietnam.
+- 610\) *Van Huy Pham,* Århus, født i Vietnam.
+- 611\) *Thi Thuy Hang Phan,* Hjørring, født i Vietnam.
+- 612\) *Mohammad Pirooznia,* Esbjerg, født i Iran.
+- 613\) *Karin Plaep,* Gundsø, født i Danmark.
+- 614\) *Olaf Henri Julius Plaep,* Gundsø, født i Tyskland, nu Forbundsrepublikken Tyskland.
+- 615\) *Janni Pongseerot,* Nakornrajsima i Thailand, født i Thailand. Indfødsretten kan fortabes i henhold til § 8 i lov om dansk indfødsret, jf. lovbekendtgørelse nr. 757 af 14. september 1995.
+- 616\) *Sridharan Ponnambalam,* Nyborg, født i Sri Lanka.
+- 617\) *Jeyanathan Ponnudurai,* Frederiksværk, født i Sri Lanka.
+- 618\) *Vijayaluxmy Poopalasingam,* Odense, født i Sri Lanka.
+- 619\) *Nicolae Adrian Pop,* Esbjerg, født i Rumænien.
+- 620\) *Nikola Popteov,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 621\) *Farideh Pouranvieh,* Århus, født i Iran.
+- 622\) *Amir Pourmanaf-Shashkalani,* København, født i Iran.
+- 623\) *Mostafa Pourmanaf-Sheshkalani,* København, født i Iran.
+- 624\) *Ali Jaafar Qasem,* København, født i Irak.
+- 625\) *Ming Hong Qu,* Brøndby, født i Folkerepublikken Kina.
+- 626\) *Saleh Mohammad Rabeh,* Århus, født i Libanon.
+- 627\) *Gjorgi Radevski,* Ballerup, født i Jugoslavien, nu Den Tidligere Republik Makedonien.
+- 628\) *Mahmoud Rafiie,* Silkeborg, født i Iran.
+- 629\) *Aythan Anwer Rafik,* Horsens, født i Irak.
+- 630\) *Kirubadevi Ragunathan,* Suså, født i Sri Lanka.
+- 631\) *Ahmadali Rahimi,* Ballerup, født i Iran.
+- 632\) *Pakshan Rahimzadeh,* Køge, født i Iran.
+- 633\) *Muhammad Habibur Rahman,* Holeby, født i Bangladesh.
+- 634\) *Larisa Dzordzevna Raicheva,* Århus, født i Sovjetunionen, nu Den
+
+Russiske Føderation.
+
+- 635\) *Nermin Rakipovska,* København, født i Sverige.
+- 636\) *Subhash Chandra Iyer Ramachandra Iyer,* Vejle, født i Sri Lanka.
+- 637\) *Sriskandarajah Raman,* Vejle, født i Sri Lanka.
+- 638\) *Farrukh Rashid,* Ishøj, født i Pakistan.
+- 639\) *Elizabeth Castro Rasmussen* , Gentofte, født i Filippinerne.
+- 640\) *Srikala Ratnakumar,* Struer, født i Sri Lanka.
+- 641\) *Kannan Ratnasingham,* Århus, født i Sri Lanka.
+- 642\) *Ataollah Ravanbakhsh,* København, født i Iran.
+- 643\) *Vijaya Sarojah Ravichandran,* Herning, født i Sri Lanka.
+- 644\) *Portia Ravn-Sørensen,* Århus født i Ghana.
+- 645\) *Ahmed Raza,* Herlev, født i Pakistan.
+- 646\) *Fehmeed Razzaq,* København, født i Danmark.
+- 647\) *Zoulaikha Bent Belgacem Retib,* København, født i Tunesien.
+- 648\) *Gunter Fritz Reuss,* Gråsten, født i Sydslesvig (Forbundsrepublikken Tyskland).
+- 649\) *Andresa L Reuter,* København, født i Filippinerne.
+- 650\) *Kimet Rexha,* Holbæk, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 651\) *Mohammad Reza Rezaei,* Viborg, født i Iran.
+- 652\) *Zineb Rhouiouad,* Svendborg, født i Marokko.
+- 653\) *Elise Rinvar,* København, født i Norge.
+- 654\) *Mitana Ristevska,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 655\) *Ilija Ristevski,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 656\) *Lence Robevska,* Værløse, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 657\) *Krystyna Romanowska,* Odense, født i Polen.
+- 658\) *Surinder Rooprai,* Allerød, født i Indien.
+- 659\) *Adel Rostampour Kazerani,* Lyngby-Tårbæk, født i Iran.
+- 660\) *Zuhair Shoket Salman Roubei,* København, født i Irak.
+- 661\) *Kambiz Mahmoudpour Roudsari,* Bov, født i Iran.
+- 662\) *Samer Ali Rustom,* København, født i Libanon.
+- 663\) *Emilie Xiaocao Rønholm,* Hovås i Sverige, født i Folkerepublikken Kina. Indfødsretten kan fortabes i henhold til § 8 i lov om dansk indfødsret, jf. lovbekendtgørelse nr. 757 af 14. september 1995.
+- 664\) *Josef George Saba,* Gladsakse, født i Libanon.
+- 665\) *Rizana Saber,* Århus, født i Syrien.
+- 666\) *Abbas Mir Mohammed Sadeghi,* Nykøbing F, født i Iran.
+- 667\) *Parvaneh Sadejhi-Pary,* Odense, født i Iran.
+- 668\) *Firas Mohammad Said Sadik,* København, født i Irak.
+- 669\) *Shlear Ali Mohammad Sadik,* Århus, født i Irak.
+- 670\) *Mohsen Saeidzadeh Khanghah,* København, født i Iran.
+- 671\) *Aid Abdalla Said,* Århus, født i Libanon.
+- 672\) *Roumiya Osman Said,* Århus, født i Etiopien.
+- 673\) *Valedeta Sainovski,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 674\) *Ismetka Sajnoska,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 675\) *Syed Sakhawat-Ali,* København, født i Pakistan.
+- 676\) *Salem Karim Saleh,* København, født i Irak.
+- 677\) *Diturie Salievska,* Ishøj, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 678\) *Dalal Ahmed Sallala,* Slagelse, født i Libanon.
+- 679\) *Abbas Ali Salmassi,* Ishøj, født i Iran.
+- 680\) *Shahzad Samadi,* Odense, født i Iran.
+- 681\) *Dariush Samkani,* Odense, født i Iran.
+- 682\) *Surega Sandrasekaram,* Struer, født i Sri Lanka.
+- 683\) *Jafar Sarrafan,* Odense, født i Iran.
+- 684\) *Mary Janarthini Sasitharan,* Struer, født i Sri Lanka.
+- 685\) *Sujantha Satkunam,* Horsens, født i Sri Lanka.
+- 686\) *Imran Ahmed Sattar,* København, født i Danmark.
+- 687\) *Behnaz Sattari,* Ålborg, født i Iran.
+- 688\) *Harpal Kaur Sawhney,* Skovbo, født i Indien.
+- 689\) *Mohammed Shoeb Sayeed,* København, født i Bangladesh.
+- 690\) *Maria Dolores Javier Sayson,* Ølstykke, født i Filippinerne.
+- 691\) *Dragana Scekic,* København, født i Jugoslavien, nu Den Føderale Republik Jugoslavien, dog uden virkning for ansøgerens barn født 1980.
+- 692\) *Yuyu Scheller,* Lyngby-Tårbæk, født i Folkerepulikken Kina.
+- 693\) *Louis Venynanayagam Sebamalai* , Vejen, født i Sri Lanka.
+- 694\) *Reza Sedghrohi,* København, født i Iran.
+- 695\) *Jegathasan Sellathurai,* Herning, født i Sri Lanka.
+- 696\) *Selvakumar Selvanayagam* , Middelfart, født i Sri Lanka.
+- 697\) *Geethanjali Selvarajah,* Grindsted, født i Sri Lanka.
+- 698\) *Pushparani Selvarajah,* Grindsted, født i Sri Lanka.
+- 699\) *Kada Senouci-Antar,* Odense, født i Algeriet.
+- 700\) *Hamid Reza Shahbaz,* Fredericia, født i Iran.
+- 701\) *Mahboubeh Shah Mohammadi Darmina,* Albertslund, født i Iran.
+- 702\) *Hamed Shahnazi,* Tønder, født i Iran.
+- 703\) *Morteza Shahpar,* Kolding, født i Iran.
+- 704\) *Fatemeh Azita Shahzadi,* Gladsakse, født i Iran.
+- 705\) *Siqah Shakoor,* København, født i Danmark.
+- 706\) *Manaf Marzah Mohamad Shames Ali,* København, født i Irak.
+- 707\) *Jehan Khedr Shanbaz,* København, født i Syrien.
+- 708\) *Vadivuambal Shanmuganathan,* Vejle, født i Sri Lanka.
+- 709\) *Sayed Shubbar Abbas Jafar Sharaf,* Søllerød, født i Bahrain.
+- 710\) *Zeinolabedin Sharif Zadeh Abdi,* Farum, født i Iran.
+- 711\) *Mehdi Shashgol,* Ålborg, født i Iran.
+- 712\) *Nawal Hussein Shatiela,* Odense, født i Libanon.
+- 713\) *Fatemeh Mahmoud Shawish,* København, født i Syrien.
+- 714\) *Nader Shekufeh,* Odense, født i Iran.
+- 715\) *Zarghuna Sher,* Birkerød, født i Afghanistan.
+- 716\) *Mina Abalverdi Shirazi,* København, født i Iran.
+- 717\) *Mohamad Choujah Sibai,* København, født i Syrien.
+- 718\) *Nina Sihdu,* Nexø, født i Pakistan.
+- 719\) *Vafa Simeri Nejad Mohammareh,* København, født i Iran.
+- 720\) *Octavian Simtion,* Ålborg, født i Rumænien.
+- 721\) *Ravinder Singh,* Horsens, født i Indien.
+- 722\) *Vishnaruby Sivaguru,* Åbenrå, født i Sri Lanka.
+- 723\) *Thavapperai Sivasundaram,* Møldrup, født i Sri Lanka.
+- 724\) *Ingrid Margrethe Skovgaard,* Holbæk, født i Norge.
+- 725\) *Mohamad Ibrahim Slaiman,* Odense, født i Libanon.
+- 726\) *Ibrahim Sobhi Sobhie,* København, født i Libanon.
+- 727\) *Mounir Sobhi Sobhie,* København, født i Libanon.
+- 728\) *Oussama Soboh,* Hvidovre, født i Libanon.
+- 729\) *Anjum Sohail,* København, født i Pakistan.
+- 730\) *Martin Soltani,* Gladsakse, født i Iran.
+- 731\) *Kugaseelan Somasundram,* Dianalund, født i Sri Lanka.
+- 732\) *Anne-Marie Sommerby,* Fredericia, født i Elfenbenskysten.
+- 733\) *Daniel Soosaipillai,* Svendborg, født i Sri Lanka, dog uden virkning for ansøgerens barn født i 1981.
+- 734\) *Ardalan Sorkh Pour,* Århus, født i Iran.
+- 735\) *Pavlos-Petros Sotiriu,* Ballerup, født i Grækenland.
+- 736\) *Elizabeta Stevanovska,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 737\) *Zaklina Stevanovska,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 738\) *Ahmed Stokholm,* København, født i Marokko.
+- 739\) *Manoharan Subramaniam,* Stenlille, født i Sri Lanka.
+- 740\) *Araz Sulaiman,* Århus, født i Irak.
+- 741\) *Amer Abdulmajid Suleiman,* København, født i Libanon.
+- 742\) *Helmi Suleiman,* København, født i Libanon.
+- 743\) *Adnan Surab Kumar,* Århus, født i Irak.
+- 744\) *Myrna Bambico Svanholm,* Dragør, født i Filippinerne.
+- 745\) *Grazyna Szymanska,* Esbjerg, født i Polen.
+- 746\) *Tadeusz Jozef Szymanski,* Esbjerg, født i Polen.
+- 747\) *Ivanka Sørensen,* Løgstør, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 748\) *Samir Hussein Sørensen,* Århus, født i Libanon.
+- 749\) *Baha Eldin Rasheid Saaid,* Århus, født i Irak.
+- 750\) *Mehrnoush Tabrizi,* Rødovre, født i Iran.
+- 751\) *Mehrtash Tabrizi,* Ålborg, født i Iran.
+- 752\) *Zohreh Tadbiri,* Birkerød, født i Iran.
+- 753\) *Mona Ali Taha,* Århus, født i Libanon.
+- 754\) *Wissam Ali Taha,* Albertslund, født i Libanon.
+- 755\) *Feryal Suleiman Taher,* Århus, født i Irak.
+- 756\) *Shaban Suleiman Taher,* Århus, født i Irak.
+- 757\) *Zamrit Suleiman Taher,* Århus, født i Irak.
+- 758\) *Shahnaz Tahsili-Zonoozi,* København, født i Iran.
+- 759\) *Mohammad Mehdi Talakoubi,* Birkerød, født i Iran.
+- 760\) *Zeinab Moslem Taleb,* Holstebro, født i Libanon.
+- 761\) *Behzad Talebi Seyedsarani,* København, født i Iran.
+- 762\) *Khalil Moustafa Tamari,* Århus, født i Syrien.
+- 763\) *Solomon Abraham Tamene,* København, født i Etiopien.
+- 764\) *Ebrahim Taraz,* København, født i Iran.
+- 765\) *Masoummeh Taremi Hojghan,* København, født i Iran.
+- 766\) *Ebrahim Amini Tehrani,* Kolding, født i Iran.
+- 767\) *Thaneswaran Thangavel,* Nykøbing-Rørvig, født i Sri Lanka.
+- 768\) *Punithavathy Thayaparan,* Vejle, født i Sri Lanka.
+- 769\) *Thambithurai Thevaraajaah,* Århus, født i Sri Lanka.
+- 770\) *Theepa Thirunamakkarasu,* Helsingør, født i Sri Lanka.
+- 771\) *Pranee Thrysøe,* Ålborg, født i Thailand.
+- 772\) *Chrisentina Greenzi Thulasitharan,* Dragsholm, født i Sri Lanka.
+- 773\) *Balakumar Thurairajah,* Stenlille, født i Sri Lanka.
+- 774\) *Josephine Thygesen,* Lyngby-Tårbæk, født i Filippinerne.
+- 775\) *Aram Tofek,* Århus, født i Irak.
+- 776\) *Nicolae Tomoiaga,* Esbjerg, født i Rumænien.
+- 777\) *Mahmoud Toreyhi,* Århus, født i Iran.
+- 778\) *Dinh Tinh Tran,* Kalundborg, født i Vietnam.
+- 779\) *Linh My Tran,* Roskilde, født i Vietnam.
+- 780\) *Ngoc Nghia Tran,* Hjørring, født i Vietnam.
+- 781\) *Thanh Hung Tran,* Munkebo, født i Vietnam.
+- 782\) *Thi Phuong Nhi Tran,* Svendborg, født i Vietnam.
+- 783\) *Thi Thanh Tran,* Hjørring, født i Vietnam.
+- 784\) *Thy Diem Tran,* Roskilde, født i Vietnam.
+- 785\) *Tuan Anh Tran,* Roskilde, født i Vietnam.
+- 786\) *Viet Bao Tran,* København, født i Vietnam.
+- 787\) *Viet Tuan Tran,* Roskilde, født i Vietnam.
+- 788\) *Thi My Loan Trinh,* Odense, født i Vietnam.
+- 789\) *Thi Be Troung,* Hjørring, født i Vietnam.
+- 790\) *Thi Hoang Diep Truong,* Gentofte, født i Vietnam.
+- 791\) *Thi Mai Khanh Truong,* Århus, født i Vietnam.
+- 792\) *Selahattin Uygun,* København, født i Tyrkiet.
+- 793\) *Sami Ahmed Wadi,* København, født i Irak.
+- 794\) *Thayalan Vadivelu,* Svendborg, født i Sri Lanka.
+- 795\) *Sajida Hussein Abdel Wahab,* Frederiksberg, født i Irak.
+- 796\) *Mahin Vakili,* Ålborg, født i Iran.
+- 797\) *Richard Valovics,* Århus, født i Ungarn.
+- 798\) *Iftikhar Ahmad Warraich,* København, født i Pakistan.
+- 799\) *Eva Weirich,* Græsted-Gilleleje, født i Forbundsrepublikken Tskland.
+- 800\) *Suppiramaniam Velupillai Arulampalam,* Rosenholm, født i Sri Lanka.
+- 801\) *Yue Ping Yu Weng,* Suzhoui i Folkerepublikken Kina, født i Folkerepublikken Kina.
+- 802\) *Anita Wessel,* Viborg, født i Norge.
+- 803\) *Silke Mason Westphal,* Frederiksberg, født i Forbundsrepublikken Tyskland.
+- 804\) *Ramesh Vettivelautham,* Horsens, født i Sri Lanka.
+- 805\) *Britta Weyer,* Århus, født i Forbundsrepublikken Tyskland.
+- 806\) *Heinz Peter Vigl,* Viborg, født i Forbundsrepublikken Tyskland.
+- 807\) *Manuel Acuna Villanueva,* København, født i Filippinerne.
+- 808\) *Sivapackiam Vinayagamoorthy,* Svendborg, født i Sri Lanka.
+- 809\) *Reinhard Winkler,* Egebjerg, født i Tyskland, nu Forbundsrepublikken Tyskland.
+- 810\) *Ngoc Thuan Vu,* Odense, født i Vietnam.
+- 811\) *Xiong Xie,* Værløse, født i Folkerepublikken Kina.
+- 812\) *Saleh Mohammad Yacoub,* Århus, født i Libanon.
+- 813\) *Fevzi Yalcin,* Høje Tåstrup, født i Tyrkiet.
+- 814\) *Soheila Ghods Yamchelou,* Ålborg, født i Iran.
+- 815\) *Mohsen Sadoon Yasin,* Brøndby, født i Irak.
+- 816\) *Ismail Ahmad Yassine,* Tønder, født i Algeriet.
+- 817\) *Hussein Mohamad Younes,* Århus, født i Libanon.
+- 818\) *Meriam Fakhri Younis* , København, født i Libanon.
+- 819\) *Minoo Yousefi,* København, født i Iran.
+- 820\) *Benjamin Yu,* Høje Tåstrup, født i Filippinerne.
+- 821\) *Sonia Mouhammad Zaid,* Århus, født i Libanon.
+- 822\) *Fatima Zammouri,* Frederiksberg, født i Marokko.
+- 823)(Udgået).
+- 824\) *Johaina Ahmad Zankari,* København, født i Libanon.
+- 825\) *Jamal Ahmad Zareini,* Horsens, født i Libanon.
+- 826\) *Forough Zargari,* Gladsakse, født i Iran.
+- 827\) *Zohreh Zargary,* Gladsakse, født i Iran.
+- 828\) *Tadeusz Jacek Zarzycki,* Århus, født i Polen.
+- 829\) *Mimount Zayoum,* København, født i Marokko.
+- 830\) *Manal Khaled Zeidan,* Århus, født i Libanon.
+- 831\) *Soha Khaled Zeidan,* Århus, født i Libanon.
+- 832\) *Abdul Khalek Ghafor Zenal,* Århus, født i Irak.
+- 833\) *Ganimete Zeneli,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 834\) *Mohammad Ali Zeynalabedin,* Århus, født i Iran.
+- 835\) *Zelije Ziberi,* Frederiksberg, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 836\) *Kokgin Anwar Zinel,* Århus, født i Irak.
+- 837\) *Seyd Reza Zomorodnia,* Helsingør, født i Iran.
+- 838\) *Gulnear Zuferova,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 839\) *Suzan Zuljalova,* København, født i Jugoslavien, nu Den Tidligere Jugoslaviske Republik Makedonien.
+- 840\) *Mohammad Aziz Lutfi Zaabalawi,* Odense, født i Libanon.
+- 841\) *Maher Saleh Zaarab,* København, født i Libanon.
+
+## § 2.
+
+Endvidere meddeles indfødsret til nedennævnte, såfremt de senest den 30. april 2000 er løst fra deres statsborgerretlige forhold til vedkommende fremmede stater:
+
+- 842\) *Mokhtar Mohamed Hassan Abdelrazek,* København, født i Egypten.
+- 843\) *Clifton Adams,* København, født i USA.
+- 844\) *Ayse Agirman,* Køge, født i Tyrkiet.
+- 845\) *Mesut Agirman,* Køge, født i Tyrkiet.
+- 846\) *Halise Akbaba,* Holstebro, født i Tyrkiet.
+- 847\) *Huseyin Akbaba,* Holstebro, født i Tyrkiet.
+- 848\) *Davut Akkas,* Allerød, født i Tyrkiet.
+- 849\) *Selma Akyurek,* København, født i Tyrkiet.
+- 850\) *Nicoleta Al-Alami,* Nykøbing F, født i Rumænien.
+- 851\) *Moussa Dib Alaouie,* Frederiksberg, født i Libanon.
+- 852\) *Zahra Moussa Alaouie,* Frederiksberg, født i Libanon.
+- 853\) *Hanim Alici,* Køge, født i Tyrkiet.
+- 854\) *Resul Alici,* Køge, født i Tyrkiet.
+- 855\) *Bayram Altanay,* Horsens, født i Tyrkiet.
+- 856\) *Zøhre Altinbas,* Århus, født i Tyrkiet.
+- 857\) *Turan Altintas,* Farum, født i Tyrkiet.
+- 858\) *Ekaterina Nikolaevna Ancher,* Hasle, født i Sovjetunionen, nu Den Rusiske Føderation.
+- 859\) *Margareta Andrejic,* København, født i Danmark.
+- 860\) *Sefer Anik,* Gladsakse, født i Tyrkiet.
+- 861\) *Fuat Arikan,* Århus, født i Tyrkiet.
+- 862\) *Nezire Nezahat Arikan,* Århus, født i Tyrkiet.
+- 863\) *Kristine Bourke Arnvig,* Gentofte, født i Forbundsrepublikken Tyskland.
+- 864\) *Vukomir Arsovic,* Ballerup, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 865\) *Efo Ataman,* Århus, født i Tyrkiet.
+- 866\) *Fatma Atceken,* Herlev, født i Tyrkiet.
+- 867\) *Nurie Avdijaj,* Greve, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 868\) *Ziynet Aydin,* Frederiksberg, født i Tyrkiet.
+- 869\) *Suzana Badic,* Hillerød, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 870\) *Mustafa Badili,* København, født i Tyrkiet.
+- 871\) *Necatin Bag,* Hvidovre, født i Tyrkiet.
+- 872\) *Nuriye Bag,* Hvidovre, født i Tyrkiet.
+- 873\) *Rafal Bajuk,* Århus, født i Polen.
+- 874\) *Huseyin Bakbak,* København, født i Tyrkiet.
+- 875\) *Daniel Nascut Baluta,* Viborg, født i Rumænien.
+- 876\) *Lutfiye Bardak,* Solrød, født i Tyrkiet.
+- 877\) *Daniel Barkai,* Frederiksberg, født i Spanien.
+- 878\) *Stephen Mark Bartrup,* Allerød, født i Danmark.
+- 879\) *Shaul Baruch,* Lyngby-Tårbæk, født i Israel.
+- 880\) *Feride Bas,* Fredericia, født i Tyrkiet.
+- 881\) *Nahide Basyigit,* Farum, født i Tyrkiet.
+- 882\) *Veli Basyigit,* Farum, født i Tyrkiet.
+- 883\) *Nuran Baysal,* Ishøj, født i Tyrkiet.
+- 884\) *Dragan Beljic,* Silkeborg, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 885\) *Jolanta Krystyna Bendtsen,* Helsingør, født i Polen.
+- 886\) *Jamila Bensouda,* København, født i Gambia.
+- 887\) *Dorota Bialy,* København, født i Polen.
+- 888\) *Miroslaw Tadeusz Bialy,* København, født i Polen.
+- 889\) *Teresa Bozena Biernat,* Hjørring, født i Polen.
+- 890\) *Clarence Robert Bix,* Hadsund, født i Storbritannien.
+- 891\) *Anna Viktorovna Bizova,* Hvidovre, født i Sovjetunionen, nu Den Rusiske Føderation.
+- 892\) *Ilija Blatancic,* Silkeborg, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 893\) *Andrzej Bonderup,* Ålborg, født i Polen.
+- 894\) *Dagmara Breinholst,* København, født i Polen.
+- 895\) *Christine Brynoldt,* Frederiksberg, født i Forbundsrepublikken Tyskland.
+- 896\) *Kerim Bulduk,* København, født i Tyrkiet, dog uden virkning for ansøgerens børn.
+- 897\) *Ayten Cabuk,* Greve, født i Tyrkiet.
+- 898\) *Ømer Cabuk,* Greve, født i Tyrkiet.
+- 899\) *Azime Caglar,* København, født i Tyrkiet.
+- 900\) *Fadime Cakar,* Svinninge, født i Tyrkiet.
+- 901\) *Kemal Cakar,* Svinninge, født i Danmark.
+- 902\) *Mehmet Cakar,* Svinninge, født i Tyrkiet.
+- 903\) *Derya Cakirli,* Gentofte, født i Tyrkiet.
+- 904\) *Gulay Caliskan,* Helsingør, født i Tyrkiet.
+- 905\) *Aboubacar Camara,* Allerød, født i Guinea.
+- 906\) *Asiye Can,* Brøndby, født i Tyrkiet.
+- 907\) *Huseyin Can,* Brøndby, født i Danmark.
+- 908\) *Refik Can,* Brøndby, født i Tyrkiet.
+- 909\) *Noel Simtanda Caspersen,* Gentofte, født i Tanzania.
+- 910\) *Nalan Celepli,* Ballerup, født i Tyrkiet.
+- 911)(Udgået).
+- 912\) *Fikriya Celiker,* Odense, født i Tyrkiet.
+- 913\) *Haci Halil Celiker,* Odense, født i Tyrkiet.
+- 914\) *Fehmi Cetin,* København, født i Tyrkiet.
+- 915\) *Nemire Cetin,* Høje Tåstrup, født i Tyrkiet.
+- 916\) *Nurdagul Cetin,* Høje Tåstrup, født i Tyrkiet.
+- 917\) *Sevgi Cetinkaya,* Farum, født i Tyrkiet.
+- 918\) *Elie Naja Challita,* Hvidovre, født i Libanon.
+- 919\) *Muhieddine Ahmad Chamseddine,* Åbenrå, født i Libanon.
+- 920\) *Stefan Artur Chejdysz,* Århus, født i Polen.
+- 921\) *Claudia Chira,* Sønderborg, født i Rumænien.
+- 922\) *Semra Ciftci,* København, født i Tyrkiet.
+- 923\) *Silvana Ciric,* Frederiksværk, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 924\) *Aida Chmeis,* Ringsted, født i Libanon.
+- 925\) *Najib Mohamad Jamil Chmeis,* Ringsted, født i Libanon.
+- 926\) *Elife Coban,* Greve, født i Tyrkiet.
+- 927\) *Uri Cohen,* Frederiksberg, født i Israel.
+- 928\) *Dilek Colak,* Helsinge, født i Tyrkiet.
+- 929\) *Mustafa Corap,* Svendborg, født i Tyrkiet.
+- 930\) *Aytekin Coskun,* København, født i Tyrkiet.
+- 931\) *Davut Coskun,* Brøndby, født i Tyrkiet.
+- 932\) *Kosa Cukic,* København, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 933\) *Gabriel Dabrowski,* Århus, født i Polen.
+- 934\) *Fazire Dastan,* Ishøj, født i Tyrkiet.
+- 935\) *Halime Dastan,* Brøndby, født i Tyrkiet.
+- 936\) *Nuray Dastan,* Holbæk, født i Tyrkiet.
+- 937\) *Dusanka Dedic,* Herlev, Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 938\) *Savo Dedic,* Herlev, Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 939\) *Ibrahim Demir,* Gentofte, født i Tyrkiet.
+- 940\) *Mehmet Akif Demir,* Hvidovre, født i Tyrkiet.
+- 941\) *Nebile Demirbas,* Farum, født i Tyrkiet.
+- 942\) *Ønder Demirbas,* Karlebo, født i Tyrkiet.
+- 943\) *Abdulkadir Demirtas,* Århus, født i Tyrkiet.
+- 944\) *Leyla Demirtas,* Odense, født i Tyrkiet.
+- 945\) *Cafer Deniz,* Struer, født i Tyrkiet.
+- 946\) *Mustafa Deveci,* København, født i Tyrkiet.
+- 947\) *Bulent Diken,* Århus, født i Tyrkiet.
+- 948\) *Fatma Dogan,* Farum, født i Tyrkiet.
+- 949\) *Selim Dogan,* Farum, født i Tyrkiet.
+- 950\) *Ewa Dubij,* Århus, født i Polen.
+- 951\) *Nurten Duymaz,* Albertslund, født i Tyrkiet.
+- 952\) *Muammer Duzgun,* Værløse, født i Tyrkiet.
+- 953\) *Senay Ekici,* Vejle, født i Forbundsrepublikken Tyskland.
+- 954\) *Unal Ekici,* Vejle, født i Tyrkiet.
+- 955\) *Adnan Hani El Moukdad,* København, født i Libanon.
+- 956\) *Doha Mohamad El-Omar,* Nibe, født i Syrien.
+- 957\) *Fatma Erdem,* København, født i Tyrkiet.
+- 958\) *Gulper Ergin,* Vordingborg, født i Tyrkiet.
+- 959\) *Senol Ergin,* Vordingborg, født i Forbundsrepublikken Tyskland.
+- 960\) *Milisav Eskemose,* Otterup, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 961\) *Martin Raymond Faulkner,* Ålborg, født i Storbritannien.
+- 962\) *Mila Filipovic,* Hillerød, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 963\) *Zorica Filipovic,* Hillerød, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 964\) *Meliha Garip,* Værløse, født i Tyrkiet.
+- 965\) *Malgorzata Gatzwiller,* København, født i Polen.
+- 966\) *Davut Gelmis,* Randers, født i Tyrkiet.
+- 967\) *Mirena Metodieva Gerginova* , Ålborg, født i Bulgarien.
+- 968\) *Elzbieta Gnap,* Arden, født i Polen.
+- 969\) *Huseyin Gul,* Brøndby, født i Tyrkiet.
+- 970\) *Kenan Guler,* Tårnby, født i Tyrkiet.
+- 971\) *Metin Gulhan,* Helsinge, født i Tyrkiet.
+- 972\) *Emine Gultekin,* Græsted-Gilleleje, født i Tyrkiet.
+- 973\) *Ismail Gultekin,* Esbjerg, født i Tyrkiet.
+- 974\) *Remzi Gultekin,* Græsted-Gilleleje, født i Tyrkiet.
+- 975\) *Sitki Gultekin,* Græsted-Gilleleje, født i Tyrkiet.
+- 976\) *Yucel Gultekin,* Græsted-Gilleleje, født i Tyrkiet.
+- 977\) *Ali Gøkce,* Vejle, født i Tyrkiet.
+- 978\) *Gulay Gøkce,* Vejle, født i Danmark.
+- 979\) *Mehriban Gøksu,* Herning, født i Tyrkiet.
+- 980\) *Erdogan Gønen,* Næstved, født i Tyrkiet.
+- 981\) *Erdal Gøvercile,* Århus, født i Tyrkiet.
+- 982\) *Ayse Habashi Gazvani,* København, født i Tyrkiet.
+- 983\) *Nariman Musbah Chami Haddad,* Høje Tåstrup, født i Libanon.
+- 984\) *Ali Hassan Hajj,* Frederiksværk, født i Libanon.
+- 985\) *Joanna Malgorzata Hald,* København, født i Polen.
+- 986\) *Nabiha Halik,* Århus, født i Libanon.
+- 987\) *Maria Hanke,* Herlev, født i USA.
+- 988\) *Margaret Hansen,* København, født i Gambia.
+- 989\) *Spaceline Isabella Hansen,* Ullerslev, født i Republikken Sydafrika.
+- 990\) *Neuzat Harman,* Helsingør, født i Tyrkiet.
+- 991\) *Mustafa Harmankaya,* Høje Tåstrup, født i Tyrkiet.
+- 992\) *Ahmad Hussein Hasno,* Herlev, født i Libanon.
+- 993\) *Sajada Hassan,* København, født i Pakistan.
+- 994\) *Brian Cæsar Helle,* Hobro, født i Rumænien.
+- 995\) *Gordana Hermansen,* Silkeborg, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 996\) *Zorana Hougaard,* Ølstykke, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 997\) *Sam Huda,* Frederiksberg, født i Jordan.
+- 998\) *Mila Idrizovic,* Skævinge, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 999\) *Svetolik Idrizovic,* Skævinge, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1000\) *Nazmiye Incelik,* Helsingør, født i Tyrkiet.
+- 1001\) *Bibi Sharida Iversen,* Kerteminde, født i Guyna.
+- 1002\) *Fahed Yunis Fahed Abdel Jabbar,* København, født i Jordan.
+- 1003\) *Sanaa Ghassan Jabr,* Ålborg, født i Libanon.
+- 1004\) *Ewa Jachowicz,* Århus, født i Polen.
+- 1005\) *Maria Wieslawa Jachowicz,* Århus, født i Polen.
+- 1006\) *Andreia Delia Jensen,* Gentofte, født i Rumænien.
+- 1007\) *Danuta Jensen,* Høje Tåstrup, født i Polen.
+- 1008\) *Danuta Jensen,* Tølløse, født i Polen.
+- 1009\) *Yin Har Cynthia Johansen,* Allerød, født i Storbritannien.
+- 1010\) *Jolanta Jørgensen,* Gundsø, født i Polen.
+- 1011\) *Ayhan Kacar,* Brøndby, født i Tyrkiet.
+- 1012\) *Sevim Kacar,* Brøndby, født i Tyrkiet.
+- 1013\) *Hamide Kara,* Greve, født i Tyrkiet.
+- 1014\) *Asiye Karaca,* Slagelse, født i Tyrkiet.
+- 1015\) *Cengiz Han Karademir,* København, født i Danmark.
+- 1016\) *Dilek Karasu,* Farum, født i Tyrkiet.
+- 1017\) *Hamdi Karasu,* Farum, født i Tyrkiet.
+- 1018\) *Orhan Karasu,* Odense, født i Tyrkiet, dog uden virkning for ansøgerens børn.
+- 1019\) *Haci Kemal Kaya,* Ishøj, født i Tyrkiet.
+- 1020\) *Mehmet Kaya,* Odder, født i Tyrkiet.
+- 1021\) *Bilgen Kesenel,* Farum, født i Tyrkiet.
+- 1022\) *Figen Kesenel,* Farum, født i Tyrkiet.
+- 1023\) *Azize Kesici,* Farum, født i Tyrkiet.
+- 1024\) *Adnan Keskin,* Farum, født i Tyrkiet.
+- 1025\) *Manal Khalil,* København, født i Danmark.
+- 1026\) *Haissam Abdel Elaziz Khankan,* Køge, født i Libanon.
+- 1027\) *Naser Kiki,* København, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1028\) *Galina Vladimirovna Kikteva,* Århus, født i Sovjetunionen, nu Den Rusiske Føderation.
+- 1029\) *Elena Kolster,* Gentofte, født i Rumænien.
+- 1030\) *Agnieszka Koniezna,* Odense, født i Polen.
+- 1031\) *Gulsen Korkmaz,* Brøndby, født i Tyrkiet.
+- 1032\) *Sami Korkmaz,* Karlebo, født i Tyrkiet.
+- 1033\) *Ibtissam Koubrianos,* København, født i Libanon.
+- 1034\) *Valentina Krajcinovic,* Ballerup, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1035\) *Anna Halina Krzewinska,* Esbjerg, født i Polen.
+- 1036\) *Cvija Kulic,* Silkeborg, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1037\) *Ahlam Kurjieh* , Frederikssund, født i Libanon.
+- 1038\) *Coskun Kurt,* Høje Tåstrup, født i Tyrkiet.
+- 1039\) *Fatma Kurt,* Høje Tåstrup, født i Tyrkiet.
+- 1040\) *Kadir Kurt,* Fredericia, født i Tyrkiet.
+- 1041\) *Dogon Kucuk,* Høje Tåstrup, født i Tyrkiet.
+- 1042\) *Mehmet Kucukakin,* Albertslund, født i Tyrkiet.
+- 1043\) *Ali Kucukavci,* Hvidovre, født i Tyrkiet.
+- 1044\) *Caide Kucukgoncu,* Værløse, født i Tyrkiet.
+- 1045\) *Orhan Kucukyildiz,* København, født i Tyrkiet.
+- 1046\) *Mustafa Kutuk,* Albertslund, født i Tyrkiet.
+- 1047\) *Sengul Kutuk,* Ishøj, født i Tyrkiet.
+- 1048\) *Ayse Køksal,* Helsinge, født i Tyrkiet.
+- 1049\) *Rasit Køksal,* Helsinge, født i Tyrkiet.
+- 1050\) *Feramuz Køse,* Roskilde, født i Tyrkiet.
+- 1051\) *Sevilay Køse,* Roskilde, født i Tyrkiet.
+- 1052\) *Khodor Fawsi Kaawar,* Århus, født i Libanon.
+- 1053\) *Wieslawa Larsen,* Kjellerup, født i Polen.
+- 1054\) *Maria-Marta Laurian,* Ribe, født i Rumænien.
+- 1055\) *Bi-Ju Su Lauridsen,* Hammel, født i Taiwan.
+- 1056\) *Branko Lazarevic,* Frederiksværk, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1057\) *Tomasz Lehnert,* København, født i Polen.
+- 1058\) *Emelie Leiding* , København, født i USA.
+- 1059\) *John Henrik Russel Lemche,* København, født i Danmark.
+- 1060\) *Lan Fun Leung,* Århus, født i Hongkong.
+- 1061\) *Teresa Lichtenbaum,* Helsingør, født i Polen.
+- 1062\) *Andrzej Loedl,* Ålborg, født i Polen.
+- 1063\) *Neema Loretu,* Åbenrå, født i Danmark.
+- 1064\) *Peter Alden Luppescu,* Sorø, født i USA.
+- 1065\) *Maya Madirazza,* Århus, født i USA.
+- 1066\) *Ali Mahmoud Mahmoud,* København, født i Libanon.
+- 1067\) *Aziz Makhoul,* Frederiksberg, født i Israel.
+- 1068\) *Jamal Hassan Mallah,* Ålborg, født i Libanon.
+- 1069\) *Huseyin Mamukoglu,* Randers, født i Tyrkiet.
+- 1070\) *Dana Markovic,* Odense, født i Jugoslavien, nu Den Tidligere Føderale Republik Jugoslavien.
+- 1071\) *Alaadin Mercan,* Albertslund, født i Tyrkiet.
+- 1072\) *Anna Munciuk Meyer,* Sundsøre, født i Polen.
+- 1073\) *Felicja Mikkelsen,* Nørre Alslev, født i Polen.
+- 1074\) *Dejan Miljkov,* København, født i Danmark.
+- 1075\) *Milanka Milosevic,* Hillerød, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1076\) *Zivodarka Misic,* København, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1077\) *Abdul Al Kader Mogharbel,* Vejle, født i Libanon.
+- 1078\) *Anna Morawska,* Herlev, født i Polen.
+- 1079\) *Emilia Honorata Mortensen,* Roskilde, født i Polen.
+- 1080\) *Kim Orfeus Mortensen,* Roskilde, født i Polen.
+- 1081\) *Glenn Paul Murphy,* København, født i New Zealand.
+- 1082\) *Anna Møller,* Svendborg, født i Sovjetunionen, nu Den Rusissiske Føderation.
+- 1083\) *Iles Nadj,* Brønderslev, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1084\) *Khaldoun Hamdi Ishak Nasirddin,* Hvidovre, født i Jordan.
+- 1085\) *Riyad Hamdi Ishaq Yousef Nasser Din,* København, født i Jordan.
+- 1086\) *Nevenka Nedovic,* Ballerup, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1087\) *Silvia Nicolic,* Brøndby, født i Danmark.
+- 1088\) *Catherine Nielsen,* Holbæk, født i USA.
+- 1089\) *Paula Barbara Nielsen,* Kolding, født i Finland.
+- 1090\) *Joska Nika,* København, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1091\) *Olga Nikolic,* Brøndby, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1092\) *Yakup Oguz,* Odense, født i Tyrkiet.
+- 1093\) *Halina Olesen,* Fredericia, født i Polen.
+- 1094\) *Felix Osehikhe Omokhodion,* Randers, født i Nigeria.
+- 1095\) *Sekne Oubani,* Skælskør, født i Libanon.
+- 1096\) *Mecit Ozcan,* København, født i Tyrkiet.
+- 1097\) *Nabi Patat,* Karlebo, født i Tyrkiet.
+- 1098\) *Maia Pedersen,* København, født i Bulgarien.
+- 1099\) *Mehmet Peker,* Høje Tåstrup, født i Tyrkiet.
+- 1100\) *Joseph John Petagno,* København, født i USA.
+- 1101\) *Irmina Zofia Petersen,* Nykøbing-Rørvig, født i Polen.
+- 1102\) *Krystyna Jadwiga Petersen,* Hillerød, født i Polen.
+- 1103\) *Per Novi Rønnov Petersen,* Hinnerup, født i Danmark.
+- 1104\) *Ali Riza Piskin,* Bov, født i Tyrkiet.
+- 1105\) *Mirjana Popovic,* Odense, født i Danmark.
+- 1106\) *Munevver Poscu,* Farum, født i Tyrkiet.
+- 1107\) *Sezer Poscu,* Farum, født i Tyrkiet.
+- 1108\) *Valentin Poulsen,* Bogense, født i Bulgarien.
+- 1109\) *Vladan Radulovic,* København, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1110\) *Milica Rankovic* , Silkeborg, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1111\) *Barbara Staniskawa Rasmussen,* Løgstør, født i Polen.
+- 1112\) *Irena Ravn-Nielsen* , Nykøbing F, født i Polen.
+- 1113\) *Boris Raytchev Raytchev,* Århus, født i Bulgarien.
+- 1114\) *Bosko Ristivojevic,* Odense, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1115\) *Eduu Ahmed Nassor Riyamy,* København, født i Tanzania.
+- 1116\) *Annelise Rohmann,* Nakskov, født i Norge.
+- 1117\) *Elzbieta Rosaik,* Kolding, født i Polen.
+- 1118\) *Cennet Sadol,* Roskilde, født i Tyrkiet.
+- 1119\) *Nuriye Saglanmak,* København, født i Tyrkiet.
+- 1120\) *Samra Sahan,* Karlebo, født i Tyrkiet.
+- 1121\) *Suleyman Sahan,* Karlebo, født i Tyrkiet.
+- 1122\) *Kadir Sahin,* Haderslev, født i Tyrkiet.
+- 1123\) *Mehmet Sahin* , København, født i Tyrkiet.
+- 1124\) *Yusuf Sahin,* København, født i Tyrkiet.
+- 1125\) *Salih Sari,* Vallensbæk, født i Tyrkiet.
+- 1126\) *Mahmut Øzden Sarialtun,* Esbjerg, født i Tyrkiet.
+- 1127\) *Elfettin Sariyar,* Århus, født i Tyrkiet.
+- 1128\) *Gullu Savas,* København, født i Tyrkiet.
+- 1129\) *Ayse Secilmis,* Farum, født i Tyrkiet.
+- 1130\) *Bayram Secilmis,* København, født i Tyrkiet.
+- 1131\) *Hasan Fehmi Secilmis,* København, født i Tyrkiet.
+- 1132\) *Hatice Secilmis,* Farum, født i Tyrkiet.
+- 1133\) *Yasin Secilmis,* København, født i Tyrkiet, dog uden virkning for ansøgerens barn født 1981.
+- 1134\) *Mediha Seker,* Esbjerg, født i Tyrkiet.
+- 1135\) *Fevzi Serdemir,* Farum, født i Tyrkiet.
+- 1136\) *Hakan Serefoglu,* Ballerup, født i Tyrkiet.
+- 1137\) *Eyup Sever,* Horsens, født i Tyrkiet.
+- 1138\) *Hulya Sevim,* København, født i Tyrkiet.
+- 1139\) *Sami Sevim,* København, født i Tyrkiet.
+- 1140\) *Helen Marie Silkjær,* Bramming, født i Irland.
+- 1141\) *Mihail Similie,* Søllerød, født i Rumænien.
+- 1142\) *Beyhan Simsek,* København, født i Tyrkiet.
+- 1143\) *Dorota Malgorzata Skaarup,* Gentofte, født i Polen.
+- 1144\) *Milan Slovic,* København, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1145\) *Teresa Sohnesen,* Ålborg, født i Polen.
+- 1146\) *Elzbieta Steiness,* Tølløse, født i Polen.
+- 1147\) *Dusan Stoilkovic,* Herlev, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1148\) *Vlora Sulejmani,* Silkeborg, født i Danmark.
+- 1149\) *Maria Swiatecka,* Midtdjurs, født i Polen.
+- 1150\) *Jeremi Jakub Szkopowicz,* Århus, født i Polen.
+- 1151\) *Gatia Szongot,* Viborg, født i Rumænien.
+- 1152\) *Dorota Søgaard,* Herning, født i Polen.
+- 1153\) *Bozena Sørensen,* Vejle, født i Polen.
+- 1154\) *Vera Sørensen,* Ishøj, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1155\) *Emilia Tacheva,* København, født i Bulgarien.
+- 1156\) *Cafer Tamer,* Holbæk, født i Tyrkiet.
+- 1157\) *Elife Tamer,* Holbæk, født i Tyrkiet.
+- 1158\) *Yu-Lan Tao,* Hørsholm, født i Taiwan.
+- 1159\) *Mustafa Taskiran,* Ishøj, født i Tyrkiet.
+- 1160\) *Nihal Taskiran,* Greve, født i Tyrkiet.
+- 1161\) *Øzcan Taspinar,* Farum, født i Tyrkiet.
+- 1162\) *Duriye Temel,* Høje Tåstrup, født i Tyrkiet.
+- 1163\) *Ayse Tireli,* København, født i Tyrkiet.
+- 1164\) *Sebiha Tirpan,* Albertslund, født i Tyrkiet.
+- 1165\) *Lanuta-Florica Tomoiaga,* Esbjerg, født i Rumænien.
+- 1166\) *Georgeta Camelia Tudan-Jensen,* Køge, født i Rumænien.
+- 1167\) *Ahmet Turan,* København, født i Tyrkiet.
+- 1168\) *Bilal Turan,* København, født i Tyrkiet.
+- 1169\) *Osman Turan,* København, født i Tyrkiet.
+- 1170\) *Pembe Turan,* København, født i Tyrkiet.
+- 1171\) *Rukiye Turan,* København, født i Tyrkiet.
+- 1172\) *Fatma Tukenmez,* Birkerød, født i Tyrkiet.
+- 1173\) *Rifat Turkcan,* Helsinge, født i Tyrkiet.
+- 1174\) *Husne Turkyilmaz,* Frederiksberg, født i Tyrkiet.
+- 1175\) *Leyla Turkyilmaz,* Vejle, født i Tyrkiet.
+- 1176\) *Selahattin Turkyilmaz,* Frederiksberg, født i Tyrkiet.
+- 1177\) *Aysel Ucar,* Greve, født i Tyrkiet.
+- 1178\) *Halil Ibrahim Ucar,* Greve, født i Tyrkiet.
+- 1179\) *Ismail Zeki Uygun,* København, født i Tyrkiet.
+- 1180\) *Erdovan Uzun,* Kalundborg, født i Tyrkiet.
+- 1181\) *Hilal Uzun,* Kalundborg, født i Tyrkiet.
+- 1182\) *Jovan Vacic,* Frederiksværk, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1183\) *Moshe Vahaba,* København, født i Israel.
+- 1184\) *Siu Hung Philip Wan,* Rødovre, født i Hongkong.
+- 1185\) *Nitsan Vardi,* Hillerød, født i Israel.
+- 1186\) *Stevka Vasileva,* Silkeborg, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1187\) *Laza Veljin* , København, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1188\) *Tymoteusz Wojciuk,* Århus, født i Polen.
+- 1189\) *Michael Mark Christian Worsfold,* Lyngby-Tårbæk, født i Danmark.
+- 1190\) *Anne Liveston Voulund,* København, født i Storbritannien.
+- 1191\) *Djordje Vrzogic,* Frederiksværk, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1192\) *Ljilja Vrzogic,* Frederiksværk, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1193\) *Ruzica Vrzogic,* Frederiksværk, født i Jugoslavien, nu Den Føderale Republik Jugoslavien.
+- 1194\) *Hasan Vurucu,* Farum, født i Tyrkiet.
+- 1195\) *Patrycja Wyszomirska,* Århus, født i Polen.
+- 1196\) *Ecevit Yagci,* Albertslund, født i Tyrkiet.
+- 1197\) *Sule Yalcinkaya,* Næstved, født i Tyrkiet.
+- 1198\) *Nural Yaman,* Ballerup, født i Tyrkiet.
+- 1199\) *Mariana Yaseen,* København, født i Rumænien.
+- 1200\) *Nebi Yasin,* Allerød, født i Tyrkiet.
+- 1201\) *Ømer Ucler,* København, født i Tyrkiet.
+- 1202\) *Gulnane Yerlikaya,* Høje Tåstrup, født i Tyrkiet.
+- 1203\) *Mustafa Yigen,* Brovst, født i Tyrkiet.
+- 1204\) *Ibrahim Yildirim,* Hvidovre, født i Tyrkiet.
+- 1205\) *Osman Yildirim,* København, født i Tyrkiet.
+- 1206\) *Menderes Yildiz,* Hvidovre, født i Tyrkiet.
+- 1207\) *Ayse Yilmaz,* Helsingør, født i Tyrkiet.
+- 1208\) *Imdat Yilmaz,* Lyngby-Tårbæk, født i Tyrkiet.
+- 1209\) *Ømer Faruk Yilmaz,* Brøndby, født i Tyrkiet.
+- 1210\) *Ibrahim Unal,* Herning, født i Tyrkiet.
+- 1211\) *Metin Unal,* Rødovre, født i Tyrkiet.
+- 1212\) *Yuksel Unal,* Fredericia, født i Tyrkiet.
+- 1213\) *Adem Yurdaer,* Åbenrå, født i Tyrkiet.
+- 1214\) *Kerep Yucel,* Hedensted, født i Tyrkiet.
+- 1215\) *Maria Magdalena Zakarias,* Randers, født i Rumænien.
+- 1216\) *Izabela Anna Zalewska,* Hvidovre, født i Polen.
+- 1217\) *Mona Khaled Zayat,* Århus, født i Libanon.
+- 1218\) *Petru Dorin Zogorean,* Greve, født i Rumænien.
+- 1219\) *Sukru Zorsøker,* Herlev, født i Tyrkiet.
+- 1220\) *Mehri Øcalan,* Herning, født i Tyrkiet.
+- 1221\) *Anastassia Øie,* Lyngby-Tårbæk, født i Bulgarien.
+- 1222\) *Hasan Øklu,* Odder, født i Tyrkiet.
+- 1223\) *Sevda Øksum* , Køge, født i Danmark.
+- 1224\) *Mustafa Ølcer,* Frederiksberg, født i Tyrkiet.
+- 1225\) *Meryem Øz,* Ringsted, født i Tyrkiet.
+- 1226\) *Hasan Øzcan,* København, født i Tyrkiet.
+- 1227\) *Salih Øzcan,* København, født i Tyrkiet.
+- 1228\) *Tahir Øzcan,* København, født i Tyrkiet.
+- 1229\) *Adnan Øzdemir,* Åbenrå, født i Tyrkiet.
+- 1230\) *Aynur Øzdemir,* Åbenrå, født i Tyrkiet.
+- 1231\) *Emine Øzden,* København, født i Tyrkiet.
+- 1232\) *Kamil Øzden,* Odense, født i Tyrkiet.
+- 1233\) *Nimet Øzden,* København, født i Tyrkiet.
+- 1234\) *Ahmet Øzer,* Karlebo, født i Tyrkiet.
+- 1235\) *Yasar Øzge,* Frederiksberg, født i Tyrkiet.
+- 1236\) *Abdulmecit Øzil,* Holbæk, født i Tyrkiet.
+- 1237\) *Hakan Øzkaya,* Køge, født i Tyrkiet.
+- 1238\) *Necla Øzturk,* Ishøj, født i Tyrkiet.
+
+## § 3.
+
+Loven har virkning fra ugedagen efter dens stadfæstelse.
+
+*Givet på Amalienborg, den 26. juni 1998*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Frank Jensen
+
+## Officielle noter
+
+Ingen

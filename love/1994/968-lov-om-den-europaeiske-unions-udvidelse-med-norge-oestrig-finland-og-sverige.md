@@ -1,0 +1,50 @@
+---
+title: "Lov om Den Europæiske Unions udvidelse med Norge, Østrig, Finland og Sverige"
+identifier: "LOV nr 968 af 02/12/1994"
+eli: "https://www.retsinformation.dk/eli/lta/1994/968"
+accession_number: "A19940096830"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1994-12-02
+status: "in_force"
+ministry: "Udenrigsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1994/968"
+retrieved: 2026-10-11
+---
+
+# Lov om Den Europæiske Unions udvidelse med Norge, Østrig, Finland og Sverige
+
+*LOV nr 968 af 02/12/1994*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Traktat af 24. juni 1994 mellem Kongeriget Belgien, Kongeriget Danmark, Forbundsrepublikken Tyskland, Den Hellenske Republik, Kongeriget Spanien, Den Franske Republik, Irland, Den Italienske Republik, Storhertugdømmet Luxembourg, Kongeriget Nederlandene, Den Portugisiske Republik, Det Forenede Kongerige Storbritannien og Nordirland (medlemmer af Den Europæiske Union) og Kongeriget Norge, Republikken Østrig, Republikken Finland, Kongeriget Sverige om Kongeriget Norges, Republikken Østrigs, Republikken Finlands og Kongeriget Sveriges tiltrædelse af Den Europæiske Union kan ratificeres på Danmarks vegne.
+
+## § 2.
+
+Bestemmelserne i den i § 1 nævnte traktat med tilhørende akt, bilag og protokoller sættes i kraft i Danmark, i det omfang de efter fællesskabsretten er umiddelbart anvendelige i Danmark.
+
+## § 3.
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+## § 4.
+
+Loven gælder ikke for Færøerne.
+
+*Stk. 2.* Loven finder anvendelse for Grønland i samme omfang som lov nr. 447 af 11. oktober 1972 om Danmarks tiltrædelse af De Europæiske Fællesskaber.
+
+*Givet på Amalienborg, den 2. december 1994*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Niels Helveg Petersen
+
+## Officielle noter
+
+Ingen

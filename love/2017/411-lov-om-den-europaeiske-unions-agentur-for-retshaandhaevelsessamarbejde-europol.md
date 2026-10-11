@@ -1,0 +1,58 @@
+---
+title: "Lov om Den Europæiske Unions Agentur for Retshåndhævelsessamarbejde (Europol)"
+identifier: "LOV nr 411 af 27/04/2017"
+eli: "https://www.retsinformation.dk/eli/lta/2017/411"
+accession_number: "A20170041130"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 2017-04-27
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2017/411"
+retrieved: 2026-10-11
+---
+
+# Lov om Den Europæiske Unions Agentur for Retshåndhævelsessamarbejde (Europol)
+
+*LOV nr 411 af 27/04/2017*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Regeringen kan indgå en aftale med Europol om operationelt og strategisk samarbejde. Aftalen finder anvendelse her i landet efter bekendtgørelse i Lovtidende.
+
+## § 2.
+
+Bestemmelserne i straffelovens 14. og 16. kapitel finder anvendelse, når forholdet er begået mod eller af Europol-ansatte under udførelse af opgaver i forbindelse med deltagelse i fælles efterforskningshold i Danmark eller i anledning af samme.
+
+*Stk. 2.* Klager over Europol-ansattes adfærd under udførelse af opgaver i forbindelse med deltagelse i fælles efterforskningshold i Danmark behandles efter reglerne i retsplejelovens kapitel 11 a og 93 b.
+
+## § 3.
+
+Justitsministeren kan fastsætte regler om tavshedspligt og beskyttelse af informationer.
+
+*Stk. 2.* Justitsministeren kan fastsætte regler om straf af bøde eller fængsel indtil 2 år for overtrædelse af regler fastsat i medfør af stk. 1.
+
+## § 4.
+
+Loven træder i kraft dagen efter bekendtgørelsen i Lovtidende.
+
+*Stk. 2.* Lovforslaget kan stadfæstes straks efter dets vedtagelse.
+
+*Stk. 3.* Lov nr. 1261 af 16. december 2009 om Den Europæiske Politienhed (Europol) ophæves den 1. maj 2017.
+
+## § 5.
+
+Loven gælder ikke for Færøerne og Grønland.
+
+Givet på Marselisborg Slot, den 27. april 2017
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Søren Pape Poulsen

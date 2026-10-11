@@ -1,0 +1,48 @@
+---
+title: "Lov om anvendelsen af Det Europæiske Fællesskabs forordninger om EF-sortsbeskyttelse"
+identifier: "LOV nr 301 af 10/05/1995"
+eli: "https://www.retsinformation.dk/eli/lta/1995/301"
+accession_number: "A19950030130"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1995-05-10
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/1995/301"
+retrieved: 2026-10-11
+---
+
+# Lov om anvendelsen af Det Europæiske Fællesskabs forordninger om EF-sortsbeskyttelse
+
+*LOV nr 301 af 10/05/1995*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Landbrugs- og fiskeriministeren kan fastsætte bestemmelser, der er nødvendige for anvendelsen her i landet af Det Europæiske Fællesskabs forordninger om EF-sortsbeskyttelse.
+
+*Stk. 2.* I forskrifter, der udstedes efter loven, kan der fastsættes straf af bøde for overtrædelse af bestemmelser i forskrifterne samt fastsættes bestemmelser om, at overtrædelse af de i stk. 1 nævnte forordningers bestemmelser om sortsejerens rettigheder over en beskyttet sort er undergivet privat påtale.
+
+*Stk. 3.* For overtrædelser, der begås af et selskab, en forening, en selvejende institution, en fond eller lignende, kan der pålægges den juridiske person som sådan bødeansvar. Er overtrædelsen begået af en kommune eller af et kommunalt fællesskab, jf. § 60 i lov om kommunernes styrelse, kan der pålægges kommunen eller det kommunale fællesskab bødeansvar.
+
+## § 2.
+
+Loven gælder ikke for Færøerne og Grønland.
+
+## § 3.
+
+Loven træder i kraft ved bekendtgørelsen i Lovtidende.
+
+*Givet på Fredensborg Slot, den 10. maj 1995*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/Henrik Dam Kristensen
+
+## Officielle noter
+
+Straffebestemmelser

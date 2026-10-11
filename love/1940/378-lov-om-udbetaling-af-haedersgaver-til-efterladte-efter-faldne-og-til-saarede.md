@@ -1,0 +1,65 @@
+---
+title: "Lov om Udbetaling af Hædersgaver til efterladte efter faldne og til saarede den 9. April 1940."
+identifier: "LOV nr 378 af 10/07/1940"
+eli: "https://www.retsinformation.dk/eli/lta/1940/378"
+accession_number: "A19400037830"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1940-07-10
+status: "in_force"
+ministry: "Beskæftigelses- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1940/378"
+retrieved: 2026-10-11
+---
+
+# Lov om Udbetaling af Hædersgaver til efterladte efter faldne og til saarede den 9. April 1940.
+
+*LOV nr 378 af 10/07/1940*
+
+Lov om Udbetaling af Hædersgaver til efterladte efter faldne og til saarede den 9. April 1940.<sup>1)</sup>
+
+Vi Christian den Tiende, af Guds Naade Konge til Danmark og Island, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gøre vitterligt: Rigsdagen har vedtaget og Vi ved Vort Samtykke stadfæstet følgende Lov:
+
+## § 1.
+
+Som et Udtryk for Danmarks Anerkendelse overfor de Personer af den danske Hær og det danske Grænsegendarmeri, der ved Begivenhederne den 9. April gav deres Liv eller blev saaret under Udøvelsen af deres Tjeneste som Værn for deres Fædreland, kan der af Statsministeren tillægges efterladte efter de faldne saavel som de saarede en Hædersgave af Statskassen.
+
+## § 2.
+
+Statsministeren fastsætter efter Forhandling med Forsvarsministeren og Finansministeren og med Tilslutning fra Rigsdagens Finansudvalg Størrelsen af Hædersgaven i de enkelte Tilfælde, ligesom der på samme Maade af Statsministeren gives nærmere Bestemmelser om Reglerne om Oppebæring, Udbetaling og eventuelt Bortfald af Hædersgaverne. Herved skal dog iagttages følgende:
+
+a. For Enken efter en falden skal Hædersgaven udgøre mindst 800 Kr. aarlig.
+
+b. Til hvert Barn, over for hvilket den faldne havde Forsørgerpligt, ydes der 200 Kr. aarlig indtil Barnets fyldte 18de Aar.
+
+c. Hædersgaven til en saaret skal være mindste 800 Kr. een gang for alle.
+
+d. For den, hvem Saaret har paaført en Invaliditet, der vedvarende forringer hans Erhvervsevne med Halvdelen eller derover, skal Hædersgaven udgøre 800 Kr. aarlig + Børnetillæg, jfr. Punkt b.
+
+## § 3.
+
+Dersom nogen, der oppebærer en Hædersgave efter denne Lov, foretager handlinger, som efter Folkeforsikringslovens § 38, 2det Stk., Nr. 2 og 3, jfr. samme Lovs § 55, vilde udelukke den paagældende fra at oppebære Invalide- eller Aldersrente, bortfalder Hædersgaven for stedse.
+
+## § 4.
+
+Hædersgaven medregnes ikke ved Fastsættelse af Renter i Forhold til Folkeforsikringsloven eller ved Fastsættelse af Bidrag i Henhold til Forsorgslovens Kap. XV og XVI.
+
+## § 5.
+
+Hædersgaven kan ikke overdrages, pantsættes eller gøres til Genstand for Retsforfølgning.
+
+Hvorefter alle vedkommende sig have at rette.
+
+*Givet paa Amalienborg, den 10. juli 1940*
+
+Under Vor Kongelige Hånd og Segl
+
+Christian R.\
+(L. S.)
+
+/Th. Stauning.
+
+## Officielle noter
+
+<sup>1)</sup> Udfærdiget gennem Statsministeriet. Se Rigsdagstidenden for 1939-40: Folket. Tid. Sp. 4811, 4852, 4863, 4865; Landst. Tid. Sp. 1989, 2000, 2001: Till. A. Sp. 4971; Till. B. Sp. 2209; Till. C. Sp. 1325, 1961.

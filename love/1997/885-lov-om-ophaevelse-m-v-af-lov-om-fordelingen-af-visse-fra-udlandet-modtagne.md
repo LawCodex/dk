@@ -1,0 +1,40 @@
+---
+title: "Lov om ophævelse m.v. af lov om fordelingen af visse fra udlandet modtagne erstatninger"
+identifier: "LOV nr 885 af 03/12/1997"
+eli: "https://www.retsinformation.dk/eli/lta/1997/885"
+accession_number: "A19970088530"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1997-12-03
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1997/885"
+retrieved: 2026-10-11
+---
+
+# Lov om ophævelse m.v. af lov om fordelingen af visse fra udlandet modtagne erstatninger
+
+*LOV nr 885 af 03/12/1997*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1
+
+Lov om fordelingen af visse fra udlandet modtagne erstatninger, jf. lovbekendtgørelse nr. 135 af 14. marts 1988, ophæves med virkning fra dagen efter bekendtgørelsen i Lovtidende.
+
+## § 2
+
+Udenrigsministeren bemyndiges til at fastsætte nærmere regler om fordeling og udbetaling af modtagne erstatninger, som måtte blive udbetalt til den danske regering som en samlet godtgørelse (globalerstatning) for tab, der er opstået som følge af foranstaltninger fra en anden stats side, bl.a. ved at ejendom er nationaliseret eller på lignende måde unddraget ejerne. Det samme gælder globalerstatning udbetalt for skader opstået som følge af eller i forbindelse med krig, krigslignende operationer, neutralitetskrænkelser, foranstaltninger til værn mod sådanne, borgerkrig, oprør eller borgerlige uroligheder under krig.
+
+*Givet på Amalienborg, den 3. december 1997*
+
+Under Vor Kongelige Hånd og Segl
+
+Margrethe R.
+
+/ Jan Trøjborg
+
+## Officielle noter
+
+Ingen

@@ -1,0 +1,40 @@
+---
+title: "Lov om anvendelse af sommertid"
+identifier: "LOV nr 223 af 24/04/1974"
+eli: "https://www.retsinformation.dk/eli/lta/1974/223"
+accession_number: "A19740022330"
+type: "act"
+jurisdiction: "dk"
+language: "da"
+date: 1974-04-24
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1974/223"
+retrieved: 2026-10-11
+---
+
+# Lov om anvendelse af sommertid
+
+*LOV nr 223 af 24/04/1974*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § 1.
+
+Ved kongelig anordning kan der efter forhandling med folketingets erhvervsudvalg for en periode af året træffes bestemmelse om, at tidspunktet for døgnets begyndelse forskydes 1 time i forhold til normal tidsregning (sommertid). Der kan samtidig fastsættes de nødvendige overgangsbestemmelser.
+
+## § 2.
+
+Loven gælder ikke for Færøerne og Grønland.
+
+*Givet på Christiansborg slot, den 24. april 1974.*
+
+Under Vor Kongelige Hånd og Segl.
+
+MARGRETHE R.
+
+/Poul Hartling.
+
+## Officielle noter
+
+Ingen

@@ -1,0 +1,69 @@
+---
+title: "Lov om ændring af lov om taxikørsel m.v. (Etablering af kommunale fællesskaber)"
+identifier: "LOV nr 1591 af 20/12/2006"
+eli: "https://www.retsinformation.dk/eli/lta/2006/1591"
+accession_number: "A20060159130"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2006-12-20
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2006/1591"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af lov om taxikørsel m.v. (Etablering af kommunale fællesskaber)
+
+*LOV nr 1591 af 20/12/2006*
+
+(Etablering af kommunale fællesskaber)
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:\
+Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov:
+
+## § l
+
+I lov om taxikørsel m.v., jf. lovbekendtgørelse nr. 517 af 24. juni 1999, som ændret ved § 17 i lov nr. 473 af 9. juni 2004, foretages følgende ændringer:
+
+**1.** I § 2, stk. 1, udgår », jf. dog § 15«.
+
+**2.** I § 2, stk. 2, § 3, stk. 3, § 4 a, stk. 3, § 5, stk. 4, § 13, stk. 1 og 2, og § 14 udgår », jf. dog § 15,«.
+
+**3.** Efter § 2 indsættes:
+
+**»§ 2 a.** Kommunalbestyrelsen kan overføre den kompetence, der er tillagt kommunalbestyrelsen efter loven eller efter regler udstedt i medfør af loven, til et kommunalt fællesskab, jf. § 60 i lov om kommunernes styrelse.«
+
+**4.** § 10, stk. 2, 2. pkt., ophæves.
+
+**5.** I § 12 indsættes efter stk. 1 som nyt stykke:
+
+*»Stk. 2.* Transport- og energiministeren kan af hensyn til kundebetjeningen og på nærmere fastsatte vilkår efter ansøgning og høring af de berørte kommuner godkende, at en kommunalbestyrelse eller et kommunalt fællesskab udsteder taxitilladelser, der omfatter betjening af trafikale knudepunkter uden for kommunens eller det kommunale fællesskabs område.«
+
+Stk. 2 og 3 bliver herefter stk. 3 og 4.
+
+**6.** Efter § 14 indsættes:
+
+**»Transport- og energiministerens bestemmelse om etablering af eller indtræden i et kommunalt fællesskab**
+
+**§ 14 a.** Transport- og energiministeren kan af hensyn til kundebetjeningen på taxiområdet træffe bestemmelse om kommunernes pligt til at oprette, udvide deltagerkredsen af eller tilslutte sig kommunale fællesskaber efter lovens § 2 a.«
+
+**7.** § 15 med tilhørende overskrift ophæves.
+
+### § 2
+
+*Stk. 1.* Loven træder i kraft den 1. januar 2007.
+
+*Stk. 2.* Transport- og energiministeren fastsætter tidspunktet for ikrafttræden af § 1, nr. 1, 2 og 7.
+
+*Givet på Christiansborg Slot, den 10. december 2006*
+
+Under Vor Kongelige Hånd og Segl
+
+Margrethe R.
+
+/Flemming Hansen
+
+## Redaktionelle noter
+
+Denne lov er retteligt underskrevet af Margethe R. på statsråd den 20. december 2006.
