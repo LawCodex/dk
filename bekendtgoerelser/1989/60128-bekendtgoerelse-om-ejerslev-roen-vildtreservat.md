@@ -1,0 +1,52 @@
+---
+title: "Bekendtgørelse om Ejerslev Røn Vildtreservat"
+identifier: "BEK nr 60128 af 21/03/1989"
+eli: "https://www.retsinformation.dk/eli/retsinfo/1989/60128"
+accession_number: "B19896012805"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1989-03-21
+status: "in_force"
+ministry: "Ministeriet for Natur og Dyrevelfærd"
+source: "https://www.retsinformation.dk/eli/retsinfo/1989/60128"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om Ejerslev Røn Vildtreservat
+
+*BEK nr 60128 af 21/03/1989*
+
+Bekendtgørelse om Ejerslev Røn Vildtreservat
+
+I medfør af § 35 og § 51, sk. 4, i lov om jagt og vildtforvaltning, jfr. lovbekendtgørelse nr. 801 af 11. december 1987, fastsættes:
+
+## § 1.
+
+Ejerslev Røn Vildtreservat i Viborg Amt omfatter:
+
+a) Ejerslev Røn (56° 56´N, 0,8° 57´Ø), umatrikuleret og beliggende ca. 2 km øst for Mors ved Ejerslev.
+
+b) Søterritoriet ud for det under a nævnte område i en afstand af 50 meter fra højeste, daglige vandstandslinie.
+
+## § 2.
+
+På områder nævnt i § 1 er landgang og sejlads forbudt i perioden 1. april til 31. august.
+
+*Stk. 2.* Bestemmelsen i stk. 1 gælder ikke for sejlads i forbindelse med erhvervs- og bierhvervsfiskeri, hvorunder der dog højst må medtages det antal personer, der er nødvendige for fiskeriets gennemførelse.
+
+## § 3.
+
+Landbrugsministeriets Vildtforvaltning kan, når særlige forhold taler derfor, dispensere fra bestemmelserne i § 2.
+
+## § 4.
+
+Overtrædelse af bestemelserne i §2 straffes med bøde.
+
+§ 5. Bekendtgørelsen træder i kraft den 1. april 1989.
+
+*Miljø- og Energiministeriet, den*
+
+Laurits Tørnæs
+
+/Majken Schmidt

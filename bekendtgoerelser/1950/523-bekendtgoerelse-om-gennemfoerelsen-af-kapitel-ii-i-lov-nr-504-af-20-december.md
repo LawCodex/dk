@@ -1,0 +1,42 @@
+---
+title: "Bekendtgørelse om gennemførelsen af kapitel II i lov nr. 504 af 20. december 1950 om ordning af visse indfødsretlige forhold."
+identifier: "BEK nr 523 af 23/12/1950"
+eli: "https://www.retsinformation.dk/eli/lta/1950/523"
+accession_number: "B19500052305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1950-12-23
+status: "in_force"
+ministry: "Udlændinge- og Integrationsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1950/523"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om gennemførelsen af kapitel II i lov nr. 504 af 20. december 1950 om ordning af visse indfødsretlige forhold.
+
+*BEK nr 523 af 23/12/1950*
+
+I medfør af den indenrigsministeren ved § 6 i lov nr. 504 af 20. december 1950 om ordning af visse indfødsretlige forhold meddelte beføjelse fastsættes herved følgende:
+
+## § 1
+
+Erklæring om bevarelse af dansk indfødsret i henhold til kapitel II i lov nr. 504 af 20. december 1950 om ordning af visse indfødsretlige forhold indgives af den, der er bosat her i riget, til overøvrigheden for det sted, hvor han er bosat (amtmanden, rigsombudsmanden på Færøerne, landshøvdingen over Grønland), i København til magistraten.
+
+Den, der er bosat i udlandet, indgiver erklæringen til den danske repræsentation, inden for hvis embedsområde han er bosat. Under ophold her i riget kan han dog også indgive erklæringen til overøvrigheden for det sted, hvor han opholder sig (i København til magistraten).
+
+## § 2
+
+Til brug ved erklæringens afgivelse er der udarbejdet en særlig blanket, der så vidt muligt bør benyttes.
+
+*INDENRIGSMINISTERIET, DEN 23. DECEMBER 1950.*
+
+P.M.V.
+
+E.B.
+
+Knud Larsen.
+
+## Officielle noter
+
+Ingen

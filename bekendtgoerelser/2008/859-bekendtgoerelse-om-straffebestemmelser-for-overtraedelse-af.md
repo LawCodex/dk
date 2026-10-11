@@ -1,0 +1,47 @@
+---
+title: "Bekendtgørelse om straffebestemmelser for overtrædelse af pesticidgrænseværdiforordningen"
+identifier: "BEK nr 859 af 26/08/2008"
+eli: "https://www.retsinformation.dk/eli/lta/2008/859"
+accession_number: "B20080085905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2008-08-26
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2008/859"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om straffebestemmelser for overtrædelse af pesticidgrænseværdiforordningen
+
+*BEK nr 859 af 26/08/2008*
+
+I medfør af § 60, stk. 3, i lov nr. 526 af 24. juni 2005 om fødevarer fastsættes:
+
+## § 1.
+
+Denne bekendtgørelse vedrører Europaparlamentets og Rådets forordning (EF) nr. 396/2005 af 23. februar 2005 om maksimalgrænseværdier for pesticidrester i eller på vegetabilske og animalske fødevarer og foderstoffer og om ændring af Rådets direktiv 91/414/EØF, senest ændret ved Europaparlamentets og Rådets forordning (EF) nr. 299/2008 af 11. marts 2008 (EU-Tidende L 97, s. 67).
+
+*Stk. 2.* Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der overtræder artikel 18, 1. eller artikel 19 i forordningen.
+
+## § 2.
+
+Straffen kan stige til fængsel i indtil 2 år, hvis den ved handlingen eller undladelsen skete overtrædelse er begået med forsæt eller grov uagtsomhed, og der ved overtrædelsen er
+
+- 1\) forvoldt skade på sundheden eller fremkaldt fare herfor, eller
+- 2\) opnået eller tilsigtet opnået en økonomisk fordel for den pågældende selv eller andre.
+
+## § 3.
+
+Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. september 2008.
+
+*Fødevarestyrelsen, den 26. august 2008*
+
+Anders Munk Jensen
+
+/ Jan Thiele

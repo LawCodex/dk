@@ -1,0 +1,48 @@
+---
+title: "Bekendtgørelse om overførsel af kapital til forsyningspligtige virksomheder"
+identifier: "BEK nr 291 af 01/05/2000"
+eli: "https://www.retsinformation.dk/eli/lta/2000/291"
+accession_number: "B20000029105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2000-05-01
+status: "in_force"
+ministry: "Klima-, Energi- og Forsyningsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2000/291"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om overførsel af kapital til forsyningspligtige virksomheder
+
+*BEK nr 291 af 01/05/2000*
+
+Bekendtgørelse om overførsel af kapital til forsyningspligtige virksomheder
+
+I medfør af § 102, stk. 2 og 3, i lov nr. 375 af 2. juni 1999 om elforsyning, som ændret ved lov nr. 1110 af 29. december 1999, fastsættes:
+
+## § 1.
+
+Netvirksomheder kan inden udarbejdelsen af en åbningsbalance efter elforsyningslovens § 100 overføre aktiver til forsyningspligtige virksomheder såfremt det overfor Energitilsynet dokumenteres, at overførslen sker med henblik på at sikre den modtagende virksomhed et tilstrækkeligt kapitalgrundlag, og at overførslen er i overensstemmelse med markedsøkonomiske principper.
+
+*Stk. 2.* Der kan maksimalt overføres et grundbeløb på 500.000 kr. samt et beløb svarende til 2 øre pr. kWh el, som blev omsat i forsyningsområdet i 1999.
+
+*Stk. 3.* Uanset bestemmelsen i stk. 2, kan der dog overføres det beløb, som er nødvendigt for at sikre, at eksisterende praksis i forsyningsområdet vedrørende kundekreditter kan fortsættes.
+
+## § 2.
+
+Med henblik på at tilvejebringe den i § 1, stk. 1, nævnte dokumentation, skal der til Energitilsynet fremsendes en redegørelse, som belyser de økonomiske konsekvenser af den ønskede kapital-overførsel for den overførende virksomhed. Redegørelsen skal indeholde en påtegning fra en statsautoriseret revisor, som skal erklære, at overførslen efter dennes vurdering er velbegrundet ud fra et markedsøkonomisk synspunkt, således at det ud fra en økonomisk betragtning ville være hensigtsmæssigt for en privat virksomhedsejer i en lignende situation at foretage en tilsvarende kapitaloverførsel.
+
+## § 3.
+
+Hvis Energitilsynet finder, at den af en virksomhed fremsendte dokumentation efter § 1, stk. 1, ikke er tilstrækkelig, kan tilsynet udpege en statsautoriseret revisor til at udarbejde en sagkyndig rapport til brug for tilsynets vurdering.
+
+*Stk. 2.* Energitilsynet tager stilling til, om det er dokumenteret, at en overførsel af aktiver opfylder de i § 1, stk. 1, opstillede krav inden tilsynets godkendelse af åbningsbalancen for den pågældende netvirksomhed efter bestemmelsen i elforsyningslovens § 100, stk. 3.
+
+§ 4. Bekendtgørelsen træder i kraft den 10. maj 2000.
+
+*Miljø- og Energiministeriet, den 1. maj 2000*
+
+Svend Auken
+
+/Knud Pedersen

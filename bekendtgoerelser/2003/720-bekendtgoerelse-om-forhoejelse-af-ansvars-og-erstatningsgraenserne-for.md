@@ -1,0 +1,40 @@
+---
+title: "Bekendtgørelse om forhøjelse af ansvars- og erstatningsgrænserne for olieforurening fra skibe"
+identifier: "BEK nr 720 af 13/08/2003"
+eli: "https://www.retsinformation.dk/eli/lta/2003/720"
+accession_number: "B20030072005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2003-08-13
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2003/720"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om forhøjelse af ansvars- og erstatningsgrænserne for olieforurening fra skibe
+
+*BEK nr 720 af 13/08/2003*
+
+I medfør af §§ 194, stk. 5, og 201, stk. 3, i søloven, jf. lovbekendtgørelse nr. 39 af 20. januar 1998, som ændret ved lov nr. 228 af 21. april 1999 og § 1 i lov nr. 106 af 13. februar 2001, fastsættes:
+
+## § 1.
+
+Det beløb, som ejeren kan begrænse sit ansvar til efter sølovens § 194, stk. 1, 1. pkt., for et skib, hvis drægtighed ikke overstiger 5.000 tonnageenheder, forhøjes fra 3 mio. SDR til 4,51 mio. SDR. For et skib med større tonnage forhøjes beløbet i § 194, stk. 1, 2. pkt., fra 240 SDR til 631 SDR. Det samlede erstatningsbeløb i § 194, stk. 1, 3. pkt., forhøjes fra 59,7 mio. SDR til 89,77 mio. SDR.
+
+## § 2.
+
+Det i 1992-fondskonventionens artikel 4, stk. 4, litra a, anførte samlede erstatningsbeløb forhøjes fra 135 mio. regningsenheder til 203 mio. regningsenheder. Beløbet i artikel 4, stk. 4, litra b, forhøjes fra 135 mio. regningsenheder til 203 mio. regningsenheder. Beløbet i artikel 4, stk. 4, litra c, forhøjes fra 200 mio. regningsenheder til 300,74 mio. regningsenheder.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. november 2003.
+
+*Stk. 2.* Bekendtgørelsen gælder ikke for Færøerne og Grønland.
+
+*Økonomi- og Erhvervsministeriet, den 13. august 2003*
+
+Bendt Bendtsen
+
+/Jørgen Hammer Hansen

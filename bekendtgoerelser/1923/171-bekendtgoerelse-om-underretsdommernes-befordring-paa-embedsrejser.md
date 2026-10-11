@@ -1,0 +1,38 @@
+---
+title: "Bekendtgørelse om Underretsdommernes Befordring paa Embedsrejser."
+identifier: "BEK nr 171 af 01/05/1923"
+eli: "https://www.retsinformation.dk/eli/lta/1923/171"
+accession_number: "B19230017105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1923-05-01
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1923/171"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om Underretsdommernes Befordring paa Embedsrejser.
+
+*BEK nr 171 af 01/05/1923*
+
+I Medfør af § 1 i Lov om Underretsdommernes Befordring paa Embedsrejser af 1. Maj 1923 fastsætter Justitsministeriet herved følgende nærmere Regler om Ydelsen af fri Befordring eller Godtgørelse herfor paa saadanne Rejser.
+
+Det tilkommer Dommeren eller den, der optræder paa hans Vegne (Dommerens Fuldmægtig eller Politimesteren) at bestemme, om han ønsker Befordring ydet ved Foranstaltning af den, der begærer Forretningen, eller om han selv vil stille Befordring til Disposition. Ogsaa i sidstnævnte Tilfælde er Rekvirenten berettiget til at blive befordret sammen med Dommeren. Foretages Rejsen med Dommerens egen eller hans Fuldmægtigs (Politimesterens) Befordring, beregnes Godtgørelsen derfor efter den af Justitsministeriet for Benyttelsen af saadan Befordring til Embedsrejser iøvrigt godkendte Takst.
+
+Befordringspligten omfatter ogsaa Dommerens Personale, saafremt dette af Dommeren ønskes medtaget til vedkommende Forretning.
+
+Naar Rekvirenten er Stat eller Kommune, kan Udgifter til Befordring, der ikke straks erholdes dækkede ved selve Forretningens Foretagelse som en med Forretningen forbunden Omkostning, afholdes forskudsvis af vedkommende Embedsmands Kontorhold, men skal, forsaavidt de ikke senere faas dækkede ved Retsforfølgningens Gennemførelse, ogsaa i disse Tilfælde betales af Rekvirenten.
+
+Naar Rekvirenten ikke giver Møde ved Forretningen, hvorned særlig tænkes paa Udpantninger, bør Dommeren paase, at Udgifterne til Befordring - eventuelt efter foretagen Fordeling mellem de forskellige Skyldnere, der omfattes af samme Embedsrejse - inddrives hos disse sammen med selve Hovedfordringerne, jfr. Retsplejelovens § 602.
+
+*Justitsministeriet, den 1. Maj 1923.*
+
+Svenning Rytter.
+
+/L.N. Hvidt.
+
+## Officielle noter
+
+Ingen

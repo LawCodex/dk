@@ -1,0 +1,44 @@
+---
+title: "Bekendtgørelse om ikrafftræden af EF-direktiv om udstedelse af licenser til jernbanevirksomheder"
+identifier: "BEK nr 534 af 26/06/1997"
+eli: "https://www.retsinformation.dk/eli/lta/1997/534"
+accession_number: "B19970053405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1997-06-26
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1997/534"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ikrafftræden af EF-direktiv om udstedelse af licenser til jernbanevirksomheder
+
+*BEK nr 534 af 26/06/1997*
+
+I medfør af § 5, stk. 1, i lov nr. 1230 af 27. december 1996 om
+
+Banestyrelsen m.v., fastsættes:
+
+## § 1.
+
+EF-direktiv nr. 95/18/EF om udstedelse af licenser til jernbanevirksomheder træder i kraft den 27. juni 1997. Direktivet er optaget som bilag til denne bekendtgørelse.
+
+*Trafikministeriet, den 26. juni 1997*
+
+Bjørn Westh
+
+/Petter Møller
+
+**Bilag 1**
+
+RÅDETS DIREKTIV 95/18/EF
+
+af 19. juni 1995
+
+om udstedelse af licenser til jernbanevirksomheder
+
+## Officielle noter
+
+(\* 1) Bekendtgørelsen indeholder bestemmelser, der gennemfører Rådets direktiv 95/18/EF, EF-Tidende 1995 L 143/70.

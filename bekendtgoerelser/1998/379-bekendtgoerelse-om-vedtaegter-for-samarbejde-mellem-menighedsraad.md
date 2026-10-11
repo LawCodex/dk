@@ -1,0 +1,56 @@
+---
+title: "Bekendtgørelse om vedtægter for samarbejde mellem menighedsråd"
+identifier: "BEK nr 379 af 19/06/1998"
+eli: "https://www.retsinformation.dk/eli/lta/1998/379"
+accession_number: "B19980037905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1998-06-19
+status: "in_force"
+ministry: "By-, Land- og Kirkeministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1998/379"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om vedtægter for samarbejde mellem menighedsråd
+
+*BEK nr 379 af 19/06/1998*
+
+I medfør af § 43, stk. 4, i lov om menighedsråd, jf. lovbekendtgørelse nr. 571 af 21. juni 1996, meddeles:
+
+## § 1.
+
+Kirkeministeren har godkendt følgende vedtægter om samarbejde mellem menighedsråd:
+
+*Vedtægt nr. 74* for Skelgård og Dragør sogne i Amagerland Provsti om sognemedhjælper.
+
+*Vedtægt nr. 75* for Hedensted og St. Dalby sogne i Hedensted Provsti om sognemedhjælper.
+
+*Vedtægt nr. 76* for Kgs. Lyngby, Christians, Virum, Sorgenfri, Lundtofte, Tårbæk, Søllerød, Vedbæk, Ny Holte, Gl. Holte, og Nærum sogne i Kgs. Lyngby Provsti om regnskabsordninger med kirkekassefinansieret løbende revision samt ansættelse af en faguddannet revisor til at forestå revisionen af provstiets kirkekasser. Vedtægten afløser vedtægt nr. 6 for revision af kirkekasserne i Kgs. Lyngby Provsti, jf. bekendtgørelse nr. 537 af 20. juni 1994.
+
+*Vedtægt nr. 77* for Nørresundby og Vadum sogne i Aalborg Nordre Provsti om sognemedhjælper.
+
+## § 2.
+
+De i § 1 nævnte samarbejdsvedtægter indebærer blandt andet, at § 2 i lov om folkekirkens økonomi, jf. lovbekendtgørelse nr. 537 af 24. juni 1997, fraviges således, at udgifterne ved ordningerne kan afholdes af den kirkelige ligning til kirkekasserne.
+
+## § 3.
+
+Vedtægt nr. 74 trådte i kraft 1. januar 1998 og gælder indtil videre. Vedtægten er fremlagt på Skelgård og Dragør sognes kirkekontorer.
+
+*Stk. 2.* Vedtægt nr. 75 trådte i kraft 1. april 1998 og gælder indtil videre. Vedtægten er fremlagt på Hedensted Sogns kirkekontor.
+
+*Stk. 3.* Vedtægt nr. 76 trådte i kraft 22. april 1998 og gælder til 31. december 2000. Vedtægten er fremlagt på Kgs. Lyngby, Christians, Virum, Sorgenfri, Lundtofte, Tårbæk, Søllerød, Vedbæk, Ny Holte, Gl. Holte og Nærum sognes kirkekontorer samt på bibliotekerne i Kgs. Lyngby Provsti.
+
+*Stk. 4.* Vedtægt nr. 77 trådte i kraft 4. maj 1998 og gælder indtil videre. Vedtægten er fremlagt på Nørresundby og Vadum sognes kirkekontorer.
+
+*Kirkeministeriet, den 19. juni 1998*
+
+Margrethe Vestager
+
+/ Troels Neiiendam
+
+## Officielle noter
+
+Ingen

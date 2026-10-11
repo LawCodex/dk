@@ -1,0 +1,40 @@
+---
+title: "Bekendtgørelse om afregning af kommunal indkomstskat for begrænset skattepligtige"
+identifier: "BEK nr 994 af 19/10/2005"
+eli: "https://www.retsinformation.dk/eli/lta/2005/994"
+accession_number: "B20050099405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2005-10-19
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2005/994"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om afregning af kommunal indkomstskat for begrænset skattepligtige
+
+*BEK nr 994 af 19/10/2005*
+
+I henhold til § 9, stk. 4, i lov om kommunal indkomstskat, jf. lovbekendtgørelse nr. 199 af 24. marts 2003, som ændret ved lov nr. 1430 af 22. december 2004, og efter forhandling med indenrigs- og sundhedsministeren fastsættes:
+
+## § 1.
+
+Told- og skatteforvaltningen bemyndiges til i overensstemmelse med kildeskattelovens § 64, jf. lovbekendtgørelse nr. 678 af 12. august 2002, at afregne kommunal indkomstskat for personer, der er skattepligtige efter kildeskattelovens § 2, til de nedenfor angivne kommuner i denne rækkefølge:
+
+1\) Den kommune, hvor den skattepligtige ifølge CSR senest havde bopæl.
+
+2\) Den kommune, der har fået den skattepligtige optaget i CPR.
+
+*Stk. 2.* Hvis det ikke kan afgøres efter stk. 1, til hvilken kommune skatten skal afregnes, træffer told- og skatteforvaltningen bestemmelse herom. Det kan endvidere i særlige tilfælde bestemmes, at afregning skal ske til en anden kommune end den, der følger af stk. 1.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. november 2005. Samtidig ophæves bekendtgørelse nr. 519 af 20. oktober 1984 om afregning af kommunal indkomstskat for begrænset skattepligtige.
+
+*Skatteministeriet, den 19. oktober 2005*
+
+Kristian Jensen
+
+/K.-H. Ludolph

@@ -1,0 +1,38 @@
+---
+title: "Bekendtgørelse om inddragelse af offentligheden ved regionsrådets udarbejdelse af oversigt over undersøgelses- og afværgeindsatsen i forhold til jord- og grundvandsforureninger"
+identifier: "BEK nr 1434 af 13/12/2006"
+eli: "https://www.retsinformation.dk/eli/lta/2006/1434"
+accession_number: "B20060143405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2006-12-13
+status: "in_force"
+ministry: "Miljø- og Ligestillingsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2006/1434"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om inddragelse af offentligheden ved regionsrådets udarbejdelse af oversigt over undersøgelses- og afværgeindsatsen i forhold til jord- og grundvandsforureninger
+
+*BEK nr 1434 af 13/12/2006*
+
+I medfør af § 23 i lov nr. 370 af 2. juni 1999 om forurenet jord, som ændret ved § 4 i lov nr. 447 af 31. maj 2000 og lov nr. 568 af 24. juni 2005, fastsættes:
+
+## § 1.
+
+Regionsrådet skal foretage offentlig annoncering af, at udkastet til den årligt reviderede oversigt over den offentlige undersøgelses- og afværgeindsats i forhold til jord- og grundvandsforureninger, jf. lovens § 18, stk. 1, og § 19, foreligger, samt at der inden for en frist på mindst 4 uger efter offentliggørelsen er adgang til at kommentere det fremlagte udkast over for regionsrådet.
+
+*Stk. 2.* Regionsrådet skal envidere foretage offentlig annoncering, når oversigten er endeligt udarbejdet. Oversigten skal være offentligt tilgængelig.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. januar 2007 og har virkning for oversigter, der udarbejdes efter denne dato.
+
+*Stk. 2.* Bekendtgørelse nr. 925 af den 19. september 2000 om forudgående offentlighed ved amtsrådets udarbejdelse af oversigt over undersøgelses- og afværgeindsatsen på jordforureningsområdet ophæves.
+
+*Miljøministeriet, den 13. december 2006*
+
+Connie Hedegaard
+
+/Helge Andreasen

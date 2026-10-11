@@ -1,0 +1,52 @@
+---
+title: "Bekendtgørelse om vedtægt for samarbejde mellem menighedsråd"
+identifier: "BEK nr 714 af 30/08/1995"
+eli: "https://www.retsinformation.dk/eli/lta/1995/714"
+accession_number: "B19950071405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1995-08-30
+status: "in_force"
+ministry: "By-, Land- og Kirkeministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1995/714"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om vedtægt for samarbejde mellem menighedsråd
+
+*BEK nr 714 af 30/08/1995*
+
+I henhold til § 43, stk. 4, i lov om menighedsråd, jf. lov nr. nr. 432 af 1. juni 1994, meddeles:
+
+## § 1.
+
+Kirkeministeren har godkendt følgende vedtægter om samarbejde mellem menighedsråd:
+
+Vedtægt nr. 49 for Aaby og Biersted Sogne om sognemedhjælper.
+
+Vedtægt nr. 50 for Hylleholt og Roholte Sogne om indledende konfirmationsforberedelse.
+
+Vedtægt nr. 51 for Tune og Snoldelev Sogne om sognemedhjælper.
+
+## § 2.
+
+De i § 1 nævnte samarbejdsvedtægter indebærer, at § 2 i lov om folkekirkens økonomi, jf. lovbekendtgørelse nr. 627 af 4. juli 1994, fraviges således, at udgifterne ved ordningerne kan afholdes af den kirkelige ligning.
+
+## § 3.
+
+Vedtægt nr. 49 trådte i kraft 1. marts 1995 og gælder indtil videre. Vedtægten er fremlagt på Aaby og Biersted Sognes kirkekontorer og i våbenhuset i Aaby og Biersted Kirker.
+
+Vedtægt nr. 50 trådte i kraft 1. maj 1995 og gælder indtil videre. Vedtægten er fremlagt i Hylleholt Præstegård og i Roholte Præstegård.
+
+Vedtægt nr. 51 træder i kraft 1. oktober 1995 og gælder indtil 30. september 1998. Vedtægten er fremlagt på Tune kirkekontor.
+
+*Kirkeministeriet, den 30. august 1995*
+
+Birte Weiss
+
+/ Troels Neiiendam
+
+## Officielle noter
+
+Ingen

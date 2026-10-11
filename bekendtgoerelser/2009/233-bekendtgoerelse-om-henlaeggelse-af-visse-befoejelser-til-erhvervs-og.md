@@ -1,0 +1,64 @@
+---
+title: "Bekendtgørelse om henlæggelse af visse beføjelser til Erhvervs- og Selskabsstyrelsen samt om klageadgang over visse afgørelser"
+identifier: "BEK nr 233 af 25/03/2009"
+eli: "https://www.retsinformation.dk/eli/lta/2009/233"
+accession_number: "B20090023305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2009-03-25
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2009/233"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om henlæggelse af visse beføjelser til Erhvervs- og Selskabsstyrelsen samt om klageadgang over visse afgørelser
+
+*BEK nr 233 af 25/03/2009*
+
+I medfør af § 159 a i lov om aktieselskaber, jf. lovbekendtgørelse nr. 649 af 15. juni 2006, § 61 a i lov om erhvervsdrivende fonde, jf. lovbekendtgørelse nr. 652 af 15. juni 2006, § 159 a i lov om aktieselskaber, som sat i kraft for Grønland ved kongelig anordning nr. 620 af 23. juni 2008, og § 61 a i lov om erhvervsdrivende fonde, som sat i kraft for Grønland ved kongelig anordning nr. 621 af 23. juni 2008, fastsættes:
+
+## Henlæggelse af beføjelser til Erhvervs- og Selskabsstyrelsen
+
+### § 1.
+
+Beføjelser, som efter følgende love og anordninger er tillagt økonomi- og erhvervsministeren, udøves af Erhvervs- og Selskabsstyrelsen:
+
+- 1\) lov om aktieselskaber,
+- 2\) lov om erhvervsdrivende fonde,
+- 3\) lov om aktieselskaber, som sat i kraft for Grønland ved kongelig anordning, og
+- 4\) lov om erhvervsdrivende fonde, som sat i kraft for Grønland ved kongelig anordning.
+
+## Klageadgang
+
+### § 2.
+
+Afgørelser, der er truffet af Erhvervs- og Selskabsstyrelsen efter bemyndigelse i medfør af § 1 eller efter bestemmelser fastsat i medfør af denne bemyndigelse, kan indbringes for Erhvervsankenævnet, jf. dog stk. 2 og 3.
+
+*Stk. 2.* Følgende afgørelser kan ikke indbringes for højere administrativ myndighed:
+
+- 1\) afgørelser truffet af Erhvervs- og Selskabsstyrelsen som fondsmyndighed, og
+- 2\) afgørelser om hel eller delvis undtagelse i medfør af § 67, stk. 2, i lov om erhvervsdrivende fonde og § 67, stk. 2, i lov om erhvervsdrivende fonde, som sat i kraft for Grønland ved kongelig anordning.
+
+*Stk. 3.* Erhvervs- og Selskabsstyrelsen kan i forskrifter, der fastsættes efter bemyndigelse i medfør af § 1, bestemme, at afgørelser om overskridelse af frister ikke kan indbringes for højere administrativ myndighed.
+
+### § 3.
+
+Klage over afgørelser, som omhandlet i § 2, skal indbringes for Erhvervsankenævnet senest 4 uger efter, at afgørelsen er meddelt den pågældende, jf. dog stk. 2.
+
+*Stk. 2.* Klager over afgørelser, som er truffet i medfør af lov om aktieselskaber og lov om erhvervsdrivende fonde, som sat i kraft for Grønland ved kongelige anordninger, skal indbringes for erhvervsankenævnet senest 7 uger efter, at afgørelsen er meddelt den pågældende.
+
+## Ikrafttræden
+
+### § 4.
+
+Bekendtgørelsen træder i kraft den 1. april 2009.
+
+*Stk. 2.* Bekendtgørelse nr. 747 af 21. august 2003 om henlæggelse af visse beføjelser til Erhvervs- og Selskabsstyrelsen samt om klageadgang over visse afgørelser ophæves.
+
+Økonomi- og Erhvervsministeriet, den 25. marts 2009
+
+Lene Espersen
+
+/ Hans Høj

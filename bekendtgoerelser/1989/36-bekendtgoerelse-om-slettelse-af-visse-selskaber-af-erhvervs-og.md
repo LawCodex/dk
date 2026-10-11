@@ -1,0 +1,50 @@
+---
+title: "Bekendtgørelse om slettelse af visse selskaber af Erhvervs- og Selskabsstyrelsens register for aktie- og anpartsselskaber"
+identifier: "BEK nr 36 af 12/01/1989"
+eli: "https://www.retsinformation.dk/eli/lta/1989/36"
+accession_number: "B19890003605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1989-01-12
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1989/36"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om slettelse af visse selskaber af Erhvervs- og Selskabsstyrelsens register for aktie- og anpartsselskaber
+
+*BEK nr 36 af 12/01/1989*
+
+I medfør af § 174 i lov om aktieselskaber, jf. lovbekendtgørelse nr. 433 af 18. juli 1988, fastsættes:
+
+## § 1.
+
+Såfremt Erhvervs- og Selskabsstyrelsen skønner, at et i registeret for aktie- og anpartsselskaber den 1. januar 1974 optaget selskab omfattes af aktieselskabslovens § 1, stk. 4, foranlediger styrelsen dette slettet af registeret uden likvidation.
+
+*Stk. 2.* Medmindre selskabet efter anmodning slettes af registeret, skal selskabet, forinden det slettes, have lejlighed til at udtale sig.
+
+## § 2.
+
+Til brug for afgørelser efter § 1 kan Erhvervs- og Selskabsstyrelsen af selskabet forlange de oplysninger, som er nødvendige, for at tage stilling til, om betingelserne for slettelse foreligger.
+
+## § 3.
+
+Slettelse af registeret for aktie- og anpartsselskaber efter § 1 sker vederlagsfrit.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. februar 1989.
+
+*Stk. 2.* Bekendtgørelse nr. 642 af 18. december 1973 om slettelse af visse selskaber af aktieselskabs-registeret ophæves.
+
+*Erhvervs- og Selskabsstyrelsen, den 12. januar 1989*
+
+OLE BLØNDAL
+
+/John Ulrich Poulsen
+
+## Officielle noter
+
+Ingen

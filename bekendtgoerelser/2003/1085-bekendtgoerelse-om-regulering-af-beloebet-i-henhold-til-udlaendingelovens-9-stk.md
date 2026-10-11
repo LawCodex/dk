@@ -1,0 +1,46 @@
+---
+title: "Bekendtgørelse om regulering af beløbet i henhold til udlændingelovens § 9, stk. 4, 1. pkt., og af beløbet i henhold til udlændingelovens § 11, stk. 5, nr. 3, jf. lovbekendtgørelse nr. 711 af 1. august 2001"
+identifier: "BEK nr 1085 af 12/12/2003"
+eli: "https://www.retsinformation.dk/eli/lta/2003/1085"
+accession_number: "B20030108505"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2003-12-12
+status: "in_force"
+ministry: "Udlændinge- og Integrationsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2003/1085"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om regulering af beløbet i henhold til udlændingelovens § 9, stk. 4, 1. pkt., og af beløbet i henhold til udlændingelovens § 11, stk. 5, nr. 3, jf. lovbekendtgørelse nr. 711 af 1. august 2001
+
+*BEK nr 1085 af 12/12/2003*
+
+I medfør af § 9, stk. 4, 3. pkt., i udlændingeloven, jf. lovbekendtgørelse nr. 685 af 24. juli 2003, og i medfør af § 11, stk. 7, 2. pkt., i udlændingeloven, jf. lovbekendtgørelse nr. 711 af 1. august 2001, jf. § 8, stk. 3, 2. pkt., i lov nr. 365 af 6. juni 2002, fastsættes:
+
+## § 1.
+
+Efter udlændingelovens § 9, stk. 4, 3. pkt., reguleres det i udlændingelovens § 9, stk. 4, 1. pkt., angivne beløb fra og med 2003 en gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
+
+*Stk. 2.* Efter udlændingelovens § 11, stk. 7, 2. pkt., jf. lovbekendtgørelse nr. 711 af 1. august 2001, reguleres det i lovens § 11, stk. 5, nr. 3, jf. lovbekendtgørelse nr. 711 af 1. august 2001, angivne beløb fra og med 1999 en gang årligt den 1. januar efter satsreguleringsprocenten, jf. lov om en satsreguleringsprocent.
+
+## § 2.
+
+Satsreguleringsprocenten for 2004 udgør 2,9, jf. § 1 i bekendtgørelse nr. 748 af 22. august 2003 om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2004.
+
+## § 3.
+
+Med virkning for perioden 1. januar 2004 – 31. december 2004 udgør det i udlændingelovens § 9, stk. 4, 1. pkt., jf. 3. pkt., nævnte beløb (økonomisk sikkerhed) 53.096,00 kr.
+
+*Stk. 2.* Med virkning for perioden 1. januar 2004 – 31. december 2004 udgør det i udlændingelovens § 11, stk. 5, nr. 3, jf. stk. 7, 2. pkt., jf. lovbekendtgørelse nr. 711 af 1. august 2001, nævnte beløb (forfalden gæld) 59.586,00 kr.
+
+## § 4.
+
+Bekendtgørelsen træder i kraft den 1. januar 2004.
+
+*Ministeriet for Flygtninge, Indvandrere og Integration, den 12. december 2003*
+
+Bertel Haarder
+
+/Susanne S. Clausen

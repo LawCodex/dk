@@ -1,0 +1,58 @@
+---
+title: "Bekendtgørelse om fremgangsmåden ved kontant udbetaling mv. af efterlønsbidrag og fleksydelsesbidrag"
+identifier: "BEK nr 709 af 21/06/2007"
+eli: "https://www.retsinformation.dk/eli/lta/2007/709"
+accession_number: "B20070070905"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2007-06-21
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2007/709"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om fremgangsmåden ved kontant udbetaling mv. af efterlønsbidrag og fleksydelsesbidrag
+
+*BEK nr 709 af 21/06/2007*
+
+I medfør af § 49 A, stk. 3, og § 49 B, stk. 3, i lov om beskatningen af pensionsordninger m.v., jf. lovbekendtgørelse nr. 1120 af 10. november 2006, som ændret ved bl.a. § 1 i lov nr. 347 af 18. april 2007 og senest ved § 8 i lov nr. 516 af 6. juni 2007, og § 48 A og § 55 A i kildeskatteloven, jf. lovbekendtgørelse nr. 1086 af 14. november 2005, som ændret senest ved § 7 i lov nr. 540 af 6. juni 2007, fastsættes:
+
+## § 1.
+
+Når en person anmoder arbejdsløshedskassen om kontant udbetaling af efterlønsbidrag som nævnt i lovens § 49 A, stk. 3, eller om overførsel af efterlønsbidrag til en udenlandsk pensionsordning som nævnt i lovens § 49 A, stk. 5, skal arbejdsløshedskassen rette henvendelse til told- og skatteforvaltningen.
+
+*Stk. 2.* Told- og skatteforvaltningen skal opgøre den del af den kontante udbetaling til personen eller af overførselsbeløbet til en udenlandsk pensionsordning, der svarer til skatten opgjort efter reglerne i lovens § 49 A, stk. 3, og meddele arbejdsløshedskassen A-skattebeløbet.
+
+*Stk. 3.* Arbejdsløshedskassen kan først udbetale efterlønsbidraget eller overføre efterlønsbidraget til en udenlandsk pensionsordning, når den har modtaget meddelelse fra told- og skatteforvaltningen om A-skatten.
+
+*Stk. 4.* Arbejdsløshedskassen skal indeholde A-skatten uden anvendelse af skattekort eller bikort. Arbejdsløshedskassen skal i stedet indeholde den del af den kontante udbetaling til personen eller af overførselsbeløbet til en udenlandsk pensionsordning, der svarer til A-skatten som meddelt af told- og skatteforvaltningen.
+
+*Stk. 5.* Arbejdsløshedskassen skal indbetale A-skatten til told- og skatteforvaltningen efter samme regler, som gælder for anden indeholdt A-skat.
+
+*Stk. 6.* Arbejdsløshedskassen skal opbevare meddelelsen som nævnt i stk. 3 i 5 år efter modtagelsen af meddelelsen.
+
+## § 2.
+
+Når en person anmoder kommunen om kontant tilbagebetaling af fleksydelsesbidrag som nævnt i lovens § 49 B, stk. 3, eller om overførsel af fleksydelsesbidrag til en udenlandsk pensionsordning som nævnt i lovens § 49 B, stk. 5, skal kommunen rette henvendelse til told- og skatteforvaltningen.
+
+*Stk. 2.* Told- og skatteforvaltningen skal opgøre den del af den kontante tilbagebetaling til personen eller af overførselsbeløbet til en udenlandsk pensionsordning, der svarer til skatten opgjort efter reglerne i lovens § 49 B, stk. 3, jf. § 49 A, stk. 3, og meddele kommunen A-skattebeløbet.
+
+*Stk. 3.* Kommunen kan først udbetale fleksydelsesbidraget eller overføre fleksydelsesbidraget til en udenlandsk pensionsordning, når den har modtaget meddelelse fra told- og skatteforvaltningen om A-skatten.
+
+*Stk. 4.* Kommunen skal indeholde A-skatten uden anvendelse af skattekort eller bikort. Kommunen skal i stedet indeholde den del af den kontante udbetaling til personen eller af overførselsbeløbet til en udenlandsk pensionsordning, der svarer til A-skatten som meddelt af told- og skatteforvaltningen.
+
+*Stk. 5.* Kommunen skal indbetale A-skatten til told- og skatteforvaltningen efter samme regler, som gælder for anden indeholdt A-skat.
+
+*Stk. 6.* Kommunen skal opbevare meddelelsen som nævnt i stk. 3 i 5 år efter modtagelsen af meddelelsen.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. juli 2007.
+
+*Skatteministeriet, den 21. juni 2007*
+
+Kristian Jensen
+
+/Birgitte Christensen

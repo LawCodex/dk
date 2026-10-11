@@ -1,0 +1,36 @@
+---
+title: "Bekendtgørelse angaaende Forandring i Ritualet for Daab og Nadvere m.v."
+identifier: "BEK nr 30 af 09/02/1895"
+eli: "https://www.retsinformation.dk/eli/lta/1895/30"
+accession_number: "B18950003005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1895-02-09
+status: "in_force"
+ministry: "By-, Land- og Kirkeministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1895/30"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse angaaende Forandring i Ritualet for Daab og Nadvere m.v.
+
+*BEK nr 30 af 09/02/1895*
+
+Efter en af Ministeriet derom allerunderdanigst nedlagt Forestilling har det ved allerhøjeste Resolution af 10de s.M. behaget Hans Majestæt Kongen allernaadigst at autorisere et Forslag til Forandring i de forordnede Kollekter paa Søn- og Helligdage og i Bønnerne i Salmebogen samt til Forandring af Ritualet for Daab og Nadvere til Brug i den danske Folkekirke, dog saaledes, at det ikke skal være de Præster og Menigheder, som ønske det, forment at benytte disse liturgiske Formularer i deres gamle Skikkelse, samt at bemyndige Ministeren for Kirke- og Undervisningsvæsenet til at foretage de fornødne Skridt til Indførelsen i Menighederne af de saaledes autoriserede Kollekter og Bønner samt Liturgi for Daab og Nadvere.
+
+I Henhold hertil har Ministeriet foranlediget Ritualet for Daab og Nadvere udgivet i den ændrede Form som Særtryk til Brug for Præsterne, medens de reviderede Kollekter og Bønner ville blive optagne i nye Udgaver af Salmebogen.
+
+Hvilket herved bekendtgøres for alle vedkommende til Efterretning og
+
+Iagttagelse.
+
+*Ministeriet for Kirke- og Undervisningsvæsenet, den 9de Februar 1895.*
+
+Bardenfleth.
+
+/I. Timm.
+
+## Officielle noter
+
+Ingen

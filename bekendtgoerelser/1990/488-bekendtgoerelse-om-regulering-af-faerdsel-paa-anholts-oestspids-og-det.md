@@ -1,0 +1,89 @@
+---
+title: "Bekendtgørelse om regulering af færdsel på Anholts østspids og det omgivende søterritorium"
+identifier: "BEK nr 488 af 25/06/1990"
+eli: "https://www.retsinformation.dk/eli/lta/1990/488"
+accession_number: "B19900048805"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1990-06-25
+status: "in_force"
+ministry: "Ministeriet for Natur og Dyrevelfærd"
+source: "https://www.retsinformation.dk/eli/lta/1990/488"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om regulering af færdsel på Anholts østspids og det omgivende søterritorium
+
+*BEK nr 488 af 25/06/1990*
+
+I medfør af naturfredningslovens §§ 56a, 60 og 66, stk. 2, jf.
+
+lovbekendtgørelse nr. 520 af 10. oktober 1984 fastsættes:
+
+*Formål*
+
+## § 1.
+
+Fredningens formål er at sikre Anholts østspids og det omgivende søterritorium mod forstyrrelser, af hensyn til områdets værdi som tilholdssted og yngleplads for sæler.
+
+*Afgrænsning*
+
+## § 2.
+
+Fredningen omfatter:
+
+- 1\) Landarealet øst for den på kortbilaget viste linie.
+- 2\) Søterritoriet inden for den på kortbilaget markerede linie.
+
+*Fredningsbestemmelser*
+
+## § 3.
+
+Færdsel og sejlads er ikke tilladt på søterritoriet. På landarealerne er færdsel ikke tilladt, med mindre andet ved opslag og afmærkning er anvist i området.
+
+*Stk. 2.* Bestemmelsen i stk. 1 gælder dog ikke for sejlads i forbindelse med erhvervsfiskeri, hvorunder dog højest kan medtages det antal personer der er nødvendige af hensyn til fiskeriets gennemførelse.
+
+*Stk. 3.* Uanset bestemmelsen i stk. 1 har offentlige myndigheder, ejeren eller dennes folk adgang til området i tjenstligt øjemed.
+
+*Andre bestemmelser*
+
+## § 4.
+
+For flyvning over områderne gælder Statens Luftfartsvæsens bestemmelser for civil luftfart BL 7-16, om særligt følsomme naturområder. Efter denne bekendtgørelse skal flyvning over disse områder udføres under særlig hensyntagen til naturværdierne.
+
+*Undtagelser, tilsyn, straf og ikrafttræden*
+
+## § 5.
+
+Skov- og Naturstyrelsen kan tillade mindre betydende fravigelser fra færdselsforbudet i § 3.
+
+*Stk. 2.* Skov- og Naturstyrelsens afgørelser i medfør af stk. 1 er endelige.
+
+## § 6.
+
+Skov- og Naturstyrelsen fører tilsyn med det fredede område.
+
+## § 7.
+
+Overtrædelse af bestemmelserne i § 3 straffes, jf. naturfredningslovens § 66, stk. 2, med bøde, medmindre højere straf er forskyldt efter den øvrige lovgivning.
+
+*Stk. 2.* For overtrædelser, der er begået af aktieselskab, andelsselskab eller lignende, kan der pålægges selskabet som sådant bødeansvar, jf. naturfredningslovens § 66, stk. 3.
+
+## § 8.
+
+Fredningen træder i kraft den 7. juli 1990.
+
+*Miljøministeriet, den 25. juni 1990*
+
+Lone Dybkjær
+
+/ Ole Christiansen
+
+**Bilag**
+
+![DUMMY.GIF billedet er ikke indlagt onMouseOver=](https://www.retsinformation.dk/image.aspx?id=48448&img=CR7251_1.gif)
+
+## Officielle noter
+
+Ingen

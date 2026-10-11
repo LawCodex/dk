@@ -1,0 +1,44 @@
+---
+title: "Bekendtgørelse om Fredning af Holsteinborg Nor."
+identifier: "BEK nr 241 af 11/11/1936"
+eli: "https://www.retsinformation.dk/eli/lta/1936/241"
+accession_number: "B19360024105"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1936-11-11
+status: "in_force"
+ministry: "Ministeriet for Natur og Dyrevelfærd"
+source: "https://www.retsinformation.dk/eli/lta/1936/241"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om Fredning af Holsteinborg Nor.
+
+*BEK nr 241 af 11/11/1936*
+
+Efter Indstilling af Naturfredningsraadet fastsætter Statsministeriet herved i Henhold til § 20 i Lov Nr. 245 af 8. Maj 1917 om Naturfredning følgende Bestemmelser angaaende Fredning af Holsteinborg Nor, saaledes som det er begrænset i Vest af Dæmningen til Glænø og i Øst af en Linje fra det til Glænø hørende Østerfed til Tangen Syd for Holsteinborg Havn.
+
+Indenfor det saaledes afgrænsede Omraade fredes de derværende to Øer, Ormø og Fuglehøj saaledes, at de begge saa vidt muligt bevares i Naturtilstand.Ormø holdes til Stadighed som nu bevokset med blandet Løvskov. Hugst i Skoven gennemføres efter nærmere Aftale med Naturfredningsraadet. Bebyggelse, herunder ogsaa med Skure, Afvanding eller andre Kulturarbejder maa kun finde Sted med Naturfredningfsraadets Samtykke, der ligeledes udkræves til Anbringelse af Opstandere eller andet lignende.
+
+Adgang til Øerne forbydes enhver, der ikke forud har indhentet Tilladelse hos Ejeren eller dennes Befuldmægtigede.
+
+Jagten indenfor det her omhandlede Omraade berøres ikke af nærværende Bekendtgørelse.
+
+Beskadigelse og Fjernelse af Sten paa Vandarealet er forbudt.
+
+Overtrædelse af nærværende Bekendtgørelses Bestemmelser straffes i Overensstemmelse med § 26 i Lov Nr. 245 af 8. Maj 1917 om Naturfredning, jfr. Lov Nr. 127 af 15. April 1930 § 6, 1. Stk, med Bøder fra 10 Kr.
+
+Denne Bekendtgørelse træder straks i Kraft.
+
+Hvilket herved bringes til almindelig Kundskab.
+
+*Statsministeriet, den 11. November 1936.*
+
+Th. Stauning.
+
+/Holck.
+
+## Officielle noter
+
+Ingen

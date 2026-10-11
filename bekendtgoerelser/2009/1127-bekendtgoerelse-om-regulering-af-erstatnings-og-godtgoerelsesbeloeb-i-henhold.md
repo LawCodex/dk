@@ -1,0 +1,49 @@
+---
+title: "Bekendtgørelse om regulering af erstatnings- og godtgørelsesbeløb i henhold til lov om erstatningsansvar"
+identifier: "BEK nr 1127 af 25/11/2009"
+eli: "https://www.retsinformation.dk/eli/lta/2009/1127"
+accession_number: "B20090112705"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2009-11-25
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2009/1127"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om regulering af erstatnings- og godtgørelsesbeløb i henhold til lov om erstatningsansvar
+
+*BEK nr 1127 af 25/11/2009*
+
+I medfør af § 15 i lov om erstatningsansvar, jf. lovbekendtgørelse nr. 885 af 20. september 2005, fastsættes følgende:
+
+## § 1.
+
+Efter § 15, stk. 1, i lov om erstatningsansvar reguleres de i lovens § 3, § 4, stk. 1, § 6, stk. 2, § 8, § 13, stk. 1, 2. pkt., og § 14 a nævnte beløb med 2,0 pct. tillagt tilpasningsprocenten for det pågældende finansår, jf. lov om en satsreguleringsprocent. De herefter fremkomne beløb afrundes til nærmeste med 500 delelige kronebeløb, for det i § 3, 1. pkt., nævnte beløb dog til nærmeste med 5 delelige kronebeløb. Reguleringen sker på grundlag af de på reguleringstidspunktet gældende beløb før afrunding.
+
+*Stk. 2.* Tilpasningsprocenten for finansåret 2010 udgør 2,0, jf. § 2 i bekendtgørelse nr. 809 af 24. august 2009 om satsreguleringsprocenten, tilpasningsprocenten og satstilpasningsprocenten samt puljebeløbet for finansåret 2010.
+
+## § 2.
+
+For erstatninger og godtgørelser, der efter erstatningsansvarslovens § 16, stk. 1, kan kræves betalt helt eller delvis i perioden 1. januar 2010 - 31. december 2010, gælder følgende:
+
+- 1\) Det i lovens § 3, 1. pkt., nævnte beløb udgør 170 kr.
+- 2\) Det i lovens § 3, 3. pkt., nævnte beløb udgør 65.500 kr.
+- 3\) Det i lovens § 4, stk. 1, 2. pkt., nævnte beløb udgør 752.000 kr.
+- 4\) Det i lovens § 4, stk. 1, 4. pkt., nævnte beløb udgør 901.500 kr.
+- 5\) Det i lovens § 6, stk. 2, nævnte beløb udgør 7.892.000 kr.
+- 6\) Det i lovens § 8 nævnte beløb udgør 362.000 kr.
+- 7\) Det i lovens § 13, stk. 1, 2. pkt., nævnte beløb udgør 844.500 kr.
+- 8\) Det i lovens § 14 a nævnte beløb udgør 141.500 kr.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. januar 2010.
+
+Justitsministeriet, den 25. november 2009
+
+Brian Mikkelsen
+
+/ Anne Berg Mansfeld-Giese

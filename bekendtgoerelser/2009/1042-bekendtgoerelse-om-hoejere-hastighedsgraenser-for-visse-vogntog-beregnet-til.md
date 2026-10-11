@@ -1,0 +1,46 @@
+---
+title: "Bekendtgørelse om højere hastighedsgrænser for visse vogntog beregnet til støjmåling"
+identifier: "BEK nr 1042 af 26/10/2009"
+eli: "https://www.retsinformation.dk/eli/lta/2009/1042"
+accession_number: "B20090104205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2009-10-26
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2009/1042"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om højere hastighedsgrænser for visse vogntog beregnet til støjmåling
+
+*BEK nr 1042 af 26/10/2009*
+
+I medfør af § 43, stk. 8, og § 118, stk. 8, i færdselsloven, jf. lovbekendtgørelse nr. 984 af 5. oktober 2009, og efter forhandling med Færdselsstyrelsen fastsættes:
+
+## § 1.
+
+Medmindre en lavere hastighedsgrænse følger af færdselslovens § 42 eller af færdselstavler eller anden afmærkning, kan biler med en tilladt totalvægt på ikke over 3.500 kg tilkoblet et påhængsredskab beregnet til støjmåling på vejoverfladen uanset hastighedsbegrænsningerne i færdselslovens § 43, stk. 3 og 4, fremføres med en maksimal hastighed på 110 km i timen på motorveje og 80 km i timen på andre veje end motorveje, hvis
+
+- 1\) påhængsredskabets tilladte totalvægt ikke overstiger 750 kg,
+- 2\) påhængsredskabet er uden ladflade,
+- 3\) påhængsredskabet er monteret med standardiserede referencedæk og udstyr til måling af støj fra disse dæk under kørslen,
+- 4\) påhængsredskabet har en faktisk totalvægt på ikke over 0,3 gange den trækkende bils køreklare vægt, og
+- 5\) den trækkende bil er belæsset med højst halvdelen af forskellen mellem bilens tilladte totalvægt og køreklare vægt.
+
+*Stk. 2.* Hvis betingelserne i stk. 1 er opfyldt, udsteder Færdselsstyrelsen en erklæring herom. Betingelsen i stk. 1, nr. 5, omfattes dog ikke af erklæringen. Erklæringen eller en kopi heraf skal medbringes under kørsel og på forlangende vises til politiet.
+
+## § 2.
+
+Den, der som fører af et vogntog, der opfylder betingelserne i § 1, stk. 1, overtræder de i § 1, stk. 1, nævnte forhøjede hastighedsgrænser, straffes med bøde. På samme måde straffes den, der overtræder § 1, stk. 2, 3. pkt.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 15. november 2009.
+
+Justitsministeriet, den 26. oktober 2009
+
+Brian Mikkelsen
+
+/ Anette Arnsted

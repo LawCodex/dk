@@ -1,0 +1,40 @@
+---
+title: "Bekendtgørelse om ophævelse af bestemmelser i lov om tilskud til elproduktion"
+identifier: "BEK nr 1472 af 21/12/2009"
+eli: "https://www.retsinformation.dk/eli/lta/2009/1472"
+accession_number: "B20090147205"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2009-12-21
+status: "in_force"
+ministry: "Klima-, Energi- og Forsyningsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2009/1472"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ophævelse af bestemmelser i lov om tilskud til elproduktion
+
+*BEK nr 1472 af 21/12/2009*
+
+I medfør af § 12, stk. 2, i lov nr. 461 af 12. juni 2009 om ændring af lov om afgift af affald og råstoffer, lov om afgift af stenkul, brunkul og koks m.v. og forskellige andre love og om ophævelse af lov om tilskud til elproduktion, som affattet ved § 8, nr. 3, i lov nr. 1384 af 21. december 2009, fastsættes:
+
+## § 1.
+
+I lov om tilskud til elproduktion, jf. lovbekendtgørelse nr. 1331 af 30. november 2007, som ændret ved lov nr. 528 af 17. juni 2008 og lov nr. 461 af 12. juni 2009, udgår eller ophæves følgende bestemmelser:
+
+- 1\) I *§ 1, stk. 1*, udgår »eller affaldsbaseret kraft-varme-produktion«.
+- 2\) *§ 2, stk. 5,* ophæves.
+- 3\) I *§ 2 a, stk. 1,* udgår »eller ved affaldsbaseret kraft-varme-produktion«.
+- 4\) *§ 2 a, stk. 6,* ophæves.
+- 5\) *§ 2 a, stk. 8,* ophæves.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. januar 2010.
+
+Klima- og Energiministeriet, den 21. december 2009
+
+Lykke Friis
+
+/ Ib Larsen

@@ -1,0 +1,98 @@
+---
+title: "Bekendtgørelse om virksomhed som klinisk diætist"
+identifier: "BEK nr 880 af 30/09/1996"
+eli: "https://www.retsinformation.dk/eli/lta/1996/880"
+accession_number: "B19960088005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1996-09-30
+status: "in_force"
+ministry: "Indenrigs- og Sundhedsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1996/880"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om virksomhed som klinisk diætist
+
+*BEK nr 880 af 30/09/1996*
+
+I medfør af § 8, stk. 2 og § 13, stk. 2 i lov nr. 307 af 24. april
+
+1996 om kliniske diætister, fastsættes:
+
+*Virksomhedsområdet*
+
+## § 1.
+
+Virksomhed som klinisk diætist omfatter diætbehandling af ernæringsrelaterede sygdomme så som diabetes, allergi, hjertesygdomme, fedme, spiseforstyrrelser, sygdomsbetinget vægttab m.v., herunder såvel udformning af diæten som personlig vejledning af patienten.
+
+*Stk. 2.* Virksomheden omfatter desuden kostvejledning til raske personer med sygdomsforebyggende formål.
+
+## § 2.
+
+En klinisk diætist skal udvise omhu og samvittighedsfuldhed samt følge udviklingen inden for sit fag og gøre sig fortrolig med nye erfaringer af betydning for erhvervsudøvelsen.
+
+*Samarbejde med læger*
+
+## § 3.
+
+Ved diætbehandling skal den kliniske diætist være opmærksom på, om der foreligger sygdomstilstande, der nødvendiggør samarbejde med en læge.
+
+## § 4.
+
+Kliniske diætister må ikke ændre en læges ordination, hvor en sådan foreligger. Får den kliniske diætist mistanke om fejl i ordinationen skal lægen kontaktes.
+
+*Kontraindikationer*
+
+## § 5.
+
+Bliver en klinisk diætist bekendt med eller får mistanke om, at en person lider af sygdomme eller sygdomstilstande som kontraindicerer eller som kunne påvirkes ugunstigt af klinisk diætist behandling, skal behandlingen afbrydes og personen henvises til at søge læge.
+
+## § 6.
+
+I de i § 5 nævnte tilfælde er den kliniske diætist dog ikke afskåret fra at foretage den del af den diætist-iske behandling, der ikke kan antages at påvirke den lægelige behandling af de pågældende sygdomme i ugunstig retning.
+
+*Stk. 2.* Klinisk diætistbehandling bør i de i stk. 1 nævnte tilfælde foregå i samråd med den behandlende læge.
+
+*Information mv.*
+
+## § 7.
+
+En klinisk diætist skal, hvor det er muligt, og hvor der ikke er grund til at antage, at det strider mod en persons ønske, oplyse personen om dennes tilstand, herunder om egne undersøgelser, ordinationer og udleveringer samt risiko for komplikationer og bivirkninger i relation til den diætistiske behandling.
+
+*Stk. 2.* Den kliniske diætist skal føre optegnelser i en persons journal om den givne information, jf. Sundhedsstyrelsens bekendtgørelse om kliniske diætisters pligt til at føre ordnede optegnelser (journalføring).
+
+*Tavshedspligt*
+
+## § 8.
+
+En klinisk diætist er under ansvar efter borgerlig straffelov § 152b forpligtet til ikke at røbe privatlivet tilhørende hemmeligheder, der er kommet til hans kundskab under udøvelse af hans virksomhed, med mindre han er forpligtet til at udtale sig eller handler i berettiget varetagelse af en almen interesse eller af eget eller andres tarv.
+
+*Stk. 2.* Udveksling af helbredsmæssige oplysninger, fx i form af epikriser eller journalmateriale må kun ske efter indhentet samtykke fra patienten.
+
+*Reklamering*
+
+## § 9.
+
+Der må kun reklameres for klinisk diætist-virksomhed ved meddelelse af oplysninger, der ikke er vildledende eller på anden måde egnet til at fremkalde urigtige forestillinger i offenligheden om den pågældendes kvalifikationer eller behandlingsmåder.
+
+*Straffebestemmelser*
+
+## § 10.
+
+Overtrædelse af § 9 straffes med bøde.
+
+*Stk. 2.* Grovere eller gentagne overtrædelser af §§ 2-5, § 6, stk. 2, §§ 7-8 straffes med bøde.
+
+*Ikrafttræden mv.*
+
+## § 11.
+
+Bekendtgørelsen træder i kraft den 16. oktober 1996, men har virkning fra den 1. oktober 1996.
+
+*Sundhedsstyrelsen, den 30. september 1996*
+
+Einar Krag
+
+/ Michael von Magnus

@@ -1,0 +1,48 @@
+---
+title: "Bekendtgørelse om investeringsforvaltningsselskabers aflæggelse af årsrapport for regnskabsåret 2004"
+identifier: "BEK nr 1100 af 15/11/2004"
+eli: "https://www.retsinformation.dk/eli/lta/2004/1100"
+accession_number: "B20040110005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2004-11-15
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2004/1100"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om investeringsforvaltningsselskabers aflæggelse af årsrapport for regnskabsåret 2004
+
+*BEK nr 1100 af 15/11/2004*
+
+I medfør af § 37, stk. 1, i lov om banker og sparekasser m.v., jf. lovbekendtgørelse nr. 1265 af 19. december 2003, jf. § 377 i lov om finansiel virksomhed, jf. lovbekendtgørelse nr. 686 af 25. juni 2004, og § 373, stk. 2, i lov om finansiel virksomhed, jf. lovbekendtgørelse nr. 686 af 25. juni 2004, fastsættes:
+
+## § 1.
+
+Bestemmelserne i denne bekendtgørelse finder anvendelse på investeringsforvaltningsselskabers aflæggelse af årsrapport for regnskabsåret 2004.
+
+## § 2.
+
+Investeringsforvaltningsselskaber, som i medfør af § 14, stk. 1, i lov om finansiel virksomhed har fået tilladelse til alene at udøve aktiviteter nævnt i § 10, stk. 1, i lov om finansiel virksomhed, skal aflægge årsrapport efter lov om erhvervsdrivende virksomheders aflæggelse af årsregnskab m.v. (årsregnskabsloven).
+
+## § 3.
+
+Investeringsforvaltningsselskaber, som ved udgangen af 2004 i medfør af § 14, stk. 1, i lov om finansiel virksomhed har fået tilladelse til at udøve de i § 10, stk. 1, og de i § 10, stk. 2, i lov om finansiel virksomhed nævnte aktiviteter og i 2004 har udøvet de i § 10, stk. 2, nævnte aktiviteter, skal aflægge årsrapport efter bekendtgørelse om regnskabsaflæggelse for fondsmæglerselskaber.
+
+## § 4.
+
+Forsætlig eller groft uagtsom overtrædelse af bestemmelserne i § 2 og § 3 straffes med bøde.
+
+*Stk. 2.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens kapitel 5.
+
+## § 5.
+
+Bekendtgørelsen træder i kraft den 1. december 2004 og finder anvendelse på investeringsforvaltningsselskabers aflæggelse af årsrapport for regnskabsåret 2004.
+
+*Finanstilsynet, den 15. november 2004*
+
+Henrik Bjerre-Nielsen
+
+/Lars Østergaard

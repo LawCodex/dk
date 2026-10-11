@@ -1,0 +1,45 @@
+---
+title: "Bekendtgørelse om henlæggelse af visse beføjelser til Erhvervs- og Boligstyrelsen"
+short_title: "Delegationsbekendtgørelsen"
+identifier: "BEK nr 613 af 25/06/2003"
+eli: "https://www.retsinformation.dk/eli/lta/2003/613"
+accession_number: "B20030061305"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2003-06-25
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2003/613"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om henlæggelse af visse beføjelser til Erhvervs- og Boligstyrelsen
+
+*BEK nr 613 af 25/06/2003*
+
+I medfør af lov om valutaforhold m.v., jf. lovbekendtgørelse nr. 279 af 11. april 1988, og lov om anvendelsen af visse af De europæiske Fællesskabers retsakter om økonomiske forbindelser til tredjelande, jf. lovbekendtgørelse nr. 612 af 25. juni 2003, og lov om inspektioner, erklæringsafgivelse og kontrol i medfør af De Forenede Nationers Konvention om forbud mod kemiske våben, jf. lov nr. 443 af 14. juni 1995 med de ændringer, der følger af lov nr. 470 af 10. juni 1997, og med de ændringer, der følger af lov nr. 228 af 23. april 2002, fastsættes:
+
+## § 1.
+
+De beføjelser, der i henhold til lov om anvendelsen af visse af De europæiske Fællesskabers retsakter om økonomiske forbindelser til tredjelande, jf. lovbekendtgørelse nr. 612 af 25. juni 2003, er tillagt økonomi- og erhvervsministeren, udøves af Erhvervs- og Boligstyrelsen.
+
+*Stk. 2.* De beføjelser, der i henhold til §§ 3, 4 og 6 i lov om valutaforhold m.v., jf. lovbekendtgørelse nr. 279 af 11. april 1988, er tillagt industriministeren, udøves af Erhvervs- og Boligstyrelsen.
+
+*Stk. 3.* De beføjelser, der i henhold til §§ 5, 6 og 6a i lov om inspektioner, erklæringsafgivelse og kontrol i medfør af De Forenede Nationers Konvention om forbud mod kemiske våben, jf. lov nr. 443 af 14. juni 1995 med de ændringer, der følger af lov nr. 470 af 10. juni 1997 og med de ændringer, der følger af lov nr. 228 af 23. april 2002 er tillagt erhvervsministeren og økonomi- og erhvervsministeren, udøves af Erhvervs- og Boligstyrelsen.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 12. juli 2003.
+
+*Stk. 2.* Bekendtgørelse nr. 280 af 18. april 1988 om henlæggelse af visse beføjelser til Industri- og Handelsstyrelsen ophæves.
+
+*Økonomi- og Erhvervsministeriet, den 25. juni 2003*
+
+Bendt Bendtsen
+
+/Johnny Nielsen
+
+## Redaktionelle noter
+
+Den korrigerede tekst er indlagt efter omtryk af Lovtidende A, hæfte nr. 99, den 17. juli 2003.

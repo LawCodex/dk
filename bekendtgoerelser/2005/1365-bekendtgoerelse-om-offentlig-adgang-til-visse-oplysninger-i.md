@@ -1,0 +1,104 @@
+---
+title: "Bekendtgørelse om offentlig adgang til visse oplysninger i Fiskeridirektoratets registre"
+identifier: "BEK nr 1365 af 15/12/2005"
+eli: "https://www.retsinformation.dk/eli/lta/2005/1365"
+accession_number: "B20050136505"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2005-12-15
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2005/1365"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om offentlig adgang til visse oplysninger i Fiskeridirektoratets registre
+
+*BEK nr 1365 af 15/12/2005*
+
+I medfør af § 112 b i fiskeriloven, jf. lovbekendtgørelse nr. 828 af 31. juli 2004, som ændret ved lov nr. 406 af 1. juni 2005, og efter bemyndigelse fastsættes:
+
+## Aktive fiskerfartøjer
+
+### § 1.
+
+Følgende oplysninger om fiskerfartøjer, der er optaget i Fiskeridirektoratets Fartøjsregister, er offentligt tilgængelige på Fiskeridirektoratets hjemmeside www.fd.dk :
+
+1\) Havnekendingsnummer.
+
+2\) Fartøjsnavn.
+
+3\) Radiokaldesignal eller ftj.nr.
+
+4\) EU-identifikation.
+
+5\) Fartøjstype.
+
+6\) Byggeår, værft og fiskestartår.
+
+7\) Bruttotonnage (BT).
+
+8\) Maksimal effekt (kW).
+
+9\) Nedbremset effekt (kW).
+
+10\) Dimensioner (længde overalt, bredde og dybde).
+
+11\) Vigtigste fangstredskaber.
+
+12\) Basishavn.
+
+13\) Kontaktperson. Kendes kontaktpersonen ikke, oplyses fartøjets ejer.
+
+14\) Evt. bemærkninger vedrørende særlige forhold om fartøjet.
+
+## Slettede fiskerfartøjer
+
+### § 2.
+
+Følgende oplysninger om fiskerfartøjer, der efter bekendtgørelsens ikrafttræden er slettet i Fiskeridirektoratets Fartøjsregister, er offentligt tilgængelige på Fiskeridirektoratets hjemmeside www.fd.dk :
+
+1\) Havnekendingsnummer.
+
+2\) Fartøjsnavn.
+
+3\) Radiokaldesignal eller ftj.nr.
+
+4\) EU-identifikation.
+
+5\) Fartøjstype.
+
+6\) Ophørsdato, dvs. den dag, fartøjet er slettet i Fartøjsregistret.
+
+7\) Fartøjsejer på ophørstidspunktet.
+
+8\) Nedbremset effekt (kW).
+
+9\) Bruttotonnage (BT) på ophørstidspunktet.
+
+10\) Bruttotonnage (BT), der er genanvendt i henhold til bekendtgørelse om fartøjer, der anvendes til erhvervsmæssigt fiskeri i saltvand, og dato for tilladelse til genanvendelsen.
+
+11\) Maksimal effekt (kW) på ophørstidspunktet.
+
+12\) Motoreffekt (kW), der er genanvendt i henhold til bekendtgørelse om fartøjer, der anvendes til erhvervsmæssigt fiskeri i saltvand, og dato for tilladelse til genanvendelsen.
+
+13\) Evt. bemærkninger vedrørende bruttotonnage og motoreffekt (disponibel kapacitet).
+
+*Stk. 2.* Spørgsmålet om, hvorvidt der opstår disponibel kapacitet i forbindelse med, at et fartøj slettes i Fartøjsregistret, afgøres af Fiskeridirektoratet i henhold til bekendtgørelse om fartøjer, der anvendes til erhvervsmæssigt fiskeri i saltvand.
+
+## Generelt
+
+### § 3.
+
+Oplysninger, som offentliggøres på Fiskeridirektoratets hjemmeside, jf. §§ 1og 2, er hovedsageligt baseret på oplysninger og indberetninger, som er modtaget af Fiskeridirektoratet i henhold til fiskeriloven og bekendtgørelser udstedt i henhold hertil i forbindelse med registrering mv. af fiskerfartøjer og ansøgninger om genanvendelse af disponibel kapacitet. Fiskeridirektoratet kan ikke indestå for, at oplysningerne på hjemmesiden, jf. §§ 1 og 2, er korrekte eller ajour.
+
+### § 4.
+
+Bekendtgørelsen træder i kraft den 30. december 2005.
+
+*Fiskeridirektoratet, den 15. december 2005*
+
+Esben Egede Rasmussen
+
+/Lene Høgh Mikkelsen

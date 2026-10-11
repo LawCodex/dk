@@ -1,0 +1,44 @@
+---
+title: "Bekendtgørelse om fravigelse af indfødsrets- og bopælskrav ved meddelelse af visse beskikkelser m.v."
+identifier: "BEK nr 746 af 21/08/2003"
+eli: "https://www.retsinformation.dk/eli/lta/2003/746"
+accession_number: "B20030074605"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2003-08-21
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2003/746"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om fravigelse af indfødsrets- og bopælskrav ved meddelelse af visse beskikkelser m.v.
+
+*BEK nr 746 af 21/08/2003*
+
+I medfør af § 5 i lov nr. 447 af 11. oktober 1972 om Danmarks tiltrædelse af De europæiske Fællesskaber og § 2, stk. 1, i lov nr. 963 af 9. december 1992 om Danmarks tiltrædelse af aftale om Det Europæiske Økonomiske Samarbejdsområde (EØS-aftalen) samt bekendtgørelse nr. 6 af 30. januar 2003 om Danmarks ratifikation af aftale af 21. juni 1999 mellem Det Europæiske Fællesskab og dets medlemsstater på den ene side og Det Schweiziske Forbund på den anden side om fri bevægelighed for personer fastsættes efter bemyndigelse:
+
+## § 1.
+
+For personer, som er omfattet af De Europæiske Fællesskabers, EØS-aftalens og aftalen mellem Det Europæiske Fællesskab og Det Schweiziske Forbunds regler om etablering og tjenesteydelser, bortses der fra følgende krav ved beskikkelse og registrering i henhold til de nævnte love:
+
+1\) Krav om dansk indfødsret og bopæl her i landet i henhold til
+
+a) § 1, stk. 2, i lov om translatører og tolke og
+
+b) § 1, stk. 2, i lov om dispachører.
+
+2\) Krav om bopæl her i landet i henhold til § 25, stk. 2, i lov om omsætning af fast ejendom.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. september 2003.
+
+*Stk. 2.* Bekendtgørelse nr. 810 af 12. september 1994 om fravigelse af indfødsrets- og bopælskrav ved meddelelse af visse beskikkelser m.v. ophæves.
+
+*Erhvervs- og Selskabsstyrelsen, den 21. august 2003*
+
+Niels Henrik Englev
+
+/Niels Anker Ring

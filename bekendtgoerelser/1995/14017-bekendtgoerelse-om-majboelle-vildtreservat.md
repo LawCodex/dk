@@ -1,0 +1,122 @@
+---
+title: "Bekendtgørelse om Majbølle Vildtreservat"
+identifier: "BEK nr 14017 af 16/07/1995"
+eli: "https://www.retsinformation.dk/eli/retsinfo/1995/14017"
+accession_number: "B19951401705"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1995-07-16
+status: "in_force"
+ministry: "Ministeriet for Natur og Dyrevelfærd"
+source: "https://www.retsinformation.dk/eli/retsinfo/1995/14017"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om Majbølle Vildtreservat
+
+*BEK nr 14017 af 16/07/1995*
+
+I medfør af § 33, § 49, stk. 1 og 3 samt § 54, stk. 3 i lov nr. 269
+
+af 6. maj 1993 om jagt og vildtforvaltning fastsættes:
+
+*Formål*
+
+## § 1.
+
+Bekendtgørelsen har til formål at sikre den nordlige del af Guldborgsund og en del af Majbølle Nor som yngle-, raste- og forurageringsområde for vandfugle.
+
+*Afgrænsning*
+
+## § 2.
+
+Majbølle Vildtreservat i Storstrøms Amt omfatter den nordlige del af Guldborgsund og en del af Majbølle Nor, som angivet på kortbilag:
+
+- 1\) Guldborgsund afgrænset mod nord af Guldborgbroen og mod syd af motortrafikvejstunnelen (E4) ved Hjelms Nakke.
+- 2\) Følgende landarealer i Majbølle Nor:
+
+\- »Majbølle Nor Fuglereservat«,
+
+matr. nr. 56 Hjelm By, Majbølle.
+
+\- Diget fra Majbølle Ø til motortrafikvejstunnelen, matr. nr. 63 Majbølle By, Majbølle og matr. nr. 66 Hjelm By, Majbølle.
+
+- 3\) Hjelm Ø, matr. nr. 14 *c* Hjelm By, Majbølle.
+- 4\) Majbølle Ø, matr. nr. 13 *b* og 13 *c* Majbølle By, Majbølle.
+
+*Stk. 2.* Mod land afgrænses den i stk. 1, nr. 1 nævnte del af søterritoriet af højeste, daglige vandstandslinie.
+
+*Jagt*
+
+## § 3.
+
+Det er forbudt at udøve jagt på eller på anden måde at ombringe, indfange eller forjagte pattedyr og fugle.
+
+*Stk. 2.* Det er forbudt at medbringe ladt skydevåben på vildtreservatets område.
+
+*Færdsel*
+
+## § 4.
+
+Færdsel er forbudt hele året på det i § 2, stk. 1, nr. 2 nævnte dige samt indenfor indhegningen i »Majbølle Nor Fuglereservat«.
+
+*Stk. 2.* Bestemmelsen i stk. 1 gælder ikke for færdsel, der er nødvendig i forbindelse med drift og vedligeholdelse af arealerne.
+
+## § 5.
+
+Færdsel er forbudt i perioden fra 15. marts til 15. juli på Hjelm Ø og i en afstand af 50 meter fra højeste, daglige vandstandslinie.
+
+*Stk. 2.* Bestemmelsen gælder ikke for:
+
+- 1\) Ejere og brugere samt disses husstand. Det er dog forbudt at medbringe hunde.
+- 2\) Sejlads i forbindelse med erhvervs- og bierhvervsfiskeri.
+
+## § 6.
+
+Motordrevet sejlads med højere hastighed end 10 knob er forbudt udenfor sejlrenden.
+
+*Dispensation og tilsyn*
+
+## § 7.
+
+Skov- og Naturstyrelsen kan, når særlige forhold taler derfor, dispensere fra bestemmelserne i §§ 3-6.
+
+*Stk. 2.* Skov- og Naturstyrelsens afgørelser efter stk. 1 kan ikke indbringes for anden administrativ myndighed.
+
+*Stk. 3.* Uanset bestemmelserne i §§ 4-6 kan Farvandsvæsenet eller andre (f.eks. havne) udføre arbejder i forbindelse med redningsopgaver og den for sejladsen nødvendige afmærkning m.v.
+
+## § 8.
+
+Skov- og Naturstyrelsen fører tilsyn med, at reservatbestemmelserne overholdes.
+
+*Straf og ikrafttrædelse*
+
+## § 9.
+
+Overtrædelse af bestemmelserne i §§ 3-6 eller af vilkår, der er fastsat i en dispensation i medfør af § 7, straffes med bøde, medmindre strengere straf er forskyldt efter den øvrige lovgivning.
+
+*Stk. 2.* Straffen kan stige til hæfte eller fængsel i indtil 2 år, hvis overtrædelsen er begået forsætligt eller ved grov uagtsomhed, og hvis der ved overtrædelsen er
+
+- 1\) forvoldt betydelig skade på de interesser, som lov om jagt og vildtforvaltning § 1, stk. 1 tilsigter at beskytte, eller fremkaldt fare derfor, eller
+- 2\) opnået eller tilsigtet en økonomisk fordel for den pågældende selv eller andre.
+
+## § 10.
+
+Bekendtgørelsen træder i kraft den 1. september 1995.
+
+*Miljø- og Energiministeriet, den 16. juli 1995*
+
+Svend Auken
+
+/ Karen Westerbye-Juhl
+
+**Bilag**
+
++++ KORT +++
+
+Majbølle Vildsreservat
+
+## Officielle noter
+
+Bekendtgørelse uden nummer (offentliggøres i Statstidende)

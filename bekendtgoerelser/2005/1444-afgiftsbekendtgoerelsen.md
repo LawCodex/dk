@@ -1,0 +1,51 @@
+---
+title: "Bekendtgørelse om afgiftssatsen for afgiftsåret 2006 - rentefordel ved penge- og realkreditinstitutters hensættelser"
+short_title: "Afgiftsbekendtgørelsen"
+identifier: "BEK nr 1444 af 20/12/2005"
+eli: "https://www.retsinformation.dk/eli/lta/2005/1444"
+accession_number: "B20050144405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2005-12-20
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2005/1444"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om afgiftssatsen for afgiftsåret 2006 - rentefordel ved penge- og realkreditinstitutters hensættelser
+
+*BEK nr 1444 af 20/12/2005*
+
+I medfør af § 17 E, stk. 3, i lov om påligningen af indkomstskat til staten (ligningsloven), jf. lovbekendtgørelse nr. 887 af 20. september 2005, fastsættes herved:
+
+## § 1.
+
+Afgiftssatsen for afgiftsåret 2006 udgør 0,44 pct.
+
+## § 2.
+
+Tidligere fastsatte afgiftssatser kan ses i efterstående tabel.
+
+## § 3.
+
+Bekendtgørelsen træder i kraft den 1. januar 2006.
+
+Stk. 2. Bekendtgørelsen erstatter cirkulære nr. 6 af 12. januar 2005 om afgiftssatsen for afgiftsåret 2005.
+
+*SKAT, den 20. december 2005*
+
+Ole Kjær
+
+/Henrik Møller Nielsen
+
+## Bilag 1
+
+| Tidligere afgiftssatser har udgjort følgende: |  |
+|---|---|
+| Afgiftsåret 2001 | 0,85 pct. |
+| Afgiftsåret 2002 | 0,69 pct. |
+| Afgiftsåret 2003 | 0,60 pct. |
+| Afgiftsåret 2004 | 0,60 pct. |
+| Afgiftsåret 2005 | 0,52 pct. |

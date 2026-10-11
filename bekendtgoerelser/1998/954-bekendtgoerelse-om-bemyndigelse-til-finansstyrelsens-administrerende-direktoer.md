@@ -1,0 +1,46 @@
+---
+title: "Bekendtgørelse om bemyndigelse til Finansstyrelsens administrerende direktør til at fastsætte forskellige gebyrer og renter"
+identifier: "BEK nr 954 af 16/12/1998"
+eli: "https://www.retsinformation.dk/eli/lta/1998/954"
+accession_number: "B19980095405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1998-12-16
+status: "in_force"
+ministry: "Skatte- og Vækstministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1998/954"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om bemyndigelse til Finansstyrelsens administrerende direktør til at fastsætte forskellige gebyrer og renter
+
+*BEK nr 954 af 16/12/1998*
+
+Bekendtgørelse om bemyndigelse til Finansstyrelsens administrerende direktør til at fastsætte forskellige gebyrer og renter
+
+## § 1.
+
+Finansstyrelsens administrerende direktør bemyndiges til at fastsætte størrelsen af følgende gebyrer og renter:
+
+1\) Gebyrer efter tekstanmærkning nr. 103 til § 7 i de årlige bevillingslove.
+
+2\) Gebyrer i forbindelse med tilbagebetaling af stats- og studielån efter § 38, stk. 2, i lov om statens uddannelsesstøtte.
+
+3\) Renter og gebyrer af statsgaranterede studielån, som overføres til Finansstyrelsen efter § 1 a, stk. 2, i lov om statsgaranterede studielån.
+
+4\) Renter af indfriede statsgaranterede studielån efter § 4, stk. 2, i lov om statsgaranterede studielån.
+
+5\) Renter af misligholdte studielån, slutlån og statslån efter § 36, stk. 3, i lov om statens uddannelsesstøtte.
+
+## § 2.
+
+Bekendtgørelsen træder i kraft den 1. januar 1999.
+
+Stk. 2. Samtidig ophæves Finansministeriets bekendtgørelse nr. 286 af 14. maj 1998 om betaling af gebyrer i forbindelse med tilbagebetaling af stats- og studielån.
+
+*Finansministeriet, den 16. december 1998*
+
+Mogens Lykketoft
+
+/Anders Eldrup

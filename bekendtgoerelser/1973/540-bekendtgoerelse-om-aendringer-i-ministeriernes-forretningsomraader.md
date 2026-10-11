@@ -1,0 +1,54 @@
+---
+title: "Bekendtgørelse om ændringer i ministeriernes forretningsområder (Miljøministeriet)"
+identifier: "BEK nr 540 af 05/10/1973"
+eli: "https://www.retsinformation.dk/eli/lta/1973/540"
+accession_number: "B19730054005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1973-10-05
+status: "in_force"
+ministry: "Statsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1973/540"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om ændringer i ministeriernes forretningsområder (Miljøministeriet)
+
+*BEK nr 540 af 05/10/1973*
+
+(Miljøministeriet)
+
+Ved kgl. resolution af 27. september 1973 blev det bestemt, at ministeriet for forureningsbekæmpelse skulle omdannes til et miljøministerium, og at der til dette ministerium, foruden de under ministeriet for forureningsbekæmpelse hørende områder, skulle henføres sager vedrørende fysisk planlægning og fredning. Den nærmere afgrænsning af miljøministeriets forretningsområde ville senere blive fastsat.
+
+På statsministeriets derom nedlagte forestilling er det ved kgl. resolution af 5. oktober 1973 herefter bestemt, at der til miljøministeriet ud over det under det tidligere ministerium for forureningsbekæmpelse hørende forretningsområde: lovgivningen om miljøbeskyttelse, levnedsmidler, vandløb, vandforsyning, gifte og sundhedsfarlige stoffer og lovgivningen om midler til bekæmpelse af plantesygdomme m.v. samt miljøstyrelsen og statens levnedsmiddelinstitut, med virkning fra den 5. oktober 1973 at regne overføres følgende områder:
+
+fra boligministeriet:
+
+byplanloven, loven om lands- og regionplanlægning, loven om regionplanlægning i hovedstadsområdet, loven om by- og landzoner, loven om planlægning af Køge Bugt-området, loven om sommerhuse og campering m.v., loven om erhvervelse af fast ejendom til fritidsformål, § 17 i lov om frigørelsesafgift m.v. af fast ejendom, lov om statens bygge- og boligfond med undtagelse af bestemmelserne om støtte til betaling af beboerindskud, parcelsalgsloven, administrationen af Vestvolden, bestemmelserne af generel bebyggelsesregulerende karakter i byggeloven og bestemmelserne i denne lovs §§ 20b, 21-27 og 56-59a, bestemmelserne af generel bebyggelsesregulerende karakter i byggeloven for staden København og bestemmelserne i denne lovs §§ 15-30 og 41-43 samt den kommitterede i byplansager, landsplanudvalgets sekretariat, planlægningsudvalget for Køge Bugt-området, byudviklingsudvalgene, vurderingskommissioner, taksationskommissioner og byplannævnet,
+
+fra indenrigsministeriet:
+
+loven om tilbudspligt,
+
+fra landbrugsministeriet:
+
+statsskovvæsenet og klitvæsenet, sandflugtsvæsenet, skovlovgivningen, statens skovtilsyn, øer på søterritoriet, loven om brunkullejer, mergelvæsenet samt direktoratet for statsskovbruget,
+
+fra ministeriet for kulturelle anliggender:
+
+lovgivningen vedrørende naturfredning og bygningsfredning samt overfredningsnævnet, fredningsnævnene, fredningsplanudvalgene, statens naturfrednings- og landskabskonsulent, naturfredningsrådet, taksationskommissionen, rigsantikvarens fortidsmindeforvaltning, landskabslaboratoriet Røsnæs, statens bygningsfredningsfond og Det særlige bygningssyn,
+
+fra ministeriet for offentlige arbejder:
+
+råstofloven og loven om kystfredning.
+
+*Statsministeriet, den 5. oktober 1973.*
+
+Anker Jørgensen
+
+/ A. Lund-Sørensen.
+
+## Officielle noter
+
+Ingen

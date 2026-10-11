@@ -1,0 +1,44 @@
+---
+title: "Bekendtgørelse om godkendelse af frikommuneregulativ nr. 1 for Nordjyllands amtskommune om iværksættelse og finansiering af erhvervspolitiske initiativer"
+identifier: "BEK nr 650 af 15/09/1986"
+eli: "https://www.retsinformation.dk/eli/lta/1986/650"
+accession_number: "B19860065005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1986-09-15
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1986/650"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om godkendelse af frikommuneregulativ nr. 1 for Nordjyllands amtskommune om iværksættelse og finansiering af erhvervspolitiske initiativer
+
+*BEK nr 650 af 15/09/1986*
+
+I henhold til § 5, stk. 3, i lov nr. 309 af 4. juni 1986 om frikommuner meddeles:
+
+## § 1.
+
+Industriministeren har den 15. september 1986 godkendt frikommuneregulativ nr. 1 for Nordjyllands amtskommune om iværksættelse og finansiering af erhvervspolitiske initiativer.
+
+## § 2.
+
+Det i § 1 nævnte frikommuneregulativ indebærer, at Nordjyllands amtskommune med henblik på at fremme erhvervsudviklingen i Nordjylland kan iværksætte og finansiere erhvervspolitiske aktiviteter, som egner sig for kommunale initiativer, og som er afstemt i forhold til landspolitiske retningslinier og ikke findes overlappende i forhold til eksisterende statslige erhvervsfremmeordninger.
+
+## § 3.
+
+Det i § 1 nævnte frikommuneregulativ træder i kraft den 15. september 1986. Frikommuneregulativet gælder til og med den 31. december 1989.
+
+*Stk. 2.* Det i § 1 nænvte frikommuneregulativ vil være fremlagt de samme steder som amtsrådets mødedagsordener m.v., jfr. lov om kommunernes styrelse § 9, stk. 3.
+
+*Industriministeriet, den 15. september 1986*
+
+Nils Wilhjelm
+
+/T. Studnitz
+
+## Officielle noter
+
+Ingen

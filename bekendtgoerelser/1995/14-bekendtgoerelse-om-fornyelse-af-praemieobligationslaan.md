@@ -1,0 +1,58 @@
+---
+title: "Bekendtgørelse om fornyelse af præmieobligationslån"
+identifier: "BEK nr 14 af 11/01/1995"
+eli: "https://www.retsinformation.dk/eli/lta/1995/14"
+accession_number: "B19950001405"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1995-01-11
+status: "in_force"
+ministry: "Finansministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1995/14"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om fornyelse af præmieobligationslån
+
+*BEK nr 14 af 11/01/1995*
+
+I medfør af § 2 i lov nr. 133 af 28. marts 1984 om bemyndigelse til
+
+optagelse af indenlandske statslån fastsættes:
+
+## § 1.
+
+Til erstatning for det i henhold til lov nr. 208 af 4. juni 1965 udstedte 10-årige præmieobligationslån, der forfalder til betaling den 22. september 1995, optages et nyt statslån på 100 mill. kr.1)
+
+## § 2.
+
+Det nye lån optages således, at gyldigheden af de udstedte 1 million stk. præmieobligationer, hver af pålydende værdi 100 kr., forlænges for en 15-årig periode fra den 22. september 1995.
+
+*Stk. 2.* Obligationerne, der ikke er rentebærende, deltager fortsat i halvårlige præmieudstrækninger til et beløb af 3.500.000 kr. Præmiebetaling foregår på grundlag af udtrækning mellem samtlige obligationer af lånet.
+
+## § 3.
+
+Obligationsejere, der ønsker deres præmieobligationer indløst, er fra den 22. september 1995 berettigede til at få obligationerne betalt af statskassen med pålydende værdi uden fradrag af skat eller afgift til staten.
+
+*Stk. 2.* Obligationer i henhold til denne bekendtgørelse er forældet, såfremt de ikke er indløst senest den 22. september 2013.
+
+## § 4.
+
+Præmieobligationer, som måtte blive indløst efter bestemmelserne i § 3, kan af finansministeren straks eller senere afhændes til dagskurs.
+
+## § 5.
+
+Bekendtgørelsen træder i kraft den 22. september 1995.
+
+*Finansministeriet, den 11. januar 1995*
+
+Mogens Lykketoft
+
+/ Per Bremer Rasmussen
+
+## Officielle noter
+
+Ved bekendtgørelsen forlænges de grå præmieobligationer til 22. september 2010.
+
+(\* 1) Lånet blev ved lov nr. 593 af 18. december 1974 fornyet for en 20-årig periode fra den 22. september 1975.

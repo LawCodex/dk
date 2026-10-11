@@ -1,0 +1,40 @@
+---
+title: "Bekendtgørelse om regulering af forsikringsdækningsbeløb i henhold til færdselsloven"
+identifier: "BEK nr 970 af 12/12/1995"
+eli: "https://www.retsinformation.dk/eli/lta/1995/970"
+accession_number: "B19950097005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 1995-12-12
+status: "in_force"
+ministry: "By-, Land- og Transportministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1995/970"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om regulering af forsikringsdækningsbeløb i henhold til færdselsloven
+
+*BEK nr 970 af 12/12/1995*
+
+I henhold til § 105, stk. 3, i færdselsloven, jf. lovbekendtgørelse nr. 735 af 24. august 1992, som ændret ved lov nr. 469 af 30. juni 1993, lov nr. 98 af 9. februar 1994, lov nr. 382 af 18. maj 1994, lov nr. 258 af 19. april 1995 og lov nr. 317 af 17. maj 1995, fastsættes:
+
+## § 1.
+
+Efter færdselslovens § 105, stk. 3, reguleres de i lovens § 105, stk. 2, nævnte beløb hvert år pr. 1. januar med 2 pct. tillagt tilpasningsprocenten for det pågældende finansår, jf. lov om en satsreguleringsprocent (lov nr. 385 af 13. juni 1990 som ændret ved lov nr. 450 af 30. juni 1993). De herefter fremkomne beløb afrundes til nærmeste med 1 million delelige kronebeløb.
+
+*Stk. 2.* Tilpasningsprocenten for finansåret 1996 udgør 0,7.
+
+## § 2.
+
+Med virkning for skader, der indtræder i perioden 1. januar 1996-31. december 1996, udgør de i lovens § 105, stk. 2, nævnte beløb henholdsvis 69 mill. kr. og 14 mill. kr.
+
+*Trafikministeriet, den 12. december 1995*
+
+Jan Trøjborg
+
+/ Vibeke R. von Stemann
+
+## Officielle noter
+
+Ingen

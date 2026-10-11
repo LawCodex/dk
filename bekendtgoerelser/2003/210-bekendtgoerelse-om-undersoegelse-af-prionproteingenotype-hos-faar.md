@@ -1,0 +1,67 @@
+---
+title: "Bekendtgørelse om undersøgelse af prionproteingenotype hos får"
+identifier: "BEK nr 210 af 26/03/2003"
+eli: "https://www.retsinformation.dk/eli/lta/2003/210"
+accession_number: "B20030021005"
+type: "executive_order"
+jurisdiction: "dk"
+language: "da"
+date: 2003-03-26
+status: "in_force"
+ministry: "Ministeriet for Fødevarer, Landbrug og Fiskeri"
+source: "https://www.retsinformation.dk/eli/lta/2003/210"
+retrieved: 2026-10-11
+---
+
+# Bekendtgørelse om undersøgelse af prionproteingenotype hos får
+
+*BEK nr 210 af 26/03/2003*
+
+I medfør af § 5, § 9, stk. 1, § 13, § 15, § 16, § 35, stk. 1 og 2, § 42 og § 43, stk. 2, i lov nr. 351 af 2. juni 1999 om sygdomme og infektioner hos dyr, som ændret ved lov nr. 966 af 4. december 2002, og efter bemyndigelse fra ministeren for fødevarer, landbrug og fiskeri, fastsættes:
+
+## § 1.
+
+Den ansvarlige for en fårebesætning skal på Fødevaredirektoratets anmodning, lade udtage blodprøver eller andet materiale fra får i besætningen til undersøgelse for prionproteingenotype.
+
+*Stk. 2.* Udtagningen og indsendelsen af prøverne forestås af fødevareregionen.
+
+*Stk. 3.* Fødevaredirektoratet kan lade blodprøver eller andet materiale, udtaget i anden anledning undersøge for prionproteingenotype.
+
+## § 2.
+
+Resultaterne af undersøgelserne vil blive indberettet til fåreregistreringen i Dansk Kvægs kvægdatabase og besætningsresultatet vil blive indberettet til det Centrale HusdyrbrugsRegister (CHR).
+
+*Stk. 2.* Resultaterne fra undersøgelserne vil blive benyttet til, at kortlægge udbredelsen af prionproteingenotyper hos får og i forbindelse med udarbejdelsen af et avlsprogram, som skal sikre en fårebestand med øget modstandsdygtighed mod fåresygdommen scrapie.
+
+*Stk. 3.* De i stk. 1 og 3 nævnte blodprøver og andet materiale fra får vil indgå i forskningsprojekter vedrørende prionproteiner og Transmissibel Spongiform Encephalopati (TSE).
+
+## § 3.
+
+Fødevaredirektoratet afholder udgifterne til:
+
+1\) Udtagelse, indsendelse og undersøgelse af de i § 1, stk. 1, nævnte prøver.
+
+2\) Undersøgelse af de i § 1, stk. 3 nævnte prøver.
+
+*Stk. 2.* Alle andre udgifter end de i stk. 1 nævnte er Fødevaredirektoratet uvedkommende.
+
+## § 4.
+
+Overtrædelse af § 1, stk. 1 straffes med bøde.
+
+*Stk. 2.* Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+
+## § 5.
+
+Bekendtgørelsen træder i kraft den 5. april 2003.
+
+*Fødevaredirektoratet, den 26. marts 2003*
+
+P.D.V.\
+Christian Halgaard
+
+/Tina Lund Jensen
+
+## Officielle noter
+
+<sup>1)</sup> Bekendtgørelsen gennemfører visse dele af Kommissionens beslutning 2002/1003/EF af 18. december 2002 om minimumskrav til en undersøgelse af prionproteingenotyper hos fåreracer (EF-Tidende 2002 L 349, s. 105).
