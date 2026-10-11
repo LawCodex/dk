@@ -1,0 +1,36 @@
+---
+title: "Anordning om ophævelse af anordninger om visse forholdsregler mod Libyen"
+identifier: "AND nr 537 af 25/06/1999"
+eli: "https://www.retsinformation.dk/eli/lta/1999/537"
+accession_number: "B19990053703"
+type: "royal_ordinance"
+jurisdiction: "dk"
+language: "da"
+date: 1999-06-25
+status: "in_force"
+ministry: "Udenrigsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1999/537"
+retrieved: 2026-10-11
+---
+
+# Anordning om ophævelse af anordninger om visse forholdsregler mod Libyen
+
+*AND nr 537 af 25/06/1999*
+
+Anordning om ophævelse af anordninger om visse forholdsregler mod Libyen
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+## § 1.
+
+Anordning nr. 253 af 14. april 1992 om visse forholdsregler mod Libyen samt anordning nr. 1147 af 22. december 1993 om visse forholdsregler mod Libyen ophæves.
+
+§ 2. Anordningen træder i kraft ved bekendtgørelsen i Lovtidende og har virkning fra den 5. april 1999.
+
+*Givet på Amalienborg, den 25. juni 1999*
+
+Under Vor Kongelige Hånd og Segl
+
+Margrethe R.
+
+/Niels Helveg Petersen

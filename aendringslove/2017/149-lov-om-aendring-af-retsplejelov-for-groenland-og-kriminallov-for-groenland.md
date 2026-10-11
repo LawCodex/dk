@@ -1,0 +1,30 @@
+---
+title: "Lov om ændring af retsplejelov for Grønland og kriminallov for Grønland (Telefonforkyndelse, magtanvendelse i grønlandske anstalter samt tilhold, opholdsforbud og bortvisning m.v.)"
+identifier: "LOV nr 149 af 07/02/2017"
+eli: "https://www.retsinformation.dk/eli/lta/2017/149"
+accession_number: "A20170014930"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2017-02-07
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2017/149/Pdf"
+text_source: "Lovtidende PDF (text extracted automatically)"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af retsplejelov for Grønland og kriminallov for Grønland (Telefonforkyndelse, magtanvendelse i grønlandske anstalter samt tilhold, opholdsforbud og bortvisning m.v.)
+
+*LOV nr 149 af 07/02/2017*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Folketinget har vedtaget og Vi ved Vort samtykke stadfæstet følgende lov: § 1 I retsplejelov for Grønland, lov nr. 305 af 30. april 2008, som ændret bl.a. ved lov nr. 740 af 25. juni 2014 og senest ved lov nr. 639 af 8. juni 2016, foretages følgende ændringer: 1. I § 54 indsættes efter nr. 14 som nyt nummer: »15) Sager om prøvelse af afgørelser om tilhold, opholdsforbud og bortvisning.« Nr. 15 bliver herefter nr. 16. 2. I § 55 ændres »og søforklaringer« til: »søforklaringer«, og efter »jf. § 54, nr. 12,« indsættes: »og sager om prøvelse af afgørelser om tilhold, opholdsforbud og bortvisning, jf. § 54, nr. 15,«. 3. I § 57, stk. 1, ændres »§ 54, nr. 15.« til: »§ 54, nr. 16.« 4. Efter § 129 indsættes: »§ 129 a. Anvendelse af kommunikation pr. sms kan ske, hvis
+
+- 1\) der er tale om en efterfølgende bekræftelse på en telefonforkyndelse eller
+- 2\) der er tale om en påmindelse til den, der skal give møde i retten, om tid og sted for det pågældende retsmøde.« 5. I § 133, stk. 1, nr. 2, ændres »postforkyndelse eller« til: »postforkyndelse,«. 6. I § 133, stk. 1, nr. 3, ændres »brevforkyndelse.« til: »brevforkyndelse eller«. 7. I § 133, stk. 1, indsættes som nr. 4: »4) telefonforkyndelse.« 8. I § 133 indsættes som stk. 5 og 6: »Stk. 5. Telefonforkyndelse sker, ved at den meddelelse, der skal forkyndes, med eventuelle bilag telefonisk gives den pågældende, der forinden eller efterfølgende får tilsendt eller overdraget dokumentet og efterfølgende får tilsendt en bekræftelse på forkyndelsen. Ved telefonforkyndelse anses meddelelsen for forkyndt, hvis personen vedkender sig at være den person, der skal ske forkyndelse for, og personen må antages at have forstået telefonsamtalen. Forkyndelsen anses for sket den dag, meddelelsen telefonisk gives den pågældende.
+
+*Stk. 6.* Forkyndelsesformerne i stk. 1, nr. 1-3, kan anvendes, når der skal ske forkyndelse for selskaber, foreninger, fonde og boer m.v. (juridiske personer).« 9. I § 134 indsættes efter »Brevforkyndelse«: »og telefonforkyndelse«. 10. I § 139, stk. 1, indsættes som 2. pkt.: »Ansatte ved retterne kan foretage telefonforkyndelser uden særlig beskikkelse.« 11. I § 139, stk. 2, ændres »personer til som stævningsmand at foretage forkyndelser« til: »stævningsmænd til at foretage stævningsmandsforkyndelser og telefonforkyndelser«. 12. I § 139, stk. 3, ændres »som stævningsmand at foretage enkelte forkyndelser« til: »at foretage enkelte stævningsmandsforkyndelser og telefonforkyndelser«. 13. I § 420, stk. 1, indsættes efter »offentlig påtale,«: »eller en krænkelse som nævnt i § 2, stk. 1, nr. 1, i lov om tilhold, opholdsforbud og bortvisning«. § 2 I kriminallov for Grønland, lov nr. 306 af 30. april 2008, som ændret ved § 1 i lov nr. 735 af 25. juni 2014 og § 4 i lov nr. 103 af 3. februar 2016, foretages følgende ændringer: 1. § 94, stk. 2, ophæves. 2. I § 173 udgår »Justitsministeriet,«. Lovtidende A 2017 Udgivet den 8. februar 2017 Justitsmin., j.nr. 2014-411-0050 3. I § 222, stk. 2, ændres »skub og stav« til: »skjold, stav og peberspray«. § 3
+
+*Stk. 1.* Loven træder i kraft den 1. april 2017.
+
+*Stk. 2.* § 2, nr. 1, finder ikke anvendelse for overtrædelse af advarsler meddelt før lovens ikrafttræden. For sådanne overtrædelser finder de hidtil gældende regler anvendelse. Givet på Amalienborg, den 7. februar 2017 Under Vor Kongelige Hånd og Segl MARGRETHE R. / Søren Pape Poulsen

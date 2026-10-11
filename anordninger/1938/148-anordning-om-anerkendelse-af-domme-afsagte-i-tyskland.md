@@ -1,0 +1,56 @@
+---
+title: "Anordning om Anerkendelse af Domme afsagte i Tyskland."
+identifier: "AND nr 148 af 13/04/1938"
+eli: "https://www.retsinformation.dk/eli/lta/1938/148"
+accession_number: "B19380014803"
+type: "royal_ordinance"
+jurisdiction: "dk"
+language: "da"
+date: 1938-04-13
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1938/148"
+retrieved: 2026-10-11
+---
+
+# Anordning om Anerkendelse af Domme afsagte i Tyskland.
+
+*AND nr 148 af 13/04/1938*
+
+Vi Christian den Tiende, af Guds Naade Konge til Danmark og Island, de Venders og Goters, Hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gøre vitterligt: I Medfør af § 223 a i Lov om Rettens Pleje af 11. April 1916, jfr. Lovbekendtgørelse Nr. 212 af 1. Oktober 1936, fastsættes herved følgende:
+
+§ 1.
+
+Retskraftige tyske Domme om formueretlige Krav, som er afsagt i borgerlige Sager, derunder sø- og handelsretlige Sager, har bindende Virkning i Danmark.
+
+Lige med retskraftige Domme stilles de for en Ret eller et »Guetestelle« indgaaede Forlig samt retskraftige Afgørelser, som i borgerlige Sager, derunder sø- og handelsretlige Sager, enten i Dommen eller særskilt, er truffet om Erstatning for Sagsomkostninger. § 2.
+
+Bindende Virkning her i Riget tilkommer dog kun de i § 1 nævnte Domme og Forlig under Forudsætning af, at Anerkendelsen af Dommen eller Forliget ikke vilde stride mod ufravigelige danske Retsgrundsætninger. § 3.
+
+De i § 1 nævnte Domme har derhos kun bindende Virkning her i Riget under Forudsætning af, at de tyske Domstole efter danske Love har været kompetente.
+
+Bindende Virkning her i Riget tilkommer dog ikke tyske Domme, hvis Kompetencen alene begrundes i det i tysk Zivilprozessordnung § 23 hjemlede Værneting, eller hvis Sagen er behandlet ved en i Henhold til tysk Zivilprozessordnung § 26 eller § 34 kompetent Ret. § 4.
+
+Udeblivelsesdom, som i Tyskland er afsagt over en sagsøgt, som er dansk Statsborger, har kun bindende Virkning her i Riget, naar Stævningen rettidig er forkyndt enten for den paagældende personlig eller efter de mellem Danmark og Tyskland gældende Regler om Retshjælp. § 5.
+
+Bestemmelserne i denne Anordning finder ikke Anvendelse paa Domme og Forlig vedrørende person- eller familieretlige Krav.
+
+Udenfor Bestemmelserne falder ogsaa Afgørelse, der er truffet af de særlige Domstole for Arbejdstvistigheder. § 6.
+
+Denne Anordning træder i Kraft den 1. Juli 1938, og de her givne Bestemmelser finder ikke Anvendelse paa Domme, der er afsagt, eller Forlig, som er indgaaet før det nævnte Tidspunkt.
+
+Hvorefter alle vedkommende sig have at rette.
+
+*Givet paa Amalienborg, den 13. April 1938.*
+
+Under Vor Kongelige Haand og Segl.
+
+Christian R.
+
+(L.S.)
+
+/Steincke.
+
+## Officielle noter
+
+Ingen

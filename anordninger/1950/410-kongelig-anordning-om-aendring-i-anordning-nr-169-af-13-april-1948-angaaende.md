@@ -1,0 +1,46 @@
+---
+title: "Kongelig anordning om ændring i anordning nr. 169 af 13. april 1948 angående fuldbyrdelse af fængselsstraf for personer, der er dømt efter lov nr. 395 af 12. juli 1946 om straf for krigsforbrydelser."
+identifier: "AND nr 410 af 13/10/1950"
+eli: "https://www.retsinformation.dk/eli/lta/1950/410"
+accession_number: "B19500041003"
+type: "royal_ordinance"
+jurisdiction: "dk"
+language: "da"
+date: 1950-10-13
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1950/410"
+retrieved: 2026-10-11
+---
+
+# Kongelig anordning om ændring i anordning nr. 169 af 13. april 1948 angående fuldbyrdelse af fængselsstraf for personer, der er dømt efter lov nr. 395 af 12. juli 1946 om straf for krigsforbrydelser.
+
+*AND nr 410 af 13/10/1950*
+
+Vi Frederik den Niende, af Guds nåde konge til Danmark, de Venders og Goters, hertug til Slesvig, Holsten, Stormarn, Ditmarsken, Lauenborg og Oldenborg, Gør vitterligt:
+
+I medfør af § 7 i lov nr. 395 af 12. juli 1946 om straf for krigsforbrydelser fastsættes herved følgende:
+
+## § 1
+
+Justitsministeren bemyndiges til at bestemme, at tyske statsborgere, der i henhold til lov nr. 395 af 12. juli 1946 om straf for krigsforbrydelser ved dansk domstol er idømt straf af fængsel i 12 år eller derover, skal afsone straffen i Tyskland, for så vidt vedkommende i henhold til derom indgået overenskomst mellem den danske regering og besættelsesmyndighederne i Tyskland af disse vil blive modtaget til afsoning der.
+
+## § 2
+
+Denne anordning træder i kraft straks.
+
+Hvorefter alle vedkommende sig har at rette.
+
+*Givet på Christiansborg, den 13. oktober 1950.*
+
+Under Vor kongelige hånd og segl.
+
+Frederik R.
+
+(L.S.)//---------
+
+Steincke.
+
+## Officielle noter
+
+Ingen

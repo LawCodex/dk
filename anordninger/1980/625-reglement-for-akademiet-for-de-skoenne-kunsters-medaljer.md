@@ -1,0 +1,68 @@
+---
+title: "Reglement for Akademiet for de skønne Kunsters medaljer"
+identifier: "AND nr 625 af 21/11/1980"
+eli: "https://www.retsinformation.dk/eli/lta/1980/625"
+accession_number: "B19800062503"
+type: "royal_ordinance"
+jurisdiction: "dk"
+language: "da"
+date: 1980-11-21
+status: "in_force"
+ministry: "Kulturministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1980/625"
+retrieved: 2026-10-11
+---
+
+# Reglement for Akademiet for de skønne Kunsters medaljer
+
+*AND nr 625 af 21/11/1980*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt: Herved fastsættes følgende bestemmelser for de under Akademiet for de skønne Kunster hørende medaljer:
+
+## § 1.
+
+Akademiets medaljer er C. F. Hansen Medaillen, Thorvaldsen Medaillen, Eckersberg Medaillen, Thorvald Bindesbøll Medaljen og N. L. Høyen Medaljen.
+
+## § 2.
+
+Med C. F. Hansen Medaillen kan Akademiet for de skønne Kunster hædre et menneske for fremragende arbejde inden for den bundne kunst. Det kongelige Akademi for de skjønne Kunster lod medaljen præge i sølv i anledning af C. F. Hansens halvtredsårs embedsjubilæum i 1830. C. F. Hansen Medaillen er den højeste udmærkelse, Akademiet kan tildele en arkitekt.
+
+## § 3.
+
+Med Thorvaldsen Medaillen kan Akademiet for de skønne Kunster hædre et menneske for fremragende arbejde inden for den frie kunst. Det kongelige Akademi for de skjønne Kunster lod i 1838 Thorvaldsen Medaillen præge i sølv i anledning af hidsendelsen af mesterens arbejder fra Rom. Thorvaldsen Medaillen er den højeste udmærkelse, Akademiet kan tildele en billedkunstner.
+
+## § 4.
+
+Med Eckersberg Medaillen kan Akademiet for de skønne Kunster udmærke et menneske, der har ydet en indsats af høj kunstnerisk kvalitet inden for den frie eller den bundne kunst. Det kongelige Akademi for de skjønne Kunster lod medaljen præge i bronze i anledning af hundredårsdagen for C. V. Eckersbergs fødsel den 2. januar 1783.
+
+## § 5.
+
+Med Thorvald Bindesbøll Medaljen kan Akademiet for de skønne Kunster udmærke et menneske, der har ydet en indsats af høj kvalitet inden for brugskunst og industriel grafik. Akademiet for de skønne Kunster indstiftede medaljen i 1979 i femoghalvfjerdsåret for trykningen af Thorvald Bindesbølls »Carlsberg Pilsner« etiket.
+
+## § 6.
+
+Med N. L. Høyen Medaljen kan Akademiet for de skønne Kunster udmærke et menneske, der har ydet en indsats af høj kvalitet inden for forskning, fortolkning eller formidling af de skønne kunster. Akademiet for de skønne Kunster indstiftede medaljen i 1979 i anledning af halvandenhundredåret for N. L. Høyens udnævnelse til professor ved Det kongelige Akademi for de skjønne Kunster.
+
+## § 7.
+
+Akademiets medaljer kan kun tildeles udlændinge efter godkendelse fra Ministeriet for kulturelle anliggender. De kan kun tildeles samme person en gang, og de kan ikke tildeles kunstnere, der er medlemmer af Akademiraadet.
+
+## § 8.
+
+Akademiets medaljer uddeles af Akademiraadet. Tildeling sker efter drøftelse på mindst to møder i Raadet. Ved det første møde bringes kandidater i forslag. Ved det sidste møde afgives indstilling til Raadet ledsaget af en skriftlig motivering. På grundlag heraf træffer Akademiraadet beslutning ved skriftlig afstemning. Tildeling er besluttet, når otte medlemmer stemmer for.
+
+## § 9.
+
+Når en medalje er tildelt, meddeles dette medaljemodtageren skriftligt med angivelse af den under § 8 nævnte motivering. Medaljen forsynes med modtagerens navn og året for tildelingen. Overrækkelse af medaljer sker normalt ved Akademiets Stiftelsesfest.
+
+*Givet på Amalienborg, den 21. november 1980*
+
+Under vor Kongelige Hånd og Segl
+
+MARGRETHE R
+
+/Lise Østergaard
+
+## Officielle noter
+
+Ingen

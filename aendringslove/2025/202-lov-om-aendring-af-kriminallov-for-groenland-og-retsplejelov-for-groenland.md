@@ -1,0 +1,26 @@
+---
+title: "Lov om ændring af kriminallov for Grønland og retsplejelov for Grønland (Styrket indsats mod stalking, kriminalisering af identitetsmisbrug og afbrydelse af påtalefrist m.v.)"
+identifier: "LOV nr 202 af 25/02/2025"
+eli: "https://www.retsinformation.dk/eli/lta/2025/202"
+accession_number: "A20250020230"
+type: "amending_act"
+jurisdiction: "dk"
+language: "da"
+date: 2025-02-25
+status: "in_force"
+ministry: "Justitsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2025/202/Pdf"
+text_source: "Lovtidende PDF (text extracted automatically)"
+retrieved: 2026-10-11
+---
+
+# Lov om ændring af kriminallov for Grønland og retsplejelov for Grønland (Styrket indsats mod stalking, kriminalisering af identitetsmisbrug og afbrydelse af påtalefrist m.v.)
+
+*LOV nr 202 af 25/02/2025*
+
+VI FREDERIK DEN TIENDE, af Guds Nåde Danmarks Konge, gør vitterligt: Folketinget har vedtaget og Vi ved V ort samtykke stadfæstet følgende lov: § 1 I kriminallov for Grønland, jf. lovbekendtgørelse nr. 1187 af 18. september 2023, som ændret ved § 1 i lov nr. 1782 af 28. december 2023 og § 1 i lov nr. 411 af 23. april 2024, foretages følgende ændringer: 1. § 21, stk. 5, affattes således: »Stk. 5. Påtalefristen afbrydes, når den pågældende gøres bekendt med sigtelsen, eller når anklagemyndigheden anmoder om rettergangsskridt, hvorved den pågældende sigtes for overtrædelsen. Påtalefristen for en juridisk persons ansvar kan afbrydes over for en person, der efter retsplejelovens § 135 kan modtage forkyndelser på den juridiske persons vegne.« 2. I § 22, stk. 5, udgår »og 6«. 3. Efter § 88 a indsættes: »§ 88 b. For stalking dømmes den, der på en måde, som er egnet til at krænke en anden persons fred, systematisk og vedvarende kontakter, forfølger eller på anden måde chikanerer den pågældende.« 4. Efter § 95 indsættes: »§ 95 a. For identitetsmisbrug dømmes den, der uberettiget
+
+- 1\) anvender oplysninger om en anden person, herunder cpr-nummer, navn og billede, til på utilbørlig vis at udgive sig for at være denne person eller
+- 2\) videregiver materiale, hvor der er gjort brug af oplysninger om en anden person, herunder cpr-nummer, navn og billede, til på utilbørlig vis at manipulere denne persons fremtræden.« 5. § 99, stk. 5 og 6, ophæves, og i stedet indsættes: »Stk. 5. Er en ærefornærmende sigtelse ubeføjet, optages der efter forurettedes påstand en bemærkning herom i domsslutningen.« Stk. 7 bliver herefter stk. 6. 6. Efter § 99 indsættes: »§ 99 a. Ved dom for overtrædelse af §§ 94, 95 a og 99 kan det samtidig bestemmes, at en udtalelse, en meddelelse eller et billede m.v. skal slettes, hvis det er muligt.
+
+*Stk. 2.* Forpligtelsen efter stk. 1 påhviler den, der dømmes for overtrædelsen. Har denne ikke rådighed over udtalelsen, meddelelsen eller billedet, kan forpligtelsen pålægges den, som har en sådan rådighed.« 7. Efter § 160 indsættes: »§ 160 a. Justitsministeren kan efter forhandling med Naalakkersuisut, social- og boligministeren og indenrigs- og sundhedsministeren fastsætte regler om meddelelse af tilladelse til udgang m.v. til personer, der er anbragt på hospital eller anden institution i henhold til en afgørelse truffet i medfør af § 157. Justitsministeren kan i den forbindelse fastsætte regler om, at kompetencen til meddelelse og tilbagekaldelse af tilladelse til udgang m.v. kan delegeres til overlægen på psykiatriske afdelinger og til lederen og lederens stedfortræder på boformer, jf. § 108 i lov om social service, der drives af kommuner, regioner og private. Justitsministeren kan i den forbindelse endvidere fastsætte, at afgørelser, der træffes i medfør af disse regler, ikke kan indbringes for højere administrativ myndighed.« 8. § 262, stk. 2, ophæves. Stk. 3 bliver herefter stk. 2. § 2 I retsplejelov for Grønland, jf. lovbekendtgørelse nr. 1186 af 18. september 2023, som ændret bl.a. ved § 2 i lov nr. 1782 af 28. december 2023 og senest ved lov nr. 1463 af 10. december 2024, foretages følgende ændringer: 1. I § 301, nr. 2, ændres »forening eller« til: »forening,«. Lovtidende A 2025 Udgivet den 26. februar 2025 Justitsmin., j.nr. 2023-05061 2. I § 301, nr. 3, ændres »arveret.« til: »arveret eller«. 3. I § 301 indsættes som nr. 4: »4) mortifikation efter kriminallovens § 99, stk. 5, eller pålæg efter kriminallovens § 99 a, når ærefornærmelser påtales offentligt.« 4. I § 336 b, stk. 1, 1. pkt., indsættes efter »psykisk vold,«: »stalking,«. 5. I § 340 a, stk. 1, nr. 2, litra b, ændres »eller § 88 a« til: »§ 88 a eller § 88 b«. 6. I § 361, stk. 4, 1. pkt., indsættes efter »kan«: »efter forhandling med Naalakkersuisut, social- og boligministeren og indenrigs- og sundhedsministeren«. 7. I § 436 indsættes som stk. 6: »Stk. 6. Justitsministeren kan efter forhandling med Naalakkersuisut, social- og boligministeren og indenrigs- og sundhedsministeren fastsætte regler om meddelelse af tilladelse til udgang m.v. til personer, der er indlagt på hospital m.v. i medfør af stk. 3, når der ikke i øvrigt er taget stilling hertil. Justitsministeren kan i den forbindelse fastsætte, at afgørelser, der træffes i medfør af disse regler, ikke kan indbringes for højere administrativ myndighed.« § 3 Loven træder i kraft den 1. marts 2025. Givet på Amalienborg, den 25. februar 2025 Under V or Kongelige Hånd og Segl FREDERIK R. / Peter Hummelgaard

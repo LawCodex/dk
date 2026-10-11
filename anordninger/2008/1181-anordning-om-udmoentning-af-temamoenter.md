@@ -1,0 +1,90 @@
+---
+title: "Anordning om udmøntning af temamønter"
+identifier: "AND nr 1181 af 09/12/2008"
+eli: "https://www.retsinformation.dk/eli/lta/2008/1181"
+accession_number: "B20080118103"
+type: "royal_ordinance"
+jurisdiction: "dk"
+language: "da"
+date: 2008-12-09
+status: "in_force"
+ministry: "Erhvervsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/2008/1181"
+retrieved: 2026-10-11
+---
+
+# Anordning om udmøntning af temamønter
+
+*AND nr 1181 af 09/12/2008*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+I medfør af § 2, stk. 1 og 3 i lov nr. 817 af 21. december 1988, Møntloven, og efter forhandling med Danmarks Nationalbank fastsættes:
+
+## § 1.
+
+Som led i en serie af temamønter i anledning af Det Internationale Polarår 2007-2009 udmøntes tre tema­møn­ter med motiv inspireret af naturvidenskabelige forskningsprojekter, der har Grønland som arbejdsområde. Mønterne udsendes i begrænset oplag side­løbende med de almindeligt cirkulerende møn­ter.
+
+*Stk. 2.* Der udmøntes en mønt lydende på 10 kroner af aluminiumsbronze (92 vægtdele kobber, 6 vægtdele aluminium og 2 vægtdele nikkel) og af følgende størrelse og vægt:
+
+| Diameter: | 23,35 mm |
+|---|---|
+| Vægt: | 7,0 g |
+
+Mønten skal have følgende præg:
+
+- 1\) På forsiden:
+
+Hendes Majestæt Dronningens portræt i højrevendt profil omkranset af en ring. Langs randen: MARGRETHE II DANMARKS DRONNING. Mellem II og DANMARKS er indskudt møntmærket, et hjerte. Forneden: Udmøntningsårstallet.
+
+- 2\) På bagsiden:
+
+Øverst i midterfeltet det flygtige nordlys, nederst i midterfeltet nogle mineraler, der forekommer i den grønlandske undergrund, i midten som adskillelse klipper og isbjerge. Helt nederst i midterfeltet ligger en kompasrose og peger mod Nordstjernen øverst i feltet. Midterfeltet er omkranset af en ring. Langs randen, foroven: POLARÅR 2007-2009. Forne­den: 10 KRONER.
+
+- 3\) Mønten præges med en glat rand.
+
+*Stk. 3.* Der udmøntes en mønt lydende på 100 kroner af finsølv (99 vægtdele sølv) og af følgende størrelse og vægt:
+
+| Diameter: | 38,0 mm |
+|---|---|
+| Vægt: | 31,1 g |
+
+Mønten skal have følgende præg:
+
+- 1\) På forsiden:
+
+Hendes Majestæt Dronningens portræt i højrevendt profil omkranset af en ring. Langs randen: MARGRETHE II DANMARKS DRONNING. Mellem II og DANMARKS er indskudt møntmærket, et hjerte. Forneden: Udmøntningsårstallet.
+
+- 2\) På bagsiden:
+
+Øverst i midterfeltet det flygtige nordlys, nederst i midterfeltet nogle mineraler, der forekommer i den grønlandske undergrund, i midten som adskillelse klipper og isbjerge. Helt nederst i midterfeltet ligger en kompasrose og peger mod Nordstjernen øverst i feltet. Midterfeltet er omkranset af en ring. Langs randen, foroven: POLARÅR 2007-2009. Forneden: 100 KRONER.
+
+- 3\) Mønten præges med en glat rand.
+
+*Stk. 4.* Der udmøntes en mønt lydende på 1000 kroner af grønlandsk guld (90 vægtdele guld, 5 vægtdele sølv og 5 vægtdele kobber) og af følgende størrelse og vægt:
+
+| Diameter: | 22,0 mm |
+|---|---|
+| Vægt: | 8,65 g |
+
+Mønten skal have følgende præg:
+
+- 1\) På forsiden:
+
+Hendes Majestæt Dronningens portræt i højrevendt profil omkranset af en ring. Langs randen: MARGRETHE II DANMARKS DRONNING. Mellem II og DANMARKS er indskudt møntmærket, et hjerte. Forneden: Udmøntningsårstallet.
+
+- 2\) På bagsiden:
+
+Øverst i midterfeltet det flygtige nordlys, nederst i midterfeltet nogle mineraler, der forekommer i den grønlandske undergrund, i midten som adskillelse klipper og isbjerge. Helt nederst i midterfeltet ligger en kompasrose og peger mod Nordstjernen øverst i feltet. Midterfeltet er omkranset af en ring. Langs randen, foroven: POLARÅR 2007-2009. Forne­den: 1000 KRONER. Til højre for værdiangivelsen et lille mærke: Isbjørn (symbol for grønlandsk guld).
+
+- 3\) Mønten præges med en glat rand.
+
+## § 2.
+
+Denne anordning træder i kraft 1. februar 2009.
+
+*Givet på Amalienborg, den 9. december 2008*
+
+MARGRETHE R.
+
+/ Lene Espersen

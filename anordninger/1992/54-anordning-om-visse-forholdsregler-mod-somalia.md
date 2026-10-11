@@ -1,0 +1,62 @@
+---
+title: "Anordning om visse forholdsregler mod Somalia"
+identifier: "AND nr 54 af 27/01/1992"
+eli: "https://www.retsinformation.dk/eli/lta/1992/54"
+accession_number: "B19920005403"
+type: "royal_ordinance"
+jurisdiction: "dk"
+language: "da"
+date: 1992-01-27
+status: "in_force"
+ministry: "Udenrigsministeriet"
+source: "https://www.retsinformation.dk/eli/lta/1992/54"
+retrieved: 2026-10-11
+---
+
+# Anordning om visse forholdsregler mod Somalia
+
+*AND nr 54 af 27/01/1992*
+
+VI MARGRETHE DEN ANDEN, af Guds Nåde Danmarks Dronning, gør vitterligt:
+
+I henhold til § 1 i lov nr. 156 af 10. maj 1967 om visse
+
+forholdsregler i henhold til De Forenede Nationers pagt, som ændret
+
+ved lov nr. 228 af 6. juni 1985, fastsættes herved til opfyldelse af
+
+De Forenede Nationers sikkerhedsråds resolution nr. 733 af 23.
+
+januar 1992 om Somalia: **§ 1.** Det er forbudt at foretage eller
+
+forsøge at foretage salg, overdragelse, transport eller anden form
+
+for levering af våben og militært udstyr til Somalia.
+
+## § 2.
+
+Overtrædelse af § 1 straffes efter § 110 c, stk. 2, i borgerlig straffelov med bøde, hæfte eller under skærpende omstændigheder med fængsel indtil 4 år.
+
+## § 3.
+
+Udbytte ved handlinger, der er strafbare efter denne anordning, skal konfiskeres. Straffelovens § 75, stk. 1, 2. pkt., § 76, stk. 1 og stk. 3-5, og § 77, stk. 1 og 3, finder tilsvarende anvendelse på konfiskation efter denne bestemmelse.
+
+## § 4.
+
+Forholdsreglerne i denne anordning omfatter også danske statsborgere, der opholder sig uden for den danske stat.
+
+## § 5.
+
+Anordningen træder i kraft den 28. januar 1992.
+
+*Givet på Amalienborg, den 27. januar 1992*
+
+Under Vor Kongelige Hånd og Segl
+
+MARGRETHE R.
+
+/ Uffe Ellemann-Jensen
+
+## Officielle noter
+
+Ingen
